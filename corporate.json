@@ -2761,6 +2761,11 @@
                       "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
                   },
 {
+                      "name": "DIRECTV HD ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152882.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
                 "name": "01 | VTV PLUS",
                 "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/529492.m3u8",
                 "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
@@ -2805,7 +2810,28 @@
         "name": "09| VTV PLUS",
         "uri": "http://dnslivetv.online/TVplay980/NYEnXqw37E/591496",
         "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
+      },
+		{
+        "name": "10| VTV+ ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/148943.m3u8",
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
+      },
+		{
+        "name": "11| VTV+ ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/148941.m3u8",
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
+      },
+		{
+        "name": "12| VTV+ ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/145453.m3u8",
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
+      },
+		{
+        "name": "13| VTV+ ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/138272.m3u8",
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
       }
+
             ]
           },
 
