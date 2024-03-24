@@ -130,10 +130,11 @@
     "name": "ESTRENOS 2024",
     "samples": [
 	    {
-        "name": "✨Si solo pudiera imaginar – HD",
-        "uri": "https://sv2.nupload.site/5c/c8/5c820df5920.m3u8",
-		"icono": "https://pics.filmaffinity.com/i_can_only_imagine-636516157-large.jpg"
+        "name": "✨MUCHACHOS - HD",
+        "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/339344.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg"
       },
+ 
   {
         "name": "✨KUNG FU PANDA 4",
         "uri": "https://multiextrem.live:8443/movie/Cplus2025/MaRiTaME33/781892.mp4",
@@ -372,6 +373,31 @@
         "name": "PATOS - Migración. Un viaje patas arriba",
         "uri": "https://multiextrem.live:8443/movie/Cplus2025/MaRiTaME33/696804.mkv",
 		"icono": "https://image.tmdb.org/t/p/w780/diEeiB2DmZZadHISkg24RO2n0rT.jpg"
+      },
+	    {
+        "name": "Orión y la oscuridad",
+        "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/339019.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg"
+      },
+	    {
+        "name": "Zambezia",
+        "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/291673.mp4",
+		"icono": "https://image.tmdb.org/t/p/w780/7aJl440TlbyqthklVrvCnSbjKYe.jpg"
+      },
+	    {
+        "name": "Super papá oso",
+        "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/305784.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/yZg22HHHVJub53Ll27o7CpnrMAK.jpg"
+      },
+	    {
+        "name": "Sargento Stubby, un héroe muy especial",
+        "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/305779.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/xXeXUDBWjzrntL1D9vo1y4jIEdH.jpg"
+      },
+{
+        "name": "Bichos, una aventura en miniatura",
+        "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/305685.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/3zc9gBzw0egrp7lMrE0zqFkNMms.jpg"
       },
  {
         "name": "Super Mario Bros: La película",
