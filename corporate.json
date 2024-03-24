@@ -700,8 +700,22 @@
                       "name": "CAMERA 03",
                       "uri": "http://dnslivetv.online/live/fran11/fran11/1039457.m3u8",
                       "icono": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg"
+                  },
+		       {
+                      "name": "01 | CASA GRAN HERMANO #1",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/207289.m3u8",
+                      "icono": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg"
+                  },
+ {
+                      "name": "01 | CASA GRAN HERMANO #2",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/207290.m3u8",
+                      "icono": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg"
+                  },
+                {
+                      "name": "01 | CASA GRAN HERMANO #3",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/207291.m3u8",
+                      "icono": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg"
                   }
-               
                   ]
           },
 {
