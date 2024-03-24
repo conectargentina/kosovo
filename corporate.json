@@ -93,6 +93,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
 	"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
       },
+		       {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM FHD ",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/145417.m3u8",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
              
  {
         "name": "ESPN PREMIUM",
@@ -127,6 +132,16 @@
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+ {
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/137121.m3u8",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
+{
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ| TYC SPORTS UHD ®",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/133844.m3u8",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   }
               ]
