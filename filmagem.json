@@ -2,7 +2,17 @@
   {
     "name": "⚽️PARTIDOS CLASICOS - FÚTBOL",
     "samples": [
-       {
+{
+        "name": "1986 ⚽️Argentina vs. Uruguay⚽️⭐",
+        "uri": "https://videos.footballia.net/uploads/video/source_file/904/1986_Argentina_-_Uruguay.mp4",
+		"icono": "https://footballia.eu/uploads/tournament/logo/16/medium_1200px-1986_FIFA_World_Cup.svg.png"
+      },
+{
+        "name": "1984 ⚽️Liverpool FC vs.Independiente⚽️⭐",
+        "uri": "https://videos.footballia.net/uploads/video/source_file/505/1984_Intercontinental_Cup_-_Liverpool_x_Independiente.mp4",
+		"icono": "https://footballia.net/cache/matches/ecfb96fdc0a760fc5669ab75084d5763.png"
+      },
+   {
         "name": "2000 ⚽️Peñarol vs Vasco - Mercosur⚽️⭐",
         "uri": "https://videos.footballia.net/uploads/video/source_file/30776/2000_Pe_arol_-_Vasco.mp4",
 		"icono": "https://i.ibb.co/TWHjQrH/372831417-652358273541185-1326532568872810340-n.jpg"
