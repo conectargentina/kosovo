@@ -4,19 +4,19 @@
               "samples": [
                  
      {
-                      "name": "BOCA JRS VS CENTRAL NORTE",
+                      "name": "COPAR ARGENTINA",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
  {
-                      "name": "BOCA JRS VS CENTRAL NORTE - RESPALDO",
+                      "name": "COPA ARGENTINA",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/556685.m3u8",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
  {
-                      "name": "BOCA JRS VS CENTRAL NORTE - RESPALDO 2",
+                      "name": "COPA ARGENTINA",
                       "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/339647",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
@@ -38,12 +38,12 @@
                   },
 {
                       "name": "🇵🇾FÚTBOL PARAGUAY 2",
-                      "uri": "https://media-gateway-cache.nuum.ru/live/142833/index.m3u8",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/148944.m3u8",
                       "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
                   },
 		      {
                       "name": "🇦🇪LIGA ARABE - RSL",
-                      "uri": "http://conectplus.com.ar:25461/Locky2025/5vXumE3bkmbU/52252",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/167576.m3u8",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
                   },
 {
@@ -53,7 +53,7 @@
                   },
 {
                       "name": "EVENTOS LIGA PERÚ",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/4841.m3u8",
                       "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg"
                   },
  {
