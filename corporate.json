@@ -1,67 +1,30 @@
 [
   {
-              "name": "BIENVENIDO A TELEPLAY. ¡AHORA PARA 4 DISPOSITIVOS!",
-              "samples": [
-                  {
-                      "name": "Si no ingresar usuario y contraseña está Hackeado ",
-                      "uri": "https://www.mpba.gov.ar/videos/Phishing_2023.mp4",
-                      "icono": "https://opentresprovincias.com/wp-content/uploads/2019/07/atencion.png"
-                     }
-              ]
-          },
-	{
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
-                 {
-        "name": "BOCA JRS VS CENTRAL NORTE",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
-      },
- {
-                      "name": "⚽AMISTOSOS DE ARGENTINA",
+                 
+     {
+                      "name": "BOCA JRS VS CENTRAL NORTE",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                      "icono": "https://i.ibb.co/hfF9ppX/football-international-friendly-2024.webp"
+                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
-{
-                      "name": "⚽AMISTOSOS DE ARGENTINA",
-                      "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/556685.m3u8",
-                      "icono": "https://i.ibb.co/hfF9ppX/football-international-friendly-2024.webp"
-                  },
-
  {
-        "name": "SELECCIÓN ARGENTINA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-      {
-        "name": "SELECCIÓN ARGENTINA",
-        "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-        "icono": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fid%2F37133279"
-      },
-{
-                      "name": "INGLATERRA VS BRASIL",
-                      "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/922614.m3u8",
-                      "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
+                      "name": "BOCA JRS VS CENTRAL NORTE - RESPALDO",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/556685.m3u8",
+                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
-{
-                      "name": "INGLATERRA VS BRASIL",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/709619.m3u8",
-                      "icono": "https://de1.sportal365images.com/process/smp-bet365-images/news.bet365.es-es/20032024/c96f5cfe-8f94-4b59-a2d9-f960e1feef2b.jpg"
+ {
+                      "name": "BOCA JRS VS CENTRAL NORTE - RESPALDO 2",
+                      "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/339647",
+                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
-{
-                      "name": "BOCA JRS VS CENTRAL NORTE",
-                      "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/922614.m3u8",
-                      "icono": "https://seeklogo.com/images/R/River_Plate_escudo-logo-EE400D17CA-seeklogo.com.png"
+		      {
+                      "name": "AMISTOSOS DE URUGUAY",
+                      "uri": "https://livelive.thedonato.live/live/33_amg1.m3u8",
+                      "icono": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png"
                   },
-
 {
                       "name": "🇺🇸MLS",
                       "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/234840",
@@ -92,8 +55,8 @@
                       "name": "EVENTOS LIGA PERÚ",
                       "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
                       "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg"
-                  }
-		      {
+                  },
+ {
                       "name": "STAR+ 1",
                       "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922614.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
@@ -102,54 +65,11 @@
                       "name": "STAR+ 2",
                       "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/786957.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
-                  },
-		      		      {
-                      "name": "STAR+ 3",
-                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922616.m3u8",
-                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
-                  },
-{
-                      "name": "STAR+ 4",
-                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922617.m3u8",
-                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   }
-                   
-              ]
-          },
-
-{
-              "name": "⚽DIRECTV SPORTS",
-              "samples": [
-                  {
-                      "name": "DSPORTS 1",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525777.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS 2",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/556674.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS 3",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525787.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS UY",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525783.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  },
-{
-                      "name": "DSPORTS PLUS",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525790.m3u8",
-                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
-                  }
-
 
               ]
           },
- {
+	 {
               "name": "⚽🇦🇷SUPERLIGA Y COPA ARGENTINA",
               "samples": [
                   {
@@ -255,12 +175,12 @@
       },
  {
         "name": "⚽LIBERTADORES Y SUDAMERICANA - DS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525777.m3u8",
+        "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525790.m3u8",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
       },
 {
         "name": "⚽LIBERTADORES Y SUDAMERICANA - DS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525784.m3u8",
+        "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/525785.m3u8",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
       },
  {
@@ -270,7 +190,7 @@
       },
 		      {
                       "name": "⚽LIBERTADORES Y SUDAMERICANA",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/709609.m3u8",
+                      "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTCQSTJ9rbHAk-zW0YqFgbn",
                       "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
                   },
                   {
@@ -324,6 +244,36 @@
                       "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
                   }
               ]
+          },
+{
+              "name": "⚽DIRECTV SPORTS",
+              "samples": [
+                   {
+                      "name": "DSPORTS 1",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525777.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS 2",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/556674.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS 3",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525787.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS UY",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525783.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
+{
+                      "name": "DSPORTS PLUS",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525790.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  }   
+               ]
           },
  {
     "name": "⚽DEPORTES INTERNACIONALES",
@@ -547,7 +497,7 @@
     ]
   },
 	  {
-              "name": "🇦🇷CANALES DE ARGENTINA ",
+              "name": "🇦🇷ARGENTINA ",
               "samples": [
                  {
         "name": "TELEFE",
@@ -726,6 +676,7 @@
       }
               ]
           },
+
            {
               "name": "🇦🇷GRAN HERMANO",
               "samples": [
@@ -885,7 +836,7 @@
           },
 
  {
-  "name": "🇦🇷CANALES DE PROVINCIAS",
+  "name": "🇦🇷PROVINCIAS",
   "samples": [
             {
         "name": "TELEFE ROSARIO",
@@ -1222,7 +1173,7 @@
     ]
   },
  {
-    "name": "👠CANALES DE NOVELAS",
+    "name": "👠NOVELAS",
     "samples": [
       {
         "name": "TLN",
@@ -1255,7 +1206,7 @@
       },
       {
         "name": "TL NOVELAS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/410174.m3u8",
+        "uri": "http://multiextrem.xyz/TeleplayApp2025/24SiNoaquIyallA/64111",
         "icono":"https://i.ibb.co/HHx1bnv/12-tl-novelas.png"
       },
       {
@@ -1282,14 +1233,14 @@
       },
        {
         "name": "RCN NOVELAS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/792993.m3u8",
+        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/590926.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo-rcn-mobile-2023.svg/512px-Logo-rcn-mobile-2023.svg.png"
       }
     ]
   },
     
    {
-    "name": "🎥CANALES DE PELICULAS Y SERIES",
+    "name": "🎞️PELICULAS Y SERIES",
     "samples": [      
       {
         "name": "GOLDEN",
@@ -1759,7 +1710,7 @@
       },
 	  {
         "name": "BBC NEWS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/774913.m3u8",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGORX--bZHeJ5h7cCP1GDUo_6",
 	"icono": "https://i.postimg.cc/t4fdPFvB/1200px-BBC-World-News-2022-Boxed-svg.png"
       },
 	  {
@@ -1769,7 +1720,7 @@
       },
 	  {
         "name": "RAI",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/773467.m3u8",
+        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/33307.m3u8",
 	"icono": "https://i.ibb.co/vx15nVj/rainews24.png"
       },
 	  {
@@ -1821,7 +1772,7 @@
   },
 	
  {
-    "name": "🎥PACK-HBO",
+    "name": "PACK-HBO",
     "samples": [
  {
         "name": "HBO FLOW",
@@ -1889,7 +1840,7 @@
     ]
   },
 {
-        "name": "🎥PACK UNIVERSAL Y MOVISTAR",
+        "name": "PACK UNIVERSAL Y MOVISTAR",
         "samples": [
 
  {
@@ -2003,8 +1954,8 @@
     "samples": [
     {
         "name": "EL GOURMET",
-        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/590998.m3u8",
-        "icono": "https://i.imgur.com/68ztlZE.png"
+        "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/53474",
+        "icono": "https://static.epg.best/mx/Elgourmet.mx.png"
       },
   {
         "name": "HISTORY",
@@ -2092,7 +2043,7 @@
   },
 
  {
-    "name": "🎵CANALES DE MUSICAS Y RADIOS",
+    "name": "🎵MUSICAS Y RADIOS",
     "samples": [
       {
         "name": "MTV HITS",
@@ -2154,7 +2105,7 @@
     ]
   },
  {
-    "name": "🇵🇾CANALES DE PARAGUAY",
+    "name": "🇵🇾PARAGUAY",
     "samples": [
      
                   {
@@ -2348,7 +2299,7 @@
        }
     ]
   },
- {
+  {
     "name": "🇧🇷BRASIL",
     "samples": [
       {
@@ -2361,27 +2312,12 @@
         "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
-  {
-                      "name": "RECORD NEWS",
-                      "uri": "http://loadbl2.online:80/PousadaARG/805377639/113208.m3u8",
-                      "icono": "https://imgur.com/7gyWZD2.jpeg"
-                  },
-                  {
-                      "name": "Record NEWS FHD",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113208",
-                      "icono": "https://aovivohd.net/tv/ao-vivo/record-tv-ao-vivo-online.webp"
-                  },
-                  {
-                      "name": "GLOBO RJ HD",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/38941",
-                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
-                  },
       {
         "name": "BAND SPORTS",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18?join.the.Billybob.fan.club",
         "icono": "http://imgfz.com/i/DhJWEVu.jpeg"
       },
-
+  
       {
         "name": "CNN BRASIL",
         "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/77528",
@@ -2397,37 +2333,7 @@
         "uri": "https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8",
         "icono": "https://blogoldstone.files.wordpress.com/2009/11/seriados-logo-sbt.jpg"
       },
-      {
-        "name": "TVNOVAPLAY",
-        "uri": "https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8",
-        "icono": "https://i0.wp.com/girotvonline.com/wp-content/uploads/2022/11/tv-nova-play.png?fit=1024%2C768&ssl=1"
-      },
-      {
-        "name": "CONECTV",
-        "uri": "https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
-      },
-      {
-        "name": "RECORD TV",
-        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8?join.the.Billybob.fan.club",
-        "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
-       },
-	    {
-                      "name": "BAND SPORTS",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108588",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png"
-                  },
-                  {
-                      "name": "BAND SPORTS FHD",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108579",
-                      "icono": "https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp"
-                  },
-                  {
-                      "name": "CAZÉ TV",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1114732",
-                      "icono": "https://i.imgur.com/mQC6j1N.jpeg"
-                  },
-                  {
+     {
                       "name": "RECORD RJ FHD",
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/1108520",
                       "icono": "https://i.ibb.co/nktXP36/Record-Rio.png"
@@ -2452,6 +2358,27 @@
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/1108533",
                       "icono": "https://img.r7.com/images/record-minas-24112023115417196"
                   },
+      {
+        "name": "RECORD TV",
+        "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/8?join.the.Billybob.fan.club",
+        "icono": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
+       },
+	    {
+                      "name": "BAND SPORTS",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108588",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/2560px-BandSports_logo.svg.png"
+                  },
+                  {
+                      "name": "BAND SPORTS FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108579",
+                      "icono": "https://logowik.com/content/uploads/images/bandsports-tv7819.logowik.com.webp"
+                  },
+                  {
+                      "name": "CAZÉ TV",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1114732",
+                      "icono": "https://i.imgur.com/mQC6j1N.jpeg"
+                  },
+                  
                   {
                       "name": "NATGEO FHD",
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/1107731",
@@ -2468,9 +2395,39 @@
                       "icono": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
                   },
                   {
+                      "name": "RECORD NEWS",
+                      "uri": "http://loadbl2.online:80/PousadaARG/805377639/113208.m3u8",
+                      "icono": "https://imgur.com/7gyWZD2.jpeg"
+                  },
+                  {
+                      "name": "Record NEWS FHD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/113208",
+                      "icono": "https://aovivohd.net/tv/ao-vivo/record-tv-ao-vivo-online.webp"
+                  },
+                  {
+                      "name": "GLOBO RJ HD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/38941",
+                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
+                  },
+                  {
                       "name": "GLOBO NEWS",
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/113205",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png"
+                  },
+ {
+                      "name": "BAND TV NEWS",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108589",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png"
+                  },
+                  {
+                      "name": "BAND TV RJ",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108582",
+                      "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
+                  },
+                  {
+                      "name": "BAND TV SP",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108580",
+                      "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
                   },
                   {
                       "name": "REDE TV",
@@ -2562,22 +2519,7 @@
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/113236",
                       "icono": "https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png"
                   },
-                  {
-                      "name": "BAND TV NEWS",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108589",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png"
-                  },
-                  {
-                      "name": "BAND TV RJ",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108582",
-                      "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
-                  },
-                  {
-                      "name": "BAND TV SP",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/1108580",
-                      "icono": "https://seeklogo.com/images/B/band-tv-logo-3F56FE323A-seeklogo.com.png"
-                  },
-                  {
+                   {
                       "name": "FUTURA FHD",
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/1783968",
                       "icono": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep"
@@ -2715,7 +2657,7 @@
   },
   {
 
-  "name": "🇺🇾 CANALES DE URUGUAY",
+  "name": "🇺🇾URUGUAY",
   "samples": [
       {
         "name": "CANAL 4",
@@ -2745,7 +2687,7 @@
       },
       {
         "name": "TELESUR",
-        "uri": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8",
+        "uri": "http://multiextrem.xyz:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGORSQkXcMi0bOr5YS_i5GhTI",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png"
       },
                   {
@@ -2814,60 +2756,55 @@
         "icono": "https://www.sport890.com.uy/wp-content/uploads/2021/12/logo-sport-header-e1640625190298.png"
       },
 {
-        "name": "GOL TV",
-        "uri": "https://zonamovie.live/live/TeleplayApp2025/24SiNoaquIyallA/786996.m3u8",
-        "icono": "https://i.ibb.co/7Nrs3zh/Gol-TVLatam-HD-2014.webp"
-      },
+                      "name": "DSPORTS URUGUAY",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/525783.m3u8",
+                      "icono": "https://i.ibb.co/3rCx43n/512x512bb.jpg"
+                  },
 {
-        "name": "GOL TV 2",
-        "uri": "https://zonamovie.live/live/TeleplayApp2025/24SiNoaquIyallA/786996.m3u8",
-        "icono": "https://i.ibb.co/7Nrs3zh/Gol-TVLatam-HD-2014.webp"
-      },
- {
                 "name": "01 | VTV PLUS",
                 "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/529492.m3u8",
-                "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
             },
 {
                       "name": "02 |VTV PLUS",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/529493.m3u8",
-                      "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                      "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
                   },
 {
                       "name": "03|VTV PLUS",
                       "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/52836",
-                      "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                      "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
                   },
                  
 		 {
                 "name": "04|VTV PLUS",
                 "uri": "http://38.68.134.177:8080/3848Yevkerkkk/Menrhrh73646aeatT/52835",
-                "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
             },
 			{
                 "name": "05| VTV PLUS",
                 "uri": "hhttp://zoomplay.online/live/Teleplay335780/805377639/1583856.m3u8",
-                "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
               },
 		{
                 "name": "06| VTV PLUS",
                 "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1583856.m3u8",
-                "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+                "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
               } ,
 {
         "name": "07| VTV PLUS",
         "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/27871",
-        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
       },
 {
         "name": "08| VTV PLUS",
         "uri": "http://dnslivetv.online/TVplay25898/WUXrYhAsgb/591497",
-        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
       },
 {
         "name": "09| VTV PLUS",
         "uri": "http://dnslivetv.online/TVplay980/NYEnXqw37E/591496",
-        "icono": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png"
+        "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
       }
             ]
           },
@@ -2943,7 +2880,7 @@
     ]
   },
 	 {
-    "name": "🇸🇦CANALES DE ARABIA SAUDITA",
+    "name": "🇸🇦ARABIA SAUDITA",
    "samples": [
       {
         "name": "BBC NEWS ARABIC",
@@ -3050,7 +2987,7 @@
   },
 
 	 {
-    "name": "🇮🇳CANALES INDU",
+    "name": "🇮🇳INDU",
     "samples": [
       {
         "name": "ZEE NEWS",
@@ -3143,7 +3080,7 @@
   },
 
 	 {
-    "name": "🇨🇳CANALES DE CHINA",
+    "name": "🇨🇳CHINA",
     "samples": [
       {
         "name": "CHINESE HOPE",
