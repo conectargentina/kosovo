@@ -31,7 +31,7 @@
     "samples": [
        {
       "name": "MIRACULOUS",
-        "uri": "https://multiextrem.live:8443:80/play/viSlkg8uRdtJEPIWS_668QgBXr6_saFBTCwqYEIMGOTPuos4SwgzfxVyy1Ymg347",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/417919.m3u8",
         "icono": "https://static.wikia.nocookie.net/miraculousladybug/images/e/e6/Site-logo.png/revision/latest?cb=20210712190455&path-prefix=es"
       },  
  {
@@ -51,12 +51,12 @@
       },  
 {
       "name": "FUTURAMA",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/567769.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/417894.m3u8",
    "icono": "https://www.themoviedb.org/t/p/w94_and_h141_bestv2/tiPTf3JY4x6aM2cYM1s4esWCiH1.jpg"
       },  
  {
       "name": "ED EDD Y EDDY",
-        "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/1455",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/145793.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/All_3_eds.png/200px-All_3_eds.png"
       },  
 {
@@ -67,61 +67,57 @@
 
 {
       "name": "CINEMA LEGO",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63407.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/162523.m3u8",
    "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/LEGO_logo.svg/512px-LEGO_logo.svg.png"
       },  
 {
-      "name": "DRAGON BALL - 1 AL 43",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63392.m3u8",
+      "name": "DRAGON BALL",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/129326.m3u8",
    "icono": "https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png"
       },  
 
 {
       "name": "CINEMA MARVEL STUDIO",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63406.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/129366.m3u8",
         "icono": "https://modogeeks.com/wp-content/uploads/2018/04/marvel-studios-logo-2016.jpg"
       },
 {
-      "name": "DISNEY PRINCESS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63404.m3u8",
-        "icono": "http://1000marcas.net/wp-content/uploads/2021/04/Disney-Princess-Logo-2008.jpg"
+      "name": "DISNEY PIXAR",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/138451.m3u8",
+        "icono": https://i.ibb.co/s1skhHK/white-disney-pixar-logo-by-trustamann-ddhycwh-fullview.png"
       },
 {
-      "name": "CINEMA DC UNIVERSE",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63410.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc5zZlk2knZaWQxMafc0OQp5ENt1Y-bzlrZBHBlHzTreXXbUvMWCKD6L5E_aYMsbwkb4Q&usqp=CAU"
+      "name": "CANTINFLAS",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/129320.m3u8",
+        "icono": "https://www.anahuac.mx/generacion-anahuac/sites/default/files/articles/portada_cantinflas.jpg"
       },
 	   
 {
-      "name": "POKEMÓN",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63429.m3u8",
-        "icono": "https://logos-marcas.com/wp-content/uploads/2020/05/Pokemon-Logo.png"
+      "name": "SONIC Y SU BANDA",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/129385.m3u8",
+        "icono": "https://w7.pngwing.com/pngs/275/836/png-transparent-sonic-and-the-secret-rings-sonic-the-hedgehog-3-sonic-the-hedgehog-ring-sonic-the-hedgehog-logo-thumbnail.png"
       },
 {
-      "name": "EL SEÑOR DE LOS CIELOS",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63446.m3u8",
-        "icono": "https://pbs.twimg.com/profile_images/597069215892246528/-c0GRBWB.jpg"
+      "name": "X-MEN",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/129375.m3u8",
+        "icono": "https://static.wikia.nocookie.net/mugen/images/7/72/X-Men-logo.png/revision/latest?cb=20220217041356"
       },
 {
-      "name": "EL ZORRO 1957",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63452.m3u8",
-        "icono": "https://kifim.b-cdn.net/series/large/1452124.jpg?width=300"
-      },
-{
-      "name": "SUPER CAMPEONES",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63424.m3u8",
-        "icono": "https://www.latercera.com/resizer/9GM2GXgDRqfqxVE2hm5aeWsamVI=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/FFY242JNJVAHDONFU3QTHYONAU.jpg"
-      },
 
-{
       "name": "EL CHAPULIN COLORADO ANIMADO",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63453.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/417976.m3u8",
         "icono": "https://www.newslinereport.com/online/nota_el-chapuln-colorado-en-exclusiva-por-veo-play-.jpg"
       },
 	    {
       "name": "EL CHAPULIN COLORADO",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/63460.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/417985.m3u8",
         "icono": "https://i.pinimg.com/originals/e0/63/97/e063975655d0cff787fbb4a789adcb50.png,"
+      },
+	    {
+
+      "name": "EL CHAVO",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/417893.m3u8",
+        "icono": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg"
       }
 
     ]
