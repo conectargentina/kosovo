@@ -12,6 +12,28 @@
               ]
           },
  {
+              "name": "LIGA DE NACIONES-CONCACAF",
+              "samples": [
+                 
+   {
+                      "name": "19HS |  Panamá vs Jamaica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794493.m3u8",
+                      "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
+                  },
+		         {
+                      "name": "22:15HS |  Panamá vs Jamaica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794494.m3u8",
+                      "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
+                  },
+		               {
+                      "name": "22:15HS | Guatemala vs Venezuela: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/151406.m3u8",
+                      "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
+                  }
+
+              ]
+          },
+ {
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
                  
