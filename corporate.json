@@ -24,20 +24,21 @@
                       "name": "22:15HS |  Mexico vs. USA: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794494.m3u8",
                       "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
-                  },
-		               {
-                      "name": "22:15HS | Guatemala vs Venezuela: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/151406.m3u8",
-                      "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
                   }
+		        
 
               ]
           },
  {
               "name": "⚽EVENTOS TELEPLAY",
               "samples": [
-                 
-     {
+             {
+                      "name": " Amistoso - 22:15HS | Guatemala vs Venezuela: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/151406.m3u8",
+                      "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
+                  }        
+    
+ {
                       "name": "COPA ARGENTINA",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
