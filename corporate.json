@@ -420,10 +420,16 @@
         "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
       },
 {
-        "name": "SPORT TV + PORTUGAL",
+        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV +",
         "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187450.m3u8",
         "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
       },
+{
+        "name": "SPORT TV + PORTUGAL",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187454.m3u8",
+        "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
+      },
+
 {
         "name": "A BOLA TV PORTUGAL",
         "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187446.m3u8",
@@ -438,11 +444,6 @@
         "name": "BEIN SPORTS LA LIGA",
         "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/126162",
         "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZQEUAzPxQZnRYqMkIa-7MYw06smnmL7aAw4ZPDTEw=s900-c-k-c0x00ffffff-no-rj"
-      },
-{
-        "name": "SPORT TV + PORTUGAL",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187454.m3u8",
-        "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
       },
 {
         "name": "SSC 1",
@@ -467,12 +468,12 @@
       },
 {
         "name": "FOX SOCCER PLUS HD",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/775086.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/131325.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png"
       },
  {
         "name": "SKY SPORTS PREMIER",
-        "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/930995.m3u8",
+        "uri": "http://38.68.134.177:3334/live/3848Yevkerkkk/Menrhrh73646aeatT/110360.m3u8",
         "icono": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg"
       },
 {
