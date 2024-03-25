@@ -341,18 +341,28 @@
                 
 {
         "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 1 ᵁᴴᴰ",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187454.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187452.m3u8",
         "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
       },
 {
         "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 2 ᵁᴴᴰ",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187457.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187456.m3u8",
         "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
       },
 	    {
         "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 3 ᵁᴴᴰ",
-        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187460.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187458.m3u8",
         "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
+      },
+{
+        "name": "SPORT TV + PORTUGAL",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187450.m3u8",
+        "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
+      },
+{
+        "name": "A BOLA TV PORTUGAL",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187446.m3u8",
+        "icono": "https://curl.pk/img/u/0e8830e4c62496128e0838113279ec021465.jpg"
       },
 	    {
         "name": "BEIN SPORTS XTRA Ñ",
@@ -379,11 +389,7 @@
         "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/167577.m3u8",
         "icono": "https://www.matnnews.com/UploadCache/libfiles/15/8/600x338o/539.png"
       },
-{
-        "name": "A BOLA TV PORTUGAL",
-        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1583082.m3u8",
-        "icono": "https://curl.pk/img/u/0e8830e4c62496128e0838113279ec021465.jpg"
-      },
+
 {
         "name": "EUROSPORT 1 HD",
         "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/572231.m3u8",
@@ -479,7 +485,7 @@
       },
        {
         "name": "WIN SPORTS",
-        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/18613",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/395682.m3u8",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
      {
