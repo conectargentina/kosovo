@@ -16,17 +16,17 @@
               "samples": [
                  
    {
-                      "name": "19HS |  Panamá vs Jamaica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "name": "19HS |  A Programar: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794498.m3u8",
                       "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
                   },
 		         {
-                      "name": "22:15HS |  Mexico vs. USA: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "name": "22:15HS |  A Programar: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794494.m3u8",
                       "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
                   },
 		               {
-                      "name": "22:15HS |  Mexico vs. USA: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "name": "22:15HS | A Programar: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794495.m3u8",
                       "icono": "https://i.postimg.cc/PfKFfvpW/ESTO-ES-TV-naciones-CONCACAF.webp"
                   }
@@ -340,43 +340,63 @@
     "samples": [
                 
 {
+        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 1 ᵁᴴᴰ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187454.m3u8",
+        "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
+      },
+{
+        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 2 ᵁᴴᴰ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187457.m3u8",
+        "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
+      },
+	    {
+        "name": "ᴾᴼᴿᵀᵁᴳᴬᴸ SPORT TV 3 ᵁᴴᴰ",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187460.m3u8",
+        "icono": "https://cision-wp-files.s3.amazonaws.com/pt/wp-content/uploads/2021/07/01153600/sport-tv-institucional.png"
+      },
+	    {
         "name": "BEIN SPORTS XTRA Ñ",
-        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/775129.m3u8",
+        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/55660",
+        "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZQEUAzPxQZnRYqMkIa-7MYw06smnmL7aAw4ZPDTEw=s900-c-k-c0x00ffffff-no-rj"
+      },
+{
+        "name": "BEIN SPORTS LA LIGA",
+        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/126162",
         "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZQEUAzPxQZnRYqMkIa-7MYw06smnmL7aAw4ZPDTEw=s900-c-k-c0x00ffffff-no-rj"
       },
 {
         "name": "SPORT TV + PORTUGAL",
-        "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/1583088.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/187454.m3u8",
         "icono": "https://www.cision.pt/content/dam/cision-pt/articles/sport-tv-institucional.png"
       },
 {
         "name": "SSC 1",
-        "uri": "http://conectplus.com.ar:25461/Locky2025/5vXumE3bkmbU/52252",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/167576.m3u8",
         "icono": "https://www.matnnews.com/UploadCache/libfiles/15/8/600x338o/539.png"
       },
 {
         "name": "SSC 2",
-        "uri": "http://conectplus.com.ar:25461/Locky2025/5vXumE3bkmbU/52255",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/167577.m3u8",
         "icono": "https://www.matnnews.com/UploadCache/libfiles/15/8/600x338o/539.png"
       },
 {
         "name": "A BOLA TV PORTUGAL",
-        "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/1583082.m3u8",
+        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1583082.m3u8",
         "icono": "https://curl.pk/img/u/0e8830e4c62496128e0838113279ec021465.jpg"
       },
 {
         "name": "EUROSPORT 1 HD",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64749.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/572231.m3u8",
         "icono": "https://logo.iptveditor.com/eurosports1.png"
       },
 {
         "name": "EUROSPORT 2 HD",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64750.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/409017.m3u8",
         "icono": "https://logo.iptveditor.com/eurosports1.png"
       },
 {
         "name": "FOX SOCCER PLUS HD",
-        "uri": "https://multiextrem.live:8443/live/TeleplayApp2025/24SiNoaquIyallA/775086.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/775086.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png"
       },
  {
@@ -386,32 +406,32 @@
       },
 {
         "name": "SKY SPORTS PREMIER",
-        "uri": "http://dnslivetv.online/live/TVplay30/NYEnXqw37E/930995.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/410748.m3u8",
         "icono": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg"
       },
 {
-        "name": "SKY SPORTS PREMIER - ESPAÑOL",
-        "uri": "http://dnslivetv.online/live/TVplay25/WUXrYhAsgb/930995.m3u8",
+        "name": "SKY SPORTS PREMIER 2",
+        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/130487",
         "icono": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg"
       },
 {
         "name": "MOVISTAR LA LIGA FHD",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/67107.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/565884.m3u8",
         "icono": "https://logo.iptveditor.com/movistarlaliga.png"
       },
 {
         "name": "M+ LIGA DE CAMPEONES",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64737.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/2692.m3u8",
         "icono": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png"
       },
 {
         "name": "MOVISTAR LA LIGA FHD",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/67107.m3u8",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/161108.m3u8",
         "icono": "https://logo.iptveditor.com/movistarlaliga.png"
       },
 	 {
         "name": "CLARO SPORTS",
-        "uri": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=8816e8a5-dd15-44b1-5d47-14275dc5e634&deviceDNT=0&deviceModel=0",
+        "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/4848.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png"
       },
              
@@ -459,12 +479,12 @@
       },
        {
         "name": "WIN SPORTS",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32604.m3u8",
+        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/18613",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
      {
         "name": "WIN SPORTS PLUS",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/32605.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/395681.m3u8",
         "icono": "http://imgfz.com/i/GkPvFZr.jpeg"
       },
 {
@@ -488,32 +508,32 @@
       },
       {
         "name": "REAL MADRID TV",
-        "uri": "http://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/572246.m3u8",
         "icono": "https://i.ibb.co/gmnkhH2/Real-Madrid-TV-English.jpg"
       },
       {
         "name": "GOLF CHANNEL",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63794.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/565872.m3u8",
         "icono": "https://i.ibb.co/0cMCWjG/unnamed-4.jpg"
       },
              {
         "name": "DAZN 1",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64764.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/544240.m3u8",
          "icono": "https://yt3.googleusercontent.com/xkKpq4tvcd1Mi-o6Tvk3GlkQUN-SQnmB4xgrTihJE3bxghJPqZC_i7IinG2Vepem7iq24fO430Y=s900-c-k-c0x00ffffff-no-rj"
       },
          {
         "name": "DAZN 2",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64765.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/544243.m3u8",
         "icono": "https://i.ibb.co/wsFdGGn/dazn2.png"
       },
       {
         "name": "DAZN FORMULA 1",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64734.m3u8",
+        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/154812",
         "icono": "https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg"
       },
        {
         "name": "DAZN LA LIGA",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/64732.m3u8",
+        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/46970",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png"
       },
 
@@ -524,17 +544,17 @@
       },
       {
         "name": "TUDN MX 1",
-        "uri": "https://linear-439.frequency.stream/439/hls/master/playlist.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/565949.m3u8",
         "icono": "http://imgfz.com/i/8NP5UE3.png"
       },
      {
         "name": "TUDN MX 2",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63808.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/565952.m3u88",
         "icono": "http://imgfz.com/i/8NP5UE3.png"
       },
 	      {
         "name": "TUDN EXTRA",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/65321.m3u8",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/774317.m3u8",
         "icono": "https://luxplayer.norago.tv/img/resize/235x332/8e765d2f-06b2-42b1-8f99-471998ec45bc.png"
       },
      {
@@ -545,14 +565,14 @@
            
       {
         "name": "ESPN MEXICO",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/65674.m3u8",
+        "uri": "http://38.68.134.177:3334/3848Yevkerkkk/Menrhrh73646aeatT/339561",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
       },
       
      {
-        "name": "ESPN PERÚ",
-        "uri": "http://multiextrem.xyz/live/TeleplayApp2025/24SiNoaquIyallA/63114.m3u8",
-        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
+        "name": "LIGA 1 PERÚ",
+        "uri": "http://38.68.134.177:3334/3848Yevkerkkk/Menrhrh73646aeatT/330757",
+        "icono": "https://4.bp.blogspot.com/-a-9yOEBzUF0/XDUPwBTk0HI/AAAAAAABTp4/fs9Ss5TRJAwleiM2qZqXXWCevyhkp-1QwCLcBGAs/s1600/Liga1PeruW.png"
       }
     ]
   },
