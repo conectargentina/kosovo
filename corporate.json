@@ -3363,7 +3363,17 @@
  {
     "name": "🇧🇴BOLIVIA",
     "samples": [
-     {
+   {
+        "name": "TIGO SPORTS 1",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/765430.m3u8",
+        "icono": "https://i.imgur.com/9Morx56.png"
+      },
+	    {
+        "name": "TIGO SPORTS 2",
+        "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/765430.m3u8",
+        "icono": "https://i.imgur.com/9Morx56.png"
+      },
+	    {
         "name": "RED UNO LPZ",
         "uri": "https://live-c.cf.dmcdn.net/sec2(5QoF1wk1Mizf6C9s55nxR619nXf2p4hNTy2xPuwc8bbKsJbqSkqp8ELxh-E0MnOKGVD1nFe2MrMx96USM53yaeF_RVHjv8PBSb6r2PUlVQ8)/dm/3/x8ko1ix/d/live-3.m3u8",
         "icono": "https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"
