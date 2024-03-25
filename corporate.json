@@ -30,7 +30,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
         "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
-      },
+    	  },
      
   {
          "name": "16:45|Alemania vs Países Bajos: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
@@ -38,6 +38,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
         "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
+		}, 
  {
                       "name": "17:00|Francia vs Chile: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
                       "uri": "http://38.68.134.177:3334/live/3848Yevkerkkk/Menrhrh73646aeatT/55274.m3u8",
