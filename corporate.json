@@ -170,6 +170,11 @@
                       "name": "STAR+ 2",
                       "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/152909.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+{
+                      "name": "STAR+ 3",
+                      "uri": "https://d1h0h3nzrkti7n.cloudfront.net/out/v1/62c2a1f6773948fa9b3a8e152e8e98ad/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   }
 
               ]
