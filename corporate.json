@@ -24,30 +24,53 @@
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794498.m3u8",
                       "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpgp"
                   },  
+    {
+        "name": "16:45|Inglaterra vs Belgica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+        "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
+      },
+     
+  {
+         "name": "16:45|Alemania vs Países Bajos: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+        "uri": "https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
+        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+      },
  {
-                      "name": "16:45|Alemania vs Países Bajos: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794498.m3u8",
-                      "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
-		 },        
- {
-                      "name": "16:45|Alemania vs Países Bajos: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794498.m3u8",
+                      "name": "17:00|Francia vs Chile: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/614190.m3u8",
                       "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
 		 }, 
    {
                       "name": "17:30|España vs Brasil: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794498.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/709619.m3u8",
                       "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpgp"
                   },
+
 {
                       "name": "22:30HS |Perú vs República Dominicana: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794494.m3u8",
+                      "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/120114",
                       "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
                   },
  {
                       "name": "00 HS |Argentina vs Costa Rica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
-                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/794495.m3u8",
+                      "uri": "https://multiextrem.live:8443/live/Cplus2025/MaRiTaME33/411418.m3u8",
                       "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
+                  },
+		       {
+                      "name": "00 HS |Argentina vs Costa Rica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/125908.m3u8",
+                      "icono": "https://i.ibb.co/Zmp6GWs/principal-amistosos-internacionales-horarios-donde-ver-partidos-primera-fecha-fifa.jpg"
+                  },
+   {
+                      "name": "00 HS |Argentina vs Costa Rica: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
+                      "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
                   }
 		        
 
