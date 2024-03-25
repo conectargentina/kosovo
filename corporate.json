@@ -173,7 +173,7 @@
                   },
 {
                       "name": "STAR+ 3",
-                      "uri": "https://d1h0h3nzrkti7n.cloudfront.net/out/v1/62c2a1f6773948fa9b3a8e152e8e98ad/index.mpd?aws.manifestfilter=audio_language:eng;video_codec:h264;video_height:0-1080",
+                      "uri": "https://live-tvs.starcdn.live/Sky_Sports_Football_Live_TV/tracks-v1a1/mono.m3u8?googlekey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcGNsaWVudCI6IjUuMTgyLjIwOS4xMTIiLCJ1cmxzdHJlYW0iOiJodHRwczovL2xpdmVfdHYuc3RhcmNkbnVwLmNvbS9Ta3lfU3BvcnRzX0Zvb3RiYWxsX0xpdmVfVFYvaW5kZXgubTN1OCIsIndlYnNpdGUiOiJodHRwczovL3lhbnRzcG9ydC5jb20vbGl2ZS10diIsImlzVklQIjoiMCIsImV4cCI6MTcxMTQwMzA1OH0.LCD7f5sH5Sht4SrfVVQ0QXbYAJMackA1N8UNCX-VeoY",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   }
 
