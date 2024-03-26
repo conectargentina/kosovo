@@ -2481,22 +2481,27 @@
       {
         "name": "GLOBO BAHIA",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12?join.the.Billybob.fan.club",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+        "icono": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png"
       },
       {
         "name": "GLOBO TV",
         "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
-        "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
+        "icono": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png"
       },
   {
                       "name": "GLOBO RJ FHD",
                       "uri": "http://zoomplay.online/live/Teleplay335780/805377639/451661.m3u8",
-                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
+                      "icono": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png"
                   },
   {
                       "name": "TV GAZETA ES - GLOBO",
                       "uri": "http://zoomplay.online/live/Teleplay335780/805377639/410465.m3u8",
-                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
+                      "icono": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png"
+                  },
+   {
+                      "name": "GLOBO RJ HD",
+                      "uri": "http://zoomplay.online/Teleplay335780/805377639/38941",
+                      "icono": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png"
                   },
       {
         "name": "BAND SPORTS",
@@ -2506,7 +2511,7 @@
   
       {
         "name": "CNN BRASIL",
-        "uri": "http://rasaiptv.com:8080/Listabdvrv7374664/Nebrvcrbrbf/77528",
+        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/113207.m3u8",
         "icono": "https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw"
       },
       {
@@ -2590,12 +2595,7 @@
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/113208",
                       "icono": "https://aovivohd.net/tv/ao-vivo/record-tv-ao-vivo-online.webp"
                   },
-                  {
-                      "name": "GLOBO RJ HD",
-                      "uri": "http://zoomplay.online/Teleplay335780/805377639/38941",
-                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
-                  },
-                  {
+          {
                       "name": "GLOBO NEWS",
                       "uri": "http://zoomplay.online/Teleplay335780/805377639/113205",
                       "icono": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png"
