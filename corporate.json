@@ -2488,6 +2488,16 @@
         "uri": "https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8",
         "icono": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
       },
+  {
+                      "name": "GLOBO RJ FHD",
+                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/451661.m3u8",
+                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
+                  },
+  {
+                      "name": "TV GAZETA ES - GLOBO",
+                      "uri": "http://zoomplay.online/live/Teleplay335780/805377639/410465.m3u8",
+                      "icono": "https://i.ibb.co/yf6cJH8/Globo-logo-and-wordmark-svg.png"
+                  },
       {
         "name": "BAND SPORTS",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18?join.the.Billybob.fan.club",
@@ -2809,6 +2819,11 @@
         "uri": "http://zoomplay.online/live/Teleplay335780/805377639/17604.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png"
       },
+  {
+        "name": "ESPN 4K",
+        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1107734.m3u8",
+        "icono": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png"
+      },
       {
         "name": "UFC PASS",
         "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1620234.m3u8",
@@ -2828,7 +2843,23 @@
         "name": "FOX SPORTS",
         "uri": "http://zoomplay.online/live/Teleplay335780/805377639/1107736.m3u8",
         "icono": "https://i.ibb.co/DLbfhZS/photo1694966226.jpg"
+      },
+	     {
+        "name": "STAR+ 1",
+        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922614.m3u8",
+        "icono": "https://i.ibb.co/YhLFdC5/562158.webpg"
+      },
+	     {
+        "name": "STAR+ 2",
+        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922615.m3u8",
+        "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+      },
+	     {
+        "name": "STAR+3",
+        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922616.m3u8",
+        "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
       }
+	    
     ]
   },
   {
