@@ -608,6 +608,12 @@
          "uri": "https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8", 
         "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
       },
+{
+        "name": "EL TRECE 2 ",
+         "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/539184", 
+        "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
+      },
+
       {
         "name": "CANAL 9 ",
         "uri": "http://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
