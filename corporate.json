@@ -12,7 +12,7 @@
               ]
           },
  {
-              "name": "⚽EVENTOS TELEPLAY",
+              "name": "📅EVENTOS TELEPLAY",
               "samples": [
      
     
@@ -113,21 +113,21 @@
               "name": "⚽🇦🇷SUPERLIGA Y COPA ARGENTINA",
               "samples": [
                   {
-        "name": "ESPN PREMIUM",
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
         "uri": "https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
 	"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   },
      {
-        "name": "ESPN PREMIUM",
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
         "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
       },
      {
-        "name": "ESPN PREMIUM",
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
         "uri": "https://edge-mix02-mus.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
@@ -140,35 +140,35 @@
                   },
              
  {
-        "name": "ESPN PREMIUM",
+        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
 		"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
       },
                       {
-                      "name": "TNT SPORT HD",
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
                       "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   },
                   {
-                      "name": "TNT SPORT HD",
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
                       "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   },
                   {
-                      "name": "TYC SPORTS",
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   },
                   {
-                      "name": "TYC SPORTS",
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
@@ -176,7 +176,7 @@
                   },
  {
                       "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-                      "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/137121.m3u8",
+                      "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/556683",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   },
  {
@@ -584,7 +584,7 @@
     ]
   },
 	  {
-              "name": "🇦🇷ARGENTINA ",
+              "name": "📺🇦🇷ARGENTINA ",
               "samples": [
                  {
         "name": "TELEFE",
@@ -765,7 +765,7 @@
           },
 
            {
-              "name": "🇦🇷GRAN HERMANO",
+              "name": "📺🇦🇷GRAN HERMANO",
               "samples": [
                   
                   {
@@ -937,7 +937,7 @@
           },
 
  {
-  "name": "🇦🇷PROVINCIAS",
+  "name": "📺🇦🇷PROVINCIAS",
   "samples": [
             {
         "name": "TELEFE ROSARIO",
@@ -1196,7 +1196,7 @@
           },
 
 	{
-    "name": "🧒🏼INFANTILES",
+    "name": "📺🧒🏼INFANTILES",
     "samples": [
           {
         "name": "PAKA PAKA",
@@ -1274,7 +1274,7 @@
     ]
   },
  {
-    "name": "👠NOVELAS",
+    "name": "📺👠NOVELAS",
     "samples": [
       {
         "name": "TLN",
@@ -1341,7 +1341,7 @@
   },
     
    {
-    "name": "🎞️PELICULAS Y SERIES",
+    "name": "📺PELICULAS Y SERIES🎦",
     "samples": [      
       {
         "name": "GOLDEN",
@@ -1780,7 +1780,7 @@
     ]
   },
   {
-    "name": "🗞️NOTICIAS",
+    "name": "📺🗞️NOTICIAS",
     "samples": [
       {
         "name": "TELEMUNDO INTERNACIONAL",
@@ -1873,7 +1873,7 @@
   },
 	
  {
-    "name": "PACK-HBO",
+    "name": "📺PACK-HBO",
     "samples": [
  {
         "name": "HBO FLOW",
@@ -1941,7 +1941,7 @@
     ]
   },
 {
-        "name": "PACK UNIVERSAL Y MOVISTAR",
+        "name": "📺PACK UNIVERSAL Y MOVISTAR",
         "samples": [
 
  {
@@ -2051,7 +2051,7 @@
         ]
     },
  {
-    "name": "🐢CULTURA",
+    "name": "📺🐢CULTURA",
     "samples": [
     {
         "name": "EL GOURMET",
@@ -2149,7 +2149,7 @@
   },
 
  {
-    "name": "🎵MUSICAS Y RADIOS",
+    "name": "📺🎵MUSICAS Y RADIOS",
     "samples": [
       {
         "name": "MTV HITS",
@@ -2211,7 +2211,7 @@
     ]
   },
  {
-    "name": "🇵🇾PARAGUAY",
+    "name": "📺🇵🇾PARAGUAY",
     "samples": [
      
                   {
@@ -2406,7 +2406,7 @@
     ]
   },
   {
-    "name": "🇧🇷BRASIL",
+    "name": "📺🇧🇷BRASIL",
     "samples": [
       {
         "name": "GLOBO BAHIA",
@@ -2794,7 +2794,7 @@
   },
   {
 
-  "name": "🇺🇾URUGUAY",
+  "name": "📺🇺🇾URUGUAY",
   "samples": [
       {
         "name": "CANAL 4",
@@ -2973,7 +2973,7 @@
           },
 
 	 {
-    "name": "⛪RELIGIOSOS",
+    "name": "📺⛪RELIGIOSOS",
     "samples": [
       {
         "name": "CIELO TV",
@@ -3043,7 +3043,7 @@
     ]
   },
 	 {
-    "name": "🇸🇦ARABIA SAUDITA",
+    "name": "📺🇸🇦ARABIA SAUDITA",
    "samples": [
       {
         "name": "BBC NEWS ARABIC",
@@ -3150,7 +3150,7 @@
   },
 
 	 {
-    "name": "🇮🇳INDU",
+    "name": "📺🇮🇳INDU",
     "samples": [
       {
         "name": "ZEE NEWS",
@@ -3243,7 +3243,7 @@
   },
 
 	 {
-    "name": "🇨🇳CHINA",
+    "name": "📺🇨🇳CHINA",
     "samples": [
       {
         "name": "CHINESE HOPE",
@@ -3303,7 +3303,7 @@
     ]
   },
 {
-    "name": "🇵🇪PERÚ",
+    "name": "📺🇵🇪PERÚ",
     "samples": [
         {
       "name": "AMERICA TV",
@@ -3398,7 +3398,7 @@
     ]
   },
  {
-    "name": "🇧🇴BOLIVIA",
+    "name": "📺🇧🇴BOLIVIA",
     "samples": [
    {
         "name": "TIGO SPORTS 1",
