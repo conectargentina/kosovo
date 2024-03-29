@@ -24,6 +24,13 @@
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
  {
+                      "name": "PRUEBA",
+                      "uri": "https://1259-abc-da-bpk.dtvott.com/dash_live_1259/dash/1259_DTV_SPORTS_FIGHT.mdp",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d061889fcfad050a2c744fb5bebf0310&key=k9mUCwIrbR0wQhWVa_Z2sT_vmjYymVR7dN33kDPc2ZYJudJnR2gSEQ",
+                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
+                  },
+ {
                       "name": "COPA ARGENTINA",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/sZdq2ZlK19us4cS/556685.m3u8",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
