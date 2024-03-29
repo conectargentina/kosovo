@@ -2470,7 +2470,12 @@
   {
     "name": "📺BRASIL🇧🇷",
     "samples": [
-      {
+       {
+        "name": "RADIO TUPI RJ",
+        "uri": "https://8923.brasilstream.com.br/stream?1711695277412",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/640px-Super_R%C3%A1dio_Tupi_logo_2019.png"
+      },
+{
         "name": "GLOBO BAHIA",
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/12?join.the.Billybob.fan.club",
         "icono": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png"
