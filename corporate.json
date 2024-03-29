@@ -25,7 +25,7 @@
                   },
  {
                       "name": "PRUEBA",
-                      "uri": "https://1259-abc-da-bpk.dtvott.com/dash_live_1259/dash/1259_DTV_SPORTS_FIGHT.mdp",
+                      "uri": "https://1259-abc-da-bpk.dtvott.com/dash_live_1259/dash/1259_DTV_SPORTS_FIGHT-video=3838800-102701387796821.dash",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=edc09dc2a6ff378ead0903c197feed04&key=QpRcggpIKJjJT7reFgx_6OyAThT6L4dSh9S6Q",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
