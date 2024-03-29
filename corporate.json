@@ -190,6 +190,11 @@
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   },
+{
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "http://190.57.234.164/V5/5/1.m3u8",
+                      "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
+                  },
                   {
                       "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
@@ -789,6 +794,11 @@
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
                       "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
+                  },
+{
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "http://190.57.234.164/V5/5/1.m3u8",
+                      "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
                   },
  {
         "name": "TYC SPORTS",
