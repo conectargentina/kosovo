@@ -106,7 +106,7 @@
                   },
 {
                       "name": "PRUEBAS AUF",
-                      "uri": "https://dw8hje12wnmmp.cloudfront.net/out/v1/7912575117534c7485ba6233d0bda42a/index.m3u8",
+                      "uri": "https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/175",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   },
  {
@@ -800,6 +800,12 @@
                       "uri": "http://190.57.234.164/V5/5/1.m3u8",
                       "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
                   },
+{
+                      "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
+                      "uri": "https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/175",
+                      "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+                  },
+
  {
         "name": "TYC SPORTS",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
