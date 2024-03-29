@@ -3166,95 +3166,61 @@
   },
 
 	 {
-    "name": "📺INDU🇮🇳",
+    "name": "📺CHILE🇨🇱",
     "samples": [
-      {
-        "name": "ZEE NEWS",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58341?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dda03267507597e91bb61e316f34f44a.webp"
+     {
+        "name": "LIGA CHILENA",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/615410",
+        "icono": "https://redgol.cl/__export/1616852299923/sites/redgol/img/2021/03/27/eprimera.png_1135195569.png"
+      },
+ {
+        "name": "TNT ESTADIO",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/615410",
+        "icono": "https://ugc.production.linktr.ee/BSG2Dx1VS2iBLBfC45ZP_logo-estadio-lt.png"
+      },
+{
+        "name": "TNT ESTADIO",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/615416",
+        "icono": "https://ugc.production.linktr.ee/BSG2Dx1VS2iBLBfC45ZP_logo-estadio-lt.png"
+      },
+
+
+ {
+        "name": "TVN",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/614187",
+        "icono": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png"
       },
 	    
 	       {
-        "name": "ZEE TV",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58443?join.the.Billybob.fan.club",
+        "name": "CANAL 13",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/614188",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Logotipo_de_Canal_13_Chile_%282010%E2%80%932018%29.svg"
+      },
+	        {
+        "name": "MEGA",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/614189",
+        "icono": "https://cdn.mitvstatic.com/channels/cl_mega_m.png"
+      },
+	        {
+        "name": "CHILE VISIÓN",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/614190",
+        "icono": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es"
+      },
+	        {
+        "name": "ANTOFAGASTA",
+        "uri": "https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream4/chunks.m3u8?nimblesessionid=731036132",
         "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp"
       },
 	        {
-        "name": "ZEE CINEMA",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67276?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp"
-      },
-	        {
-        "name": "ZEE ACTION",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67266?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp"
-      },
-	        {
-        "name": "ZEE AFFLAM",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71064?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp"
-      },
-	        {
-        "name": "Zee Punjabi HD",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/71102?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp"
+        "name": "LA RED",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/614191",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg"
       },
 	      {
-        "name": "DD NATIONAL",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58365?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ff88a3c3da4db1eec3ca2dbff7bc1a3d.webp"
-      },
-	      {
-        "name": "ZOOM TV",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58441?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a39cb2f628c4c1f10142d02ee7c5e20.webp"
-      },
-	        {
-        "name": "DESI CHANNEL",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/67251?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d658d27e97d0a3e0e9f75bea262da2a.webp"
-      },
-	       {
-        "name": "AAJ TAK NEWS",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58443?join.the.Billybob.fan.club",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp"
-      },
-	        {
-        "name": "DD SPORTS",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58185?join.the.Billybob.fan.club",
-        "icono": "https://w7.pngwing.com/pngs/238/54/png-transparent-indian-premier-league-dd-sports-television-dd-national-cricket-television-text-sport.png"
-      },
-	        {
-        "name": "SONY MAX HD",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58193?join.the.Billybob.fan.club",
-        "icono": "https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png"
-      },
-	        {
-        "name": "TEN SPORTS 1",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/63594?join.the.Billybob.fan.club",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646"
-      },
-	            {
-        "name": "TEN SPORTS 2",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/63595?join.the.Billybob.fan.club",
-        "icono": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest?cb=20221025083646"
-      },
-	            {
-        "name": "B4U MOVIES",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58354?join.the.Billybob.fan.club",
-        "icono": "https://yt3.googleusercontent.com/ytc/APkrFKaAILQH3QskB5IoEYtMDhctshGSfRY8K8i8ecu5=s900-c-k-c0x00ffffff-no-rj"
-      },
-	            {
-        "name": "FOOD FOOD",
-        "uri": "http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58375?join.the.Billybob.fan.club",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZQ1fFNaos4zrTkBDxLtwXFSkNB8AOFFpAa1wTbC0lo=s900-c-k-c0x00ffffff-no-rj"
-      },
-	       {
-        "name": "CNN NEWS INDIA",
-        "uri": "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131634_eng=131600-video=1680400.m3u8",
-        "icono": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce4aa7d82bda018f216d3c662b656d81.webp"
-      
-	}
+        "name": "TELETRAK",
+        "uri": "https://teletraktv.janus.cl/playlist/stream.m3u8?s=sd&t=0&id=luc6jftw&q=0&d=w",
+        "icono": "https://teletrak.cl/imagenes/logo.png"
+      }
     ]
   },
 
