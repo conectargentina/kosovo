@@ -24,11 +24,6 @@
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
  {
-                      "name": "PRUEBA",
-                      "uri": "https://1259-abc-da-bpk.dtvott.com/dash_live_1259/dash/1259_DTV_SPORTS_FIGHT-video=3838800-102701387796821.dash",
-                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
-                  },
- {
                       "name": "COPA ARGENTINA",
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/sZdq2ZlK19us4cS/556685.m3u8",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
@@ -103,6 +98,11 @@
                       "name": "PRUEBAS",
                       "uri": "https://1259-abc-da-bpk.dtvott.com/dash_live_1259/dash/1259_DTV_SPORTS_FIGHT-audio_72882_spa=72400-82161077373009.dash",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+ {
+                      "name": "UFC FIGHT",
+                      "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/577716",
+                      "icono": "https://larepublica.cronosmedia.glr.pe/taxonomy/tag/image/2023/02/17/8bj2187j28-ufc.jpg"
                   },
       {
         "name": "TYC SPORT",
