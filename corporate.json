@@ -94,6 +94,11 @@
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/sZdq2ZlK19us4cS/409431.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   },
+{
+                      "name": "PRUEBAS",
+                      "uri": "https://1259-abc-da-bpk.dtvott.com/dash_live_1259/dash/1259_DTV_SPORTS_FIGHT-audio_72882_spa=72400-82161077373009.dash",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
       {
         "name": "TYC SPORT",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
