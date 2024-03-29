@@ -3125,108 +3125,98 @@
     ]
   },
 	 {
-    "name": "📺ARABIA SAUDITA🇸🇦",
+    "name": "📺ESPAÑA🇪🇸",
    "samples": [
       {
-        "name": "BBC NEWS ARABIC",
-        "uri": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
-        "icono": "https://yt3.googleusercontent.com/ytc/AIf8zZR2WzFBmrvUSNyPLkArm3Ixl0dwu5IdkKOoLlOWtMI=s900-c-k-c0x00ffffff-no-rj"
+        "name": "VAMOS FHD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572222",
+        "icono": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png"
         },
 	{
-        "name": "AL JAZEERA",
-        "uri": "https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8",
-        "icono": "https://flussonic.com/img/clients/clients/Al_Jazeera.png"
+        "name": "LA LIGA MOVISTAR+",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/565883",
+        "icono": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png"
+        },
+{
+        "name": "EUROSPORTS",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572230",
+        "icono": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png"
+        },
+{
+        "name": "EUROSPORTS 2",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572233",
+        "icono": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png"
+        },
+{
+        "name": "TELEDEPORTE",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572236",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png"
+        },
+{
+        "name": "ELLAS FHD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572244",
+        "icono": "https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg"
         },
 	   {
-        "name": "AL SHARQIYA TV",
-        "uri": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
-        "icono": "https://media.licdn.com/dms/image/C4E0BAQEvsveK_jn5kw/company-logo_200_200/0/1670514899213?e=2147483647&v=beta&t=933hEphk1HAVD6yYnWCAFmy80HiB1-g2SjolFbioi8w"
+        "name": "LA 1 FHD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/408958",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png"
+        },
+   {
+        "name": "LA 2 FHD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/571966",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png"
+        },
+   {
+        "name": "TVE",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/408956",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png"
+        },
+ {
+        "name": "ANTENA 3 HD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/408961",
+        "icono": "https://static.epg.best/es/Antena3.es.png"
         },
 	   {
-        "name": "BAHRAIN TV",
-        "uri": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0M2WQycX3z4a7o5l1V3M0ifUzcXvmMIsBtjead1U6WoeaC4SmMgv_Hz5goguIDJi2iM&usqp=CAU"
+        "name": "TELECINCO HD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/408964",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png"
         },
 	      {
-        "name": "BAHRAIN SPORTS",
-        "uri": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8JJEI_77JsIt56BslUuvUC3evgyQWM27jlQ&usqp=CAU"
+        "name": "COSMO",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/408989",
+        "icono": "https://static.epg.best/es/Cosmo.es.png"
         },
         {
-        "name": "ABU DHABI TV",
-        "uri": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_04/index.m3u8",
-        "icono": "https://babaktv.com/wp-content/uploads/2022/06/Abu-Dhabi-TV-01.jpg"
+        "name": "TELEMADRID",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/408996",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png"
         },
 	
 	    {
-        "name": "AL MANAR LIBANES",
-        "uri": "https://e2.manar.live:9000/live/index.m3u8",
-        "icono": "https://static-media.streema.com/media/cache/e9/3b/e93be7e5de0b24e39456a2903e6ed0a6.jpg"
+        "name": "CAZA Y PESCA",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572012",
+        "icono": "https://i.ibb.co/fxW737k/generica-elem-cyp.jpg"
         },
 	     {
-        "name": "MTV LIBANES",
-        "uri": "https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8",
-        "icono": "https://www.web24iptv.online/img/lbn/mtv.webp"
+        "name": "NEOX HD",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/571985",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png"
         },
 	        {
-        "name": "LBC LIBANES",
-        "uri": "https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8",
-        "icono": "https://www.web24iptv.online/img/lbn/lbc.webp"
+        "name": "REAL MADRID TV",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572246",
+        "icono": "https://i.ibb.co/DMTZ57S/unnamed-4.webp"
         },
 	        {
-        "name": "lebanon one tv live",
-        "uri": "https://live.3cd.io/v1/broadcast/one/playlist.m3u8",
-        "icono": "https://www.web24iptv.online/img/lbn/lbnone.webp"
+        "name": "BARÇA TV",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/572249",
+        "icono": "https://i.ibb.co/0Cf3MDP/unnamed-5.webp"
         },
 	        {
-        "name": "NBN lebanon live",
-        "uri": "http://multies.xyz/live/701D65B3B72E53BA47394061878922D5/6.m3u8",
-        "icono": "https://www.web24iptv.online/img/lbn/nbn.webp"
-        },
-	        {
-        "name": "Mayadeen live",
-        "uri": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
-        "icono": "https://www.web24iptv.online/img/newsAR/mayadin.webp"
-        },
-	      {
-        "name": "DUBAI ONE",
-        "uri": "https://dminnvll.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8",
-        "icono": "https://www.dubaione.ae/content/dam/Common/brands1/dubaione231123/DubaiOne-Logo-Web.png"
-        },
-	         {
-        "name": "DUBAI TV",
-        "uri": "https://dmieigthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8",
-        "icono": "https://admango.cdn.mangomolo.com/analytics/uploads/71/659cd942e4.png"
-        },
-	{
-        "name": "DUBAI SPORTS",
-        "uri": "https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/playlist.m3u8",
-        "icono": "https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM"
-        },
-	   	{
-        "name": "DUBAI SPORTS 2",
-        "uri": "https://dmitwlfr.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/playlist.m3u8",
-        "icono": "https://korafoot.com/wp-content/uploads/2023/02/dubai-sport-2.png"
-        },
-	   	{
-        "name": "DUBAI RACING",
-        "uri": "https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8",
-        "icono": "https://admango.cdn.mangomolo.com/analytics/uploads/71/651a65d58f.png"
-        },
-	   	{
-        "name": "DUBAI RACING 2",
-        "uri": "https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/playlist.m3u8",
-        "icono": "https://admango.cdn.mangomolo.com/analytics/uploads/71/651a65d58f.png"
-        },
-	   	{
-        "name": "DUBAI RACING 3",
-        "uri": "https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8",
-        "icono": "https://admango.cdn.mangomolo.com/analytics/uploads/71/651a65d58f.png"
-        },
-	   	{
-        "name": "KUWAIT TV 1 HD",
-        "uri": "https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_1080p/chunks.m3u8?",
-        "icono": "https://upload.wikimedia.org/wikipedia/fr/2/28/Ktv_1.png"
+        "name": "ORIGINALES M+D",
+        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/614075",
+        "icono": "https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/Originales-por-M_Color-Negativo_RGB_RGB.jpg"
         }
     ]
   },
