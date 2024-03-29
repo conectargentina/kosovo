@@ -2860,7 +2860,12 @@
         "name": "STAR+3",
         "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922616.m3u8",
         "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
-      }
+      },
+   {
+        "name": "TYC SPORTS",
+        "uri": "http://177.128.115.21:8080/live/Binet/6UkGawEA4z/174.ts",
+        "icono": "https://1.deporte-libre.org/img/tycsports.png"
+      },
 	    
     ]
   },
