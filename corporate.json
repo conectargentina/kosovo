@@ -1021,6 +1021,11 @@
         "uri": "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8",
         "icono": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
       }, 
+	  {
+        "name": "CANAL 9 - LA RIOJA",
+        "uri": "https://inliveserver.com:1936/12014/12014/playlist.m3u8",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9bZY2pUS8g54PiR3suNwJU_sYy0vNWzMewdsxZogjDhCwqM3xZVgZRsDztX3x7sskNBIg1UEgqxaAYq_ox9sf5p13AQ6A2WVp1wf0RXut7BEkBGXAKbn9O_xtHx7zpNtsnx4TEOlfTFv6DHLSlyP3JTHmkipa8-VOU8GvyDoZg21fQODfFJ7cnXe/s662/c9-lr-2020.png"
+      },
 	  
 	  {
         "name": "EL SIETE TV - MENDOZA ",
