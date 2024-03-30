@@ -105,13 +105,18 @@
                       "icono": "https://plataformas.news/online/nota_ucl-tv-sigue-apostando-al-contenido-original-en-america-latina.jpg"
                   },
 {
-                      "name": "PRUEBAS AUF",
+                      "name": "PRUEBAS 1",
+                      "uri": "https://g2.vxral-slo.transport.edge-access.net/a06/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8",
+                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+                  },
+{
+                      "name": "PRUEBAS 2",
                       "uri": "https://g2.vxral-slo.transport.edge-access.net/a06/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   },
  {
                       "name": "UFC FIGHT",
-                      "uri": "https://g5.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_540p.m3u8",
+                      "uri": "https://g2.vxral-slo.transport.edge-access.net/a06/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true",
                       "icono": "https://larepublica.cronosmedia.glr.pe/taxonomy/tag/image/2023/02/17/8bj2187j28-ufc.jpg"
                   },
       {
