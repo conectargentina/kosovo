@@ -2762,29 +2762,34 @@
  {
     "name": "⚽DEPORTES BRASIL🇧🇷",
     "samples": [
-      {
-        "name": "SPORT TV",
-        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/663355.m3u8",
-        "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
+     {
+        "name": "BAND SPORTS",
+        "uri": "http://zoomplay.online/live/994661955/196244635/1108579.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png"
+      },
+	    {
+        "name": "TNT SPORTS PPV",
+        "uri": "http://zoomplay.online/live/994661955/196244635/922603.m3u8",
+        "icono": "https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png"
       },
   {
         "name": "SPORT TV",
-        "uri": "https://multiextrem.live:8443/Cplus2025/sZdq2ZlK19us4cS/709657",
+        "uri": "http://zoomplay.online/live/994661955/196244635/663353.m3u8",
         "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
       },
       {
         "name": "SPORT TV 2 ",
-         "uri": "http://zoomplay.online/live/Teleplay335780/805377639/113143.m3u8", 
+         "uri": "http://zoomplay.online/live/994661955/196244635/113143.m3u8", 
         "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
       },
       {
         "name": "SPORT TV 3 ",
-        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/18240.m3u8",
+        "uri": "http://zoomplay.online/live/994661955/196244635/18240.m3u8",
         "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg"
       },
       {
         "name": "PREMIERE",
-        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/35317.m3u8",
+        "uri": "http://zoomplay.online/live/994661955/196244635/1107720.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png"      
       },
      
