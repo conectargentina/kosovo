@@ -28,22 +28,12 @@
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/sZdq2ZlK19us4cS/556685.m3u8",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
-{
-                      "name": "COPA ARGENTINA",
-                      "uri": "http://190.57.234.164/V5/5/1.m3u8",
-                      "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
-                  },
  {
                       "name": "COPA ARGENTINA",
                       "uri": "https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8",
                       "icono": "https://i.ibb.co/frWtx5b/65t73z1563098226.png"
                   },
-		      {
-                      "name": "AMISTOSOS DE URUGUAY",
-                      "uri": "https://livelive.thedonato.live/live/33_amg1.m3u8",
-                      "icono": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png"
-                  },
-{
+		{
                       "name": "🇺🇸MLS",
                       "uri": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8",
                       "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
@@ -99,24 +89,9 @@
                       "uri": "https://multiextrem.live:8443/live/Cplus2025/sZdq2ZlK19us4cS/409431.m3u8",
                       "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
                   },
-{
-                      "name": "UCL TV",
-                      "uri": "https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8",
-                      "icono": "https://plataformas.news/online/nota_ucl-tv-sigue-apostando-al-contenido-original-en-america-latina.jpg"
-                  },
-{
-                      "name": "PRUEBAS 1",
-                      "uri": "https://1222-vos.dtvott.com/DASH/stream_07/1705389637837_init.m4i",
-                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
-                  },
-{
-                      "name": "PRUEBAS 2",
-                      "uri": "https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8",
-                      "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
-                  },
  {
                       "name": "UFC FIGHT",
-                      "uri": "https://g2.vxral-slo.transport.edge-access.net/a06/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true",
+                      "uri": "http://zoomplay.online/live/994661955/196244635/1583702.m3u8",
                       "icono": "https://larepublica.cronosmedia.glr.pe/taxonomy/tag/image/2023/02/17/8bj2187j28-ufc.jpg"
                   },
       {
