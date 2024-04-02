@@ -967,6 +967,11 @@
         "name": "DEPORTV",
         "uri": "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png"
+      },
+ {
+        "name": "AMERICA SPORTS",
+        "uri": "http://177.128.115.21:8080/live/Binet/6UkGawEA4z/94.ts",
+        "icono": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png"
       }
               ]
           },
