@@ -15,7 +15,11 @@
               "name": "✅EVENTOS TELEPLAY📅",
               "samples": [
      
-    
+     {
+        "name": "⚽BOCA JRS vs NACIONAL POTOSI - DS",
+        "uri": "https://multiextrem.live:8443/live/User72PgDEXFyiOA/Senha2025VJHVz5/525790.m3u8",
+        "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
+      },
  {
                       "name": "COPA ARGENTINA",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
@@ -43,7 +47,7 @@
                   },
 		{
                       "name": "🇺🇸MLS",
-                      "uri": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8",
+                      "uri": "https://multiextrem.live:8443/User72PgDEXFyiOA/Senha2025VJHVz5/544815",
                       "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
                   },
 
@@ -251,14 +255,14 @@
               "name": "⚽LIBERTADORES Y SUDAMERICANA",
               "samples": [
                 {
-        "name": "⚽SORTEO CONMEBOL - LIB Y SUDAM",
+        "name": "⚽LIBERTADORES Y SUDAMERICANA",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
       },
  {
-        "name": "⚽LIBERTADORES Y SUDAMERICANA - DS",
+        "name": "⚽BOCA JRS vs NACIONAL POTOSI - DS",
         "uri": "https://multiextrem.live:8443/live/User72PgDEXFyiOA/Senha2025VJHVz5/525790.m3u8",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
       },
