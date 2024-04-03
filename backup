@@ -78,6 +78,11 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b9fc5a15382b35818904ecbeed545fd0&key=8b4d83e2c382780ca615ce6cd6754d79",
 		"icono": "https://i.ibb.co/bPKWXGc/america.jpg"
       },
+{
+                      "name": "🇺🇸MLS",
+                      "uri": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8",
+                      "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
+                  },
       {
         "name": "AMERICA TV",
         "uri": "https://1057-vos-da-mt.dtvott.com/v1/dash/f761a4100cd1d44ec919aa9543945ae7f63d684e/live_1057/DASH/manifest.mpd?da=1&ads.country=AR&ads.accountType=DTH&ads.accountId=a16a2bd0-929b-4824-92d1-b8ec3238124f&ads.deviceType=web&ads.channelId=CH0100000000021&ads.deviceId=e949305e-5cc0-4c1e-a2e8-a2bc46783a70&aws.sessionId=6654252b-8170-41e1-af4f-fed841ac1145",
