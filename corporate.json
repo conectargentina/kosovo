@@ -3662,6 +3662,13 @@
         "uri": "https://1222-vos.dtvott.com/DASH/manifest.mpd&kid=79ddd44a716b3d1e85bc4f9416b88f3a&k=7b228b0f7a7c08d01760fa124a02153f",
         "icono": "https://cdn.bolivia.com/canales/-3459.jpg"
       },
+ {
+                      "name": "PRUEBA 3",
+                      "uri": "https://1222-vos.dtvott.com/DASH/manifest.mpd",
+                      "drm_scheme": "clearkey",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=79ddd44a716b3d1e85bc4f9416b88f3a&key=7b228b0f7a7c08d01760fa124a02153f",
+                      "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
+                  },
       {
         "name": "TVLATINA",
         "uri": "https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8",
