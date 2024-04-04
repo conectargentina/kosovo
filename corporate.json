@@ -3645,6 +3645,11 @@
         "uri": "https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8",
         "icono": "https://cdn.bolivia.com/canales/-3459.jpg"
       },
+ {
+        "name": "PRUEBA",
+        "uri": "https://double2.totototorina.com:999/hls/dsportshd.m3u8?md5=tHTjOOehyIUBsUBQt6lVbw&expires=1712244062",
+        "icono": "https://cdn.bolivia.com/canales/-3459.jpg"
+      },
       {
         "name": "TVLATINA",
         "uri": "https://master.tucableip.com/live/tvlatinamontero/playlist.m3u8",
