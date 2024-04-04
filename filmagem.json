@@ -45,7 +45,7 @@
     "samples": [
        {
       "name": "MIRACULOUS",
-        "uri": "https://multiextrem.live:8443/live/User72PgDEXFyiOA/Senha2025VJHVz5/417919.m3u8",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/756892.mp4",
         "icono": "https://static.wikia.nocookie.net/miraculousladybug/images/e/e6/Site-logo.png/revision/latest?cb=20210712190455&path-prefix=es"
       },  
  {
@@ -140,9 +140,50 @@
     "name": "ESTRENOS 2024",
     "samples": [
 	    {
-        "name": "✨MUCHACHOS - HD",
+        "name": "✨AQUAMAN Y EL REINO PERDIDO - HD",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/698229.mp4",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJcdgMLEEnTDLCZ1sl0XXW08n3A.jpg"
+      },
+	    	    {
+        "name": "✨LOS SEGUNDONES - HD",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/713232.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg"
+      },
+	    	    {
+        "name": "✨SELFIE 69",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/578476.mp4",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpAQEC42FzNF0HoLIitFmpGVtu.jpg"
+      },
+ 
+  {
+        "name": "✨EL JUEGO BONITO",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/796734.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg"
+      },
+ {
+        "name": "✨EL SALARIO DEL MIEDO",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/796437.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8EJOSQ7LHFEFz4pwumYfIYWBRPY.jpg"
+      },
+ {
+        "name": "✨EL CORAZÓN DEL CAZADOR",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/796730.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmsJS3VDLbCF7CbQ6pxHImYXKf7.jpg"
+      },
+	    {
+        "name": "✨EL ARCA DE NOÉ",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/793541.mkv",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeykawzHwlHBuqDJEqBro9Hv5fC.jpg"
+      },
+	    	    {
+        "name": "✨THE THUNDERMANS RETURN",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/791652.mkv",
+		"icono": "https://image.tmdb.org/t/p/w780/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg"
+      },
+	    	    {
+        "name": "✨BOB MARLEY, LA LEYENDA: ONE LOVE HD",
         "uri": "http://38.68.134.177:3334/movie/3848Yevkerkkk/Menrhrh73646aeatT/339344.mp4",
-		"icono": "https://image.tmdb.org/t/p/w780/aRgTLpY3wl9I5MLGlBdiRXOeCY4.jpg"
+		"icono": "https://image.tmdb.org/t/p/w780/ayaApnFGwc6hHJHry59GjfWuTSK.jpg"
       },
  
   {
@@ -465,6 +506,11 @@
         "name": "Camp Terror",
         "uri": "http://dnslivetv.online/movie/TVplay980/NYEnXqw37E/1047790.mp4",
         "icono": "https://image.tmdb.org/t/p/w780/63cccnj4ye8L927UgMKwTC8Pyar.jpg"
+      },
+ {
+        "name": "Imaginary",
+        "uri": "https://multiextrem.live:8443/movie/User72PgDEXFyiOA/Senha2025VJHVz5/797762.mkv",
+        "icono": https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg"
       },
      {
         "name": "Juguetes de terror",
