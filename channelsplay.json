@@ -1,15 +1,14 @@
-
 [
   {
-              "name": "⭐️¡Novedades del Servicio!⭐️",
+              "name": "⭐️¡TELEPLAY ORIGINAL ➡️SOLAMENTE CON USUARIO Y CONTRASEÑA!⭐️",
               "samples": [
-                 
+ 
    {
                       "name": "Dᴇᴘᴏʀᴛᴇs | CALENDARIO DE PARTIDOS: Fᴜ́ᴛʙᴏʟ ᴴᴰ",
                       "uri": "http://zoomplay.online/live/User994696333/Contra611999430/1643917.m3u8",
                       "icono": "https://imagens.ne10.uol.com.br/legado/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg"
                   }
-
+ 
               ]
           },
  {
@@ -52,7 +51,7 @@
                       "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/544815",
                       "icono": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png"
                   },
-
+ 
                   {
                       "name": "🇵🇾FÚTBOL PARAGUAY",
                       "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ddbehg/playlist.m3u8",
@@ -117,7 +116,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
 		"icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
       }
-
+ 
               ]
           },
 	 {
@@ -188,7 +187,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257",
 	"icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
       },
-             
+ 
  {
         "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
         "uri": "https://edge-live11-sl.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
@@ -234,10 +233,10 @@
                       "uri": "https://multiextrem.live:8443/play/ksXDz0cuJJptXhu-stiaKBGPX_CvIOj8RVW7DtvQv_bKWZJfKbgiyaCxXJs6a9ue/ts",
                       "icono": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg"
                   }
-
+ 
               ]
           },
-
+ 
 {
               "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
               "samples": [
@@ -286,7 +285,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "icono": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg"
       },
-     
+ 
       {
         "name": "⚽LIBERTADORES Y SUDAMERICANA",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
@@ -381,14 +380,14 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ac053ce4a6c3786a71c23c36bfed028&key=b324da5a858840ee79ba4bc1df9ffd95",
         "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       }
-
+ 
                ]
           },
  
  {
     "name": "⚽DEPORTES INTERNACIONALES",
     "samples": [
-                
+ 
 	    {
         "name": "BEIN SPORTS XTRA Ñ",
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/775128",
@@ -454,7 +453,7 @@
         "uri": "http://magmas5.com:8000/live/UK0NMK78C3/6XA15D0TF9/4848.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png"
       },
-             
+ 
      {
         "name": "DIRECTV MOTORS",
         "uri": "https://proxy.sintv.cl/py.php/https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd",
@@ -462,13 +461,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86531a9305d65cb78b18b2c14024320e&key=0070dbc490f3b5edfe1f68503fb6402c",
         "icono": "https://i.ibb.co/qgCXCfr/6481c3f81fdc4-838x390.jpg"
       },
-       
+ 
      {
         "name": "DIRECTV SPORTS 1",
         "uri": "http://209.45.81.84:8000/play/a03d",
         "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       },
-
+ 
        {
         "name": "DIRECTV 2 MPD",
         "uri": "https://proxy.sintv.cl/py.php/https://1046-vos.dtvott.com/DASH/manifest.mpd",
@@ -477,7 +476,7 @@
         "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
       },
      {
-      
+ 
         "name": "DIRECTV 2",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1243",
         "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
@@ -556,7 +555,7 @@
         "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/46970",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png"
       },
-
+ 
       {
         "name": "DEPORTV",
         "uri": "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
@@ -582,7 +581,7 @@
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/269758",
         "icono": "http://imgfz.com/i/6zXlMNd.png"
       },
-           
+ 
       {
         "name": "ESPN MEXICO",
         "uri": "http://38.68.134.177:3334/3848Yevkerkkk/Menrhrh73646aeatT/339561",
@@ -642,7 +641,7 @@
                       "uri": "https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8",
                       "icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
                   },
-		
+ 
  {
                       "name": "test",
                       "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/1830.m3u8",
@@ -685,7 +684,7 @@
         "name": "TYC SPORTS (PLAY 5)",
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8",
         "icono": "https://i.ibb.co/85X5fTw/tycsportplay.png"
-
+ 
       },
       {
         "name": "TYC SPORTS (PLAY 6)",
@@ -712,7 +711,7 @@
         "uri": "https://d2scohpz55y5r5.cloudfront.net/out/v1/c43ac17254584daa9781eaaeea1a085d/index.m3u8",
         "icono": "https://i.ibb.co/85X5fTw/tycsportplay.png"
       }
-
+ 
               ]
           },
 	  {
@@ -735,7 +734,7 @@
          "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/539184", 
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png"
       },
-
+ 
       {
         "name": "CANAL 9 ",
         "uri": "http://edge-live17-hr.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_2A/Canal9.mpd",
@@ -846,7 +845,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
 		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
-
+ 
       },
       {
         "name": "CANAL 3 ROSARIO",
@@ -907,7 +906,7 @@
                       "uri": "https://mserver.fantasticiptv.club:8888/FANTASTIC/eJP0EiZZZJ/175",
                       "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
                   },
-
+ 
  {
         "name": "TYC SPORTS",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
@@ -917,11 +916,11 @@
       }
               ]
           },
-
+ 
            {
               "name": "📺GRAN HERMANO🇦🇷",
               "samples": [
-                  
+ 
                   {
                       "name": "CAMERA 24HS",
                       "uri": "https://multiextrem.live:8443/live/Usuario0909884/Pass8d99835/762482.m3u8",
@@ -983,7 +982,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cbc2a0c7a38df0aa3333cd71841d3b0d&key=aac61b730e2ac1df23f1e872e7541c1b",
         "icono": "https://i.ibb.co/DLbfhZS/photo1694966226.jpg"
       },
-     
+ 
       {
         "name": "FOX SPORTS 2 ",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_Live_dash_enc_2A/FoxSports2HD.mpd",
@@ -1026,7 +1025,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8d44406ed6bf1898ad9f7a2d64f29e&key=fb85d059687ab0fc67805806204edbdf",
                 "icono": "https://i.ibb.co/8jv0fzZ/ESPN-4-logo-svg.webp"
             },
-     
+ 
 {
                 "name": "ESPN 5",
                 "uri": "https://chromecast.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd",
@@ -1048,7 +1047,7 @@
                 "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5fc7b662e69c0fbf8d39691166b1c919&key=89157cdd25df25d56f1ecccee3850888",
                 "icono": "https://i.ibb.co/S68xFgd/ESPN-7-logo-svg.webp"
             },
-       
+ 
                   {
                       "name": "TYC SPORTS",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
@@ -1091,7 +1090,7 @@
         "uri": "https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index_9.m3u8",
         "icono": "https://i.ibb.co/0j7LBWR/Aw-UFQ-u-K-400x400.jpg"
       },
-
+ 
 {
         "name": "DEPORTV",
         "uri": "https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
@@ -1104,7 +1103,7 @@
       }
               ]
           },
-
+ 
  {
   "name": "📺PROVINCIAS🇦🇷",
   "samples": [
@@ -1114,7 +1113,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
 		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
-
+ 
       },
       {
         "name": "CANAL 3 ROSARIO",
@@ -1138,7 +1137,7 @@
         "uri": "https://inliveserver.com:1936/12014/12014/playlist.m3u8",
         "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9bZY2pUS8g54PiR3suNwJU_sYy0vNWzMewdsxZogjDhCwqM3xZVgZRsDztX3x7sskNBIg1UEgqxaAYq_ox9sf5p13AQ6A2WVp1wf0RXut7BEkBGXAKbn9O_xtHx7zpNtsnx4TEOlfTFv6DHLSlyP3JTHmkipa8-VOU8GvyDoZg21fQODfFJ7cnXe/s662/c9-lr-2020.png"
       },
-	  
+ 
  {
         "name": "El Siete TV ",
         "uri": "https://m.mtd.llc/iptv-query.m3u8?url=http://www.youtube.com/c/CanalSieteMendoza1/live",
@@ -1164,7 +1163,7 @@
         "uri": "https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL",
         "icono": "https://static.wikia.nocookie.net/tvficticia/images/9/94/Canal22.png/revision/latest?cb=20230606194222&path-prefix=es"
       },
-    
+ 
 {
         "name": "EL PRINGLENSE",
         "uri": "https://videostream.shockmedia.com.ar:19360/elpringlense/elpringlense.m3u8",
@@ -1207,7 +1206,7 @@
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0",
         "icono": "https://i.ibb.co/FhsDBQ3/unnamed-3.webp"
       },
-
+ 
       {
         "name": "SILVER CHANNEL",
         "uri": "https://g4.vxral-slo.transport.edge-access.net/a05/ngrp:c12_live01-100129_all/c12_live01-100129_720p-94887.ts",
@@ -1295,7 +1294,7 @@
         "name": "CANAL 13 RIO CUARTO",
         "uri": "http://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8",
 		"icono": "https://static.tvar.io/imagenes/canal13riocuarto.jpg"
-
+ 
       },
       {
         "name": "TELEFE SANTA FE",
@@ -1315,7 +1314,7 @@
         "name": "TELEFE ROSARIO Santa Fe",
         "uri": "https://telefecanal1.akamaized.net/hls/live/2033413-b/canal5rosario/TOK/hdntl=exp=1710545488~acl=%2f*~data=hdntl~hmac=fe33e34344ed9d8ec4d52720e587b7c7916549998e819059cc627320a28c9de7/canal5rosario0.m3u8",
 	"icono": "https://static.tvar.io/imagenes/teleferosario.png"
-
+ 
       },
       {
         "name": "TELEFE ROSARIO",
@@ -1323,7 +1322,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
 		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
-
+ 
       },
       {
         "name": "CANAL 3 ROSARIO",
@@ -1338,7 +1337,7 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://dl.dropbox.com/scl/fi/3e8oywvgpo6wj48y88owe/KEY.telefe.rosario.json?rlkey=5mdzysk3iis67bjgvf9hc4k9u&dl=0",
 		"icono": "https://static.tvar.io/imagenes/teleferosario.png"
-
+ 
       },
       {
         "name": "CANAL 3 ROSARIO",
@@ -1375,7 +1374,7 @@
    }
               ]
           },
-
+ 
 	{
     "name": "📺INFANTILES🙋",
     "samples": [
@@ -1520,7 +1519,7 @@
       }
     ]
   },
-    
+ 
    {
     "name": "🎦PELICULAS Y SERIES",
     "samples": [      
@@ -1651,7 +1650,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
       },
-  
+ 
       {
         "name": "AXN",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd",
@@ -1880,7 +1879,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fd9619f9d7c2d5115a339941279e0b4b&key=bf55635e6591f905659fa27ab3ca2812",
         "icono": "https://i.ibb.co/XD3Fc9t/Sony-Channel-Logo.png"
       },
-  
+ 
       {
         "name": "AXN",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_2A/AXNHD.mpd",
@@ -2025,7 +2024,7 @@
         "uri": "http://zoomplay.online/live/Teleplay2025/Cplus335780/113208.m3u8",
 	"icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/410px-Record_News_logo_2022.svg.png"
       },
-
+ 
 	  {
         "name": "ANTENA 3",
         "uri": "http://multiextrem.xyz/live/Usuario0909884/Pass8d99835/67072.m3u8",
@@ -2052,7 +2051,7 @@
       }
     ]
   },
-	
+ 
  {
     "name": "📺PACK-HBO",
     "samples": [
@@ -2124,7 +2123,7 @@
 {
         "name": "📺PACK UNIVERSAL Y MOVISTAR",
         "samples": [
-
+ 
  {
         "name": "MOVISTAR ACCION",
         "uri": "https://cajablanca.dedyn.io/movistar/juanorange/4542/manifest.mpd",
@@ -2139,18 +2138,18 @@
       },
  {
     "name": "UNIVERSAL CINEMA FLOW",
-    
+ 
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
-  
+ 
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f6ae2e17173055e4ca69dc18963406ae&key=5a955c29eb88a0b4c9a2538cc4b3aea2",
     "uri": "https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd"
   },
 {
     "name": "UNIVERSAL COMEDY FLOW",
-    
+ 
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9620/CH_LOGO/42891751076948.png",
-  
+ 
 	"drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=062c5d25105a3a935b67e36923c73f28&key=88c2d4cec420f18d2477152c66c7870d",
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd"
@@ -2158,7 +2157,7 @@
   {
     "name": "UNIVERSAL CRIME FLOW",
     "icono": "https://geo.mnedge.cvattv.com.ar:9002/images/9621/CH_LOGO/19452290076949.png",
-  
+ 
 	  "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1efd7edf60e1514f775dd13d046ae708&key=c2ef1abbd945c62c11b1375eaaa50f0d",
     "uri": "http://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd"
@@ -2181,38 +2180,38 @@
 	   {
                 "name": "UNIVERSAL PREMIERE",
                 "uri": "http://home-playtv.com:8080/restreamhome/HUvCLa351719/236380?join.the.Billybob.fan.club",
-          
+ 
                 "icono": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099"
-                
+ 
             },
             {
                 "name": "UNIVERSAL COMEDY",
                 "uri": "http://home-playtv.com:8080/restreamhome/HUvCLa351719/185166?join.the.Billybob.fan.club",
-                
+ 
                 "icono": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png"
-                
+ 
             },
             {
                 "name": "UNIVERSAL REALITY",
                 "uri": "http://home-playtv.com:8080/restreamhome/HUvCLa351719/439782?join.the.Billybob.fan.club",
-              
+ 
                 "icono": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png"
-               
+ 
             },
 {
                 "name": "UNIVERSAL CRIME",
                 "uri": "http://home-playtv.com:8080/restreamhome/HUvCLa351719/185163?join.the.Billybob.fan.club",
-                
+ 
                 "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png"
-                
+ 
             },
 {
                 "name": "UNIVERSAL CINEMA",
                 "uri": "http://home-playtv.com:8080/restreamhome/HUvCLa351719/185152?join.the.Billybob.fan.club",
-           
-
+ 
+ 
                 "icono": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png"
-     
+ 
             },
 		{
         "name": "UNIVERSAL CRIME 2",
@@ -2298,8 +2297,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a611ddbf8c15fa617a0c391cb7b3e128&key=0cd1300baf8890380fd41124962195c4",
         "icono": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg"
       },
-
-
+ 
+ 
       {
         "name": "DISCOVERY TEATER",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_2A/Theater_HD.mpd",
@@ -2307,8 +2306,8 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5279c05ea51c4dae8e7fa6be88448089&key=b28dfafba4b848dfd5d7c177ebf19108",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
       },
-
-	
+ 
+ 
       {
         "name": "DISCOVERY TLC",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/TLC/SA_Live_dash_enc_2A/TLC.mpd",
@@ -2316,7 +2315,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=58761c7b2819491eb3a0d765842c341a&key=9dabc48f88bd7f266734e57501bd6f47",
         "icono": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg"
       },
-	
+ 
       {
         "name": "DISCOVERY WORL",
         "uri": "https://chromecast.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_2A/Discovery_World_HD.mpd",
@@ -2333,7 +2332,7 @@
        }
     ]
   },
-
+ 
  {
     "name": "📺MUSICAS Y RADIOS🎵",
     "samples": [
@@ -2399,7 +2398,7 @@
  {
     "name": "📺PARAGUAY🇵🇾",
     "samples": [
-     
+ 
                   {
                       "name": "🇵🇾 PRIMERA DIVISIÓN",
                       "uri": "https://rpn3.bozztv.com/ssh101/ssh101/ddbehg/playlist.m3u8",
@@ -2415,7 +2414,7 @@
         "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8",
         "icono": "http://imgfz.com/i/gWBHzNp.jpeg"
       },
-  
+ 
      {
         "name": "PARAVISION",
         "uri": "https://edge-live01-mun.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd",
@@ -2481,7 +2480,7 @@
         "uri": "https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8",
         "icono": "https://i.ibb.co/hfFmYXz/WW.jpg"
       },
-	
+ 
       {
         "name": "PARAGUAY TV CLARO",
         "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(PARAGUAY_TV)/index.m3u8",
@@ -2499,7 +2498,7 @@
         "uri": "https://cloudtv.streaming.com.py/centraltv/centraltv/playlist.m3u8",
         "icono": "https://i.ibb.co/f9C18r2/4l-N0-XLZz-400x400.jpg"
       },
-   
+ 
       {
         "name": "CANALPRO PY",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc_2A/Canal_PRO.mpd",
@@ -2634,7 +2633,7 @@
         "uri": "http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/18?join.the.Billybob.fan.club",
         "icono": "http://imgfz.com/i/DhJWEVu.jpeg"
       },
-  
+ 
       {
         "name": "CNN BRASIL",
         "uri": "http://zoomplay.online/live/User994696333/Contra611999430/113207.m3u8",
@@ -2695,7 +2694,7 @@
                       "uri": "http://zoomplay.online/live/User994696333/Contra611999430/1114732.m3u8",
                       "icono": "https://i.imgur.com/mQC6j1N.jpeg"
                   },
-                  
+ 
                   {
                       "name": "NATGEO FHD",
                       "uri": "http://zoomplay.online/live/User994696333/Contra611999430/1107731.m3u8",
@@ -2906,7 +2905,7 @@
         "uri": "http://zoomplay.online/live/User994696333/Contra611999430/1107720.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png"      
       },
-     
+ 
       {
         "name": "PREMIERE 2",
         "uri": "http://zoomplay.online/live/User994696333/Contra611999430/113130.m3u8",
@@ -2972,11 +2971,11 @@
         "uri": "http://177.128.115.21:8080/live/Binet/6UkGawEA4z/174.ts",
         "icono": "https://1.deporte-libre.org/img/tycsports.png"
       }
-	    
+ 
     ]
   },
   {
-
+ 
   "name": "📺URUGUAY🇺🇾",
   "samples": [
       {
@@ -3029,7 +3028,7 @@
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
                       "icono": "https://static.tvar.io/imagenes/canal10uy.png"
                   },                               
-                 
+ 
                   {
                       "name": "CANAL A+V",
                       "uri": "http://dnslivetv.online/TVplay980/NYEnXqw37E/1070316",
@@ -3040,7 +3039,7 @@
                       "uri": "https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8",
                       "icono": "https://plataformas.news/online/nota_ucl-tv-sigue-apostando-al-contenido-original-en-america-latina.jpg"
                   },
-  
+ 
   	           {
                       "name": "TV CIUDAD",
                       "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
@@ -3062,7 +3061,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b96960aa715a4e51b7e952e81c99ac8e&key=5bbffc680764dbd63d90b774b3aa0c0a",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png"
       }
-  
+ 
     ]
   },
     {
@@ -3127,7 +3126,7 @@
                       "uri": "http://dnslivetv.online/TVplay25898/WUXrYhAsgb/1071706",
                       "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
                   },
-                 
+ 
 		 {
                 "name": "04|VTV PLUS",
                 "uri": "http://1line.ttvrilieos.xyz:8080/JoseWeib-TV/5wjQDud0Ta/45787",
@@ -3158,10 +3157,10 @@
         "uri": "http://dnslivetv.online/Vtvplus24/Vtvplus24/1070325",
         "icono": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png"
       }
-
+ 
             ]
           },
-
+ 
 	 {
     "name": "📺RELIGIOSOS⛪",
     "samples": [
@@ -3307,7 +3306,7 @@
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/408996",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png"
         },
-	
+ 
 	    {
         "name": "CAZA Y PESCA",
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/572012",
@@ -3335,7 +3334,7 @@
         }
     ]
   },
-
+ 
 	 {
     "name": "📺CHILE🇨🇱",
     "samples": [
@@ -3354,14 +3353,14 @@
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/615416",
         "icono": "https://ugc.production.linktr.ee/BSG2Dx1VS2iBLBfC45ZP_logo-estadio-lt.png"
       },
-
-
+ 
+ 
  {
         "name": "TVN",
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/614187",
         "icono": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png"
       },
-	    
+ 
 	       {
         "name": "CANAL 13",
         "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/614188",
@@ -3394,7 +3393,7 @@
       }
     ]
   },
-
+ 
 	 {
     "name": "📺CHINA🇨🇳",
     "samples": [
