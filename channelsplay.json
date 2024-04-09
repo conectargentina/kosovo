@@ -127,21 +127,7 @@
 	 {
               "name": "⚽SUPERLIGA Y COPA ARGENTINA 🇦🇷",
               "samples": [
-                  {
-                      "name": "ESPN PREMIUM RESPALDO",
-                      "uri": "https://multiextrem.live:8443/Usuario0909884/Pass8d99835/556678",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
-                  },
-    {
-                      "name": "ESPN PREMIUM RESPALDO 2",
-                      "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/158832.m3u8",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
-                  },
- {
-                      "name": "ESPN PREMIUM RESPALDO 3",
-                      "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/1652.m3u8",
-                      "icono": "https://upload.wikimedia.org/wikipedia/commons/d/db/ESPN_Premium_logo.png"
-                  },
+          
       {
         "name": "ESPN PREMIUM FHD",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd",
