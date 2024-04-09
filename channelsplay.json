@@ -14,7 +14,21 @@
  {
               "name": "✅EVENTOS TELEPLAY📅",
               "samples": [
- 
+ {
+                      "name": " BOCA JRS - SUDAMERICANA",
+                      "uri": "https://multiextrem.live:8443/live/Usuario85378985/Pass8d99835790/802895.m3u8",
+                      "icono": "https://i.postimg.cc/Kc9XQFrd/ESTO-ES-TV-COPA-SUDAMERICANA.png"
+                  },
+ {
+                      "name": " BOCA JRS - SUDAMERICANA",
+                      "uri": "https://multiextrem.live:8443/live/Usuario85378985/Pass8d99835790/709630.m3u8",
+                      "icono": "https://i.postimg.cc/Kc9XQFrd/ESTO-ES-TV-COPA-SUDAMERICANA.png"
+                  },
+{
+                      "name": "BOCA JRS - SUDAMERICANA",
+                      "uri": "http://zoomplay.online/live/994661955/196244635/1113540.m3u8",
+                      "icono": "https://i.postimg.cc/Kc9XQFrd/ESTO-ES-TV-COPA-SUDAMERICANA.png"
+                  },
  {
                       "name": "COPA ARGENTINA",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
@@ -27,11 +41,7 @@
                       "uri": "https://multiextrem.live:8443/Usuario85378985/Pass8d99835790/411418",
                       "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
                   },
-{
-                      "name": "PRUEBA TYC SPORTS",
-                      "uri": "https://multiextrem.live:8443/Usuario85378985/Pass8d99835790/411418",
-                      "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
-                  },
+
  {
         "name": "TYC SPORTS",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
