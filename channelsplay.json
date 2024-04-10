@@ -15,35 +15,15 @@
               "name": "✅EVENTOS TELEPLAY📅",
               "samples": [
  {
-                      "name": " BOCA JRS - SUDAMERICANA",
-                      "uri": "https://multiextrem.live:8443/live/Usuario85378985/Pass8d99835790/802895.m3u8",
-                      "icono": "https://i.postimg.cc/Kc9XQFrd/ESTO-ES-TV-COPA-SUDAMERICANA.png"
-                  },
- {
-                      "name": " BOCA JRS - SUDAMERICANA",
-                      "uri": "https://multiextrem.live:8443/live/Usuario85378985/Pass8d99835790/709630.m3u8",
-                      "icono": "https://i.postimg.cc/Kc9XQFrd/ESTO-ES-TV-COPA-SUDAMERICANA.png"
-                  },
-{
-                      "name": "BOCA JRS - SUDAMERICANA",
-                      "uri": "http://zoomplay.online/live/994661955/196244635/1113540.m3u8",
-                      "icono": "https://i.postimg.cc/Kc9XQFrd/ESTO-ES-TV-COPA-SUDAMERICANA.png"
-                  },
- {
                       "name": "COPA ARGENTINA",
                       "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-                      "icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
-                  },
-{
-                      "name": "TYC SPORTS",
-                      "uri": "https://multiextrem.live:8443/Usuario85378985/Pass8d99835790/411418",
-                      "icono": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png"
+                      "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
                   },
 
  {
-        "name": "TYC SPORTS",
+        "name": "COPA ARGENTINA",
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
@@ -54,12 +34,12 @@
         "uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
-		"icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
+		"icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
       },
  {
                       "name": "COPA ARGENTINA",
                       "uri": "https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8",
-                      "icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
+                      "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
                   },
 		{
                       "name": "🇺🇸MLS",
@@ -116,7 +96,7 @@
  {
                       "name": "test",
                       "uri": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/1830.m3u8",
-                      "icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
+                      "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
                   },
  {
                       "name": "test",
@@ -1761,6 +1741,13 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e32aaa4b67430b3b51be1efce5a74ac5&key=ad60c5e1d378a97271bf8688f094d092",
         "icono": "https://i.ibb.co/ScjYgWj/Logo-Canal26.jpg"
+      },
+ {
+        "name": "CANAL 12 MISIONES",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://dl.dropbox.com/scl/fi/heg0oev5bm5n4nhr74ilq/KEY.canal12misiones.json?rlkey=sazgmn8reshu1c9zqqa8bwty8&dl=0",
+        "icono": "https://i.ibb.co/FhsDBQ3/unnamed-3.webp"
       },
       {
         "name": "BRAVO TV",
