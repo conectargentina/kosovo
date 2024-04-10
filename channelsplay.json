@@ -390,39 +390,7 @@
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png"
       },
  
-     {
-        "name": "DIRECTV MOTORS",
-        "uri": "https://proxy.sintv.cl/py.php/https://1279-abc-da-bpk.dtvott.com/dash_live_1279/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=86531a9305d65cb78b18b2c14024320e&key=0070dbc490f3b5edfe1f68503fb6402c",
-        "icono": "https://i.ibb.co/qgCXCfr/6481c3f81fdc4-838x390.jpg"
-      },
- 
-     {
-        "name": "DIRECTV SPORTS 1",
-        "uri": "http://209.45.81.84:8000/play/a03d",
-        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-      },
- 
-       {
-        "name": "DIRECTV 2 MPD",
-        "uri": "https://proxy.sintv.cl/py.php/https://1046-vos.dtvott.com/DASH/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7ac053ce4a6c3786a71c23c36bfed028&key=b324da5a858840ee79ba4bc1df9ffd95",
-        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-      },
-     {
- 
-        "name": "DIRECTV 2",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1243",
-        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-      },
-      {
-        "name": "DIRECTV PLUS",
-        "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1244",
-        "icono": "https://i.ibb.co/hMq03RK/DTVSPORTS.png"
-      },
-       {
+          {
         "name": "MOVISTAR LA LIGA",
         "uri": "http://offshore.lat:8080/crueltv2023@/eY7x2kzuHt/1264",
         "icono": "http://imgfz.com/i/7WlrgTF.png"
