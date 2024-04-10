@@ -2101,6 +2101,11 @@
         "uri" : "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
 		"icono": "https://upload.wikimedia.org/wikipedia/commons/e/e2/C6Digital.png"
       },
+  {
+        "name": "TELEPOSADAS",
+        "uri": "https://adp.fk9.pw:30443/edge/ver107ad4cc88ebcf9712d02deb824d6b6d/playlist.m3u8",
+	"icono": "https://i.ibb.co/D5w3N5n/photo-4951872193508257266-y.jpg"
+      },
 {
         "name": "CANAL 2 MISIONES",
         "uri" : "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8",
