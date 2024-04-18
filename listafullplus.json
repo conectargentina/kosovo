@@ -45,23 +45,20 @@
       },
       {
         "name": "🇵🇾FÚTBOL PARAGUAY",
-        "uri": "https://live-ak2.vimeocdn.com/e6a966b4-18e9-458e-9337-c99535510291/hdntl=exp=1713045336~acl=%2f*~data=hdntl~hmac=fe21b1c7f1096f2fb7bf28175bd29546c7945bd2e7dfb6ee8e6a7074af65196e/chunklist_b6256000.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/298",
         "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
       },
       {
         "name": "🇵🇾FÚTBOL PARAGUAY 3",
-        "uri": "http://zeuspro.xyz:8080/ossi2022/RNe48QBDyX/3753",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/297",
         "icono": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png"
       },
       {
-        "name": "🇦🇪LIGA ARABE - RSL",
-        "uri": "http://1line.ttvrilieos.xyz:8080/JoseWeib-TV/5wjQDud0Ta/4349",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
-      },
-      {
-        "name": "🇦🇪LIGA ARABE - RSL",
-        "uri": "http://1line.ttvrilieos.xyz:8080/JoseWeib-TV/5wjQDud0Ta/4356",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png"
+        "name": "LIGA ÁRABE",
+        "uri": "https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d84c325f36814f39bbe59080272b10c3&key=550727de4c96ef1ecff874905493580f",
+        "icono": "https://i.ibb.co/LRGKSN7/Logo-SSC1-HD.png"
       },
       {
         "name": "🏎️FORMULA 1",
@@ -74,14 +71,19 @@
         "icono": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg"
       },
       {
-        "name": "HBO MAX BRASIL",
-        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922583.m3u8",
-        "icono": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png"
+        "name": "STAR+ 1",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/222798",
+        "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
       },
       {
-        "name": "HBO MAX BRASIL 2",
-        "uri": "http://zoomplay.online/live/Teleplay335780/805377639/922584.m3u8",
-        "icono": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png"
+        "name": "STAR+ 2",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/222800",
+        "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
+      },
+{
+        "name": "STAR+ 3",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/222802",
+        "icono": "https://i.ibb.co/YhLFdC5/562158.webp"
       },
       {
         "name": "UFC FIGHT",
