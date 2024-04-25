@@ -1967,6 +1967,11 @@
       }, 
  {
         "name": "ESPN",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/242596",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
+      },
+ {
+        "name": "ESPN",
         "uri": "https://multiextrem.live:8443/live/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/556679.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
       },
