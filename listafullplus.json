@@ -1055,131 +1055,44 @@
         "uri": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
         "icono": "https://i.ibb.co/sgbg5Jh/Belarus-5-Internet.png"
       },
-      {
-        "name": "ZIGGO SPORT",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggospo1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90e32a4712f5480bab7abc8a4fef25da&key=2eeb49a8688f2365e1131cf4ae4d6f0a",
-        "icono": "https://i.ibb.co/cXj909k/ziggo-sport.png"
+              {
+        "name": "SPORT TV HD",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211883",
+        "icono": "https://i.ibb.co/Br11wNc/sport-tv.png"
       },
-      {
-        "name": "ZIGGO SPORT SELECT",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggosel1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=25586a5ca20847d684579cce0c2ecacc&key=9c92162b23709653688a471bec0cf19b",
-        "icono": "https://i.ibb.co/3TgdzTh/ziggo-sport-select.png"
-      },
-      {
-        "name": "ZIGGO SPORT DOCU",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggodoc1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=25586a5ca20847d684579cce0c2ecacc&key=9c92162b23709653688a471bec0cf19b",
-        "icono": "https://i.ibb.co/TcP9pgg/ziggo-docu.png"
-      },
-      {
-        "name": "ZIGGO SPORT VOETBAL",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggovoe1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=25586a5ca20847d684579cce0c2ecacc&key=9c92162b23709653688a471bec0cf19b",
-        "icono": "https://i.ibb.co/6Nd0wWj/ziggo-voetbal.png"
-      },
-      {
-        "name": "ZIGGO SPORT RACING",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggorac1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=25586a5ca20847d684579cce0c2ecacc&key=9c92162b23709653688a471bec0cf19b",
-        "icono": "https://i.ibb.co/yY5m5FK/ziggo-sport-racing.png"
-      },
-      {
-        "name": "ZIGGO SPORT GOLF",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggogol1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=25586a5ca20847d684579cce0c2ecacc&key=9c92162b23709653688a471bec0cf19b",
-        "icono": "https://i.ibb.co/N1g6v6w/ziggo-golf.png"
-      },
-      {
-        "name": "ZIGGO SPORT TENNIS",
-        "uri": "https://archive.org/download/2_20231125_202311/ziggoten1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=25586a5ca20847d684579cce0c2ecacc&key=9c92162b23709653688a471bec0cf19b",
-        "icono": "https://i.ibb.co/VmTByFX/ziggo-tennis.png"
-      },
-      {
-        "name": "ESPN  NL",
-        "uri": "https://archive.org/download/2_20231125_202311/espnl1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b18766306c8b4446a7431f3664976a5e&key=064cf3223b9c2bdda24e9f89bf28a6d2",
-        "icono": "http://78.47.174.211/logos/espn.png"
-      },
-      {
-        "name": "ESPN  2  NL",
-        "uri": "https://archive.org/download/2_20231125_202311/espn2nl1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b18766306c8b4446a7431f3664976a5e&key=064cf3223b9c2bdda24e9f89bf28a6d2",
-        "icono": "http://78.47.174.211/logos/espn2.png"
-      },
-      {
-        "name": "ESPN  3  NL",
-        "uri": "https://archive.org/download/2_20231125_202311/espn3nl1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b18766306c8b4446a7431f3664976a5e&key=064cf3223b9c2bdda24e9f89bf28a6d2",
-        "icono": "http://78.47.174.211/logos/espn3.png"
-      },
-      {
-        "name": "ESPN  4  NL",
-        "uri": "https://archive.org/download/2_20231125_202311/espn4nl1.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b18766306c8b4446a7431f3664976a5e&key=064cf3223b9c2bdda24e9f89bf28a6d2",
-        "icono": "http://78.47.174.211/logos/espn4.png"
-      },
-      {
-        "name": "FIFA+ ES",
-        "uri": "https://8deea4ad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1lc19GSUZBUGx1c19ITFM/playlist.m3u8",
-        "icono": "https://i.ibb.co/DrKBzfw/fifa-plus.png"
-      },
-      {
-        "name": "FIFA+ DE",
-        "uri": "https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1484&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
-        "icono": "https://i.ibb.co/DrKBzfw/fifa-plus.png"
-      },
-      {
-        "name": "FIFA+ IT",
-        "uri": "https://6d42a49f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pdF9GSUZBUGx1c19ITFM/playlist.m3u8?ads.wurl_channel=1464&ads.wurl_name=FIFAPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
-        "icono": "https://i.ibb.co/DrKBzfw/fifa-plus.png"
-      },
-      {
+              {
         "name": "SPORT TV +",
-        "uri": "https://archive.org/download/sportv4/sportv01.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211878",
         "icono": "https://i.ibb.co/Br11wNc/sport-tv.png"
       },
       {
         "name": "SPORT TV 1",
-        "uri": "https://archive.org/download/sportv4/sportv11.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211878",
         "icono": "https://i.ibb.co/7rtNQtf/sport-tv1.png"
       },
       {
         "name": "SPORT TV 2",
-        "uri": "https://archive.org/download/sportv4/sportv21.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211879",
         "icono": "https://i.ibb.co/6BVGtTk/sport-tv2.png"
       },
       {
         "name": "SPORT TV 3",
-        "uri": "https://archive.org/download/sportv4/sportv31.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211880",
         "icono": "https://i.ibb.co/yY4Dnp6/sport-tv3.png"
       },
       {
         "name": "SPORT TV 4",
-        "uri": "https://archive.org/download/sportv4/sportv41.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211881",
         "icono": "https://i.ibb.co/4F9P90N/sport-tv4.png"
       },
       {
         "name": "SPORT TV 5",
-        "uri": "https://archive.org/download/sportv4/sportv51.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211882",
         "icono": "https://i.ibb.co/4N2dS65/sport-tv5.png"
       },
       {
         "name": "SPORT TV 6",
-        "uri": "https://archive.org/download/sportv4/sportv61.m3u8",
+        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/27881",
         "icono": "https://i.ibb.co/289dGkk/sport-tv6.png"
       },
       {
@@ -1196,35 +1109,7 @@
         "name": "CCTV-GOLF",
         "uri": "https://edge2.laotv.la/live/CCTVGolf/index.m3u8",
         "icono": "https://i.ibb.co/g7JZnss/cctv-golf.png"
-      },
-      {
-        "name": "CANAL+ LIGUE 1 UBER EATS",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-046/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/QrQwtvK/Canal-Ligue-1-Uber-Eats.png"
-      },
-      {
-        "name": "PLAY  SPORTS  1",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-051/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/V2VrhJR/Play-Sports-1.png"
-      },
-      {
-        "name": "PLAY  SPORTS  2",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-052/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/f2SwBKr/Play-Sports-2.png"
-      },
-      {
-        "name": "PLAY  SPORTS  3",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-053/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/Wswf1LY/Play-Sports-3.png"
-      },
+      },       
       {
         "name": "ARENA  1  PREMIUM",
         "uri": "http://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v",
