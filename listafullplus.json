@@ -652,7 +652,7 @@
       },
       {
         "name": "DAZN LA LIGA",
-        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/46970",
+        "uri": "https://multiextrem.live:8443/live/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/544810.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png"
       },
       {
@@ -2203,8 +2203,10 @@
       },
       {
         "name": "AMERICA SPORTS",
-        "uri": "http://177.128.115.21:8080/live/Binet/6UkGawEA4z/94.ts",
-        "icono": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png"
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a0aa01337a2148bda1e21862295ae037&key=fee0f87a0527497351fc54ce36ad1de2",
+        "icono": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg"
       }
     ]
   },
