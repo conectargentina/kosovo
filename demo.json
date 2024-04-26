@@ -5619,268 +5619,170 @@
     ]
  },
  {
-    "name": "📺BOLIVIA🇧🇴",
+    "name": "🔞Contenido Prohibido para menores",
     "mode": false,
     "lista": [
-        {
-            "name": "TIGO SPORTS 1",
-            "ico": "https://i.imgur.com/9Morx56.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W1u2lH7SFkR8Qt0I5lPN8ZU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TIGO SPORTS 2",
-            "ico": "https://i.imgur.com/9Morx56.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W1u2lH7SFkR8Qt0I5lPN8ZU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RED UNO LPZ",
-            "ico": "https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg",
-            "uri": "SvV1AlvVJHVn7BHTtEB5tWVxnTwP2m9MiGSL8sBaVzXP9wkpR99S2gynS0TLTIo2ninXKJJOyGM5GJcwfBmrTYkpTVKwJbpAbVPnNYN7igKLCXRyPeGS+IYfkJNjPKRzXKGVzHCLTGqcpI9Clx9MbJtv3vD5HGS75VT1s5OUEuRvVTUNXuuJ8/R5Bz55reK4ws+5PlaYMuRxvYNtLLSv3ADB83YJT3FanFPnAFkWV6w=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "UNITEL NACIONAL",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/8/88/Unitel_HD.jpg",
-            "uri": "NuGFlmO7RjmsG0cxprBIDVojw0YqzqH+QueYp+3z/JuH0+1p5cY9BMik1xEfsfWrrHntfvt9I8odnX3s0jOO8vgCamBBWcXteL2zDTTYnJ4aDjSaB1gOB9rouV4oAc4BiDfTSoOlLxeHxtfjSp25t31ZCAeGEED0KcB8Ov/bg9aiXtg4ZYfBUZAXfDg7zq/3",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "BOLIVISION",
-            "ico": "https://i.ibb.co/68wjssL/rtp.jpg",
-            "uri": "IHeNGLmDJlw4LnNXiFUvvplN6SzDcAA05Z3AYjL2ZTCxg4ZlPm3DRL6o3Ui+nVDpkbP2Jtx7d0SuPHLaBWYBYw==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RTP LA PAZ",
-            "ico": "https://i.ibb.co/68wjssL/rtp.jpg",
-            "uri": "IHeNGLmDJlw4LnNXiFUvvplN6SzDcAA05Z3AYjL2ZTCxg4ZlPm3DRL6o3Ui+nVDpkbP2Jtx7d0SuPHLaBWYBYw==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CADENA A HD NOTICIAS 24/7",
-            "ico": "https://i.ibb.co/d664F5t/CADENA-A-HD.jpg",
-            "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP5l3hrGw4iG75gyN5QLD0xNZuj4YWkt6MAlb8azlvW7OY6z4dyRTC9xNpua1Vrct8OOpLkbxaiWlBkvZ61pj5ft",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "BOLIVIA 7.1 HD",
-            "ico": "https://i.ibb.co/8PNDmWQ/BOLIVIA-TV-7-1.jpg",
-            "uri": "Oaqu5qshuC9lb+Jrcbfq7SkpQN+rEkcnFPTsyd97E2/WL6LRjOB5siipgD2J8mVQmoiQW5M/+JRLocUqZfwkNQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "BOLIVIA 7.2 HD",
-            "ico": "https://i.ibb.co/BNh6Y7T/BOLIVIA-TV-7-2.jpg",
-            "uri": "I4DTnLC8lHqQHc+ND0cYwANxg/YiSuk9VDXzvWMi6X4yxfb1qerQnyfC0OgX5w7H65IgaqjkTTCtf/gTcSB9e9UoDgUCgzSMh0HHD/H8YKndGN+1EMXDV/1Yor52TBrq",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TVU UMSA HD",
-            "ico": "https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg",
-            "uri": "fLGbl/k7FctfxBHGufOBoKYhs2sGazSaOpXGLyR6zdgek5o3i4WbMyZPuBbCLoBmok9WKzcbflnRlFgGLJfEjg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "SEO TV HD",
-            "ico": "https://i.ibb.co/8X8Qdg4/270036729-2322470231226306-5366687394008496867-n.jpg",
-            "uri": "RicvLTb/af53MYQobt9dPuVTspmB+Cz4M4AO33AN1vhfj/KQPU8BTlrQ0EozAmGn",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RED UNO",
-            "ico": "https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png",
-            "uri": "SvV1AlvVJHVn7BHTtEB5tWVxnTwP2m9MiGSL8sBaVzU8Ai3iHQCBz8Iezty+XTpSomgFJie9vButd1nGWKzc89kC3i/kObbvk2EGW2UcXJRi2DF6SPZRIcoWGqt21lyRt3Ynbilo387sy50webm/RWWvrQElIL/tET9vifmToT3Iu8iSp2jw9drM3nmpPoDpO3TXSsDHFc8ZZqQ0CJWHE2F8l8KHK9ktaH5RHKbPUJeW/Mzkt43Ba0vpQz9S1Spb",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "PAT SANTA CRUZ HD",
-            "ico": "https://i.ibb.co/CW9mjpC/PAT-HD-01.jpg",
-            "uri": "VpB5QEJtRdo5mjKsVCaUu5UOTPtgV4BU/qqenyKyMTCAFB+ZaaYS9Ks54Wp3dOA+",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "MEGA TV HD",
-            "ico": "https://i.ibb.co/CbKyxbd/MEGATV-BOLIVIA-HD.jpg",
-            "uri": "XPG+hF+MPuAx2jLRqrZ3UdhvUsSnWdgmCXMgLGhiKhfwNDFXNn73dVumdMNptfp8vuuKLk0UZ4tBnQqcSVs20eNVxa4GPdwJQyvtBrt4GmQ=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RED TV HD",
-            "ico": "https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5yNnODkNxGESZIUoDoeYnVJbfh1T3k0R7uDZP0/oiUPg6rMvcBCt6fg14Yk8B1yA7w==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TV LATINA HD",
-            "ico": "https://i.ibb.co/bgscxnc/LATINA-HD.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5x9D8rS/5WEHBiEb3CFBtw/WuXwW3vnTN1SzXcaEJy9yEKrCfexQ4WRrX2eUE4yBssYome4riV6NZUKzWuJ0Sk4=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RED GIGAVISIÓN",
-            "ico": "https://i.postimg.cc/6pKHv8FR/RED-GIGAVISION-HD.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5zyy2q9rorUpojcJMicwmxe54HjtyDrxeGKbydmqWXDCjJqBEpGpWgD7RKdVZzzaSA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "VIRGEN DE COPACABANA HD",
-            "ico": "https://i.ibb.co/brY56Hk/cvc-hd-virgen.jpg",
-            "uri": "yCri4GoX9pex75825Tq/0mbSrknwTqfDbeqqQ45/k7QzNz705NueIWjQ+hdy0iGHisMT3oIJ0Epks8XCGYz5V8nzi4nYId+zLQ5aqK8Tb9M=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "UNIVALLE TV HD",
-            "ico": "https://i.ibb.co/djxLpSq/univalle-tv-hd.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5+b2LFoPFm89jme9w6XpLTqJdBWNJxNN3XY52CjwwufLhuf0hmgIpgGhSX5O2ZATyQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RTVE PUNATA",
-            "ico": "https://i.ibb.co/444NgrX/RTVE-PUNATA-HD.jpg",
-            "uri": "l56vu4xHuYmPI8hN1f9+aVka+3v0djXMk1EQj3YWak/5QFFUmr9e18+SxuSuwWG+uQ23i36TR4fZ9oQxEkCx/g==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "FTV HD",
-            "ico": "https://i.ibb.co/26n5n3t/FTV-HD.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5yVOaSdb+JU8hv2MoVGUkIyrM3bTJuA92J40cr/4syIJvHiuSMuCcfz7EgKeU9fGGQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "DELTA TV HD",
-            "ico": "https://i.ibb.co/xCJhqyJ/DELTA-TV-HD-02.jpg",
-            "uri": "j7p+k3SK4wsYwLFK3WlRJstfQ1ryHKk3tGTLehH/Qw0rv2kq5dWeLGhxkOxEp/CdBm4Eqj485V4rfevi9VlvL9cx7U0gkSqbOp7NW3NkaEw=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "F10 HD",
-            "ico": "https://i.ibb.co/ggkqLnh/F10-HD.jpg",
-            "uri": "fLGbl/k7FctfxBHGufOBoNzrd9RNCcd5rkYXRgAzZTQlbAi/yWht8ytpZpY7VkLxyV17FieNtDT2tRxYdPj2VA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TV MEGAVISIÓN HD",
-            "ico": "https://i.postimg.cc/qRyzkg7K/MEGAVISION-HD.jpg",
-            "uri": "fLGbl/k7FctfxBHGufOBoHUyYghtsAUqa5J8MGgUPEpDc3lo+74vofHmw1JI/SUThMBgZWO3xI8uadaiPfSrrQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "AYNI TV Bolivia | La Paz",
-            "ico": "https://i.ibb.co/t4tfF61/288171687-180005761148819-2462683495451371972-n.jpg",
-            "uri": "XPG+hF+MPuAx2jLRqrZ3UdhvUsSnWdgmCXMgLGhiKhf1wklVbw+0Kkik/nKNKU90mtxpGXEbEswIxR0U0/3Ia5jg7j8b8r0Fv+TwNypb1uo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Bolivia Tv",
-            "ico": "https://i.ibb.co/F8J82jc/321372934-480154454245461-8323754685387521389-n.jpg",
-            "uri": "gS/PmwQog4QTiN05+N1gZfD/jUYYwuMFJpSgM6/1MFd/ocgq/yFUCt6Q5dqJ0m2W+d7rAHqb6FPCYsMj8NCjZiz2xSaq1upR+vMIWE1/cDE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "XTOTV Bolivia",
-            "ico": "https://i.ibb.co/3Tw2fjh/unnamed.jpg",
-            "uri": "IHeNGLmDJlw4LnNXiFUvvuEAol0WnQ9SSpZwzV/cSVx8dRMFQlFbn178JeFrP7h6X/tth+T/vz0S5ZXF2V1g3Q==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RTP Bolivia",
-            "ico": "https://emite.info/wp-content/uploads/2022/11/rtp1.jpg",
-            "uri": "IHeNGLmDJlw4LnNXiFUvvplN6SzDcAA05Z3AYjL2ZTALboowK3h03Ve+bzKcNverNs/v9TZo18JuEXaqdGt1zDeoUHPWHTeNgUji+Hmh9HA=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ATB Digital Cochabamba",
-            "ico": "https://i.ibb.co/Kz6w87R/images-q-tbn-ANd9-Gc-Tdg-Z8-M1-TDPHl-SNydapbqj0-Wy-GE1u-Emw-OQh7-Ky-Ca-Uex-SR10r-IT9-GT37-OS560cx-PH.png",
-            "uri": "jraatSiiMcacHpVN/ambhDj6gxTxI3dZ8NPIsMVbMrUsJ3c29lbsMepC0pKdUbZv",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "DT Play (Deporte Total)",
-            "ico": "https://i.ibb.co/BBDw3MS/images-q-tbn-ANd9-Gc-RKk-VAn-Xj1e-UIm9-Nr-Sj-BKD-PPPNiv-R0-RPq-Si-VO3-vopniu-XT-hr-Kmaf-XHp-U9q-YYQD.jpg",
-            "uri": "l3oHBC8pCpDP+2hVELEgpPw1DybMlD/lC0/tPvCLbHKDrWHl/YSiEmCasdJXP8xbDpgdnmFNaoUSi+t5T+Cy0A==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "FTV Red Nacional",
-            "ico": "https://i.ibb.co/Prct1gv/hqdefault.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5y2bLx568UtmjwKgNjRPUbI4eoPucO8S3E8bOOqhf91C",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "MegaTV",
-            "ico": "https://www.coolstreaming.us/img/ch/ima19723624875.jpg",
-            "uri": "XPG+hF+MPuAx2jLRqrZ3UdhvUsSnWdgmCXMgLGhiKhfwNDFXNn73dVumdMNptfp8f5Uj+QKPnDgifYu47VosrEDQzkxSB+AatcktCI0YtdI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Erbol",
-            "ico": "https://cdn.bolivia.com/canales/-3459.jpg",
-            "uri": "OyR9dpbygubkq60q9MMHA2SGc7tpCNmxWCcu6ZQQpoxNsIAvS5Az4quIzpxzd52pdzqX6sFJ6wDX2YPYET6Ejw==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "PRUEBA",
-            "ico": "https://cdn.bolivia.com/canales/-3459.jpg",
-            "uri": "4gK8XhubXT6rU7sxaZrXEY8+1/o9VTTmYmVKtfK+FOU0lUwd6cNgPmwTlfVtyvjKYp8e7zMPqlch4Wq/TAqbJg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "PRUEBA2",
-            "ico": "https://cdn.bolivia.com/canales/-3459.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8YG/VId+yVHkzP55NMC8w1uK39q5xeBGbMQ9+fpknXv4=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "PRUEBA 3",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
-            "uri": "mTx7gT0gqJHpXLSOrgZLWlpl0hembbZYWU+qid8T1ZPRItd5YbJqBuBFdFbM+Ts+z9p4kxur/0R8k8wOKROTqBUzO4MhNf65N9Bjm8pK+JI=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQNjjZIZuG+V9T0Q9lJo8EtdW9BfxQk7BKreMdRoOWqXgHgMkLF2oHnx9cJPL3WAW7FWFJ15RkVkbPEpKO8MVkvSNsPdy5HF7l+qnBtMeqK+VuGcsPvbyPs6GjIg0KMJVg=="
-          },
-          {
-            "name": "TVLATINA",
-            "ico": "https://i.ibb.co/QDcfX4Y/1691081718835.jpg",
-            "uri": "loP5t1cae7ptawJIEP4L5x9D8rS/5WEHBiEb3CFBtw/WuXwW3vnTN1SzXcaEJy9y86ln53zyHbZ5r+4bh6/3Fg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+{
+        "name": "Hardcore",
+        "uri": "http://live.adultiptv.net/hardcore.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+{
+        "name": "Cuckold",
+        "uri": "http://live.adultiptv.net/cuckold.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Brunette",
+        "uri": "http://live.adultiptv.net/brunette.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Blonde",
+        "uri": "http://live.adultiptv.net/blonde.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Gay",
+        "uri": "http://live.adultiptv.net/gay.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Asian",
+        "uri": "http://live.adultiptv.net/asian.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	   
+{
+        "name": "Milf",
+        "uri": "http://live.adultiptv.net/milf.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Big Dick",
+        "uri": "http://live.adultiptv.net/bigdick.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Big Tits",
+        "uri": "http://live.adultiptv.net/bigtits.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "PornStar",
+        "uri": "http://live.adultiptv.net/pornstar.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Big Ass",
+        "uri": "http://live.adultiptv.net/bigass.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Interracial",
+        "uri": "http://live.adultiptv.net/interracial.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Latina",
+        "uri": "http://live.adultiptv.net/latina.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "POV",
+        "uri": "http://live.adultiptv.net/pov.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Blowjob",
+        "uri": "http://live.adultiptv.net/blowjob.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+{
+        "name": "Teen",
+        "uri": "http://live.adultiptv.net/teen.m3u8",
+        "icono": "https://redlight.tv/Newredlight/wp-content/uploads/2021/08/Vivid-Red-Final-transparent-1024x395.png"
+         },
+	     {
+        "name": "Adultos 1",
+        "uri": "https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+{
+        "name": "Adultos 2",
+        "uri": "https://videomy.yongaomy.com:8091/20191227/jPKXM7bL/1500kb/hls/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+{
+        "name": "Adultos 3",
+        "uri": "https://videomy.yongaomy.com:8091/20200126/SW-587/1500kb/hls/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 4",
+        "uri": "https://fc.maa1808.com/m/rwrhezjunn/rwrhezjunn.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 5",
+        "uri": "https://videomy.yongaomy.com/xiezhen/LD-011/1500kb/hls/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Adultos 6",
+        "uri": "https://fc.maa1809.com/h/soknsufnkn/soknsufnkn.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 7",
+        "uri": "https://fc.maa1809.com/d/kvrynihixm/kvrynihixm.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 8",
+        "uri": "https://fc.maa1809.com/c/fkkrigoeyk/fkkrigoeyk.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Adultos 9",
+        "uri": "https://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-230/1500kb/hls/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Adultos 10",
+        "uri": "https://videomy.yongaomy.com:8091/20200110/SNIS-270/1500kb/hls/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 11",
+        "uri": "https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 12",
+        "uri": "https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/0a295389/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 13",
+        "uri": "http://restreamus.com:8080/chi2022f/pa7f2qnDfvpr/1322",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      },
+	    {
+        "name": "Adultos 14",
+        "uri": "https://t12.cdn2020.com:12337/video/m3u8/2021/11/02/5f94e342/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 15",
+        "uri": "https://fc.maa1809.com/f/pngqwnljfg/pngqwnljfg.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }, 
+	    {
+        "name": "Adultos 16",
+        "uri": "https://t12.cdn2020.com:12337/video/m3u8/2021/11/11/6ccddad1/index.m3u8",
+	"icono": "https://www.seekpng.com/png/detail/232-2322543_be-gamble-aware-gamstop-18-logo-png.png"
+      }
     ]
  }
 ]
