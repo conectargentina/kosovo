@@ -652,7 +652,7 @@
       },
       {
         "name": "DAZN FORMULA 1",
-        "uri": "http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/154812",
+        "uri": "https://multiextrem.live:8443/live/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/544213.m3u8",
         "icono": "https://cdn.sincroguia.tv/uploads/images/1/k/u/xdazn.jpg.pagespeed.ic.aAtE5-BNU0.jpg"
       },
       {
@@ -770,49 +770,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3d04975236a44f62857d181597705ee6&key=362133e9cb13189ad4fe095ced216f60",
         "icono": "https://i.ibb.co/1vCnWjR/ssc-news.png"
       },
-      {
-        "name": "CANAL+ SPORT PL",
-        "uri": "http://194.55.5.143:80/live/store01/CplusSportHD/hd2-dashdrm02/CplusSportHD.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://archive.org/download/cplus-sport/cplus-sport.json",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/640px-Logo_Canal%2B_Sport_2013.svg.png"
-      },
-      {
-        "name": "ELEVEN SPORTS 1 PL",
-        "uri": "http://194.55.5.143:80/live/store01/11Sports1/hd2-dashdrm02/11Sports1.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://archive.org/download/cplus-sport/eleven1-pl.json",
-        "icono": "https://i.ibb.co/gr6319H/eleven-sports-1.png"
-      },
-      {
-        "name": "ELEVEN SPORTS 2 PL",
-        "uri": "http://194.55.5.143:80/live/store01/11Sports2/hd2-dashdrm02/11Sports2.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://archive.org/download/cplus-sport/eleven2-pl.json",
-        "icono": "https://i.ibb.co/rmFtX4d/eleven-sports-2.png"
-      },
-      {
-        "name": "ELEVEN SPORTS 3 PL",
-        "uri": "http://194.55.5.143:80/live/store01/11Sports3/hd2-dashdrm02/11Sports3.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://archive.org/download/cplus-sport/eleven3-pl.json",
-        "icono": "https://i.ibb.co/CWfHsdF/eleven-sports-3.png"
-      },
-      {
-        "name": "POLSAT SPORT PREMIUM 1",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://archive.org/download/polsat-premium1/polsat-premium1.json",
-        "uri": "http://194.55.5.143:80/live/store01/PolsatPRE1/hd2-dashdrm02/PolsatPRE1.mpd?id=%22avc1_4500000=10005%22",
-        "icono": "https://i.ibb.co/0C16DGY/Polsat-Sport-Premium-1.png"
-      },
-      {
-        "name": "POLSAT SPORT PREMIUM 2",
-        "uri": "http://194.55.5.143:80/live/store01/PolsatPRE2/hd2-dashdrm02/PolsatPRE2.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://archive.org/download/polsat-premium2/polsat-premium2.json",
-        "icono": "https://i.ibb.co/L0nPp1k/Polsat-Sport-Premium-2.png"
-      },
-      {
+       {
         "name": "MLB  NETWORK",
         "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-026/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
         "drm_scheme": "clearkey",
@@ -826,20 +784,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
         "icono": "http://78.47.174.211/logos/nflnetwork.png"
       },
-      {
-        "name": "NBA TV",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-035/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "https://i.ibb.co/rcDM8mf/ar-nba-tv-m.png"
-      },
-      {
-        "name": "USA NETWORK US",
-        "uri": "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=882c9f5613b43b47adc70aa968a308ce&key=de534ef8914bfe62ba3cdd6bdb9e1c04",
-        "icono": "http://78.47.174.211/logos/usanetwork.png"
-      },
+            
       {
         "name": "NBC SPORTS",
         "uri": "https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd",
@@ -854,56 +799,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
         "icono": "https://i.ibb.co/ZdhGKSh/nbc.png"
       },
-      {
-        "name": "CBS",
-        "uri": "http://38.96.178.201/live/CBS/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "https://i.ibb.co/FH35J9G/cbs.png"
-      },
-      {
-        "name": "ABC US",
-        "uri": "http://38.96.178.201/live/ABCHD/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "http://78.47.174.211/logos/abc.png"
-      },
-      {
-        "name": "FOX US",
-        "uri": "http://38.96.178.201/live/FOXHD/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "https://i.ibb.co/qdbx2SL/fox.png"
-      },
-      {
-        "name": "FS1",
-        "uri": "http://38.96.178.201/live/FS1/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "http://78.47.174.211/logos/fs1.png"
-      },
-      {
-        "name": "FS2",
-        "uri": "http://38.96.178.201/live/FOXSPORTS2/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "http://78.47.174.211/logos/fs2.png"
-      },
-      {
-        "name": "ESPN US",
-        "uri": "http://38.96.178.201/live/ESPNHD/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg"
-      },
-      {
-        "name": "ESPN 2 US",
-        "uri": "http://38.96.178.201/live/ESPN2/index.m3u8",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0020d88a6713159839743f655c5da7de&key=ba9f34226301f69a4f0f13f65a1f92ec",
-        "icono": "https://i.ibb.co/vH8JLS1/espn24510.jpg"
-      },
-      {
+          {
         "name": "ACC DIGITAL NETWORK",
         "uri": "https://dbrb49pjoymg4.cloudfront.net/10001/99991315/hls/playlist.m3u8?ads.xumo_channelId=99991315",
         "icono": "https://image.xumo.com/v1/channels/channel/99991315/600x337.webp?type=channelTile"
@@ -975,14 +871,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cb57741a1cee422690c6294a06eb1320&key=7a0cfd493df6ef7cc0d0bb3ad95cec8c",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/640px-TSN5.svg.png"
       },
-      {
-        "name": "WILLOW TV",
-        "uri": "https://linear-novi.stvacdn.spectrum.com/LIVE/1131/dash/cenc/WLLOHD_10364/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6653c05e42fc4fac8f49d7cbf99498fe&key=3b88f2cff3affef20b265c840bafc0cc",
-        "icono": "https://i.ibb.co/2dhWf3h/willow-tv.png"
-      },
-      {
+            {
         "name": "RTL Club",
         "uri": "https://origin2-rtlbe.live.6cloud.fr/pool_z6h2o6qd/clubrtl/rtlbesd/dash_short_cenc10_clubrtl/index.mpd",
         "drm_scheme": "clearkey",
@@ -1001,20 +890,7 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d12e4c9dc52f4cbab7ac9b2278317e47&key=a7987e5b6ec42db68a25486e108ca9f2",
         "icono": "https://i.ibb.co/YyfbVX6/TV2-no.png"
       },
-      {
-        "name": "TV4  SE",
-        "uri": "https://director.streaming.telia.com/tvm-packager-prod/group1/60896cc147a23d68775cd5c3/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d094d1401faa5cd29cfb361274629aad&key=793d3bf7e16e9300c0298fb2b3ba6f68",
-        "icono": "https://i.ibb.co/xsTgrH4/TV4sweden.png"
-      },
-      {
-        "name": "V SPORT 1",
-        "uri": "https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=04c5eaf62cd75f2d947ab4d621f39256&key=76967598962e7a7314a2b251e9070725",
-        "icono": "https://i.ibb.co/VC4k6ry/V-Sport-1.png"
-      },
+            
       {
         "name": "SPORTDIGITAL  FUSSBALL",
         "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-022/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
@@ -1055,47 +931,7 @@
         "uri": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
         "icono": "https://i.ibb.co/sgbg5Jh/Belarus-5-Internet.png"
       },
-              {
-        "name": "SPORT TV HD",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211883",
-        "icono": "https://i.ibb.co/Br11wNc/sport-tv.png"
-      },
-              {
-        "name": "SPORT TV +",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211878",
-        "icono": "https://i.ibb.co/Br11wNc/sport-tv.png"
-      },
-      {
-        "name": "SPORT TV 1",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211878",
-        "icono": "https://i.ibb.co/7rtNQtf/sport-tv1.png"
-      },
-      {
-        "name": "SPORT TV 2",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211879",
-        "icono": "https://i.ibb.co/6BVGtTk/sport-tv2.png"
-      },
-      {
-        "name": "SPORT TV 3",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211880",
-        "icono": "https://i.ibb.co/yY4Dnp6/sport-tv3.png"
-      },
-      {
-        "name": "SPORT TV 4",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211881",
-        "icono": "https://i.ibb.co/4F9P90N/sport-tv4.png"
-      },
-      {
-        "name": "SPORT TV 5",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/211882",
-        "icono": "https://i.ibb.co/4N2dS65/sport-tv5.png"
-      },
-      {
-        "name": "SPORT TV 6",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/27881",
-        "icono": "https://i.ibb.co/289dGkk/sport-tv6.png"
-      },
-      {
+                   {
         "name": "CCTV-5",
         "uri": "https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8",
         "icono": "https://i.ibb.co/GMTvBh2/cctv5.png"
@@ -1483,12 +1319,7 @@
         "uri": "https://edge.taghtia.com/sa/9.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg"
       },
-      {
-        "name": "KSA SPORTS 2",
-        "uri": "https://edge.taghtia.com/sa/10.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg"
-      },
-      {
+            {
         "name": "KSA SPORTS 3",
         "uri": "https://edge.taghtia.com/sa/16.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/c/cf/KSA_SPORTS.jpg"
@@ -1532,12 +1363,7 @@
         "name": "DUBAI RACING 3",
         "uri": "http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8",
         "icono": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png"
-      },
-      {
-        "name": "LIGA 1 PERÚ",
-        "uri": "http://38.68.134.177:3334/3848Yevkerkkk/Menrhrh73646aeatT/330757",
-        "icono": "https://4.bp.blogspot.com/-a-9yOEBzUF0/XDUPwBTk0HI/AAAAAAABTp4/fs9Ss5TRJAwleiM2qZqXXWCevyhkp-1QwCLcBGAs/s1600/Liga1PeruW.png"
-      }
+      }  
     ]
   },
   {
