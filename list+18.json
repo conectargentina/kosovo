@@ -3,11 +3,39 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
-            {
+           {
     "name": "✨AQUAMAN Y EL REINO PERDIDO - HD",
- "ico": "https://es.web.img3.acsta.net/pictures/23/09/20/11/47/5660137.jpg",
+    "ico": null,
     "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q25glvqYSqdgB3Q2g8alzteUuzukqCCWYgU/oX+k+lzf8",
-    "drm_scheme": null,
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨VIERNES NEGRO",
+    "ico": null,
+    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2y1I6VJjFzyotpn8Tv8ChIf/RRMneghAaxi1830IyPu2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨LOS SEGUNDONES - HD",
+    "ico": null,
+    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2wCUuZkNKBOJ0SgDaREOhWUVAFXkP670OEBbsH0nZosl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨SELFIE 69",
+    "ico": null,
+    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2xhX34FzRInNoQfMMx9WCBzBhcmhug7lxrKAkKLO3Sdz",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨EL JUEGO BONITO",
+    "ico": null,
+    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q200sHVx+ZjvxTissP443i3fBSMtvuzpCdojs2kiWsS2s",
+    "drm_scheme": "",
     "drm_license_url": ""
   }
  
