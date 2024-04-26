@@ -3,21 +3,31 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
-         {
-    "name": "✨SELFIE 69",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpAQEC42FzNF0HoLIitFmpGVtu.jpg",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2xhX34FzRInNoQfMMx9WCBzBhcmhug7lxrKAkKLO3Sdz",
-    "drm_scheme": null,
-    "drm_license_url": ""
-  },
-
- {
-            "name": "✨AQUAMAN Y EL REINO PERDIDO - HD",
-            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJcdgMLEEnTDLCZ1sl0XXW08n3A.jpg",
-            "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/698229.mp4",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+        {
+        "name": "✨AQUAMAN Y EL REINO PERDIDO - HD",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJcdgMLEEnTDLCZ1sl0XXW08n3A.jpg"
+        "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/698229.mp4",
+      },
+       {
+        "name": "✨VIERNES NEGRO",
+		"icono": "https://image.tmdb.org/t/p/w780/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg"
+        "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/703052.mp4",
+      },
+      {
+        "name": "✨LOS SEGUNDONES - HD",
+		"icono": "https://image.tmdb.org/t/p/w780/3wu1W6bvNGPm2AvVDP7dkGYF8pd.jpg"
+        "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/713232.mkv",
+      },
+      {
+        "name": "✨SELFIE 69",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpAQEC42FzNF0HoLIitFmpGVtu.jpg"
+        "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/578476.mp4",
+      },
+      {
+        "name": "✨EL JUEGO BONITO",
+		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Laz0p3Qg47vI2XIalpL2SlNUDI.jpg"
+        "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/796734.mkv",
+      },
        {
         "name": "✨VIERNES NEGRO",
         "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/703052.mp4",
