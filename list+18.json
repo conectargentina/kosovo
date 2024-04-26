@@ -3,7 +3,12 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
-        {
+           {
+        "name": "✨La sociedad de la nieve",
+        "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/703833.mp4",
+        "icono": "https://image.tmdb.org/t/p/w780/zBW3eu851EBSw9GinzRfYXeNI9e.jpg"
+      },
+ {
         "name": "✨AQUAMAN Y EL REINO PERDIDO - HD",
 		"icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJcdgMLEEnTDLCZ1sl0XXW08n3A.jpg"
         "uri": "https://multiextrem.live:8443/movie/UseruJJaJd4QFXmUo5q/ContRAe0xX9o94V8wH/698229.mp4",
