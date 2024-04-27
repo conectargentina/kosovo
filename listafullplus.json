@@ -274,6 +274,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
         "icono": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png"
       },
+{
+        "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
+        "uri": " https://edge5-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_wl/ESPN2HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=293520400880855&key=8825176629936",
+        "icono": "https://i.ibb.co/10mfrTZ/image.png"
+      },
       {
         "name": "COPA ARGENTINA",
         "uri": "https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8",
