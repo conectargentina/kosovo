@@ -577,13 +577,6 @@
     "mode": false,
     "lista": [
       {
-    "name": "BEIN SPORTS XTRA Ñ",
-    "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL2GJhqBWupJSlr1bVy14BA69i7PgpfaH8nuHVdtmxgSA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "BEIN SPORTS ESPAÑOL",
     "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
@@ -689,21 +682,7 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "WIN SPORTS",
-            "ico": "http://imgfz.com/i/GkPvFZr.jpeg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W2ProjOcCqRkN6BRX9pItSI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "WIN SPORTS PLUS",
-            "ico": "http://imgfz.com/i/GkPvFZr.jpeg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W6OELo7/V9DkNlwLy7pfCuU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
+                 {
             "name": "VTV",
             "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
