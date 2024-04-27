@@ -83,83 +83,15 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "MLS",
-            "ico": "https://i.ibb.co/VML9cBZ/MLS-crest-logo-RGB-Inter-Miami-CF-svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8HXQxQtX7CGvr8VRiX8PtqfW51OwZbBXCnPNzHDRPEP8=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "FÚTBOL PARAGUAY",
-            "ico": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png",
-            "uri": "9xWt1xYb+2OxbpqDf/EJjW8v4x7DtuIaQSZnMzRIG/wEyK/VHqaBw4F9N7hUqg3/4WSWGkiY4IyAg0jREctAlg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "FÚTBOL PARAGUAY 3",
-            "ico": "https://i.ibb.co/ChDHzh5/Copa-de-Primera.png",
-            "uri": "NjUmBh7Apqr05/kad51naeChyVEsS+zNj5F3LVHfXtuDg4dwY8VYa+cHui8oCsXvrnv7R4RfSKm5SEF2RBDusA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LIGA ARABE - RSL",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png",
-            "uri": "ewg285LS2for9Ft1BLcYkXlCUGVPsmwQ8P4CFhj6QFAynk7MZEDFJwGgvOQYGHPljLg77c0BIwtAgwO9x89LmA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LIGA ARABE - RSL",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Saudi_Pro_League_Logo.svg/640px-Saudi_Pro_League_Logo.svg.png",
-            "uri": "ewg285LS2for9Ft1BLcYkXlCUGVPsmwQ8P4CFhj6QFAynk7MZEDFJwGgvOQYGHPl9IvRv5+mG2glAn6eCbybng==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+         
           {
             "name": "FORMULA 1",
             "ico": "https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png",
             "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8rza0wOxsHamp4WFW4J/scOaY5d3xqh1N7cQMlAPzPQc=",
             "drm_scheme": "",
             "drm_license_url": ""
-          },
-          {
-            "name": "EVENTOS LIGA PERÚ",
-            "ico": "https://cuarteldelmetal.com/wp-content/uploads/2023/05/Imagen-de-un-partido-de-futbol-de-la-Liga-1-MAX.jpeg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8k5drFZTDLj6/CE35tw8VT69d+QlTA4tNhc+89ySrJzQ=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "HBO MAX BRASIL",
-            "ico": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png",
-            "uri": "6x1RxIbubcjZq6GXEssFFwulhG0B31BvvIrsWL6AaNiB/QZTv6R5nwZqA3WKNgTrlhZvYLozkO5ZDFP/skGhCclN8E4FMlNcNPb+pzo/9MU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "HBO MAX BRASIL 2",
-            "ico": "https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png",
-            "uri": "6x1RxIbubcjZq6GXEssFFwulhG0B31BvvIrsWL6AaNiB/QZTv6R5nwZqA3WKNgTronL9t+4Ov1lJ1RSR1TK6kHKCdgcTzzZpdlJu++AnxYE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "UFC FIGHT",
-            "ico": "https://larepublica.cronosmedia.glr.pe/taxonomy/tag/image/2023/02/17/8bj2187j28-ufc.jpg",
-            "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SXdHpPaTXiypF2w1r7F4DbwIIodFutBctjy0qrF2waUw=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LIGA URUGUAY",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0hQbtLuMXllDT1JcDpSRhew==",
-            "drm_scheme": "",
-            "drm_license_url": ""
           }
+        
     ]
  },
  {
