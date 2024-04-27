@@ -576,22 +576,15 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
-       {
+      {
     "name": "BEIN SPORTS XTRA Ñ",
     "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzRtHJiD3jshFgunLw8soM3V/ChYHn4hVFLTf49Ob+p5/BkmiKbnPtv22C6PwyIoFM=",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL2GJhqBWupJSlr1bVy14BA69i7PgpfaH8nuHVdtmxgSA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-{
-    "name": "TODO NOTICIAS",
-    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQwdZ79Rhf8M4n/ij4WgjVuHTrym4kC4mgFXnb5ptmoqOSigCDFVLT9QoDS6lEeQ/Mo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-},
   {
-    "name": "BEIN SPORTS EXTRA Ñ",
+    "name": "BEIN SPORTS ESPAÑOL",
     "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
     "drm_scheme": "",
@@ -611,14 +604,28 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "FOX SOCCER PLUS HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0WBT9AhU6Q8dVC2cE+PbynQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SKY SPORTS PREMIER",
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLhyDaAtHZ9x07uemEMTOkwT8luwb7fsQwZrEF5WGD5qw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SKY SPORTS PREMIER",
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLAPbm8iwds56dFm3nmMwhwzIksywN+vXudqRJNSvJb4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 
-          {
-            "name": "FOX SOCCER PLUS HD",
-            "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png",
-            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFRfP2sXHX0moHgthAMgMcQg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
           {
             "name": "SKY SPORTS PREMIER",
             "ico": "https://i.ibb.co/Qrdmqff/05qw-Hae-400x400.jpg",
