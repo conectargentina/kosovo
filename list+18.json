@@ -5106,132 +5106,140 @@
     "name": "📺ESPAÑA🇪🇸",
     "mode": false,
     "lista": [
-        {
-            "name": "VAMOS FHD",
-            "ico": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJd4QAVUcv6fbV4IHdiuQa1Yc=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LA LIGA MOVISTAR+",
-            "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8yJcrlKj2igeeqoHTL/u5KP7Yk1JOGtKCdiExeyTwQv8=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "EUROSPORTS",
-            "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJdyW+9vtxPQqvK0njKOK4TTc=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "EUROSPORTS 2",
-            "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJd4HTEefVAI1Emd6kGZoTJHc=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TELEDEPORTE",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJdyS4oSA9b0S0Fd6M483j6NI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ELLAS FHD",
-            "ico": "https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJdxWRxvE1OuIYZv1A51xUz1E=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LA 1 FHD",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8ulfghrtEiUNqKX2rvsdsn9b6JU8Lc/C6fs7d10rM+44=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LA 2 FHD",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8J6Z1iVWa22TACcHLU5LORW/djKab0sZstkCrugrWCCQ=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TVE",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8ulfghrtEiUNqKX2rvsdsn3N342pR5yPnM6/eevnleqQ=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ANTENA 3 HD",
-            "ico": "https://static.epg.best/es/Antena3.es.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8ulfghrtEiUNqKX2rvsdsn/TR0eClZuFw478oT0fh/2k=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TELECINCO HD",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8ulfghrtEiUNqKX2rvsdsn4fm4po+7dfr94ziiCGvF+0=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "COSMO",
-            "ico": "https://static.epg.best/es/Cosmo.es.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8ulfghrtEiUNqKX2rvsdsn9JT7YdnuBHEPX76Pc3phIE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TELEMADRID",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8ulfghrtEiUNqKX2rvsdsn9lDtDmf0g5A2+LgwF2k5+I=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CAZA Y PESCA",
-            "ico": "https://i.ibb.co/fxW737k/generica-elem-cyp.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJdxtl9T7vz1//jIv6pl/SJpM=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "NEOX HD",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8J6Z1iVWa22TACcHLU5LORT0Kid9ptuORMfzXrwJyyPc=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "REAL MADRID TV",
-            "ico": "https://i.ibb.co/DMTZ57S/unnamed-4.webp",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJdxObbAbEAE8kzpQ/o6TaFxY=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "BARÇA TV",
-            "ico": "https://i.ibb.co/0Cf3MDP/unnamed-5.webp",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8MTzyPTkbFTAZ8YQ80jHJd1r2yb7URqGDe6VYC3RwDyc=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ORIGINALES M+D",
-            "ico": "https://comunicacion.movistarplus.es/wp-content/uploads/2023/07/Originales-por-M_Color-Negativo_RGB_RGB.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I887jpiBuc3yenmdQhl8WiSF59kZcEknIjew2jCqjAGG0=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+       {
+    "name": "VAMOS FHD",
+    "ico": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0kroV1pYQyDQ9oPGt4JolLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA LIGA MOVISTAR+",
+    "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0GWwkuKVr/ht9N5qJLqKfHg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EUROSPORTS",
+    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EUROSPORTS 2",
+    "ico": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/161495.m3u8",
+    "uri": "9uzuRQFsqXZXYnGDGw5LjwOXDY3sbS6raZf5OEebH5gP43otqn4UcJnqezjseicMZWeRA4A5YGXV7qR1KzS6xyj8vFEfUh+SsNcaSyDgTjdhYVwk4h7vP4ahU6hO/3dflQwxrSUqeifW8Cg6Dqc8sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEDEPORTE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIbPttYDApsrksGHZQ93gIj4sr2awQQ6IMiHdYI+dQJUA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MOVISTAR PLUS",
+    "ico": "https://i.pinimg.com/564x/1c/2a/39/1c2a396172821afd4abed99d46d76553.jpg",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKXspkvJJo1LbZR3slNgE8jKgOWhhylGh0dJK/H7kLmGQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COSMO",
+    "ico": "https://static.epg.best/es/Cosmo.es.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIXo3xxwrEPiY4zQMsj0vSL8r5pi98h5WxSCa+R9K0WaA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA 1 FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKUxMkxiP630LClGVUF2KPrxhlv3GGAOt4jg/sMnTuc+w==",
+    "drm_scheme": null,
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA 2 FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKjrP0wuMJlvsQd11VxoJ+As4Cp8fc/AR1cNUwu88lrLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJ44WX8PliL9waVSOn1ENFEjneLmD9FopoEoVslUZvPHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ANTENA 3 HD",
+    "ico": "https://static.epg.best/es/Antena3.es.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK1SkTSH3WJ9GjUE4kE/tMjLbO2z5x1P3a2WXbFvr3RaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELECINCO HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIjeXPUP9Je4JuXFpaS1fZJ9aJ+mHyw8GW3O043R69t4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COSMO",
+    "ico": "https://static.epg.best/es/Cosmo.es.png",
+    "uri": "9uzuRQFsqXZXYnGDGw5LjwOXDY3sbS6raZf5OEebH5gP43otqn4UcJnqezjseicMZWeRA4A5YGXV7qR1KzS6x/x/l5a0G5t3+Lo9zbNfy+/R5y0GTIz323OcmGUtyt6wCetxXjOaEYT9GGfPuFKtxA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEMADRID",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfI5Ylq7O2eFVEnAmwwcn7rLqybrR+8XkUtLp4l746lTeg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CAZA Y PESCA",
+    "ico": "https://i.ibb.co/fxW737k/generica-elem-cyp.jpg",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLMa7n/UKTFv39PZvRHJb1ZEgFWFcp/nw/GOTsLF7Gqcw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NEOX HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL+Ei/U1L3wdfge5JtlyEmzNEY0AKANflz883UEXuk3GA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "REAL MADRID TV",
+    "ico": "https://i.ibb.co/DMTZ57S/unnamed-4.webp",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7mq/VFd8+Vxs8LOlsHEy2hQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BARÇA TV",
+    "ico": "https://i.ibb.co/0Cf3MDP/unnamed-5.webp",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7SIZCCAzce3NDLNuDXhfFeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA LIGA FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJsri1kdQF88vbNvkPSn7+ysV22tqaNich5z5bkYiisTw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
  },
  {
