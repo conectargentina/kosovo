@@ -10,18 +10,39 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "ESPN",
-    "ico": "https://i.ibb.co/gdxb6Pt/streaxapp2.png",
-    "uri": "https://multiextrem.live:8443/live/User8985654/ACCqosh5YYU03Y/525790.m3u8",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+{
+            "name": "TN",
+            "ico": "https://i.ibb.co/gdxb6Pt/streaxapp2.png",
+            "uri": "https://multiextrem.live:8443/User8985654/ACCqosh5YYU03Y/410955",
+       "drm_scheme": "",
+            "drm_license_url": ""
+          },
+ {
+            "name": "DSPORTS",
+            "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+            "uri": "https://multiextrem.live:8443/User8985654/ACCqosh5YYU03Y/556678",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
 
   {
     "name": "✨AQUAMAN Y EL REINO PERDIDO - HD",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJcdgMLEEnTDLCZ1sl0XXW08n3A.jpg",
     "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87i+Ilx7KsGB/ICTa/MMW0LAMuXFKHQyNHjFuYQRY5tP0EakYg4oqXTKeaXgLnS9QKs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TN",
+    "ico": "https://i.ibb.co/gdxb6Pt/streaxapp2.png",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe840hlKRRrP3JLybpajoxb4aGhFk2/N6ij4IaoIoj0UNOdA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe840hlKRRrP3JLybpajoxb4aGM0P3PLhcoScYBxjK9gMZKw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
