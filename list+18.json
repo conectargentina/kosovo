@@ -56,41 +56,12 @@
     "mode": false,
     "lista": [
         {
-            "name": "COPA ARGENTINA",
-            "ico": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png",
+            "name": "A PROGRAMAR",
+            "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-          },
-          {
-            "name": "COPA ARGENTINA",
-            "ico": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-          },
-          {
-            "name": "COPA ARGENTINA",
-            "ico": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-          },
-          {
-            "name": "COPA ARGENTINA",
-            "ico": "https://i.ibb.co/xs8BH59/Copa-Argentina-actual.png",
-            "uri": "SZOHsUXJ8nXJDSmwDdn1xX9nYFktzOOuOS4mTSN1u7dJFvx4g3zL7Mmo54PLr/xLa04m+d14peViQ6YmsK0ENvpOqJvKYVsTRqGs2Nz7zztW30d83TidQjI2lbU33hua",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-         
-          {
-            "name": "FORMULA 1",
-            "ico": "https://logos-world.net/wp-content/uploads/2023/12/F1-Logo.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8rza0wOxsHamp4WFW4J/scOaY5d3xqh1N7cQMlAPzPQc=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+          }         
         
     ]
  },
