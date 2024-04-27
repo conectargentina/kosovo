@@ -3877,6 +3877,11 @@
         "uri": "https://streamingamericaservice.info:19360/ucltv/ucltv.m3u8",
         "icono": "https://plataformas.news/online/nota_ucl-tv-sigue-apostando-al-contenido-original-en-america-latina.jpg"
       },
+{
+        "name": "CANAL 11 - PUNTA DEL ESTE",
+        "uri": "https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/chunklist_w494864953.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI0IDEyOjUxOjIyIEFNJmhhc2hfdmFsdWU9RWYzb0hzYmh2N3ZYQmIwOEpqbmIrUT09JnZhbGlkbWludXRlcz01JmlkPQ%3D%3D",
+        "icono": "https://yt3.googleusercontent.com/avSfiozJ0CRm8KmdD-KK4umSf9tyv_lT-ppH0MluuroBww4hX0vcwzXKAYa7GnnLxQO33894pQ=s176-c-k-c0x00ffffff-no-rj"
+      },
       {
         "name": "TV CIUDAD",
         "uri": "https://chromecast.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_2A/Teve_Ciudad.mpd",
