@@ -2088,55 +2088,42 @@
     "name": "📺GRAN HERMANO🇦🇷",
     "mode": false,
     "lista": [
-        {
-            "name": "CAMERA 24HS",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W33tVMza27mNBIGAjy7YfdI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CAMERA 01",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W33tVMza27mNBIGAjy7YfdI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CAMERA 02",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "8wOfFyOCrsrgjpZod8l2nv7cPPKvx0j6wOjMzz1aRzgxKY69YnAXjkcO/D+nFM5l3/TF8yy7il4+RcUjxerKxj/paHKT7KNyjdeYLJsmUeE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CAMERA 03",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "8wOfFyOCrsrgjpZod8l2nrH7ikC6TJI/avY9Q2freoMTAmDoqkaOmScFyH5WGhDMdM1jQwqOXvNo/U6zQIcokw==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "01 | CASA GRAN HERMANO #1",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFrfhYD0bh7SeBX6Da6v5/oQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "01 | CASA GRAN HERMANO #2",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF8jNTxn/sKmhncawQxog93Q==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "01 | CASA GRAN HERMANO #3",
-            "ico": "https://www.resumendelaregion.com/wp-content/uploads/2022/10/gran-hermano-2022-el-reality___9FXtYKoum_2000x1500__1-780x470.jpg",
-            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFIbDvfvo6M+xw+Km+rfNomw==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+         {
+    "name": "GH 24/7",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0c1Oe8/KQ1hX3yVkGJinA3g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GH CAM 1",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0BsbuE06JC81FNAltnIMErA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GH CAM 2",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FV9+7oEl4mjq8lmCeP28Gg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GH CAM 3",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0tx9IpyhGAF2gAShZWcaPeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GH 24/7",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0c1Oe8/KQ1hX3yVkGJinA3g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
  },
  {
