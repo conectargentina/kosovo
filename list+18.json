@@ -3,50 +3,97 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
-  {
-    "name": "✨SELFIE 69 - HD",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aCpAQEC42FzNF0HoLIitFmpGVtu.jpg,",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87i+Ilx7KsGB/ICTa/MMW0LAcrUq89mxyrz14qwUVrYgHiXOxkGTmrvubG+UnDdKhR0=",
+ {
+    "name": "✨Shirley",
+    "ico": "https://image.tmdb.org/t/p/w780/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr92R8TacDsGSfehrMFCT8PLQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TEST APP",
-    "ico": "https://i.ibb.co/TWHjQrH/372831417-652358273541185-1326532568872810340-n.jpg",
-    "uri": "kerMsZ4+4jaDO68Wg0enV/WVLjV0R0XbuXNP7h8QlZgOGfsWNfpQJBWe0D3o97plsqu/OgCMA00bq+g3J4hj6VCBZU8WczEi8mxymEidI2k=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-
-  {
-    "name": "✨VIERNES NEGRO",
-    "ico": null,
-    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2y1I6VJjFzyotpn8Tv8ChIf/RRMneghAaxi1830IyPu2",
+    "name": "Fighter (Luchador)",
+    "ico": "https://image.tmdb.org/t/p/w780/1zTxvyl41WCKiJxojmk9bGYqFUT.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9aNOIqgP/o3qXNt1KvTlGGQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨LOS SEGUNDONES - HD",
-    "ico": null,
-    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2wCUuZkNKBOJ0SgDaREOhWUVAFXkP670OEBbsH0nZosl",
+    "name": "✨El Pajaro Loco 2024",
+    "ico": "https://image.tmdb.org/t/p/w780/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9LnBIyymnOTXfLIIDPvEemA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨SELFIE 69",
-    "ico": null,
-    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q2xhX34FzRInNoQfMMx9WCBzBhcmhug7lxrKAkKLO3Sdz",
+    "name": "✨Fabricante de lágrimas",
+    "ico": "https://image.tmdb.org/t/p/w780/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9xBHs8BdkYM0kCc05fa4Lug==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨EL JUEGO BONITO",
-    "ico": null,
-    "uri": "9tjrwbvDv4zraNQfB4Hs+lRmhZHfDNBFOEl/JGSm87jqt5HxpeZqh6B/hYVqo1EjfzdlCwWgbzDOMb+xkx1Q200sHVx+ZjvxTissP443i3fBSMtvuzpCdojs2kiWsS2s",
+    "name": "✨Nada más que eso",
+    "ico": "https://image.tmdb.org/t/p/w780/APqgj4oRkMRU5xPKTYeF27Hwow.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9+khUVRgaGblMpX4B9xr1Tw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨El salario del miedo",
+    "ico": "https://image.tmdb.org/t/p/w780/li9PN0QuQRbilaX1XOBmmkst5DX.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9LnBIyymnOTXfLIIDPvEemA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Fabricante de lágrimas",
+    "ico": "https://image.tmdb.org/t/p/w780/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9xBHs8BdkYM0kCc05fa4Lug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Madame",
+    "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9PXhFhpHX6i5bQo3JIU6eEw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Pared con pared",
+    "ico": "https://image.tmdb.org/t/p/w780/vEV0cMrzRQIbZmgbXD4LL1gm9YP.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9FRe6YSXUozQ0yKlH+3mzbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Misión hostil",
+    "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9gt9UmGMS0/sTDMF6+rmHSA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Kung Fu Panda 4",
+    "ico": "https://image.tmdb.org/t/p/w780/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9lgA7A1h2bLjoMn6mRKz/yw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Damsel",
+    "ico": "https://image.tmdb.org/t/p/w780/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr94VfEAx8q7mWtOJaBNt+u/Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨Inhumano",
+    "ico": "https://images.justwatch.com/poster/248734637/s592/inhumano",
+    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9i41nKM67+9W6KgpT4OV0GQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
- 
 
 
     ]
