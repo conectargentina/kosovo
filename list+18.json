@@ -578,37 +578,37 @@
     "lista": [
        {
     "name": "BEIN SPORTS XTRA Ñ",
-    "ico": null,
+    "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
     "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzRtHJiD3jshFgunLw8soM3V/ChYHn4hVFLTf49Ob+p5/BkmiKbnPtv22C6PwyIoFM=",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
   },
 {
     "name": "TODO NOTICIAS",
-    "ico": null,
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
     "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQwdZ79Rhf8M4n/ij4WgjVuHTrym4kC4mgFXnb5ptmoqOSigCDFVLT9QoDS6lEeQ/Mo=",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
 },
   {
     "name": "BEIN SPORTS EXTRA Ñ",
-    "ico": null,
+    "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EUROSPORT 1 HD",
-    "ico": null,
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EUROSPORT 2 HD",
-    "ico": null,
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Xp2ODalufC03H21YiU3A5g==",
-    "drm_scheme": null,
+    "drm_scheme": "",
     "drm_license_url": ""
   },
 
