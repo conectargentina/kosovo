@@ -578,20 +578,13 @@
     "mode": false,
     "lista": [
         {
-            "name": "COPA ARGENTINA",
+            "name": "TYC SPORTS",
             "ico": "https://www.copaargentina.org/redes-folder/img/copaargentina.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
-          {
-            "name": "TYC SPORTS",
-            "ico": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I83YMOHS2683XY+mOVTPaQyzXWNZY22mDDneV6zoVK7h4=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
+                {
             "name": "TYC SPORTS",
             "ico": "https://www.copaargentina.org/redes-folder/img/copaargentina.png",
             "uri": "obQzMMnc/ytOKgE5LxL7RAzE/5phlo7nbvEgmlpM3TJz6wuQLsHT4yW2pmDEn0x/RbXKDlMa8X12veNvuKlLPisRjfOTogH3Hnr3hGPZQV2jspFr7SNDaq2PLW837tgBImjoTcN5IirroA1SGiY6/d7FyxdbyGTVG7Z2SU4V+dGwsbAyCkWu9vxEyB1DjFDthYsCssbOjT6cL4MRF0f+EQ==",
@@ -619,6 +612,13 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
+{
+    "name": "TYC SPORTS",
+    "ico": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0RweuE3LwHxb2JpMbbRs/Ig==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "TYC SPORTS",
             "ico": "https://www.copaargentina.org/redes-folder/img/copaargentina.png",
