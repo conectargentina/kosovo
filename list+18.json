@@ -161,6 +161,13 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZzdfteYzyOf1MbPBiNI9CjcdPsy7WXE21O9PsN0Hw+Ji6QoNpeGwa9Ky4GPRVRG9SuFMNSTTDH+Twbc0ivo9MeUVxXeDlHZdOTwknQ4dPjGIsdzwGyiZ3d7u0MmMP6lNw=="
           },
+  {
+    "name": "TN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
+    "uri": "FyFKTyVLdtJA4wvzjjdJi+gkGCWl5cqL6UJ30CkbDhW/pTE4DOAE/zjCAQP+b59IsXHPpa17g+BsAIRhbobvRQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "INFORMACION PERIODISTICA",
             "ico": "https://i.postimg.cc/sX9RsJVW/Arge7.png",
