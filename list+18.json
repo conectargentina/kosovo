@@ -4945,125 +4945,70 @@
     "name": "⭐⚽CAMPEONATO URUGUAY 🇺🇾",
     "mode": false,
     "lista": [
-        {
-            "name": "VTV PLUS FHD",
-            "ico": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png",
-            "uri": "O4zQaBxapxoofA7Utbs4F5ci6sfKAYohzqtdHfP1OAmuvDTIunSpeODm1atBWmUNlHq4fvX9o6oU86e/fHKQoigtCS5QrnRd3L0IzAbEpnObCaOd35M4Rjrvb0g5ldLK",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQSsHUTERaTAEDYrbrHLepNuCsTu/AXxYzrrindw1jc2M2Bu30K+ZLJGfr7S+NwA8DiVg8teBiWiBAgjdM9MrV5tjwXfh+VTucQaA4iJpsX0byvygseD8ZRdvQh6xftvGQ=="
-          },
-          {
-            "name": "VTV PLUS FHD",
-            "ico": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png",
-            "uri": "O4zQaBxapxoofA7Utbs4F8LX5hqUr3XM31H6XDYEYXL3++OcvyWZxZF41N/ciicEKoMjIhrTdro+e2kOmG90oFcoX4myF7gw0RreYvJ537/MKP2m5w6GBvP2B64m6YF2",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQSsHUTERaTAEDYrbrHLepNuCsTu/AXxYzrrindw1jc2M2Bu30K+ZLJGfr7S+NwA8DiVg8teBiWiBAgjdM9MrV5tjwXfh+VTucQaA4iJpsX0byvygseD8ZRdvQh6xftvGQ=="
-          },
-          {
-            "name": "VTV PLUS",
-            "ico": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png",
-            "uri": "8wOfFyOCrsrgjpZod8l2no1P8ykqXHGVlZxu5Kjj7ZIN7zpPgnB4S4ocuc0LnytHq0ctudX5jml82p4YbjW16Q==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "VTV PLUS",
-            "ico": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8YG/VId+yVHkzP55NMC8w1sQdfIXCdlPImphhggWiuSw=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "VTV PLUS",
-            "ico": "https://i.ibb.co/NSKbWSr/Logo-Campeonato-Uruguayo-Primera-Divisi-n-cropped-1.png",
-            "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0hQbtLuMXllDT1JcDpSRhew==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RADIO SPORT 890 AM",
-            "ico": "https://www.sport890.com.uy/wp-content/uploads/2021/12/logo-sport-header-e1640625190298.png",
-            "uri": "mSyNvndByi7+7jDnieUM+G+FLHUfuD5DaEISL38Cdllk3IcDp4bRHkSZ12+m9vSG+5OZJ4CNNrCne1HSQqIFXA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Fᴜᴛʙᴏʟ ᴴᴰ |DSPORTS URUGUAY",
-            "ico": "https://i.ibb.co/3rCx43n/512x512bb.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W5xDUXjsgwpyg+tzfckEY4Q=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "DIRECTV HD ᴾʳᶦᵐᵉʳᵃ ᵁʳᵘᵍᵘᵃʸ",
-            "ico": "https://i.ibb.co/3rCx43n/512x512bb.jpg",
-            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFrnmkVXphMKm+8eFwHfYzGQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "01 | Fᴜᴛʙᴏʟ ᴴᴰ |VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+WwjKDWwk/w8RjjW4i57XHgk=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "02 |VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQzZKLRc+EvMgBtX6FMsjswSlNMDxD70mnlUzKuS+J3+W+ym9ZRbGfRTkTfCvt5j7gU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "03|VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "8wOfFyOCrsrgjpZod8l2ngYUpu+mCsaW7wWC2G4b16ZzBe2DdQSyfRbzKSrvI/hk+8sDja5uLdryhBZQxjC8uQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "04|VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "ewg285LS2for9Ft1BLcYkXlCUGVPsmwQ8P4CFhj6QFAynk7MZEDFJwGgvOQYGHPl+RvjF30yKTDqbtCXBmmVuA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "05| VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "ewg285LS2for9Ft1BLcYkXlCUGVPsmwQ8P4CFhj6QFAynk7MZEDFJwGgvOQYGHPlzu797jbL0rtNlIllumcy7g==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "06| Fᴜᴛʙᴏʟ ᴴᴰ |VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8YG/VId+yVHkzP55NMC8w1h0qq13k+DpaxAtJ5KCVrh0=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "07| VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0hQbtLuMXllDT1JcDpSRhew==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "08| VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "ewg285LS2for9Ft1BLcYkXlCUGVPsmwQ8P4CFhj6QFAynk7MZEDFJwGgvOQYGHPlcZW22sCWcG9pmyS0uq2f/w==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "09| VTV PLUS",
-            "ico": "https://i.ibb.co/T43ZBhL/Logo-Campeonato-Uruguayo-Tercera-Divisi-n-cropped.png",
-            "uri": "8wOfFyOCrsrgjpZod8l2nnA4F2rB/yJJba8ye+BONT+Fk73/OBi5wV+8P3AHUOXqYQklUeF1/MsyttrpfbY6ig==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+       {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD04in775SM1l21Yxwy9I2JMA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PzoqLkD4iXOkd0zUj5oKpA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK0dffXMDVujkxNaLakO5g/BaeO4xBiB8RS+IQ6nl9Rjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJk+Vs81d+w7ZCbr/qkcLHvucUG8xIJ5oaQo93UcGEm4A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJk+Vs81d+w7ZCbr/qkcLHvucUG8xIJ5oaQo93UcGEm4A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd772aVVZEGFUDYviCZuAxC1O12aYvczEBOPyjenqsVCUo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7gABPL6/AE2B7ThkUGq+JJjryUJ1ywGdmyvG4G9YCyr4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7gABPL6/AE2B7ThkUGq+JJjryUJ1ywGdmyvG4G9YCyr4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK54dyW+nEdlkPscTW9FHof+hvWv7F+L5447/wys5uSeQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
  },
  {
