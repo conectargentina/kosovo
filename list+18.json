@@ -4869,41 +4869,35 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed97UlP2hXyPB/r1zUCMomzmgN8jcnH9fNkqp0+LtWY/J06Q7f2Irs7bRqkexOL6d0XwitrjymqtodJM/blbu75i41J30UVG5j7SDjZRp5L5t12FZs8K8spidLj2z9Tvlg=="
           },
-          {
-            "name": "CANAL TNU",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_Televisi%C3%B3n_Nacional_Uruguay.png",
-            "uri": "ewg285LS2for9Ft1BLcYkXlCUGVPsmwQ8P4CFhj6QFAynk7MZEDFJwGgvOQYGHPlEC/02DVpIN47RWl/h62pWQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CAMARA DE SENADORES",
-            "ico": "https://yt3.googleusercontent.com/ytc/AIdro_m3OounfHbbbCzK3e1F_PYGRBsgl3s-9YaPcJ6e_Q=s176-c-k-c0x00ffffff-no-rj",
-            "uri": "2y9+NqiqWzjL7NB6s9x97pD7oRz3usJX6RoKHMhwRSkCYjhoLhLxC3BkuxyIi/GcAZZ320OOuRuiTs2V0ShcTp66iMNwiwq0puG3IFU9jKlFxLSsIWlP1eOUWB2tkRaFQjz7PSEP22FWieF7Fa56vQunV+sNT2QUXcfFASJdkpJ8oL3qV8AcS9DN9TBktNEhB0cqfd3XriaE7/+yTp94Nde25EKsCz8d9WlXRF2HvDM5Zh5FN6dPzodu0W5V+uGH2fVboSFhHJVcIoqN4qHd/3MELEIUYIep9n4Xx7ajI8RSGROV60SKkLpdoQA5ThhezhcQn333lCEe1a8jbgjKG/+1wNUbm/MegXSM9x5YoLhw7o2n3HGf9u4ae6QTsalKD6GupzQahP7/rsLUEPdcRTgTvkUNoSR/ptqcmLYFT7uKmovmRZOq87pOYwO4MvOs7oX6PRzAsFZz08k8vTMRZnxVnfL70TX/SMAhBHJehQIUwB7s1RvXth1unEbMEb/4bkMra2fo1HqyKxGAgr3XIhBVrNJAoJER82mEAW41P3g=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
+         
+                   {
             "name": "TV CIUDAD",
             "ico": "https://i.ibb.co/VLsGnQS/TV-Ciudad-Logo-Nuevo.jpg",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Gua+mqtBnhjY94Ezkh7p7M6G7dpM8SUklKx01XSZDH71Mo9I47HEtzC/IqhVYqGcUd5nCntmEtqdElp9epq/xF",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
           },
-          {
-            "name": "TELESUR",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8YG/VId+yVHkzP55NMC8w1mA2LDb6/vjMZBuCoTIqCIk=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
+                  {
             "name": "CANAL 10",
             "ico": "https://static.tvar.io/imagenes/canal10uy.png",
             "uri": "CShol7tV+MJYtbD3ZDj7hLSLnwTU+CoLugon6Un8zHFar0rCU7dfOd4oXwtUlvexJ8zjyW3mknajkX6ArXDEShcQ6cmgbkTfbThwAHGvtB2x8HN6ofaXLDiHlsPyi8ox",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbB6UnrB4zGpag1/eq8+B8tou5k7mOwqJ8IMNPtnLU1rfyUusmil3WXva5wYHSRytmi3bGSC3/4nlOZuXpq4Ia7qUO/ikhalvOGLC6BEplUveuFqLcVEmIyS1G78xMrpTA=="
           },
+     {
+    "name": "A+V+",
+    "ico": "https://i.imgur.com/8k0yRbI.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL0uoGgtmTpyOAPGIPGYlqmYmtuWFTc5qtk0tJXuyT6Hw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 11 - PUNTA DEL ESTE+",
+    "ico": "https://yt3.googleusercontent.com/avSfiozJ0CRm8KmdD-KK4umSf9tyv_lT-ppH0MluuroBww4hX0vcwzXKAYa7GnnLxQO33894pQ=s900-c-k-c0x00ffffff-no-rj",
+    "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCzz4SsCr18MCcSKPFXA/Uqh5zvVwkA5mtTFfwXLQ0fVqn",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "CANAL A+V",
             "ico": "https://i.ibb.co/28yt2BV/AV.jpg",
