@@ -1793,11 +1793,11 @@
       }, 
  {
         "name": "ESPN",
-        "uri": "http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/242596",
+        "uri": "http://offshore.lat:8080/live/crueltv2023@/eY7x2kzuHt/263376.m3u8",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
       },
  {
-        "name": "ESPN",
+        "name": "ESPN 2",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e884b711ab111beb8a7ba1e7bcbdc9bf&key=cb89ee3961599e3e648a5aad60895f34",
@@ -1809,11 +1809,6 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://archive.org/download/tv.-online.-lista_20231106_2045/espn.json",
         "icono": "https://i.ibb.co/s37NZCT/espn-1B.png"
-      },
- {
-        "name": "ESPN",
-        "uri": "https://multiextrem.live:8443/live/User-8985/qosh5-YYU03Y/556679.m3u8",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png"
       },
       {
         "name": "ESPN 2 ",
