@@ -4978,76 +4978,63 @@
     "name": "📺CHILE🇨🇱",
     "mode": false,
     "lista": [
-        {
-            "name": "LIGA CHILENA",
-            "ico": "https://redgol.cl/__export/1616852299923/sites/redgol/img/2021/03/27/eprimera.png_1135195569.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I804+6tRbPsALYig2+94LqclqPJGGPPJry/r3wZDeZGGo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TNT ESTADIO",
-            "ico": "https://ugc.production.linktr.ee/BSG2Dx1VS2iBLBfC45ZP_logo-estadio-lt.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I804+6tRbPsALYig2+94LqclqPJGGPPJry/r3wZDeZGGo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TNT ESTADIO",
-            "ico": "https://ugc.production.linktr.ee/BSG2Dx1VS2iBLBfC45ZP_logo-estadio-lt.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I804+6tRbPsALYig2+94LqcrJ2KHa9Q07Fk53xyTffmyQ=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TVN",
-            "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I887jpiBuc3yenmdQhl8WiSL8+iHGEuRDhxXlHC+IqQN4=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CANAL 13",
-            "ico": "https://i.ibb.co/BssXDwh/descarga-1.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I887jpiBuc3yenmdQhl8WiSF6aTpLGg80u1NgMnovmzQE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "MEGA",
-            "ico": "https://cdn.mitvstatic.com/channels/cl_mega_m.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I887jpiBuc3yenmdQhl8WiSB3HQq1Ac8dQT0asm4Uqa2g=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CHILE VISIÓN",
-            "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I887jpiBuc3yenmdQhl8WiSLN7wJ4JP+71ZAppY9oFBf8=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ANTOFAGASTA",
-            "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/237dd3daef800ff33d5064c9ceb6137b.webp",
-            "uri": "bdn50+CnMW/B+oMbu7isD2AHVzB6bcOm6lXX2FW8Syh8h1e1QmD2jmHEYaBTbUalPahFjHjkZa7Dqf1mOsPMiv0M0LiqAy8Wp8ZTLcMRsonnWHTf5o+yZox/m7Xwc6q+Vh+01GcdfZttgk41oJKXgQ==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LA RED",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I887jpiBuc3yenmdQhl8WiSHNQ+nZaxgHaox0UT9t3qCU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TELETRAK",
-            "ico": "https://teletrak.cl/imagenes/logo.png",
-            "uri": "8zntF0Qj44TufA7qH8vYeaooXQdCG6BZDP0g0Jczp66fzc+VKIrfRBrIoSmNob6Dx5ZR/pDfgizcqm9GTc88gDxDz2S0+CRgieghH2XioOw=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+         {
+    "name": "LIGA CHILENA",
+    "ico": "https://i.imgur.com/vuLclYK.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd79ROVBzuTPdsyN3kmExL7dV1wK55FfrdT0EhSXJVAess=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE",
+    "ico": "https://i.imgur.com/vuLclYK.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKZJPu8blIwyU8+hV9V+vAjxa36jxKRi1QH09MmuNNIhg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK2rEC3Cyj1m40+dJ2O/sY//om05tvruVuObyL8cXwM7g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 13",
+    "ico": "https://i.ibb.co/BssXDwh/descarga-1.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfI8cfnDtEqiHY8RN9b04hWilWM3QoWKdhdf/s4lEjDn5w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://cdn.mitvstatic.com/channels/cl_mega_m.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLWG1z3PjrOM9I6VIgYkSK1fxatmy0JM5o4vsDWg3ncpw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILE VISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKgQWq82HqMhzSKWuLtuWx68q8wI2PJsbnvBoeH+Fj4vQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://static.epg.best/cl/LaRed.cl.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKUUYWJHsQ1+smtpJ9AbO7FFAGR03v6J76g2y1p9NHIFA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV CHILE",
+    "ico": "https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLtM9lCSUDOvx5fWjdSxvp/uRGrNqV1jGD+QOraEyoEGw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
  },
  {
