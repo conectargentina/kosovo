@@ -355,7 +355,7 @@
     "lista": [
          {
     "name": "ESPN PREMIUM AR",
-    "ico": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
     "uri": "h+OCBmXEgkqLSItXuSyr2yCLrGfvW5khvZWWcHGd/9YsKZi4GvLlPdKWaI1nOqJWGddYNLc+zON1geOJhLU+ac+qONgeMbiDgsEUDZmcKF0CAmUDmxLGpK2uon/KtIwM6XrdsoypZKQsjsvBQWstWA==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpQ3zPF27mQWN89yOyTMueZw=="
@@ -363,75 +363,61 @@
 
 	      {
             "name": "ESPN PREMIUM FHD",
-            "ico": "https://i.ibb.co/LrNsJsP/espnpremium.png",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
           },
           {
             "name": "ESPN PREMIUM",
-            "ico": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
           },
           {
             "name": "ESPN PREMIUM",
-            "ico": "https://i.postimg.cc/02BdYRZz/ver-espn-premium-en-vivo.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8nZ49MxNBqa/lw4lOX7we4+VGpnJwuMS5jTKLMSpTmFs=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
           },
           {
             "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
           },
           {
             "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
           },
-          {
+             {
             "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
-            "uri": "jZL/3bMCZlY67dJ3dWwsaYJ+WVDxDRYJXhL7TtvCjigZEFmP4L2wiAR+6CSRosVR",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
           {
             "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg/100px-Logotipo_de_la_Superliga_Argentina_de_F%C3%BAtbol.svg.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
-          {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC-SPORTS",
-            "ico": "https://i.ibb.co/7XdCF4X/512x512bb-1.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+oLrGl6G2/F7GGRNP4KvDWk+Kv7rL1FfjNh/JX1FgGSiqqj/bkItXMdctkBu0kZw25UYm2SIaQhG7HWuPd8nFGqr2Cws8F5B84x2SkftFMiJqhqf/5lhXbnVBQ4F2Sfq/Q==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
-    ]
+             ]
  },
  {
     "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
