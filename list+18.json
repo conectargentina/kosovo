@@ -353,7 +353,21 @@
     "name": "⚽SUPERLIGA Y COPA ARGENTINA 🇦🇷",
     "mode": false,
     "lista": [
-        {
+         {
+    "name": "ESPN PREMIUM AR",
+    "ico": "",
+    "uri": "h+OCBmXEgkqLSItXuSyr2yCLrGfvW5khvZWWcHGd/9YsKZi4GvLlPdKWaI1nOqJWGddYNLc+zON1geOJhLU+ac+qONgeMbiDgsEUDZmcKF0CAmUDmxLGpK2uon/KtIwM6XrdsoypZKQsjsvBQWstWA==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpQ3zPF27mQWN89yOyTMueZw=="
+  },
+  {
+    "name": "TYC SPORTS",
+    "ico": "",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcL2TK5fkfrbZIldC/5HfMd979ZnxU54LjEwbSHE+6Fnx",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENqtzH4VFXlovxI28S1zPH+PA8tsC5jkr1o5q2/GklGs9Q=="
+  },
+ {
 		"name": "ESPN PREMIUM AR",
 		"ico": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg",
 		"uri": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
@@ -361,6 +375,7 @@
 		"drm_license_url": "https://globalserver.tech/teleplay/panel/clv/espn_pre.json",
 		"prot": "0"
 	  },
+
 	  
 	      {
             "name": "ESPN PREMIUM FHD",
