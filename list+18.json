@@ -2712,15 +2712,14 @@
     "name": "📺NOVELAS👠",
     "mode": false,
     "lista": [
-        {
+       {
             "name": "TLN",
             "ico": "https://i.ibb.co/8DMbYwz/16473899-1421123434573150-1117910964079135311-n.png",
             "uri": "skjCZJt9hOILbVSgzkPJjlln4ilO75DfT9oYifrjA81DJuRoT6muqjwM3W5d+dhI68lFMwvJ8OXIu4cWY/Pu4g==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
-         
-          
+                   
           {
             "name": "TNT NOVELAS",
             "ico": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png",
@@ -2743,7 +2742,7 @@
             "drm_license_url": ""
           },
                {
-            "name": "CANAL DE LAS ESTRELLAS
+            "name": "CANAL DE LAS ESTRELLAS",
             "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg",
             "uri": "Sjpe5dvltFsz5ZidM8fYSbDfWD1dXGLjNoPufGMKXU6c5IPt17emOC2r9zrrgdOU0yCbbNgr9PGIe7P0/O2PUBUTz9GgUDfvY2WhtOu5S4M=",
             "drm_scheme": "",
@@ -2791,7 +2790,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-
     ]
  },
  {
