@@ -312,13 +312,13 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
           },
-          {
-            "name": "ESPN PREMIUM",
-            "ico": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg",
-            "uri": "fQlXZK8sFnbUgAEf0UbEqHeKVdfV0o8SIQjoa7Ag0DeJ8DkP4vc+KtLGeRs4jCCk3n/+EJewu5LikgDiUIdojiOftESjXhA0MHYGjevFFqqywrV6V/9cHRpPIKVth7e/OenqShEMSAcyjvqTbBlk9iMXUxefkJEBUr113TkrxMk=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
-          },
+               {
+    "name": "ESPN PREMIUM AR",
+    "ico": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg",
+    "uri": "h+OCBmXEgkqLSItXuSyr2yCLrGfvW5khvZWWcHGd/9YsKZi4GvLlPdKWaI1nOqJWGddYNLc+zON1geOJhLU+ac+qONgeMbiDgsEUDZmcKF0CAmUDmxLGpK2uon/KtIwM6XrdsoypZKQsjsvBQWstWA==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpQ3zPF27mQWN89yOyTMueZw=="
+  },
           {
             "name": "TYC SPORTS",
             "ico": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
