@@ -354,6 +354,15 @@
     "mode": false,
     "lista": [
         {
+		"name": "ESPN PREMIUM AR",
+		"ico": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg",
+		"uri": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
+		"drm_scheme": "ClearKey",
+		"drm_license_url": "https://globalserver.tech/teleplay/panel/clv/espn_pre.json",
+		"prot": "0"
+	  },
+	  
+	      {
             "name": "ESPN PREMIUM FHD",
             "ico": "https://i.ibb.co/LrNsJsP/espnpremium.png",
             "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
@@ -584,7 +593,16 @@
     "name": "⚽TYC SPORTS🇦🇷",
     "mode": false,
     "lista": [
-        {
+        
+ 	  {
+		"name": "TYC SPORTS",
+		"ico": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
+		"uri": "https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd",
+		"drm_scheme": "ClearKey",
+		"drm_license_url": "https://globalserver.tech/teleplay/panel/clv/TyC.json",
+		"prot": "0"
+	  },
+{
             "name": "TYC SPORTS",
             "ico": "https://i.ibb.co/ygFV6hM/2023-12-08-18-35-45.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
