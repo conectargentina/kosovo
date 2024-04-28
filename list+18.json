@@ -5027,7 +5027,7 @@
     "name": "📺CHILE🇨🇱",
     "mode": false,
     "lista": [
-        {
+      {
     "name": "LIGA CHILENA",
     "ico": "https://i.imgur.com/vuLclYK.png",
     "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd79ROVBzuTPdsyN3kmExL7dV1wK55FfrdT0EhSXJVAess=",
@@ -5044,14 +5044,14 @@
   {
     "name": "TVN",
     "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK2rEC3Cyj1m40+dJ2O/sY//om05tvruVuObyL8cXwM7g==",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7u5RXoMc1P4vAQERXKOiBdw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CANAL 13",
     "ico": "https://i.ibb.co/BssXDwh/descarga-1.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfI8cfnDtEqiHY8RN9b04hWilWM3QoWKdhdf/s4lEjDn5w==",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7DR5LbVnLX8moEZ4003+3bAdbhfAqkcP7DUhEiJE+Ut4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -5065,21 +5065,21 @@
   {
     "name": "CHILE VISIÓN",
     "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKgQWq82HqMhzSKWuLtuWx68q8wI2PJsbnvBoeH+Fj4vQ==",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD02edYG3R9Nrhb0iMuIR9xaQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LA RED",
     "ico": "https://static.epg.best/cl/LaRed.cl.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKUUYWJHsQ1+smtpJ9AbO7FFAGR03v6J76g2y1p9NHIFA==",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PdZ1J/DMnw7roTQGmz2TAA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TV CHILE",
     "ico": "https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLtM9lCSUDOvx5fWjdSxvp/uRGrNqV1jGD+QOraEyoEGw==",
+    "uri": "8wOfFyOCrsrgjpZod8l2njymtRib4hqh73xMpNxhS0gF9y5ctzaQLHKko9PJYt8gxUrcHr9EKCq1RLd4lYFT9g==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
