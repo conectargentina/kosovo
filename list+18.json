@@ -360,16 +360,7 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpQ3zPF27mQWN89yOyTMueZw=="
   },
- {
-		"name": "ESPN PREMIUM AR",
-		"ico": "https://i.ibb.co/T8Pj8Qs/ESPN-Premium-Dark.jpg",
-		"uri": "http://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd",
-		"drm_scheme": "ClearKey",
-		"drm_license_url": "https://globalserver.tech/teleplay/panel/clv/espn_pre.json",
-		"prot": "0"
-	  },
 
-	  
 	      {
             "name": "ESPN PREMIUM FHD",
             "ico": "https://i.ibb.co/LrNsJsP/espnpremium.png",
