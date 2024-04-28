@@ -2719,20 +2719,8 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "SONY TELENOVELAS",
-            "ico": "https://i.ibb.co/MpH0fWJ/2024-03-18-10-57-58.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EGjLhV2lVQTc/3pYm3fOAlDOa8Y1X1Nwp1AblHgF27e0=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "UNIVISIÓN TELENOVELAS",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1024px-Logo_Univision_2019.svg.png",
-            "uri": "8wOfFyOCrsrgjpZod8l2npRKc5w6/k8OYK0rYEUrk7Qb9qSVMDUXLR1sw+A0BZc+DJ2tF3w16WLnvm34V+aO9w==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+         
+          
           {
             "name": "TNT NOVELAS",
             "ico": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png",
@@ -2754,15 +2742,8 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "CANAL DE LAS ESTRELLAS",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjGdWUXxL/kKITgKb5NAwa+rQ6sfNQTnd6AYQaL+XUT9xh3QMiORzxUNUSSPwz8mkVcxt9oWmfeFJQJX/P8p0/vGQTFAfCBP4fkeAhfjQQw8g=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "pfccQdO0x9675khuei5j0elFlOTt1cN8Htr9102TUznigMyu70ZVEI2jDx49OCS1nyB5/InyxYvKL68EGOOooz8UJ2pWDYc2o2uAIOyVQMlN+wXA66upNmmZ0yzvFUb8M0usBN8fZL9615hne6797p3hGNwPOhZ7om7ddifBBf4="
-          },
-          {
-            "name": "CANAL DE LAS ESTRELLAS OPC 2",
+               {
+            "name": "CANAL DE LAS ESTRELLAS
             "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg",
             "uri": "Sjpe5dvltFsz5ZidM8fYSbDfWD1dXGLjNoPufGMKXU6c5IPt17emOC2r9zrrgdOU0yCbbNgr9PGIe7P0/O2PUBUTz9GgUDfvY2WhtOu5S4M=",
             "drm_scheme": "",
@@ -2782,13 +2763,35 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "RCN NOVELAS",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Logo-rcn-mobile-2023.svg/512px-Logo-rcn-mobile-2023.svg.png",
-            "uri": "8wOfFyOCrsrgjpZod8l2npRKc5w6/k8OYK0rYEUrk7Qb9qSVMDUXLR1sw+A0BZc+GzqtvJ0KMQTjYZI+N1fbgA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+         {
+    "name": "RCN TELENOVELAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK2+GuA+i9n25xThG5ztLDM62sIG95Yyky+yfG3+VS7+w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UNIVISIÓN TELENOVELAS",
+    "ico": "https://static.epg.best/us/UnivisionEast.us.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLPCbqz9Lqpyx0AhcraWr6fApiSrw9aMnm+jhdbcOEPcA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TL NOVELAS",
+    "ico": "https://i.ibb.co/qCckdpB/104568258-2693880174165522-2975525694633742913-n.jpg",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKetItZnhvTHy7Psxju2z5yfp2Mqm28oLBg3O03uZS9ng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LAS ESTRELLAS",
+    "ico": "https://static.epg.best/mx/LasEstrellas.mx.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIKR/rJZKhB3qrOCZkw6QQAY2zxfHnyqRtHWu/sM4d6zA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
  },
  {
