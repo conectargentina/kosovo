@@ -4758,8 +4758,15 @@
     "drm_license_url": ""
   },
   {
+    "name": "MOVISTAR LA LIGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
+    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJ3nb15hxJKbnpEzL00LxmOF2IMkRMoaToEHi8pAmXIe8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "LA LIGA MOVISTAR+",
-    "ico": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0GWwkuKVr/ht9N5qJLqKfHg==",
     "drm_scheme": "",
     "drm_license_url": ""
