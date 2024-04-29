@@ -3201,58 +3201,58 @@
     "name": "📺CULTURA",
     "mode": false,
     "lista": [
-        {
-            "name": "EL GOURMET",
-            "ico": "https://static.epg.best/mx/Elgourmet.mx.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8k5drFZTDLj6/CE35tw8VTzPnXEV9+/H7mvELgdkIi5w=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
           {
-            "name": "EL GOURMET 2",
-            "ico": "https://static.epg.best/mx/Elgourmet.mx.png",
-            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFWVJS0EYHxWE0tq6VQVG9WA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "HGTV",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/2000px-HGTV_US_Logo_2015.svg.png",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8k5drFZTDLj6/CE35tw8VT47Iar/O/TA8EutR4ereiGU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+    "name": "GORUMET",
+    "ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJ1bWBsLOdE0p/ugz9IE7J9JvMCtLzR/IrmPHrbmrTWNg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GORUMET 2",
+    "ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7sTk4ST22FHFcY4Pbtrm1i/gPUUUHfpVT+Hu4Xao08Nc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HGTV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKyMMfdaHi4p7wamwlPkdMOkQz/nH3NolxCVIztFnuDuw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "HISTORY",
-            "ico": "https://i.postimg.cc/hjx19JJb/history.png",
+            "ico": "https://www.seekpng.com/png/full/948-9488234_freddie-on-history-history-channel-logo-transparent.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GGKPKMjE1AodQjJeVB9pFo4seFi/AQvkpmnrzc1x5VyMhgJlyLDKx3mEFuD7vYFnzuIWTwh6PARQkPWdbUpXJS",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfUt15/ExWFKznqXglInVVhQrZbyfibegcjezO5gVP7O3c8/2iw6yE32gYklkq05SzCiHAD2ffF6yGekpukj7+EOmm1D8Ve9sXCsda/JKtaa74HrfwL6HBB9H265jefUZg=="
           },
           {
             "name": "HISTORY 2",
-            "ico": "https://i.ibb.co/jkfB4HH/H2-logo.webp",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/250px-History2_logo_%282022%29.svg.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H4QwlmxSAXxzLWdmkQ/+SzKO8lxYb9QrhxYsp13umCg9pG3pJJWqIiTd1YbcB2q+uR6MqKunbTkyGLkCmGxMNj",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfjRpsIXrFSToG9fLfNjzJWatYqlWoTfGvZoq1ne/TP3pKuAvphaiFPVjJbxZLFHxRYrltFaPeuqA+s4hjge5kxciXb7rjd8q8m/h7jrMQJBalXT3qRvL1lY6HDfNpCQAA=="
           },
           {
             "name": "DISCOVERY",
-            "ico": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png",
+            "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.3a9396187d5dc7746b06bb6ff9463291.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FKRKwMRneq9ETucjVcocIKDECCI4JmuVNISG9vWvAwqWs8YJtRUjtEY+JT5Ah1+6JHrEKfcPztknBR+YVZF8HJ",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeOUkB46OAFFXIVhimgpm32sMdf3769BWrFL6nc+yTnK/gRO4Oj4OgMIv3ctie3jxMxnMFzb8xipA8A8iENsm9ZXBpJXYNTxiErwqdqjZSwnSkQUOBpUjRP5BF3ItEarZg=="
           },
           {
             "name": "DISCOVERY H&H",
-            "ico": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png",
+            "ico": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6924cdade706debff8d_homeandhealth.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FKRKwMRneq9ETucjVcocIKvd7jM2+1qMyM/iudDsIOOlfWNiKF0cc6qHqnVNWn4Um25pFDHJRoFpgEgR4gYkvHdkMX4YIxW0Jcn+xRHSG8ig==",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVAitDNDlxUexHITp/O5T7SjYh4SkRShNgqGZ1mbb+VwfH6k1wnF3oGAlpCUZek34H8aScDZb32S875rDb559Ao3YYvMcF8zRuqdRT+4lV7tMKjejL/ezTHi2IPL+qFbfA=="
           },
           {
             "name": "DISCOVERY ID",
-            "ico": "https://dl.dropbox.com/scl/fi/brd4qtgk2223gmobtj0ui/DCX.jpg?rlkey=e4qy94y6huevaihwyo0rspzn0&dl=0",
+            "ico": "https://toppng.com/uploads/preview/a-kid-to-kill-for-investigation-discovery-logo-2018-11563163465oggcin59rp.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Hw4RCCmLdTf91d3y72bSUqa0sI1oovJ1R9JlQcCWfe1ctO91lJhRLD5AhKG7qfQ7o=",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERTtUudB8i3np/pFIEHDFW6snZLQpTV2e+pC2Ol/iy1nyfbdwGecZqZgm9hA1P8aslry1iHPAjEOoVisTA+5taDOi2gQ++veEzJllYdHE/p4cpjarAa1EMjPS9IT/VGG9Q=="
