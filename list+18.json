@@ -4778,13 +4778,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "EUROSPORTS 2",
-    "ico": "http://budtvlight.com:25461/live/jaime/3DbdkaKhwZEd/161495.m3u8",
-    "uri": "9uzuRQFsqXZXYnGDGw5LjwOXDY3sbS6raZf5OEebH5gP43otqn4UcJnqezjseicMZWeRA4A5YGXV7qR1KzS6xyj8vFEfUh+SsNcaSyDgTjdhYVwk4h7vP4ahU6hO/3dflQwxrSUqeifW8Cg6Dqc8sg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+
   {
     "name": "TELEDEPORTE",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
@@ -5122,7 +5116,7 @@
   },
   {
     "name": "AMERICA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/471px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0BVlKD6/3Hsh9zkU52zCDsA==",
     "drm_scheme": "",
     "drm_license_url": ""
