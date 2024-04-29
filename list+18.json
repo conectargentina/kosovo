@@ -10,14 +10,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "TESTE2000",
-    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxe7CSkGpgblm7s5hq2jLvW8N72nxQHGYvi/vp+SF28BEP1+sZhO+4Hy/u/AN3BMz0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+   {
     "name": "✨El retorno de los Thunderman",
     "ico": "https://image.tmdb.org/t/p/w780/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
     "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
@@ -3090,51 +3083,52 @@
     "name": "📺PACK UNIVERSAL Y MOVISTAR",
     "mode": false,
     "lista": [
-        {
-            "name": "MOVISTAR ACCION",
-            "ico": "https://ibb.co/Rg4Sz7p",
-            "uri": "yfMtrk8DsS1p24pkjcBy2LwkLXIycQMTH5A6EzjaM+Yd2n7Rq8+ugt/4XDHediYAccN1Uf/vpZEB6HizlTA1US7wzKAS3yFXO94DDUjxsTg=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ef8y031PxyG1GoQez0C0c7D4Nn0D6voO5FSh9vHAVgzMJX3wIeqfv/w+gNSk7ekUIRcNSYwAHa/wjDHtnXhNsToLfnwIQiNLmDG3akYaxIJs9doxiaQOc0QmT7nLH8dOuw=="
-          },
-          {
-            "name": "MOVISTAR COMEDIA",
-            "ico": "http://imgfz.com/i/dschbKm.jpeg",
-            "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7fLAvfnmLt6iWY0ZXk1gduA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+       {
+    "name": "MOVISTAR ACCIÓN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MOVISTAR COMEDIA",
+    "ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7sTk4ST22FHFcY4Pbtrm1i/gPUUUHfpVT+Hu4Xao08Nc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
           {
             "name": "UNIVERSAL CINEMA FLOW",
-            "ico": "https://geo.mnedge.cvattv.com.ar:9002/images/9618/CH_LOGO/512/512/0/0/72952746076947.png",
+            "ico": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png",
             "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvejx/ELLYfAZfBLOTxtbkQhzzWOBJHnGTpK1c2TZEyNBmrdduFGUeFS6C2frYu3/mde5BILkIpL96TaBVKfIWMZ",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXPQEwTOfxS9+CusvODNR6fvPeTrDc4cUY2krmV2FdQO05Q2wz+Iff/jETZKdefXfvUGs/sGBOonyMEmAfjhPFV6At/yMsQjRqSipfW5y1O8Xg401/KGnLL8tBiTiOuxQQ=="
           },
           {
             "name": "UNIVERSAL COMEDY FLOW",
-            "ico": "https://geo.mnedge.cvattv.com.ar:9002/images/9620/CH_LOGO/42891751076948.png",
+            "ico": "https://i.ibb.co/Th3J002/large-1490211344-Universal-Comedy-Claro-png-61669777e8ebe4f90876b91db5ef8466.png",
             "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXeolgep01mtfV/wCxTxSxCUqaWPdcpE3+Zf/rmuvFHeafc9Z6QcGtfiJ8zxYGZzTDX+yhSTFjF8psqhYaWkmGib",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQHgjIhj7Irxf3GPdOQ/KQb+wVYWMSierxW4wHJgju8SQzjOQ5s00si6shS+rWRPeZ/n3MIU2zAYYPZv7froBhG9Mdd5N8o4cJ3TGpOtvMg8U49u0YeC2KZ7RNWEXHOyyQ=="
           },
           {
             "name": "UNIVERSAL CRIME FLOW",
-            "ico": "https://geo.mnedge.cvattv.com.ar:9002/images/9621/CH_LOGO/19452290076949.png",
+            "ico": "hhttps://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png",
             "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXfFo4qd94Kqal+1FpZtm3i+/yqbkGC0zZ9eXTboHTEl/EwYoYaa9q13ZhRiuGhSSzeHplIwpxnolOSk4OntbLWu",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZzPS3MZtUJOfhRq9Fa6tCqVRurKtgqoz0g20AJOAdGSj0peAFwU9CVHI9wEZvFibN5jucXt38f2XH3So1LGodx8Ys0fKGMqP4fXd759Snq+ikuWLEZWY7scdGOfhUEdFQ=="
           },
           {
             "name": "UNIVERSAL PREMIERE FLOW",
-            "ico": "https://geo.mnedge.cvattv.com.ar:9002/images/9617/CH_LOGO/63649726076950.png",
+            "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1316118004_UniversalPremiere-Claro.png.dd093e77a73e1cc71ccb2e3b7983d187.png",
             "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXc3VC4cVEBB/SduVQdcAXhPnK9M15pdekPr68y8sgQ8Jp15Yjs2JwdewclWhryJ0yJLYglmF0iwZOW8KPf7kkGU",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQizMnQO6F/elnActJFBFhneesh2Adht/3b4Kfs571RkKQntoy44x0Gx81WrPlcfQsK0EEa1umrjK2iQF1HVZRLmfKjGP9oEVjLFsxjba5a1+K4fvfDZp3BD32nDBGRwJw=="
           },
           {
             "name": "UNIVERSAL REALITY FLOW",
-            "ico": "https://geo.mnedge.cvattv.com.ar:9002/images/9619/CH_LOGO/82170339076951.png",
+            "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.4b8fc78cff89969ea5a888a779654e44.png",
             "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXdjz8FReA8Oy/2diZec0aJjoM77VS1L23ZPKgfwxWl0SDHPIlBXUwn6WDzmJGjQ87pxuD7zARhhiFPFHIhPkyy+",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeK3Q452Az7YITDddyoO8337f30vy/BOR5n7EvLRQmHEG5iGqeUCeeBxp8aWBa3UoMzPZ1Xb/wcbA06G48UMLVZmWCEYWLr8ntFz1ylyMbL6BtJ2GY36jVCmM6ikm/W/3A=="
