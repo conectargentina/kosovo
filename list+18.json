@@ -5106,132 +5106,48 @@
     "name": "📺PERÚ🇵🇪",
     "mode": false,
     "lista": [
-        {
-            "name": "AMERICA TV",
-            "ico": "https://i.ibb.co/K7FCkyk/america12.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8Ei//bGNBwUqclgRvpiM3KASSa3NiuM4nk40buM2s3FcI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ATV",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/0/00/ATV%2B_Logo_2018_%28Versi%C3%B3n_1%29.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EaJO+5CZQne+42tE0ahMzp2o4fd/3H0x3lqXva+uEXe0=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "ATV +",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/0/00/ATV%2B_Logo_2018_%28Versi%C3%B3n_1%29.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EIiS5ekU64J79c0GdJJ4ZuY7X7nlA8qSicjoCRK6UxuI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "LATINA HD",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/2048px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8E91zmezO0lg/IJSoEISzcpNrV7wpi/1B32poDHQp8YFI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "AUTENTICA",
-            "ico": "https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EoF56G7aoQHdEwvI3pkyyGcVepa5NOdSlXyE8Ekc9KXo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "CABLE VISIÓN TV",
-            "ico": "https://dl.dropboxusercontent.com/s/vpn24wr1qji3wlv/db.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8Ey/NHcqHuklngFjqwd9HwRU8Omw10450y9HvwyS7TDiE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "EXITOSA",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/150px-Logoexitosa.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8E2HlMnyLCPFasxSikHMCB5Zf+wgpI6wNjASY5bdH95ms=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "FUEGO TV",
-            "ico": "https://i.imgur.com/3YGmtZz.pngg",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EofiL3RCFWV/+FUxMDo9wP3+mgAYsLd56sPZXwbSwC24=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "GENIOS TV",
-            "ico": "https://www.televisiongratis.tv/components/com_televisiongratis/images/genios-tv-en-vivo-1388.jpg",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8E6VPQnjyuBwgnBKWmCC20+2T65JQVRauf0lUl8ZC+T0I=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "GLOBAL TV",
-            "ico": "https://i.imgur.com/RBg25iJ.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EmBY/yFebet9DbNLGdAdC0Wvp2S+mOSs1AXUbRBOO3GE=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "IPE",
-            "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqVBqyOJSI-F2hecJGSsEdOHF7IjaQV7p5Uhsa8h8BGgcBpcNQk_57zxH6yS_4uJP2Nn0&usqp=CAU",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8E3/3fFcZcwcMp5noYGt/FQ8j20J2Hdo9g+LLsxhtpP4Q=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "PANAMERICANA",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/692px-Logo_Panamericana_2020.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EUxvCryzFW0fJs9iOS54zFH2fAFjw11Bu0my8Gu+FfnI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "PERU MAGICO",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8Eo3NAP8Iem9iOTL8SXdeyYi1Ex2WF4r1v8h5YoCIs0Fw=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "RPP",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EL+OplJTlt9Vsz8r+ALwl3ekjQrkcHyim3emqkHByIts=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TV PERU",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1920px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EuUH3HmSjrM0RA/622Ks2MO8WQdeTw7audXQ3eWJIFJM=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "TV PERU NOTICIAS",
-            "ico": "https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPENOTICIAS.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8E78H8sMUsgTanbZ3CefDvp79buXyOeM6Yg5Sl76pEWz0=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "WILLAX",
-            "ico": "https://static.wikia.nocookie.net/logopedia/images/9/93/Willax_Televisi%C3%B3n_isotipo_2010-.svg/revision/latest/scale-to-width-down/1000?cb=20221028144544&path-prefix=es",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EDORWyitjoh3PkX3VxEAp028aI044xXgdxEs2urJsxOo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "AMERICA TV HD",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/150px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7jrBphEBqYqe/GlNe/paYyh72h8uWvjxYyxuMqXkG8EerWN12+9FmAZ2KBXd55TvllCyAgB6J99IfnCpg6ewkI=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
+         {
+    "name": "LIGA 1 MAX",
+    "ico": "https://i.ibb.co/Xssz7mr/Liga1-Peru-W.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0M4x/eCGzVzrmAu08zxKW5A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LIGA 1 MAX 2",
+    "ico": "https://i.ibb.co/Xssz7mr/Liga1-Peru-W.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0eMp4OduFzmR9ksAG6ZE8xQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LATINA",
+    "ico": "https://i.ibb.co/dD9QQ1g/Logotipo-de-Latina-Televisi-n-svg.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0mIgVF7HIRD3BI5hg8mbW2A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANAMERICANA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1038px-Logo_Panamericana_2020.png",
+    "uri": "aOMYax4iZWYrbOnyUtSs/S3525QkqZTtnjk8LYlr+uUhcXUgtwlK5geo1slyabPnAOkMVWHOYyzYgmsylIAeqW7y1jMTTZdm/JYfANhNccs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AMERICA",
+    "ico": "https://image.tmdb.org/t/p/w780/APqgj4oRkMRU5xPKTYeF27Hwow.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0BVlKD6/3Hsh9zkU52zCDsA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "WILLAX",
+    "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png?resize=768%2C432&ssl=1",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD05lBYBoGR9HWI9VyG9/3dSQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
  },
  {
