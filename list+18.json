@@ -132,15 +132,8 @@
   },
   {
     "name": "EL CHAPULÍN COLORADO",
-    "ico": "https://image.tmdb.org/t/p/w780/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
+    "ico": "https://static.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/7/7f/Chapul%C3%ADn_Colorado.png/revision/latest?cb=20190316043827&path-prefix=es",
     "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1LrjA4ufUVuRqLYa2MofAg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANTINFLAS",
-    "ico": "hhttps://iamcantinflas.com/wp-content/uploads/2022/05/cantinflas-biography-715x1024.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFVFOK9piXKPvpZiqQi6KeyA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -193,27 +186,15 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "CANTINFLAS SHOW",
-    "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFr32z/+WTuqmjcYFnWrx2nA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+
   {
     "name": "O MEJOR DE DISNEY HD",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",
     "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFhsxVZ2Trk61TOb+OH1ELVQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "PEPA PIG",
-    "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFFXO3iZ93leuUQiFk0kHAhA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
   }
+ 
 
         
     ]
