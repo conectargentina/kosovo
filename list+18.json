@@ -116,10 +116,17 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
-{
-    "name": "LIGA URUGUAY 2",
+ {
+    "name": "LIGA URUGUAY",
     "ico": "https://i.ibb.co/mDPM1ZT/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
-    "uri": "https://zona593.live:8443/live/CanalesTV5654/Pass98787/410955.m3u8",
+    "uri": "xBQ0MVo3Qx5eh7i+JW2PLJqpuqGZ1cfhvTWMW6WxYVIaTs1UvjLskfkMrf5HmNSASI8FqUAJ+K4gpG08mJDQUIHsVbdxTmYA8b5XDPmtRQ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LIGA espn2",
+    "ico": "https://www.gravatar.com/avatar/5eae5e19d0c7a2ea994ed03371ad7cbb?s=128&d=identicon&r=g",
+    "uri": "xBQ0MVo3Qx5eh7i+JW2PLJqpuqGZ1cfhvTWMW6WxYVIaTs1UvjLskfkMrf5HmNSAQJGEvO3chh1hq7pO+azf88PWeHc4KGqM1z7abIsH1PI=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
