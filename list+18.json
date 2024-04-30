@@ -674,7 +674,70 @@
     "name": "⚽DIRECTV SPORTS",
     "mode": false,
     "lista": [
-    {
+   {
+    "name": "DTV 1 Pʳᵉᵐⁱᵘᵐ ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUMQmvFs97HY11ovqcQjV8w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFjZlfBa3qb6lUGayZ1duJug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV PLUS Pʳᵉᵐⁱᵘᵐ ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFcEr8JRBsTn8b0Avo+N849Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF+CJ75lij6suvi6NxfGRHiw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUEowf6tQuALtRZGxcytjhQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV PLUS Pʳᵉᵐⁱᵘᵐ ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe0Ltju6Nhhn+CaGx/9IUHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF+CJ75lij6suvi6NxfGRHiw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFf8vQYWyusm0FMdiQaWUTNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV Plus ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7n4BYLtIPoxrCOOKsy0H6cbo2zgji3zOvgXNUflLedIg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
     "name": "DTV1",
     "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
     "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJl1HiEXMfVF5qsngcEQURQkSjgTs7kl88K4954JWlIJw=",
