@@ -106,6 +106,119 @@
     ]
  },
 {
+    "name": "DIVERSIÓN 24/7",
+    "mode": false,
+    "lista": [
+   {
+    "name": "CHAVO DEL 8",
+    "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CHAVO ANIMADO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUHRSaIYELvAmAz1D5LM1pA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS SIMPSONS",
+    "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFF6jow+lOWn96agBCqpyNqg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CHAPULÍN COLORADO",
+    "ico": "https://image.tmdb.org/t/p/w780/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1LrjA4ufUVuRqLYa2MofAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANTINFLAS",
+    "ico": "hhttps://iamcantinflas.com/wp-content/uploads/2022/05/cantinflas-biography-715x1024.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFVFOK9piXKPvpZiqQi6KeyA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DRAGON BALL SUPER",
+    "ico": "https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFHAOwpJq207ZJXHcqKxiIeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://i.ibb.co/4TJ8k2p/6a0a77a49e190ba1ec1211b426b0ef7c.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsulQyIWsxvdWgoRFUDU4Vg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NARUTO",
+    "ico": "https://i.ibb.co/NSPys4j/imagenes-sin-fondo-naruto.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFxAAKRzd4tQYhEuWvTnQY4Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANTERA ROSA",
+    "ico": "https://i.ibb.co/PcCk0wH/f6633e6de07c300d8397ef9f4c980849.jpg",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFunuWFkA1QbpBN0PTEY3NYA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SONIC Y SU BANDA",
+    "ico": "https://i.blogs.es/2596e6/sonic/1366_2000.webp",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF2rzObSQWbgoME4bSvQmXNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PEPA PIG",
+    "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFFXO3iZ93leuUQiFk0kHAhA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARS DISNEY",
+    "ico": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/imagenes-cars-4_xten.jpg",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCXUDlg1BBAXEN9TwEDpTog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANTINFLAS SHOW",
+    "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFr32z/+WTuqmjcYFnWrx2nA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "O MEJOR DE DISNEY HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFhsxVZ2Trk61TOb+OH1ELVQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PEPA PIG",
+    "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFFXO3iZ93leuUQiFk0kHAhA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+        
+    ]
+ },
+{
     "name": "⭐EVENTOS STREAX",
     "mode": false,
     "lista": [
