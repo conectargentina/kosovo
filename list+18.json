@@ -239,10 +239,17 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
-	     {
-    "name": "tyc",
-    "ico": "https://www.gravatar.com/avatar/5eae5e19d0c7a2ea994ed03371ad7cbb?s=128&d=identicon&r=g",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF0Zmra93IK/tpY/SYh9atNA==",
+{
+    "name": "LIGA URUGUAY",
+    "ico": "https://i.ibb.co/mDPM1ZT/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "xBQ0MVo3Qx5eh7i+JW2PLJqpuqGZ1cfhvTWMW6WxYVIaTs1UvjLskfkMrf5HmNSAfdMuJogvG4Br/3co5kvf7R7eoJMgYncF7fZCxbqX+IY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ZONA593",
+    "ico": "https://dotsy.com.br/wp-content/uploads/2021/04/teste.png",
+    "uri": "xBQ0MVo3Qx5eh7i+JW2PLJqpuqGZ1cfhvTWMW6WxYVIaTs1UvjLskfkMrf5HmNSALnnKuRCmXyLK0WDcKOiCqUG/BdM1P2r4095TUwgnAEU=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
