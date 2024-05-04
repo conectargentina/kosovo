@@ -226,25 +226,88 @@
     "mode": false,
     "lista": [
       {
-        "name": "A PROGRAMAR",
-        "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+        "name": "STAR+1",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbNbEcQHLS/0XwwIwsLUiflg3yDPjRsHLrlbMOtQXa2sg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
-        "name": "A PROGRAMAR",
-        "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+        "name": "STAR+1",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJiTk7NBDjOm2Uo36hMpjaf/cyT1D3663PGmEkh2Ls6Mc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
-        "name": "A PROGRAMAR",
-        "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
+        "name": "STAR+2",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbb+Z1Nl0GCRE/kXCxqe4S8NLDmiEQ55pyobJLjTTtwws=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+2",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJAOV/2/IHX82THhGUsZm7pFJkMfnykXma243Ggr+apbo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+3",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbfIzreqqY+TlgEmWYhtXgeVQWRlOnFH7O1D7y9AwLoX0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+3",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJlvNCizk0mHi/VCmxjjrY1RNy7+2r/rDiLuCvTrdO0uw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+4",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbGTOlcfJHh7Q6HZ+k8kof+LMT1lboKPTQV3r38TcxOyE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+4",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF7i0DYW1C8aqFnM5DZ3qGWw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+5",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbdNDb23GTB28k2W6XnYoEU5s31NxjlIOzWVUun+cUBYM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+5",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFcWCXO060wS9CsH/+KL94jQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+6",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbAF5rShmBUMrlvH6B4s+FxSqQt5W0S2rtU1dfLkZ5x8E=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STAR+6",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFV8hCz8ksdOwsArkd+Kq7rw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "A PROGRAMAR",
@@ -1241,7 +1304,7 @@
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "ico": null,
+        "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HMpDbd6kr72w1CrNfsQt+UOAnwm/wEDWyw9aPbMbFxhN83nl7XXefFq1A4gEAOmnVsOUkSw40yz1SlRMzie70R6rvXnGUBJ7Cmavi5Vyx67Q==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXiM/mrr7o0KKMwiiy2XbC2StfwNdssY31UcuvYhbZuqOSm5jdsOFb26nPWSPQyc/hthLIy/Zr73UVpGb3X/hNgSbAs1u7QJtwI0mS+ZLWjX/8q1A+yEpPAHa04qUUhKSQ=="
@@ -2988,9 +3051,9 @@
     "mode": false,
     "lista": [
       {
-        "name": "GOURMET",
-        "ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7sTk4ST22FHFcY4Pbtrm1i/gPUUUHfpVT+Hu4Xao08Nc=",
+        "name": "EL GOURMET",
+        "ico": "https://i.ibb.co/yRnCnRJ/el-gourmet.png",
+        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7EroQA6aQ7OWmpBTgJ5pJRA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4378,6 +4441,27 @@
         "name": "VTV+",
         "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD04in775SM1l21Yxwy9I2JMA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbUFkXB3yC74kXTYrxh99bGwA/opeclHBJgN8bB3ymNto=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFrGIS9l3pRTsvshb3cbQZEg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbsThlx4dJsfc2Gwo4dtaK5CCBmcX6fJhIlemxCjoV5aQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
