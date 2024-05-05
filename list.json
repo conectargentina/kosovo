@@ -100,7 +100,27 @@
         "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9i41nKM67+9W6KgpT4OV0GQ==",
         "drm_scheme": "",
         "drm_license_url": ""
-      }
+      },
+   "name": "HBO SIGNATURE",
+    "ico": null,
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PopQONpvrQyHvPFzwSesrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HBO SIGNATURE",
+    "ico": null,
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PopQONpvrQyHvPFzwSesrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": null,
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJfQbx12uZu+L6Oz/5mTicNNtdFQy1a4N55hXiypQKw2f0c9DWTUS296Ci520hTq5+",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  }
     ]
   },
   {
