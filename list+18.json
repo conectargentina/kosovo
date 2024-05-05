@@ -2946,14 +2946,14 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtQiAwEUt1B8CXLOJEtKizXG1mn988FP4Qc/JzZHRAHdJmNJHH+Zn8vsoGFs3pHMpA8ykAuRhi9+azSN4mm2SzQgRX4c/9qDWJuXU3dFaMjkNOVDXRSRdHOsmAvfstaexEg=="
           },
-          {
-            "name": "HBO SIGNATURE FLOW",
-            "ico": "https://i.ibb.co/FYgrpMP/ar-hbo-signature-m.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0E/t72mhOL7kheFfwk2ZgP6SD32t2uZhDt1kfgSyIthkwplnRVA3PdHBedpxp1qQDajPUCsJbYex3EdDIQZ0J47",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbBHsT8++/DeS56ocj0pA78LLXDtimo3lf0IoRXMAMruQKctxJ941sTKoHgqxQfP7XC9CtegDV/K3M2M/8SFWFPO3gR/GupHxTsdeG7u68pfBQNS7zuFnvHScUdNOPlHkQ=="
-          },
-          {
+  {
+    "name": "HBO SIGNATURE",
+    "ico": null,
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsxjB83zs5fTF6PhySWp2nWSXt+fENqE7MnpBqVZBP1nrBKoe2eCDo4WmdaCevQdPn3cruRVn+Th3sVrFYa3qCkA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+                 {
             "name": "HBO MUNDI FLOW",
             "ico": "https://i.ibb.co/dJjRPzB/ar-max-m.png",
             "uri": "CShol7tV+MJYtbD3ZDj7hFkB9Q8DEKrOYWgGjccyYfLwvp4FRRPktCRPPcru2nksinFh9ar+WWPS7YicQmneMID2Xlqqk+erjjYiTKsWGFWprjCMcHAI6yJfkiocUVHN",
