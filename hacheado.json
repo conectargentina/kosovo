@@ -7,7 +7,14 @@
                       "name": "COMUNIQUESE CON SU VENDEDOR",
                       "uri": "http://zoomplay.online/live/User994696333/Contra611999430/1643917.m3u8",
                       "icono": "https://imagens.ne10.uol.com.br/legado/blogsne10/torcedor/uploads/2019/09/JC-ESP0911_JOGOSDODIA.jpg"
-                  }
+                  },
+    {
+        "name": "TELEMUNDO INTERNACIONAL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
+        "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg9PzUMuve9OghvuhiftJvnm+oAnLAYRD/iZCfr5Xf3rJdbHbC7Pbl2EMrV8wFTQQ5WBBSNOI1hOHZdYRd6aK6pT/IvPuCZGtmdrP2gykdxwhe7jfFgO6OUFM/0ClrlEBKg=="
+      }
 
               ]
           },
