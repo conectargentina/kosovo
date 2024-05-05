@@ -14,6 +14,13 @@
         "drm_scheme": "clearkey",
         "icono": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
         "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg9PzUMuve9OghvuhiftJvnm+oAnLAYRD/iZCfr5Xf3rJdbHbC7Pbl2EMrV8wFTQQ5WBBSNOI1hOHZdYRd6aK6pT/IvPuCZGtmdrP2gykdxwhe7jfFgO6OUFM/0ClrlEBKg=="
+      },
+   {
+        "name": "EL TRECE ",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
+        "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
       }
 
               ]
