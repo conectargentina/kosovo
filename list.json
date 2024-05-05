@@ -2915,10 +2915,17 @@
       },
 {
     "name": "HBO SIGNATURE",
-    "ico": "https://i.ibb.co/1zvrLR0/hbosignature.png",
-    "uri": "O4zQaBxapxoofA7Utbs4FwBoo6XFHOWJSbr2AN+SqBLx78lq90TlG97R6YjoxrpPLyviMF0lQEwx20l/vDSm9LkSDOwzf0wsV2d0Pk/lAPepKC0agfobQlplI8UeV64NdypzVk39h5nqThO6CFVjmw==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "HlCTKc/LZDFapikAKgEf0PVzW7/Zhj43VFq6AC8DmY4/YjCN35noO/UP0TyMDfGTC7G1O1rHrQrymS7rHYA/bA=="
+  "ico": "https://i.ibb.co/XJ915P2/2024-05-05-18-44-32.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PopQONpvrQyHvPFzwSesrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HBO SIGNATURE",
+  "ico": "https://i.ibb.co/XJ915P2/2024-05-05-18-44-32.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1Pjlm7U8Tjzk9YUzWS2tuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
 
       {
@@ -3066,6 +3073,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://i.ibb.co/LChRhNQ/18033300-807693432717890-7256707108603873771-n.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFo4rBPRTvtZQHnhMEJqo6kw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "HGTV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png",
