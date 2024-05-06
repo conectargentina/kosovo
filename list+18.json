@@ -13,7 +13,7 @@
   },
    {
     "name": "✨El retorno de los Thunderman",
-    "ico": "https://image.tmdb.org/t/p/w780/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
     "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1032,7 +1032,35 @@
     "name": "📺GRAN HERMANO🇦🇷",
     "mode": false,
     "lista": [
-         {
+       {
+    "name": "✨GH 24hs",
+    "ico": "https://image.tmdb.org/t/p/w780/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+a+3sZCrd5WnJyr3p4TrwPss5WyJ6JH8WIxMIYSn4cDsA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨GH CAM 1",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+bcJExNZs0HNRvsvonJiXRrJ0J4x0kiYZ1dXONI5DkE+w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨GH CAM 2",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+Z/OF7GwCIHWQ3Dn40nHCSsqgwp7MopAg2GdO3sGvGruw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "✨GH CAM 3",
+    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+ap6eNWIzxWx7q48Gy+ZlvOOwJaYXRTn+hBYqECO0Ex0g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
     "name": "GH 24/7",
     "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0c1Oe8/KQ1hX3yVkGJinA3g==",
