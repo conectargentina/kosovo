@@ -3155,6 +3155,20 @@
         "drm_scheme": "clearkey",
         "drm_license_url": ""
       },
+ {
+    "name": "NATIONAL GEOGRAPHIC",
+    "ico": "https://i.ibb.co/X3f0JTF/natgeologo.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhS1qQjgkd6c/sve67YzwUxOMArD2Y2AGBGDpAPuJ+4eOBI73aQQus7tfADan4Hc1I",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GOURMET",
+    "ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhUASf6rVIQAvlVF6Q81TtNY/eVEkPH2xmEmh+Lt17rHNla4AjpvlsuKvDodmnGeC6",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
       {
         "name": "NATIONAL GEOGRAPHIC",
         "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
