@@ -3167,16 +3167,51 @@
     "lista": [
          
   {
-    "name": "EL GOURMET",
-    "ico": "https://i.ibb.co/yRnCnRJ/el-gourmet.png",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7EroQA6aQ7OWmpBTgJ5pJRA==",
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://i.ibb.co/qBP2Jrh/44789884-1150506165103280-8362940656963813376-n.png",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFo4rBPRTvtZQHnhMEJqo6kw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TELEMUNDO INTERNACIONAL",
-    "ico": "https://i.ibb.co/qBP2Jrh/44789884-1150506165103280-8362940656963813376-n.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFo4rBPRTvtZQHnhMEJqo6kw==",
+    "name": "ODISEA",
+    "ico": "https://i.ibb.co/bBwXr6d/odisea.png",
+    "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fCig/jU2ADktVQOf/65TL1oe0PfgLAY325HzhqzhR4P+",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HGTV",
+    "ico": "http://78.47.174.211/logos/hgtv.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJozJdCFcKC76uPpvZXxFU14zN3f0WCP6CpRi2dDPGcmGczeFyWS0U5VKBqoUGUkzQK4UXZ0rKd10gAmb6ex1M2g==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DECASA",
+    "ico": "https://i.ibb.co/4Mkp64j/decasa.jpg",
+    "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fMMy9wtT8NZp0nKctVkR/uD3aRr6zRajv3e81V4kK7or",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SUN CHANNEL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Wsr+ueGzidd2PpB9zAeKQeSRkwFh16QkI3e2D7s25JEwXXj0lgQ36Xi2KtUsyHEH0i",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GOURMET",
+    "ico": "http://78.47.174.211/logos/elgourmet.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhUASf6rVIQAvlVF6Q81TtNY/eVEkPH2xmEmh+Lt17rHNla4AjpvlsuKvDodmnGeC6",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL GOURMET 2",
+    "ico": "https://i.ibb.co/yRnCnRJ/el-gourmet.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7EroQA6aQ7OWmpBTgJ5pJRA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3199,6 +3234,47 @@
     "ico": "https://www.disneyadvertising.com/wp-content/uploads/2023/09/das_nat-geo_nat-geo-mundo_logo_KO-uai-720x405-1.png",
     "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+bxUZoFov5LGLfieV57AbzY5YRVB/ugPl40Cv97mdxJgQ==",
     "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL COCINA",
+    "ico": "https://i.ibb.co/D8TXv1Y/2024-05-07-18-32-10.png",
+    "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fLwWyBch/VkNVo6/52L872vAUgjHBiUvZLuxOIjuGpPZ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TRAVELXP ES",
+    "ico": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
+    "uri": "Ac1wAi7H5IB+6kwrVFdHdMlIZEukgKx0QctqgV/AVCpQwJ49n8uFf9pn2ect2iRe7FghUrFzIm19nXZbxvbCBki3ctVuXnZXnlTekkT+3Y3AvopT3Qlg6H8j3QuEPoj+jAPiq2akfcxlcwtzIrvfK0DsZ9jvZoVDH3UdOunc/sE3ZmPss8EaHodLVbpIsw7bck0k8yWZvhT+iGT/8XGoCslT/Ejb2UpdfMnaajrnTDk=",
+    "drm_scheme": ""
+    "drm_license_url": ""
+  },
+  {
+    "name": "INTI NETWORK",
+    "ico": "https://i.ibb.co/6PXN8Sp/21248241-1334028926726691-1694969298929391644-o.jpg",
+    "uri": "ZLktQIbRT1rwj7lEf5IVMIIm9qnOj+Uyn8Dsg+Ju4XKh7VCW39+BR+WiIlXGxYCrPn5WOEKQ4FOqpULg00vXh28RWpc7SYSxWbUJ5c6V5pOn0KfOFXFwkD8BhsYz0Gui",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOVE NATURE",
+    "ico": "https://i.ibb.co/Xb3YMNy/lovenature.png",
+    "uri": "8SpyY0utrFRy+dSuBQFgZtfkdLvyOlyYAdSUYegt/UToX4SjbI7TdTnHLPImsKCBmLLeBAXL1Zr8XJoOHd2qgJy1qdeYr2uHiYkVDRiMaMT451N3OuB+bRJGQ2bvn3xr3Tee/2tEGQTqYX476AniNgfOdymj6H8iK4AuVuGLIQU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SABER MÁS",
+    "ico": "https://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg",
+    "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxcLZPrWB9F8iblBhHsKzbw2hKOvuV4pLklYKytGxWBOKzKudtePaY7WPXgs5R6CsBR",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    "name": "NATIONAL GEOGRAPHIC",
+    "ico": "https://i.ibb.co/X3f0JTF/natgeologo.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhS1qQjgkd6c/sve67YzwUxOMArD2Y2AGBGDpAPuJ+4eOBI73aQQus7tfADan4Hc1I",
+    "drm_scheme": "clearkey",
     "drm_license_url": ""
   },
   {
