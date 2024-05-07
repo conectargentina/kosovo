@@ -3169,6 +3169,21 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+   {
+    "name": "NATIONAL GEOGRAPHIC",
+    "ico": "https://i.ibb.co/X3f0JTF/natgeologo.png",
+    "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
+ "prot": "0"
+  },
+ {
+        "name": "GOURMET",
+ 	"ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed"
+      },
       {
         "name": "NATIONAL GEOGRAPHIC",
         "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
