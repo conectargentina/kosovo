@@ -3188,6 +3188,27 @@
     "drm_license_url": ""
   },
   {
+    "name": "NAT GEO WILD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+ZephoAlehcqFltpV5lhwRvoZrbzd+DnbSTwN4f9ntGtw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NAT GEO MUNDO",
+    "ico": "https://www.disneyadvertising.com/wp-content/uploads/2023/09/das_nat-geo_nat-geo-mundo_logo_KO-uai-720x405-1.png",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+bxUZoFov5LGLfieV57AbzY5YRVB/ugPl40Cv97mdxJgQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "WOBI",
+    "ico": "https://blogs.infobae.com/wobi/files/2012/10/wobirueda200x200.png",
+    "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+Zb/QWwZAIBd9XxgDzRvmPQK5ICcfrNG8n6/UYK/qD4Qg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "HGTV",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKyMMfdaHi4p7wamwlPkdMOkQz/nH3NolxCVIztFnuDuw==",
