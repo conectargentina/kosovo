@@ -21,6 +21,114 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5179017f49326d14af0a9ceec831aee6&key=09b4a463b029ebc28a288bed2da70a76",
         "icono": "https://i.ibb.co/Tv2dWPq/descarga-8.jpg"
+      },
+ {
+        "name": "DISCOVERY WORLD",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=34ee94c2263345f7a3a590661264e490&key=56757d656a697ab7a2e5e083b5d21bb5",
+        "icono": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg"
+      },
+      {
+        "name": "AMC BREAK",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:89_HD.smil/manifest.mpd",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/AMC_Break.svg/640px-AMC_Break.svg.png"
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4be0c61ceddc62294cc9e23b627af53d&key=852c1935d11c3c53d0a1ceff3bb3bf16",
+        "icono": "https://i.ibb.co/X3f0JTF/natgeologo.png"
+      },
+      {
+        "name": "NATIONAL GEOGRAPHIC ES",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:257_HD.smil/manifest.mpd",
+        "icono": "https://i.ibb.co/tmGdKgj/natgeo.png"
+      },
+       {
+        "name": "NATGEO WILD",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:258_HD.smil/manifest.mpd",
+        "icono": "http://78.47.174.211/logos/natgeowild.png"
+      },
+      {
+        "name": "NAT GEO MUNDO",
+        "uri": "https://archive.org/download/natgeo-mundo_202401/natgeo-mundi.m3u8",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
+        "icono": "https://i.ibb.co/YL79wkw/natgeo-mundo.png"
+      },
+      {
+        "name": "ANIMAL PLANET",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4146a8ecbb0540dc807c6389ee87e0bc&key=0c3cdc1b3e4617c57361265e9fa4c5bd",
+        "icono": "https://i.ibb.co/Wz6HfRy/animal-planet.png"
+      },
+      {
+        "name": "ODISEA",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/manifest.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://archive.org/download/odisea_202312/odisea.json",
+        "icono": "https://i.ibb.co/bBwXr6d/odisea.png"
+      },
+      {
+        "name": "HGTV",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43bc6a87ee4f21aa320ba00b980a6fd8&key=bd55130539a30faa1d90b3142eebe0b2",
+        "icono": "http://78.47.174.211/logos/hgtv.png"
+      },
+      {
+        "name": "DECASA",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd",
+        "icono": "http://78.47.174.211/logos/decasa.png"
+      },
+      {
+        "name": "SUN CHANNEL",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=158177692aa3463eae5f4e1f72403e9c&key=1c6c026fba9cf7ecb576c7bedce0ead4",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png"
+      },
+      {
+        "name": "GOURMET",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=93d853ac4c8e24cf0295f6f97ee53bd3&key=fa5817fab4fb054ccea1abb9f3d767ed",
+        "icono": "http://78.47.174.211/logos/elgourmet.png"
+      },
+       {
+        "name": "CANAL COCINA",
+        "uri": "https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:85_HD.smil/manifest.mpd",
+        "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
+      },
+       {
+        "name": "CANAL COCINA 4K",
+        "uri": "https://cache1.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d1622e41b898458f889c697b0de3d1f0&key=7ad1ffd9308b35d961a6dae3c596fa57",
+        "icono": "https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052"
+      },
+       {
+        "name": "TRAVELXP ES",
+        "uri": "https://36c99fb4c50649bf803389624beea453.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-es_TravelXP/playlist.m3u8",
+        "icono": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png"
+      },
+      {
+        "name": "INTI NETWORK",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(INTI_HD)/index.m3u8",
+        "icono": "https://i.ibb.co/x8yfbT1/inti-network-tv.png"
+      },
+      {
+        "name": "LOVE NATURE",
+        "uri": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/love-nature-en-espaol/playlist.m3u8",
+        "icono": "https://i.ibb.co/Xb3YMNy/lovenature.png"
+      },
+      {
+        "name": "SABER MÁS",
+        "uri": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/playlist.m3u8",
+        "icono": "https://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg"
       }
 
               ]
