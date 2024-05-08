@@ -310,12 +310,12 @@
     "drm_license_url": ""
   },
   {
-    "name": "tEST DTV ʜᴅ",
+    "name": "DIRECTV",
     "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5lEdWztNAADkrBIMhgStrlJJBavUhK6h/VIF/NAlgK0Y=",
-    "drm_scheme": "",
+    "uri": "+uOdNzxVsJNb9R/y8yuhNxJk5wRp0GZzouaHrxyQp4Tnksml5x4rEQM6enKBiL+b",
+    "drm_scheme": "clearkey",
     "drm_license_url": ""
-  },
+  }
 
 {
             "name": "A PROGRAMAR",
