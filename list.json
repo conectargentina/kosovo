@@ -1115,6 +1115,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+          {
+            "name": "AMERICA SPORTS",
+            "ico": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg",
+            "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
+          },
       {
         "name": "AMERICA SPORTS",
         "ico": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png",
@@ -1526,103 +1533,149 @@
     "mode": false,
     "lista": [
       {
-        "name": "BEIN SPORTS ESPAÑOL",
-        "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 1 HD",
-        "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 1 LIVE",
-        "ico": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEpdSudQpBSWOGtCh4f9RVQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 2 HD",
-        "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Xp2ODalufC03H21YiU3A5g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FOX SOCCER PLUS HD",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0WBT9AhU6Q8dVC2cE+PbynQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CLARO SPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFjf5x2xip+nFDGR94H1lXFw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MOVISTAR LA LIGA",
-        "ico": "http://imgfz.com/i/7WlrgTF.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufMbIRt2Njs2/JEZELFn3XgM4ujWJnYp6Bu2H2Pn3TjqPhy3bIie0kxuP6xRxfP2oow==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BEIN SPORTS EXTRA",
-        "ico": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
-        "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "VTV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
-      },
-      {
-        "name": "VTV",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
-      },
-      {
-        "name": "VTV PLUS",
-        "ico": "http://imgfz.com/i/dTApbyc.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufMbIRt2Njs2/JEZELFn3XgM4ujWJnYp6Bu2H2Pn3TjqP3YbeBeUYR1BWVh+y65Ky7Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DEPORTV",
-        "ico": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg",
-        "uri": "bGJDO+GDBBzNLT4sOhP44u5rs6CTfJUJU3rIfv3W8HO8epoUtgBnSA5lt6O6o9CQb1p5a11p8bsc2hSPeba77c3IwS4L8WPLqlupNOAGKX8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BEIN SPORTS EXTRA Ñ",
-        "ico": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
-        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AMERICA SPORTS",
-        "ico": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
-      },
+    "name": "BEIN SPORTS",
+    "ico": "https://ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+            "name": "BEIN SPORTS EXTRA Ñ",
+            "ico": "https://ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+  {
+    "name": "BEIN SPORTS",
+    "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+    "name": "BEIN SPORTS ESPAÑOL",
+    "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+    "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+ {
+            "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+   
+  {
+    "name": "EUROSPORT 1 HD",
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+            "name": "EUROSPORT 1 LIVE",
+            "ico": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png",
+            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEpdSudQpBSWOGtCh4f9RVQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+  {
+    "name": "EUROSPORT 2 HD",
+    "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Xp2ODalufC03H21YiU3A5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX SOCCER PLUS HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0WBT9AhU6Q8dVC2cE+PbynQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
+          {
+            "name": "CLARO SPORTS",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png",
+            "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFjf5x2xip+nFDGR94H1lXFw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "MOVISTAR LA LIGA",
+            "ico": "http://imgfz.com/i/7WlrgTF.png",
+            "uri": "NboaWfN8QeM7U9qeSOuufMbIRt2Njs2/JEZELFn3XgM4ujWJnYp6Bu2H2Pn3TjqPhy3bIie0kxuP6xRxfP2oow==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+                 {
+            "name": "VTV",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
+          },
+          {
+            "name": "VTV",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
+            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
+          },
+          {
+            "name": "VTV PLUS",
+            "ico": "http://imgfz.com/i/dTApbyc.png",
+            "uri": "NboaWfN8QeM7U9qeSOuufMbIRt2Njs2/JEZELFn3XgM4ujWJnYp6Bu2H2Pn3TjqP3YbeBeUYR1BWVh+y65Ky7Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+
+              {
+            "name": "DEPORTV",
+            "ico": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg",
+            "uri": "bGJDO+GDBBzNLT4sOhP44u5rs6CTfJUJU3rIfv3W8HO8epoUtgBnSA5lt6O6o9CQb1p5a11p8bsc2hSPeba77c3IwS4L8WPLqlupNOAGKX8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },        
+         
+          {
+            "name": "BEIN SPORTS EXTRA Ñ",
+            "ico": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
+            "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "AMERICA SPORTS",
+            "ico": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg",
+            "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
+          },
       {
         "name": "SSC  1",
         "ico": "https://i.ibb.co/LRGKSN7/Logo-SSC1-HD.png",
