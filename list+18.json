@@ -143,6 +143,20 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+{
+        "name": "PADRE DE FAMILIA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Family_Guy_television_set.svg/200px-Family_Guy_television_set.svg.png",
+        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1039826.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAGON BALL Z",
+        "ico": "https://image.tmdb.org/t/p/w780/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
+        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1039747.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
   {
     "name": "PEPA PIG",
     "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
