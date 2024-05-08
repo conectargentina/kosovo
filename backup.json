@@ -120,13 +120,84 @@
     "name": "DIVERSIÓN 24/7",
     "mode": false,
     "lista": [
-   {
+     {
     "name": "CHAVO DEL 8",
     "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
     "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "EL CHAVO DEL OCHO 2",
+    "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg"",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD021VHwHh1lRY9rCCCDscdcA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "CASO CERRADO",
+    "ico": "https://budtv-ultra.com/posters/1711913283211.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Ci4NSYHW/wilIz2aDyRTJg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FBI",
+    "ico": "https://budtv-ultra.com/posters/1711913566465.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0RNofB6b+EtfCc9Wzryx9qg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PEPA PIG",
+    "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FYQj2OoDQ+9Bb3eX2+Dfww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HEY ARNOLD",
+    "ico": "https://budtv-ultra.com/posters/1711908596346.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ab0nHp6BiNWGklOlzvThHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "THE GOOD DOCTOR",
+    "ico": "https://budtv-ultra.com/posters/1711912069480.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Gj/GmrhDhPlPVVJhja0AVw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DINOSAURIOS",
+    "ico": "https://pupilasembrasas.com.br/wp-content/uploads/2014/01/42381.jpg",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7rJf4vP7oFtlTMUNmbgiOnvnsJ85IljAVtcqBmBEfKac=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINEMA UNIVERSE",
+    "ico": "https://i.ibb.co/WHSSMQ1/Marvel-Cinematic-Universe-Logo.webp",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7pHZZrKsVdv9se3ECvEl/kin22RxEucU+OsOgVUyFnjc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": " DISNEY MOVIES",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/800px-Disney_cinema_logo.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7z8CtQvSCB2oD/DGD98XRZKLnva3rxCe15BmcPEfdM24=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SOUTH PARK",
+    "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
+    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe+i0AG3gR29mei4Saw6++w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
   {
     "name": "EL CHAVO ANIMADO",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png",
