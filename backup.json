@@ -4,117 +4,92 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
- 
- {
-    "name": "✨Beekeeper: El protector",
-    "ico": "https://image.tmdb.org/t/p/w780/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9gRqTHMM+aL+8vOVyRJXUrg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "✨El retorno de los Thunderman",
-    "ico": "https://i.ibb.co/Qk08GJR/f1280x720-1429126-1560801-5050.webp",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+          {
+    "name": "SIN EDULCORAR",
+    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Fighter (Luchador)",
-    "ico": "https://image.tmdb.org/t/p/w780/1zTxvyl41WCKiJxojmk9bGYqFUT.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9aNOIqgP/o3qXNt1KvTlGGQ==",
+    "name": "SAYEN: LA CAZADORA",
+    "ico": "https://pics.filmaffinity.com/sayen_la_cazadora-960606733-large.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0iTHJLM4b3Q/C6Ap7J46JXg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨El Pajaro Loco 2024",
-    "ico": "https://image.tmdb.org/t/p/w780/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9LnBIyymnOTXfLIIDPvEemA==",
+    "name": "LA IDEA DE TENERTE",
+    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨Fabricante de lágrimas",
-    "ico": "https://image.tmdb.org/t/p/w780/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9xBHs8BdkYM0kCc05fa4Lug==",
+    "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
+    "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlVL3JxotS7Hw/zeso/gOhLng==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨Nada más que eso",
-    "ico": "https://image.tmdb.org/t/p/w780/APqgj4oRkMRU5xPKTYeF27Hwow.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9+khUVRgaGblMpX4B9xr1Tw==",
+    "name": "LUNA SIN MIEL",
+    "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0Oedy647cKQw8ygEAXX8LpA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨El salario del miedo",
-    "ico": "https://image.tmdb.org/t/p/w780/li9PN0QuQRbilaX1XOBmmkst5DX.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9LnBIyymnOTXfLIIDPvEemA==",
+    "name": "EN ESA DIRECCIÓN",
+    "ico": "https://image.tmdb.org/t/p/w780/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gSKID3LwvWkF7iA4Mkl3WA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨Fabricante de lágrimas",
-    "ico": "https://image.tmdb.org/t/p/w780/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9xBHs8BdkYM0kCc05fa4Lug==",
+    "name": "FIGHTER",
+    "ico": "https://image.tmdb.org/t/p/w780/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZTKsIUbEUGP1o+UdN7Gcmhg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "PRUEBA45",
-    "ico": "http://panel.budtv-ultra.cXXXom/posters/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg",
-    "uri": "xBQ0MVo3Qx5eh7i+JW2PLEn2dM2k3tBfEYmLWHrOBiS0NU10f7O3SJR2TprCtAPm2pPzWLWDAC+uB5lR1b1hqQ==",
+    "name": "SCOOP",
+    "ico": "https://image.tmdb.org/t/p/w780/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZCeixouUH34WI5jDSk2TBbg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-
   {
-    "name": "✨Madame",
+    "name": "MADAME WEB",
     "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9PXhFhpHX6i5bQo3JIU6eEw==",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ/l/o9ySgkTqBg0KdMeXG2w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨Pared con pared",
-    "ico": "https://image.tmdb.org/t/p/w780/vEV0cMrzRQIbZmgbXD4LL1gm9YP.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9FRe6YSXUozQ0yKlH+3mzbg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "✨Misión hostil",
+    "name": "RESCATE IMPOSIBLE",
     "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9gt9UmGMS0/sTDMF6+rmHSA==",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ6U+9Yln77CN+6z2ngV0fKw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨Kung Fu Panda 4",
-    "ico": "https://image.tmdb.org/t/p/w780/zS8BSQdbOesql0EWbs17kPvLoAT.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9lgA7A1h2bLjoMn6mRKz/yw==",
+    "name": "SIN EDULCORAR",
+    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "✨Damsel",
-    "ico": "https://image.tmdb.org/t/p/w780/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr94VfEAx8q7mWtOJaBNt+u/Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "✨Inhumano",
-    "ico": "https://images.justwatch.com/poster/248734637/s592/inhumano",
-    "uri": "8wOfFyOCrsrgjpZod8l2nihQnrH0M3iVKCuIc8EmN8IjFTrVrgEmU5Nx/h5oitr9i41nKM67+9W6KgpT4OV0GQ==",
+    "name": "LA IDEA DE TENERTE",
+    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
 
-
-
-    ]
+         ]
  },
 {
     "name": "DIVERSIÓN 24/7",
@@ -305,101 +280,42 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
- 
-
-        
+         
     ]
  },
 {
     "name": "⭐EVENTOS STREAX",
     "mode": false,
     "lista": [
-         
-	    {
-    "name": "STAR+1",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbNbEcQHLS/0XwwIwsLUiflg3yDPjRsHLrlbMOtQXa2sg=",
+     
+{
+   "name": "DTV ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0/eE8ROy/IjzKLvaBAHWglA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "STAR+1",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJiTk7NBDjOm2Uo36hMpjaf/cyT1D3663PGmEkh2Ls6Mc=",
+    "name": "DTV ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FS/sHt7344CQHys1qaqXEw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "STAR+2",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbb+Z1Nl0GCRE/kXCxqe4S8NLDmiEQ55pyobJLjTTtwws=",
+    "name": "DTV ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7h73VSCA8wqQY/QP+Riz4kYcmLNY4HlVvh+6bDRNToM4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "STAR+2",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJAOV/2/IHX82THhGUsZm7pFJkMfnykXma243Ggr+apbo=",
+    "name": "tEST DTV ʜᴅ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5lEdWztNAADkrBIMhgStrlJJBavUhK6h/VIF/NAlgK0Y=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "STAR+3",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbfIzreqqY+TlgEmWYhtXgeVQWRlOnFH7O1D7y9AwLoX0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+3",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJlvNCizk0mHi/VCmxjjrY1RNy7+2r/rDiLuCvTrdO0uw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+4",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbGTOlcfJHh7Q6HZ+k8kof+LMT1lboKPTQV3r38TcxOyE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+4",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF7i0DYW1C8aqFnM5DZ3qGWw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+5",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbdNDb23GTB28k2W6XnYoEU5s31NxjlIOzWVUun+cUBYM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+5",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFcWCXO060wS9CsH/+KL94jQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+6",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbAF5rShmBUMrlvH6B4s+FxSqQt5W0S2rtU1dfLkZ5x8E=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STAR+6",
-    "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFV8hCz8ksdOwsArkd+Kq7rw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-
 
 {
             "name": "A PROGRAMAR",
@@ -415,10 +331,8 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           }
-
-	  
-  
-    ]
+ 
+      ]
  },
  {
     "name": "📺ARGENTINA🇦🇷",
@@ -821,127 +735,6 @@
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           }
-    ]
- },
- {
-    "name": "⚽DIRECTV SPORTS",
-    "mode": false,
-    "lista": [
-   {
-    "name": "DTV 1 Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUMQmvFs97HY11ovqcQjV8w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFjZlfBa3qb6lUGayZ1duJug==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV PLUS Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFcEr8JRBsTn8b0Avo+N849Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF+CJ75lij6suvi6NxfGRHiw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUEowf6tQuALtRZGxcytjhQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV PLUS Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe0Ltju6Nhhn+CaGx/9IUHw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF+CJ75lij6suvi6NxfGRHiw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFf8vQYWyusm0FMdiQaWUTNw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV Plus ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7n4BYLtIPoxrCOOKsy0H6cbo2zgji3zOvgXNUflLedIg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
- {
-    "name": "DTV1",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJl1HiEXMfVF5qsngcEQURQkSjgTs7kl88K4954JWlIJw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV2",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJg4p8l30QBXcyNN7vir+Q/mZi5frkCctsb1F7ioGeB0I=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV3",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJHoCcYfRNue5SpdVzHU/9jHi3Fz1m1kfe3Gp5p60RUtU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV4",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJ1Qq1RJscbw+DpT0da6/E1/pUqQ3pDuQ0WiDc3OS6xMI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV5",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJhCUr2IOEyeH0xqDrNgrLEsJQXCfIgmJtBz3EDvhdtkU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV6",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJq6ZfR4dKmM9QGsHHeD25Wn37WixzJdsLlYJUi/kXQeM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV FIGHT",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJvumQEOY34FRHpy0Z3hj9arf/r0DmWleAnrAbVY/+aMY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-
-
-
     ]
  },
 
