@@ -4,111 +4,111 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
-      {
-        "name": "SIN EDULCORAR",
-        "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1076064.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SAYEN: LA CAZADORA",
-        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1076062.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-{
-        "name": "LA IDEA DE TENERTE",
-        "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
-        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1076059.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
-        "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
-        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1075896.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LUNA SIN MIEL",
-        "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1075894.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EN ESA DIRECCIÓN",
-        "ico": "https://image.tmdb.org/t/p/w780/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1075893.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+       {
+    "name": "SIN EDULCORAR",
+    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
-        "name": "FIGHTER",
-        "ico": "https://image.tmdb.org/t/p/w780/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
-        "uri": "http://dnslivetv.online/live/Streax3030/Streax3030/1074352.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-{
-        "name": "SCOOP",
-        "ico": "https://image.tmdb.org/t/p/w780/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
-        "uri": "http://dnslivetv.online/live/Streax3030/Streax3030/1073201.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    "name": "SAYEN: LA CAZADORA",
+    "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0iTHJLM4b3Q/C6Ap7J46JXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
-        "name": "MADAME WEB",
-        "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
-        "uri": "http://dnslivetv.online/live/Streax3030/Streax3030/1073900.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    "name": "LA IDEA DE TENERTE",
+    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
-        "name": "RESCATE IMPOSIBLE",
-        "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-        "uri": "http://dnslivetv.online/live/Streax3030/Streax3030/1073268.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-      {
-        "name": "SIN EDULCORAR",
-        "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1076064.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SAYEN: LA CAZADORA",
-        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1076062.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-{
-        "name": "LA IDEA DE TENERTE",
-        "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
-        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1076059.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
-        "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
-        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1075896.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LUNA SIN MIEL",
-        "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
-        "uri": "http://dnslivetv.online/movie/Streax2025/Streax2025/1075894.mkv",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
+    "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlVL3JxotS7Hw/zeso/gOhLng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LUNA SIN MIEL",
+    "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0Oedy647cKQw8ygEAXX8LpA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN ESA DIRECCIÓN",
+    "ico": "https://image.tmdb.org/t/p/w780/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gSKID3LwvWkF7iA4Mkl3WA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FIGHTER",
+    "ico": "https://image.tmdb.org/t/p/w780/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZTKsIUbEUGP1o+UdN7Gcmhg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SCOOP",
+    "ico": "https://image.tmdb.org/t/p/w780/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZCeixouUH34WI5jDSk2TBbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MADAME WEB",
+    "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ/l/o9ySgkTqBg0KdMeXG2w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RESCATE IMPOSIBLE",
+    "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ6U+9Yln77CN+6z2ngV0fKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SIN EDULCORAR",
+    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SAYEN: LA CAZADORA",
+    "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0iTHJLM4b3Q/C6Ap7J46JXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA IDEA DE TENERTE",
+    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
+    "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlVL3JxotS7Hw/zeso/gOhLng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LUNA SIN MIEL",
+    "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
+    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0Oedy647cKQw8ygEAXX8LpA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
          ]
  },
 {
@@ -143,20 +143,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-{
-        "name": "PADRE DE FAMILIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Family_Guy_television_set.svg/200px-Family_Guy_television_set.svg.png",
-        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1039826.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DRAGON BALL Z",
-        "ico": "https://image.tmdb.org/t/p/w780/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
-        "uri": "http://dnslivetv.online/live/Streax2025/Streax2025/1039747.m3u8",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
   {
     "name": "PEPA PIG",
     "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
