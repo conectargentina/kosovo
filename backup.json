@@ -1,4 +1,5 @@
 
+
 [
  {
     "name": "⚡¡ESTRENOS!⚡",
@@ -309,16 +310,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "tEST DTV ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5lEdWztNAADkrBIMhgStrlJJBavUhK6h/VIF/NAlgK0Y=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-
-{
-            "name": "A PROGRAMAR",
+{           "name": "A PROGRAMAR",
             "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
@@ -1130,6 +1122,13 @@
           },
           {
             "name": "AMERICA SPORTS",
+            "ico": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg",
+            "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
+          },
+          {
+            "name": "AMERICA SPORTS",
             "ico": "https://i.ibb.co/hLxLHfV/large-55-png-b16840144f7c170cb9dc31bff9cb1369.png",
             "uri": "tBw/SFWKxm+FDxAiybooUkr9Ohw/fFL9AyNyM4fBnjRi9vAhs2bG/n5ReWgsFdV5Kutv6BK2xoi+P4L03JCcOQ==",
             "drm_scheme": "",
@@ -1539,13 +1538,56 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
-      {
+  {
+    "name": "BEIN SPORTS",
+    "ico": "https://ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+            "name": "BEIN SPORTS EXTRA Ñ",
+            "ico": "https://ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+  {
+    "name": "BEIN SPORTS",
+    "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
     "name": "BEIN SPORTS ESPAÑOL",
-    "ico": "https://i.ibb.co/xqcWgHJ/bein.jpg",
+    "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
+ {
+    "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+ {
+            "name": "BEIN SPORTS EXTRA",
+            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+   
   {
     "name": "EUROSPORT 1 HD",
     "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
