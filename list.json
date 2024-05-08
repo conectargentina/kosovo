@@ -3,281 +3,278 @@
     "name": "⚡¡ESTRENOS!⚡",
     "mode": false,
     "lista": [
-    {
-    "name": "SIN EDULCORAR",
-    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SAYEN: LA CAZADORA",
-    "ico": "https://pics.filmaffinity.com/sayen_la_cazadora-960606733-large.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0iTHJLM4b3Q/C6Ap7J46JXg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA IDEA DE TENERTE",
-    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
-    "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlVL3JxotS7Hw/zeso/gOhLng==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LUNA SIN MIEL",
-    "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0Oedy647cKQw8ygEAXX8LpA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN ESA DIRECCIÓN",
-    "ico": "https://image.tmdb.org/t/p/w780/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gSKID3LwvWkF7iA4Mkl3WA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FIGHTER",
-    "ico": "https://image.tmdb.org/t/p/w780/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZTKsIUbEUGP1o+UdN7Gcmhg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SCOOP",
-    "ico": "https://image.tmdb.org/t/p/w780/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZCeixouUH34WI5jDSk2TBbg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MADAME WEB",
-    "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ/l/o9ySgkTqBg0KdMeXG2w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RESCATE IMPOSIBLE",
-    "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ6U+9Yln77CN+6z2ngV0fKw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SIN EDULCORAR",
-    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA IDEA DE TENERTE",
-    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+      {
+        "name": "SIN EDULCORAR",
+        "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SAYEN: LA CAZADORA",
+        "ico": "https://pics.filmaffinity.com/sayen_la_cazadora-960606733-large.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0iTHJLM4b3Q/C6Ap7J46JXg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA IDEA DE TENERTE",
+        "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
+        "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlVL3JxotS7Hw/zeso/gOhLng==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LUNA SIN MIEL",
+        "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0Oedy647cKQw8ygEAXX8LpA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EN ESA DIRECCIÓN",
+        "ico": "https://image.tmdb.org/t/p/w780/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gSKID3LwvWkF7iA4Mkl3WA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FIGHTER",
+        "ico": "https://image.tmdb.org/t/p/w780/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZTKsIUbEUGP1o+UdN7Gcmhg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SCOOP",
+        "ico": "https://image.tmdb.org/t/p/w780/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZCeixouUH34WI5jDSk2TBbg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MADAME WEB",
+        "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ/l/o9ySgkTqBg0KdMeXG2w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RESCATE IMPOSIBLE",
+        "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ6U+9Yln77CN+6z2ngV0fKw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SIN EDULCORAR",
+        "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA IDEA DE TENERTE",
+        "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
+        "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
     "name": "DIVERSIÓN 24/7",
     "mode": false,
     "lista": [
-     {
-    "name": "CHAVO DEL 8",
-    "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CHAVO DEL OCHO 2",
-    "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD021VHwHh1lRY9rCCCDscdcA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-{
-    "name": "CASO CERRADO",
-    "ico": "https://budtv-ultra.com/posters/1711913283211.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Ci4NSYHW/wilIz2aDyRTJg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FBI",
-    "ico": "https://budtv-ultra.com/posters/1711913566465.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0RNofB6b+EtfCc9Wzryx9qg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PEPA PIG",
-    "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FYQj2OoDQ+9Bb3eX2+Dfww==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HEY ARNOLD",
-    "ico": "https://budtv-ultra.com/posters/1711908596346.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ab0nHp6BiNWGklOlzvThHQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "THE GOOD DOCTOR",
-    "ico": "https://budtv-ultra.com/posters/1711912069480.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Gj/GmrhDhPlPVVJhja0AVw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DINOSAURIOS",
-    "ico": "https://pupilasembrasas.com.br/wp-content/uploads/2014/01/42381.jpg",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7rJf4vP7oFtlTMUNmbgiOnvnsJ85IljAVtcqBmBEfKac=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CINEMA UNIVERSE",
-    "ico": "https://i.ibb.co/WHSSMQ1/Marvel-Cinematic-Universe-Logo.webp",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7pHZZrKsVdv9se3ECvEl/kin22RxEucU+OsOgVUyFnjc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": " DISNEY MOVIES",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/800px-Disney_cinema_logo.png",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7z8CtQvSCB2oD/DGD98XRZKLnva3rxCe15BmcPEfdM24=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SOUTH PARK",
-    "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe+i0AG3gR29mei4Saw6++w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-
-  {
-    "name": "EL CHAVO ANIMADO",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUHRSaIYELvAmAz1D5LM1pA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS SIMPSONS",
-    "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFF6jow+lOWn96agBCqpyNqg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CHAPULÍN COLORADO",
-    "ico": "https://static.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/7/7f/Chapul%C3%ADn_Colorado.png/revision/latest?cb=20190316043827&path-prefix=es",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1LrjA4ufUVuRqLYa2MofAg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DRAGON BALL SUPER",
-    "ico": "https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFHAOwpJq207ZJXHcqKxiIeA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL PAJARO LOCO",
-    "ico": "https://i.ibb.co/4TJ8k2p/6a0a77a49e190ba1ec1211b426b0ef7c.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsulQyIWsxvdWgoRFUDU4Vg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NARUTO",
-    "ico": "https://i.ibb.co/NSPys4j/imagenes-sin-fondo-naruto.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFxAAKRzd4tQYhEuWvTnQY4Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-{
-    "name": "BOB ESPONJA",
-    "ico": "https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFH3x+je3Epw6ylCWvraiKjQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TOM AND JERRY",
-    "ico": "https://www.clarin.com/img/2015/03/24/H1JtXsaQx_1256x620.jpg",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEIV4yxkUyba0q8kJwyp/tA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BEN 10 HD",
-    "ico": "https://i.ibb.co/XDDb4Pf/ben-10.jpg",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCsr+SDdZd5EdKXnUbF05qA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DOCUMENTALES",
-    "ico": "https://static.wikia.nocookie.net/dreamlogos/images/d/df/Canal_Documentary_1993.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFJvuXlL+Fvu2Hj7vtM5dSZw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-
-  {
-    "name": "PANTERA ROSA",
-    "ico": "https://i.ibb.co/PcCk0wH/f6633e6de07c300d8397ef9f4c980849.jpg",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFunuWFkA1QbpBN0PTEY3NYA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SONIC Y SU BANDA",
-    "ico": "https://i.blogs.es/2596e6/sonic/1366_2000.webp",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF2rzObSQWbgoME4bSvQmXNw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PEPA PIG",
-    "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFFXO3iZ93leuUQiFk0kHAhA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CARS DISNEY",
-    "ico": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/imagenes-cars-4_xten.jpg",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCXUDlg1BBAXEN9TwEDpTog==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-
-  {
-    "name": "O MEJOR DE DISNEY HD",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",
-    "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFhsxVZ2Trk61TOb+OH1ELVQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+      {
+        "name": "CHAVO DEL 8",
+        "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL CHAVO DEL OCHO 2",
+        "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD021VHwHh1lRY9rCCCDscdcA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CASO CERRADO",
+        "ico": "https://budtv-ultra.com/posters/1711913283211.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Ci4NSYHW/wilIz2aDyRTJg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FBI",
+        "ico": "https://budtv-ultra.com/posters/1711913566465.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0RNofB6b+EtfCc9Wzryx9qg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PEPA PIG",
+        "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FYQj2OoDQ+9Bb3eX2+Dfww==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "HEY ARNOLD",
+        "ico": "https://budtv-ultra.com/posters/1711908596346.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ab0nHp6BiNWGklOlzvThHQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "THE GOOD DOCTOR",
+        "ico": "https://budtv-ultra.com/posters/1711912069480.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Gj/GmrhDhPlPVVJhja0AVw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DINOSAURIOS",
+        "ico": "https://pupilasembrasas.com.br/wp-content/uploads/2014/01/42381.jpg",
+        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7rJf4vP7oFtlTMUNmbgiOnvnsJ85IljAVtcqBmBEfKac=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINEMA UNIVERSE",
+        "ico": "https://i.ibb.co/WHSSMQ1/Marvel-Cinematic-Universe-Logo.webp",
+        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7pHZZrKsVdv9se3ECvEl/kin22RxEucU+OsOgVUyFnjc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": " DISNEY MOVIES",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/800px-Disney_cinema_logo.png",
+        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7z8CtQvSCB2oD/DGD98XRZKLnva3rxCe15BmcPEfdM24=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SOUTH PARK",
+        "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe+i0AG3gR29mei4Saw6++w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL CHAVO ANIMADO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUHRSaIYELvAmAz1D5LM1pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS SIMPSONS",
+        "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFF6jow+lOWn96agBCqpyNqg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL CHAPULÍN COLORADO",
+        "ico": "https://static.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/7/7f/Chapul%C3%ADn_Colorado.png/revision/latest?cb=20190316043827&path-prefix=es",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1LrjA4ufUVuRqLYa2MofAg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DRAGON BALL SUPER",
+        "ico": "https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFHAOwpJq207ZJXHcqKxiIeA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL PAJARO LOCO",
+        "ico": "https://i.ibb.co/4TJ8k2p/6a0a77a49e190ba1ec1211b426b0ef7c.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsulQyIWsxvdWgoRFUDU4Vg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "NARUTO",
+        "ico": "https://i.ibb.co/NSPys4j/imagenes-sin-fondo-naruto.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFxAAKRzd4tQYhEuWvTnQY4Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOB ESPONJA",
+        "ico": "https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFH3x+je3Epw6ylCWvraiKjQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TOM AND JERRY",
+        "ico": "https://www.clarin.com/img/2015/03/24/H1JtXsaQx_1256x620.jpg",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEIV4yxkUyba0q8kJwyp/tA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEN 10 HD",
+        "ico": "https://i.ibb.co/XDDb4Pf/ben-10.jpg",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCsr+SDdZd5EdKXnUbF05qA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DOCUMENTALES",
+        "ico": "https://static.wikia.nocookie.net/dreamlogos/images/d/df/Canal_Documentary_1993.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFJvuXlL+Fvu2Hj7vtM5dSZw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PANTERA ROSA",
+        "ico": "https://i.ibb.co/PcCk0wH/f6633e6de07c300d8397ef9f4c980849.jpg",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFunuWFkA1QbpBN0PTEY3NYA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SONIC Y SU BANDA",
+        "ico": "https://i.blogs.es/2596e6/sonic/1366_2000.webp",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF2rzObSQWbgoME4bSvQmXNw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PEPA PIG",
+        "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFFXO3iZ93leuUQiFk0kHAhA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CARS DISNEY",
+        "ico": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/imagenes-cars-4_xten.jpg",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCXUDlg1BBAXEN9TwEDpTog==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "O MEJOR DE DISNEY HD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFhsxVZ2Trk61TOb+OH1ELVQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
@@ -285,86 +282,30 @@
     "mode": false,
     "lista": [
       {
-        "name": "STAR+1",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbNbEcQHLS/0XwwIwsLUiflg3yDPjRsHLrlbMOtQXa2sg=",
+        "name": "DTV ʜᴅ",
+        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0/eE8ROy/IjzKLvaBAHWglA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STAR+1",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJiTk7NBDjOm2Uo36hMpjaf/cyT1D3663PGmEkh2Ls6Mc=",
+        "name": "DTV ʜᴅ",
+        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FS/sHt7344CQHys1qaqXEw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STAR+2",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbb+Z1Nl0GCRE/kXCxqe4S8NLDmiEQ55pyobJLjTTtwws=",
+        "name": "DTV ʜᴅ",
+        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7h73VSCA8wqQY/QP+Riz4kYcmLNY4HlVvh+6bDRNToM4=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "STAR+2",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJAOV/2/IHX82THhGUsZm7pFJkMfnykXma243Ggr+apbo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+3",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbfIzreqqY+TlgEmWYhtXgeVQWRlOnFH7O1D7y9AwLoX0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+3",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJlvNCizk0mHi/VCmxjjrY1RNy7+2r/rDiLuCvTrdO0uw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+4",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbGTOlcfJHh7Q6HZ+k8kof+LMT1lboKPTQV3r38TcxOyE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+4",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF7i0DYW1C8aqFnM5DZ3qGWw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+5",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbdNDb23GTB28k2W6XnYoEU5s31NxjlIOzWVUun+cUBYM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+5",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFcWCXO060wS9CsH/+KL94jQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+6",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbAF5rShmBUMrlvH6B4s+FxSqQt5W0S2rtU1dfLkZ5x8E=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+6",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFV8hCz8ksdOwsArkd+Kq7rw==",
+        "name": "tEST DTV ʜᴅ",
+        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+        "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5lEdWztNAADkrBIMhgStrlJJBavUhK6h/VIF/NAlgK0Y=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -783,124 +724,6 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
-    ]
-  },
-  {
-    "name": "⚽DIRECTV SPORTS",
-    "mode": false,
-    "lista": [
-      {
-        "name": "DTV 1 Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUMQmvFs97HY11ovqcQjV8w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFjZlfBa3qb6lUGayZ1duJug==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV PLUS Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFcEr8JRBsTn8b0Avo+N849Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF+CJ75lij6suvi6NxfGRHiw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUEowf6tQuALtRZGxcytjhQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV PLUS Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe0Ltju6Nhhn+CaGx/9IUHw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF+CJ75lij6suvi6NxfGRHiw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFf8vQYWyusm0FMdiQaWUTNw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV Plus ",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7n4BYLtIPoxrCOOKsy0H6cbo2zgji3zOvgXNUflLedIg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV1",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJl1HiEXMfVF5qsngcEQURQkSjgTs7kl88K4954JWlIJw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV2",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJg4p8l30QBXcyNN7vir+Q/mZi5frkCctsb1F7ioGeB0I=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV3",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJHoCcYfRNue5SpdVzHU/9jHi3Fz1m1kfe3Gp5p60RUtU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV4",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJ1Qq1RJscbw+DpT0da6/E1/pUqQ3pDuQ0WiDc3OS6xMI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV5",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJhCUr2IOEyeH0xqDrNgrLEsJQXCfIgmJtBz3EDvhdtkU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV6",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJq6ZfR4dKmM9QGsHHeD25Wn37WixzJdsLlYJUi/kXQeM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DTV FIGHT",
-        "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJvumQEOY34FRHpy0Z3hj9arf/r0DmWleAnrAbVY/+aMY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
@@ -3179,14 +3002,14 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "NATIONAL GEOGRAPHIC",
-    "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhS1qQjgkd6c/sve67YzwUxOMArD2Y2AGBGDpAPuJ+4eOBI73aQQus7tfADan4Hc1I",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQkcEBDpcRGj+hxd2fUOnjD08I1B/FT39ksL7QWeTpAn1Vlkc3/0xPNjyQ5S4QC91rEi+qgePcBsf6esmu9RkbzcPt+TxsJ/l6rC0Gsg+Ux6lG9ivbTfDpK9zFn8Lc1WLw=="
-  },
-{
+      {
+        "name": "NATIONAL GEOGRAPHIC",
+        "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhS1qQjgkd6c/sve67YzwUxOMArD2Y2AGBGDpAPuJ+4eOBI73aQQus7tfADan4Hc1I",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQkcEBDpcRGj+hxd2fUOnjD08I1B/FT39ksL7QWeTpAn1Vlkc3/0xPNjyQ5S4QC91rEi+qgePcBsf6esmu9RkbzcPt+TxsJ/l6rC0Gsg+Ux6lG9ivbTfDpK9zFn8Lc1WLw=="
+      },
+      {
         "name": "NAT GEO WILD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/800px-Nat_Geo_Wild_logo.png",
         "uri": "iAd3qsL0vFzeSt8dTPPu8lnwCdFfABaP5zvUmYQMH+ZephoAlehcqFltpV5lhwRvoZrbzd+DnbSTwN4f9ntGtw==",
@@ -3228,14 +3051,21 @@
         "drm_scheme": "clearkey",
         "drm_license_url": ""
       },
-  {
-    "name": "GOURMET",
-    "ico": "https://i.ibb.co/C0bddrq/large-gallery-11008-7-20686-png-6a839e51eea47ab6bb6fec94f1cc0ee8.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhUASf6rVIQAvlVF6Q81TtNY/eVEkPH2xmEmh+Lt17rHNla4AjpvlsuKvDodmnGeC6",
-    "drm_scheme": "clearkey",
-    "drm_license_url": ""
-  },
-         {
+      {
+        "name": "GOURMET",
+        "ico": "http://78.47.174.211/logos/elgourmet.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhUASf6rVIQAvlVF6Q81TtNY/eVEkPH2xmEmh+Lt17rHNla4AjpvlsuKvDodmnGeC6",
+        "drm_scheme": "clearkey",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EL GOURMET 2",
+        "ico": "https://i.ibb.co/yRnCnRJ/el-gourmet.png",
+        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7EroQA6aQ7OWmpBTgJ5pJRA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "CANAL COCINA",
         "ico": "https://i.ibb.co/D8TXv1Y/2024-05-07-18-32-10.png",
         "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fLwWyBch/VkNVo6/52L872vAUgjHBiUvZLuxOIjuGpPZ",
@@ -3268,13 +3098,6 @@
         "ico": "https://i.ibb.co/cYjQX71/freetv-sabermas-1080x1080-02092024.jpg",
         "uri": "kT3au0yYJUAm0HScADL7cPK5rUx/HCGepf0F7P3iFQl0r5GVzsEq6kfOd0OIalxcLZPrWB9F8iblBhHsKzbw2hKOvuV4pLklYKytGxWBOKzKudtePaY7WPXgs5R6CsBR",
         "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NATIONAL GEOGRAPHIC",
-        "ico": "https://i.ibb.co/X3f0JTF/natgeologo.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhS1qQjgkd6c/sve67YzwUxOMArD2Y2AGBGDpAPuJ+4eOBI73aQQus7tfADan4Hc1I",
-        "drm_scheme": "clearkey",
         "drm_license_url": ""
       },
       {
@@ -5176,15 +4999,6 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-
-  {
-    "name": "NATIONAL GEOGRAPHIC",
-    "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhS1qQjgkd6c/sve67YzwUxOMArD2Y2AGBGDpAPuJ+4eOBI73aQQus7tfADan4Hc1I",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQkcEBDpcRGj+hxd2fUOnjD08I1B/FT39ksL7QWeTpAn1Vlkc3/0xPNjyQ5S4QC91rEi+qgePcBsf6esmu9RkbzcPt+TxsJ/l6rC0Gsg+Ux6lG9ivbTfDpK9zFn8Lc1WLw=="
-  },
-
       {
         "name": "WILLAX",
         "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png?resize=768%2C432&ssl=1",
