@@ -4852,13 +4852,41 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TNT SPORTS CHILE",
-        "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKZJPu8blIwyU8+hV9V+vAjxa36jxKRi1QH09MmuNNIhg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "CHV NOTICIAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CHV_Noticias_2018.png/731px-CHV_Noticias_2018.png",
+    "uri": "qkJFXcL0/Ry4L2Pvxx2o2+ybW5rUa7QQbXcqUPooKO6x4QiEiSs802L5whW0xfgXnj56HiFI+gwGix7LRhfqQ76K+xM/N8iH9dxD57HFTVOy5grV0WhUm7SBF3cYAVDXGPW+EkEPfhRyVSwgknPA2TpGlQwhG/GoU5UrqynzUfgzy7CEfjYFISCZfuJPuAPR+oYDmJxuqfTMXDQYeEwRVupCAdHFs4feDI8IBLqZ4BwdY7lRtisY4Tf/Zp6KnmtTNK86lbKxHVI/OP4WnajydQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELE TRECE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Logotipo_de_Teletrece_%282016-2019%29.png/660px-Logotipo_de_Teletrece_%282016-2019%29.png",
+    "uri": "qkJFXcL0/Ry4L2Pvxx2o2+ybW5rUa7QQbXcqUPooKO6x4QiEiSs802L5whW0xfgXnj56HiFI+gwGix7LRhfqQ76K+xM/N8iH9dxD57HFTVOuLrfp9w5FJzGeeu2nPqijwfBirkAnK19nK8YpoSOBSUB0+JsHM7HhB4P3mcnepvCEdVv8Bnbf5pPzhQEfU0XNSmiArpOT2+3zSIJz1b5sWfRAGxcPwlRKjB0wxShQIt1OFVQqUDwK+h+3wZPJbrNrs0RSke7wsTx6OWHEGGAFFg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/1127px-Logotipo_de_Mega_%282020-%29.svg.png",
+    "uri": "bdn50+CnMW/B+oMbu7isD5M4UTLmgxIpIREjXtYvT+4eLs9nkLf9B3AgxJXQawXDtn8R20W9O8FZ2IEMRZUijmOFu1y28Jp8xK2ysgADPYTSMkyxuy0EkFcooox0Ei+J/1k09XNiWLefwAMEJUblN0rG4l2iNIhZOq1+dw9fU5s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PURA NOTICIA",
+    "ico": "https://scontent.feze14-1.fna.fbcdn.net/v/t1.6435-9/161000652_123736076426048_7317073121454341782_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KPscUxx3bV8Q7kNvgEnhiNb&_nc_ht=scontent.feze14-1.fna&oh=00_AYB83Tg7EPwTQ99M6OIAiru6ISXiL5lBcqnFdV-SSwlyTQ&oe=6664CC5B",
+    "uri": "HQBDYJHihh0hcvGbJneLal6tjhKOut6geMSbZSH3lgijH1r4qHKNYtdioajTszaR",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILE VISIÓN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",
+    "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOnaZbPTJOyEJvoW73/5uIuIaKR63oJytIyNHz/5bHJTM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },   
       {
         "name": "TVN",
         "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
@@ -4874,13 +4902,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "MEGA",
-        "ico": "https://cdn.mitvstatic.com/channels/cl_mega_m.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLWG1z3PjrOM9I6VIgYkSK1fxatmy0JM5o4vsDWg3ncpw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CHILE VISIÓN",
         "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD02edYG3R9Nrhb0iMuIR9xaQ==",
@@ -4891,13 +4912,6 @@
         "name": "LA RED",
         "ico": "https://static.epg.best/cl/LaRed.cl.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PdZ1J/DMnw7roTQGmz2TAA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TV CHILE",
-        "ico": "https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png",
-        "uri": "8wOfFyOCrsrgjpZod8l2njymtRib4hqh73xMpNxhS0gF9y5ctzaQLHKko9PJYt8gxUrcHr9EKCq1RLd4lYFT9g==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
