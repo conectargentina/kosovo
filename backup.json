@@ -1,5 +1,4 @@
 
-
 [
  {
     "name": "⚡¡ESTRENOS!⚡",
@@ -289,27 +288,6 @@
     "mode": false,
     "lista": [
      
-{
-   "name": "DTV ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0/eE8ROy/IjzKLvaBAHWglA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FS/sHt7344CQHys1qaqXEw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV ʜᴅ",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7h73VSCA8wqQY/QP+Riz4kYcmLNY4HlVvh+6bDRNToM4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
 {           "name": "A PROGRAMAR",
             "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
@@ -322,7 +300,57 @@
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-          }
+          },
+{
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgC/tyWgKoUQ3SWXtCK/y5FQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgOH09KJr4KvFC2bW8fY/Nmw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgz6268hpVfizZ1Jzgaoy6HQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgPHpdFoePABLKLwO+1m9kgA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgzFaSMbQfU9br4COloZoGqw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgKN80+sGxFq1nihSHKaAWmg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgutjOTso+hhFV3pB0EzCuaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
  
       ]
  },
@@ -1533,6 +1561,120 @@
           }
           
     ]
+ },
+{
+    "name": "🇺🇸 EVENTOS MLS",
+    "mode": false,
+    "lista": [
+     
+{
+    "name": "MLS 1",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgL9F9mudFXLyWe0wv8cWVzQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 2",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmguMILMYo24/jLrT9bhn2jcQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 3",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmglAe7C8/Gc9LLCASMPJzO9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 4",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgjsyYSbJk0lusjXTdwz/Dbw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 5",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmghE5TsPDKo9NAf5HI422wdQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 6",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgQD/tZf54OOx4Q+38c/55FQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 7",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgbUrhD0ZUqe7XLVY4sKKthw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 8",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgm70lTLO06gQplLn/rlP/rw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 9",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgTKByMX+WeOO6wTqAJwItKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 10",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmg2n4/QJGL3BiWixAoLhINxA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 11",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgC8STuW3xpt8aVkBT30VUeQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 12",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgjq39rxVIUzSr85/wuBpxow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 13",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgo/FrQI4bs++Mg1nJkitxNg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 14",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmg45C5JMiGMENfSyUqm1LIPw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MLS 15",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmg/HIlygAjL+F5ix9Pv6ksGg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+ 
+      ]
  },
  {
     "name": "⚽DEPORTES INTERNACIONALES",
@@ -4590,6 +4732,28 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+ {
+    "name": "ST|VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmga/lHVlKyxhuez2VBxTeYPA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ST|VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmg96igAVCOOkDAGzoOI14Bug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ST|VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmg96igAVCOOkDAGzoOI14Bug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
   {
     "name": "XL|VTV+",
     "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
