@@ -323,27 +323,20 @@
     "name": "⭐EVENTOS STREAX",
     "mode": false,
     "lista": [
-      {
-        "name": "STAR+1",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbNbEcQHLS/0XwwIwsLUiflg3yDPjRsHLrlbMOtQXa2sg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+1",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJiTk7NBDjOm2Uo36hMpjaf/cyT1D3663PGmEkh2Ls6Mc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+2",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF4ENZfo1j7gL+Zo13Nl40sXFMeB/uMTl75j0qYtr5abbb+Z1Nl0GCRE/kXCxqe4S8NLDmiEQ55pyobJLjTTtwws=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+     {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgC/tyWgKoUQ3SWXtCK/y5FQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DTV SPORTS",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgOH09KJr4KvFC2bW8fY/Nmw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "✨Premium",
         "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
@@ -1355,6 +1348,70 @@
       }
     ]
   },
+{
+    "name": "🇺🇸 EVENTOS MLS",
+    "mode": false,
+    "lista": [
+     
+{
+    "name": "MLS 1",
+    "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgL9F9mudFXLyWe0wv8cWVzQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+            {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "✨Premium",
+        "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
+        "uri": "8wOxcccfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0tWlfRBv/fSNWgN/X61X7pA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+ 
+      ]
+ },
   {
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
