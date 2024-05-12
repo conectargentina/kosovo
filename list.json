@@ -1486,6 +1486,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaDaCf9jKAdNk99d8vtJeh+AZE6beS2Rdgf64UpBqpGboRUVj8X1s+WXfP+fcSOgYejv3U0MchTz1RHrARaF91g+Txly3QJ2R2RDsbRWJqGUYI+gmDQv6l/EoOS+1Y2nSg=="
       },
+  {
+    "name": "DISNEY JUNIOR",
+    "ico": "https://i.ibb.co/6rYqtSn/disneyjr.webp",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJQhChaeSK9TdyL830HeO0gyOKs387GEhdrfX1shvQr25CciESCzpcuGnDdwAh8bU7",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfHUMW/evCZFY120UiYzbV7wCvYEAytTTU3ABXs8BWBTP/ZiQXGRveUzf4VROK1KKo15lmb68NQykoEq5s33+xUBTS41nFZZYptVWNVwifOjbVtohPYhSkRgcTZjUHxXcg=="
+  },
       {
         "name": "CARTOON NETWORK",
         "ico": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png",
