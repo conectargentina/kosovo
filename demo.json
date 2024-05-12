@@ -2545,34 +2545,15 @@
     "name": "📺HBO",
     "mode": false,
     "lista": [
+
       {
-        "name": "HBO FLOW",
-        "ico": "https://i.ibb.co/tHxcPv7/channels4-profile-1.jpg",
+        "name": "HBO",
+        "ico": "https://i.ibb.co/5cZZDbr/hbo.webp",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FK2Ez+BRNZKbtyuQUoMdHHOd+6yaSLDLzZVNmKYSvuNucdlrszi4VFHk3N+mWjo8c=",
         "drm_scheme": "clearkey",
         "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtSAVSRHqP+UPARWRQXJX15jONEVq13Comc1ZAtbBK5lahAEVM0ZDU9dPSBpujVv514y/3Al/QYSzp1Zi2YV3ga8bz3NzECSGJH+8cEAy3jlru067E6CCS3QOMrTgwaj80A=="
       },
-      {
-        "name": "HBO 2 FLOW",
-        "ico": "https://i.ibb.co/KsX2ZS9/ar-hbo-2-m.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FZdCNPyIynl4LwZxacIvHdAPneJ/rapMOqa7PtU8kTLecRB2GkOstc8IF6p+O+6YI=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtcbUrbEG493Prm6xJ9R7rPceiR5y4RuJQKn5gb54eNFuaTmCXPcSNG5+QPbtAVGyjHHT5wY1BBkm2peo/1HW6CdHQYt725VfBa3ooiVrYKzFRM278604VvoJtLkOADBpvw=="
-      },
-      {
-        "name": "HBO XTREME FLOW",
-        "ico": "https://i.ibb.co/Qm692z1/ar-max-prime-panamericano-hd-m.png",
-        "uri": "O4zQaBxapxoofA7Utbs4F/wAZBFiREdFCMF/G91IeVuJLdZCvEszO8dTl25Feb8svZlEont+0iOXcFVWMMBYGEkRVQFePZXDT4bE5CgWrDm+lqi5qt0DogN8oP43qg0c",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcmuEJO7L/ZzzmsMQ8eb+N5ktuuAt75z0fyxyieVi+ICiA2DzH7kRgXgiEIKu8PEPmO0i+Ovk9x9WmOliq26hMKriYPuMcvXXcbczasXejAZK+S3v0u+t8PcvG0q3Y5t3g=="
-      },
-      {
-        "name": "HBO XTREME2 FLOW",
-        "ico": "https://i.postimg.cc/T2g6Mq1c/hbo-xtreme-logo-D424105400-seeklogo-com.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FZdCNPyIynl4LwZxacIvHdctaxxT3e9qm/e0HaWxnU3gxE12kM8AHjbQkHUOVvkoNK9+GBrQMZV6D02cSiCQ5h",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtaWZJuQXksLxf20w9osJztECKLS81Lu2LHVHtvNpGNaPn1n+Ne3PFZ0E1IupjU8JpUY/GvlmS2/3kJsMD+09Y52PraVYHO/jUtDFuZV9NVFoXeSsmOLaDpTbvVYT0Ohy7g=="
-      },
+    
           {
         "name": "✨Premium",
         "ico": "https://i.ibb.co/cTBqj5X/2c7aaf362485babc23e951c7ac01975d-insignia-de-calidad-premium.webpKzx3pSS0.jpg",
