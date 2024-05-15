@@ -1509,7 +1509,7 @@
       },
    {
     "name": "DREAMWORKS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/DreamWorks_Channel_Logo.svg/800px-DreamWorks_Channel_Logo.svg.png",
+    "ico": "https://i.ibb.co/zsj3gBH/dream.png",
     "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJ6R5g1AdeKV2RPIaTbPIRXKTFTC8r6r0b5mC+fAkp53TnpGHTLT/Twxt0X7DY+hWc",
     "drm_scheme": "ClearKey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Edf0S6xFiHdiWx+HqFEDitzVf81Vsj1fyIAE/s2Lfujwoti2ZEwLxy808A7jcqQdZnYsuzwt7vnVosR/v7XbblJJb0kCOoOOOVyeegJJNwMFv20+UrYQKWLNwqbkcoFhSw=="
@@ -1555,13 +1555,6 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FtS/yStEiCIfxGepIPW8QXzYCiGAC6oDTFyvc8xuYNVEgYUEi/PN3v1RL3yZSx8WpDYlNljioaxQ9eybp1+08Y",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
-      },
-      {
-        "name": "SEMILLITAS",
-        "ico": "https://semillitas.com/wp-content/uploads/2020/11/club-logo.png",
-        "uri": "kerMsZ4+4jaDO68Wg0enV7ibnlFQ1LgcwsDTWr6oTSQDEdJbd3kzNpBnRFvnA9bXYOset6pTyT7YedNYF34yECX2VMdEQuoy/y9WS7wf3AVcA98vWSWWJUAVaD2Lwdu6",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
