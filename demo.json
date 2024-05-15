@@ -1490,77 +1490,83 @@
     "name": "📺INFANTILES🙋",
     "mode": false,
     "lista": [
-        {
-            "name": "PAKA PAKA",
-            "ico": "https://i.postimg.cc/761GJTfR/maxresdefault.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H+xPa6zQPOCY5JliYCOPhD6LNrStrSzy2WHJ/F2zn2+bovHQZK/4raKjxm72OqASo2mpgVOahpPsAK2GYedl+H",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaDaCf9jKAdNk99d8vtJeh+AZE6beS2Rdgf64UpBqpGboRUVj8X1s+WXfP+fcSOgYejv3U0MchTz1RHrARaF91g+Txly3QJ2R2RDsbRWJqGUYI+gmDQv6l/EoOS+1Y2nSg=="
-          },
-          {
-            "name": "CARTOON NETWORK",
-            "ico": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Fu9P39NxqrOWAyrmAyIQCIhU52F7uWiJOJ322kpx4urCU5TSLZJI1UFduQyy7kyxL8f0A2ORyWi+iX1Pk0YmHpcmG4X/LewHVjf1YPfaCDhw==",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ER5OmItHyPf2I9rSD0mZl6p6PSYEqtFoOue6ZvMYQesJz12RSyFuPBOjz3YvII1dhcOpI91ECaVXtVTAPNPcQXbPCFriRhSqmN3T+PqyJpMUKI7btLY4BTARyN1VBxQLEw=="
-          },
-          {
-            "name": "Boomerang",
-            "ico": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png",
-            "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83Aj+Dr9reAEkRPXyHa9+2ZTN557n6S9EIMDOAoOd1yUzqATGjLmzCxygToQNPOCuSFLj11zWDIMiEJoJ2KcMsNM",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
-          },
-          {
-            "name": "NICK JR",
-            "ico": "https://i.postimg.cc/h41czR0h/image.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0F+0LXljdN7OHS7HZBKF4tbhgY2+ZvfQtMnQE6yMUbH1liEIoYS+41PwaDderzA+OhgcVVgzINr3oav3kYh1uxk",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfUt15/ExWFKznqXglInVVgfX7kdOp8/NaV5DU2wf3OwEDyI2mYtXXr3BkaobVKmDN5aj2akPhvOc8rgc47VKegQktk9Ly5IE+AAjAogJvTr317DRd5zhdJyOYb3Ucox6w=="
-          },
-          {
-            "name": "TOONCAST",
-            "ico": "https://i.postimg.cc/3Nmh9zsf/image.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ES4Sw4WI4ecdCxubw1aL986UqT+nxVK8owUYbhYm3bTn5HqGAJ00qkodPdaUFqQBM3u2OkxM0LOjYSbRSXJOHP",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuNjsts3lsQirRI47DHcHmCENxDwRJZDccyhOb+sf1id6K4OPmjkSEI3PXGka9WCJEMKowWG1qdHOoJ//28ILte6beJNcLZ5FCsdLj7MWM+FxA=="
-          },
-          {
-            "name": "DISNEY CHANNEL",
-            "ico": "https://i.postimg.cc/RZfs2zG4/Disney-Channel-2014-HD.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GHDhlXA9sA8imkVzSiIVnccof56QsO4/3CWsbLtGMzxT6FtIjifyVxfVxUxPzq/XTgKKbPfS3yzVKaTGiAxZ81pPCZpKJ9cPrzKlaxfehDvQ==",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQcdve1S27Smtk+CZyKUhTL+pjut57bgLR+JpYIc4g36vJa0rsimMvkodBNeI5Z26VYMe018lu6ZZWsvORFA/tQxIAxY3yYY9iKvSux73SmN6nmEa/XnHbK3pnkbaEoMGg=="
-          },
-          {
-            "name": "DISCOVERY KIDS",
-            "ico": "https://i.postimg.cc/hj7f1pcy/Discovery-kids-logo.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HEDtJRCfy/aZeQFPLnp4qISfbUlPeiMYWzR086BMy+BZVQZSz9bAZI6d233Rd+coaBpD7EMPVx9ZC1CvA4Ze/6",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXEdltsDsJ7n/pE1L9xVUh6INRjCIazhnarJC9d8e42l/6d609M6NQQugJRaCSwbF1ZKI2GrF/OpGxBQKTZzwZXMnoRigY897SuriUE0SG94pzPmW3yRbsF2Jwv3OGUoNA=="
-          },
-          {
-            "name": "NICKLODEON",
-            "ico": "https://i.postimg.cc/25R4KWLH/1014321.png",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H9SkUj9T718IU6nl/l96eBvzFs+f6suroThs9lS1+iDC2whh/avREmPQGbovUXAVimlO8FbLEJu/CY130H198m",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWXbSBf8MOGWFkffQ92eD4wuuXoetrZhb9aVCV8Gq27G3lk4rZ/VFhqtir5CGWfWMNLKxBqfS7lP5VNL2cOZOozxHb8Tvevbba3hqPVtG2QBdHZNdzOoCCTpL6l40K9j3A=="
-          },
-          {
-            "name": "CARTOONITO",
-            "ico": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI=w240-h480-rw",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FtS/yStEiCIfxGepIPW8QXzYCiGAC6oDTFyvc8xuYNVEgYUEi/PN3v1RL3yZSx8WpDYlNljioaxQ9eybp1+08Y",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
-          },
-          {
-            "name": "SEMILLITAS",
-            "ico": "https://semillitas.com/wp-content/uploads/2020/11/club-logo.png",
-            "uri": "kerMsZ4+4jaDO68Wg0enV7ibnlFQ1LgcwsDTWr6oTSQDEdJbd3kzNpBnRFvnA9bXYOset6pTyT7YedNYF34yECX2VMdEQuoy/y9WS7wf3AVcA98vWSWWJUAVaD2Lwdu6",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          }
-          
+             {
+        "name": "PAKA PAKA",
+        "ico": "https://i.postimg.cc/761GJTfR/maxresdefault.jpg",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H+xPa6zQPOCY5JliYCOPhD6LNrStrSzy2WHJ/F2zn2+bovHQZK/4raKjxm72OqASo2mpgVOahpPsAK2GYedl+H",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaDaCf9jKAdNk99d8vtJeh+AZE6beS2Rdgf64UpBqpGboRUVj8X1s+WXfP+fcSOgYejv3U0MchTz1RHrARaF91g+Txly3QJ2R2RDsbRWJqGUYI+gmDQv6l/EoOS+1Y2nSg=="
+      },
+  {
+    "name": "DISNEY JUNIOR",
+    "ico": "https://i.ibb.co/6rYqtSn/disneyjr.webp",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJQhChaeSK9TdyL830HeO0gyOKs387GEhdrfX1shvQr25CciESCzpcuGnDdwAh8bU7",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfHUMW/evCZFY120UiYzbV7wCvYEAytTTU3ABXs8BWBTP/ZiQXGRveUzf4VROK1KKo15lmb68NQykoEq5s33+xUBTS41nFZZYptVWNVwifOjbVtohPYhSkRgcTZjUHxXcg=="
+  },
+      {
+        "name": "CARTOON NETWORK",
+        "ico": "https://i.postimg.cc/brdSzHKx/240px-Cartoon-Network-2010-logo-svg.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Fu9P39NxqrOWAyrmAyIQCIhU52F7uWiJOJ322kpx4urCU5TSLZJI1UFduQyy7kyxL8f0A2ORyWi+iX1Pk0YmHpcmG4X/LewHVjf1YPfaCDhw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ER5OmItHyPf2I9rSD0mZl6p6PSYEqtFoOue6ZvMYQesJz12RSyFuPBOjz3YvII1dhcOpI91ECaVXtVTAPNPcQXbPCFriRhSqmN3T+PqyJpMUKI7btLY4BTARyN1VBxQLEw=="
+      },
+      {
+        "name": "BOOMERANG",
+        "ico": "https://i.postimg.cc/6Q8dFVBR/1200px-Boomerang-2014-logo-svg.png",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83Aj+Dr9reAEkRPXyHa9+2ZTN557n6S9EIMDOAoOd1yUzqATGjLmzCxygToQNPOCuSFLj11zWDIMiEJoJ2KcMsNM",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
+      },
+   {
+    "name": "DREAMWORKS",
+    "ico": "https://i.ibb.co/zsj3gBH/dream.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJ6R5g1AdeKV2RPIaTbPIRXKTFTC8r6r0b5mC+fAkp53TnpGHTLT/Twxt0X7DY+hWc",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Edf0S6xFiHdiWx+HqFEDitzVf81Vsj1fyIAE/s2Lfujwoti2ZEwLxy808A7jcqQdZnYsuzwt7vnVosR/v7XbblJJb0kCOoOOOVyeegJJNwMFv20+UrYQKWLNwqbkcoFhSw=="
+  },
+      {
+        "name": "NICK JR",
+        "ico": "https://i.postimg.cc/h41czR0h/image.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0F+0LXljdN7OHS7HZBKF4tbhgY2+ZvfQtMnQE6yMUbH1liEIoYS+41PwaDderzA+OhgcVVgzINr3oav3kYh1uxk",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfUt15/ExWFKznqXglInVVgfX7kdOp8/NaV5DU2wf3OwEDyI2mYtXXr3BkaobVKmDN5aj2akPhvOc8rgc47VKegQktk9Ly5IE+AAjAogJvTr317DRd5zhdJyOYb3Ucox6w=="
+      },
+      {
+        "name": "TOONCAST",
+        "ico": "https://i.postimg.cc/3Nmh9zsf/image.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ES4Sw4WI4ecdCxubw1aL986UqT+nxVK8owUYbhYm3bTn5HqGAJ00qkodPdaUFqQBM3u2OkxM0LOjYSbRSXJOHP",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuNjsts3lsQirRI47DHcHmCENxDwRJZDccyhOb+sf1id6K4OPmjkSEI3PXGka9WCJEMKowWG1qdHOoJ//28ILte6beJNcLZ5FCsdLj7MWM+FxA=="
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "ico": "https://i.postimg.cc/RZfs2zG4/Disney-Channel-2014-HD.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GHDhlXA9sA8imkVzSiIVnccof56QsO4/3CWsbLtGMzxT6FtIjifyVxfVxUxPzq/XTgKKbPfS3yzVKaTGiAxZ81pPCZpKJ9cPrzKlaxfehDvQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQcdve1S27Smtk+CZyKUhTL+pjut57bgLR+JpYIc4g36vJa0rsimMvkodBNeI5Z26VYMe018lu6ZZWsvORFA/tQxIAxY3yYY9iKvSux73SmN6nmEa/XnHbK3pnkbaEoMGg=="
+      },
+      {
+        "name": "DISCOVERY KIDS",
+        "ico": "https://i.postimg.cc/hj7f1pcy/Discovery-kids-logo.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HEDtJRCfy/aZeQFPLnp4qISfbUlPeiMYWzR086BMy+BZVQZSz9bAZI6d233Rd+coaBpD7EMPVx9ZC1CvA4Ze/6",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXEdltsDsJ7n/pE1L9xVUh6INRjCIazhnarJC9d8e42l/6d609M6NQQugJRaCSwbF1ZKI2GrF/OpGxBQKTZzwZXMnoRigY897SuriUE0SG94pzPmW3yRbsF2Jwv3OGUoNA=="
+      },
+      {
+        "name": "NICKLODEON",
+        "ico": "https://i.postimg.cc/25R4KWLH/1014321.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H9SkUj9T718IU6nl/l96eBvzFs+f6suroThs9lS1+iDC2whh/avREmPQGbovUXAVimlO8FbLEJu/CY130H198m",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWXbSBf8MOGWFkffQ92eD4wuuXoetrZhb9aVCV8Gq27G3lk4rZ/VFhqtir5CGWfWMNLKxBqfS7lP5VNL2cOZOozxHb8Tvevbba3hqPVtG2QBdHZNdzOoCCTpL6l40K9j3A=="
+      },
+      {
+        "name": "CARTOONITO",
+        "ico": "https://play-lh.googleusercontent.com/rlxooZ1FOBJ3YlXGuLr2Y02dE0eo6B5-1wy9X7vCPBXM7sVc5YFqSyGgUGGwfHpw3xI=w240-h480-rw",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FtS/yStEiCIfxGepIPW8QXzYCiGAC6oDTFyvc8xuYNVEgYUEi/PN3v1RL3yZSx8WpDYlNljioaxQ9eybp1+08Y",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
+      }
     ]
  },
 {
