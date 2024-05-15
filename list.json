@@ -281,71 +281,62 @@
     "name": "⭐EVENTOS STREAX",
     "mode": false,
     "lista": [
-
-      {
-        "name": "A PROGRAMAR",
-        "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "A PROGRAMAR",
-        "ico": "https://i.ibb.co/p3pZLwt/enentos.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
 {
-    "name": "DTV SPORTS",
+    "name": "DSPORTS| 1 ARG",
     "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgC/tyWgKoUQ3SWXtCK/y5FQ==",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSmLeclkvqMszOrcswn4tsciA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS| 2 ARG",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSm+fM0h76+mYUduKz2mH1/0g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS| 2 ARG",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSmUFNnC5nflD3C8ZLV44w0Gg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS| PLUS ARG FHD",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSmLeclkvqMszOrcswn4tsciA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS| 1 UR HD",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSmNc9/UVhSbc4TR0RPHH/J4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS| 1 COL ",
+    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSmLeclkvqMszOrcswn4tsciA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "DTV SPORTS",
     "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgOH09KJr4KvFC2bW8fY/Nmw==",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSmMOcjpKT+rzGwiABpto/gaQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DTV SPORTS",
+    "name": "DSPORTS| PLUS ECU ",
     "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgz6268hpVfizZ1Jzgaoy6HQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV SPORTS",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgPHpdFoePABLKLwO+1m9kgA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV SPORTS",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgzFaSMbQfU9br4COloZoGqw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV SPORTS",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgKN80+sGxFq1nihSHKaAWmg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DTV SPORTS",
-    "ico": "https://i.ibb.co/hMq03RK/DTVSPORTS.png",
-    "uri": "R1fnsZzMQ8pOReoRIomKsa5pPKEyLQd5g9S3WWIWLTXrkNm6kn36L5dpHvVdHdmgutjOTso+hhFV3pB0EzCuaQ==",
+    "uri": "Q04RX+GugpL2bi2gj1TZTZdQL84t6hCEHdVF3ocl5h6SyOBqum0UHO+vewV4cFSm+GtBJLvlN80aOZjI2c3dSg==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-
     ]
   },
   {
