@@ -508,69 +508,48 @@
     ]
  },
  {
-    "name": "⚽SUPERLIGA Y COPA ARGENTINA 🇦🇷",
+    "name": "⚽SUPERLIGA - Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ",
     "mode": false,
     "lista": [
-         {
-    "name": "ESPN PREMIUM AR",
-    "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
+        {
+    "name": "⚽ESPN PREMIUM",
+    "ico": "https://television-libre.online/img/espnpr.webp",
     "uri": "h+OCBmXEgkqLSItXuSyr2yCLrGfvW5khvZWWcHGd/9YsKZi4GvLlPdKWaI1nOqJWGddYNLc+zON1geOJhLU+ac+qONgeMbiDgsEUDZmcKF0CAmUDmxLGpK2uon/KtIwM6XrdsoypZKQsjsvBQWstWA==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpQ3zPF27mQWN89yOyTMueZw=="
   },
 
 	      {
-            "name": "ESPN PREMIUM FHD",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
+            "name": "⚽ESPN PREMIUM FHD",
+            "ico": "https://television-libre.online/img/espnpr.webp",
             "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
           },
-          {
-            "name": "ESPN PREMIUM",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
-            "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
-          },
-          {
-            "name": "ESPN PREMIUM",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
-            "uri": "9tjrwbvDv4zraNQfB4Hs+osPw5x3UBoJ1yiLGcOe841GAzuhmrNGZ5rwq/Jy64I8nZ49MxNBqa/lw4lOX7we4+VGpnJwuMS5jTKLMSpTmFs=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |ESPN PREMIUM",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
-            "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
-          },
-          {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
+                    {
+            "name": "⚽TNT SPORT HD",
+            "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
           },
           {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ |TNT SPORT HD",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
+            "name": "⚽TNT SPORT HD",
+            "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
           },
              {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS 2",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
+            "name": "⚽TYC SPORTS",
+            "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
           },
           {
-            "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-            "ico": "https://i.ibb.co/t22VCYB/afa.jpg",
+            "name": "⚽TYC SPORTS",
+            "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
@@ -578,103 +557,41 @@
              ]
  },
  {
-    "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
+    "name": "⚽COPA AMERICA",
     "mode": false,
     "lista": [
         {
-            "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
-            "ico": "https://i.ibb.co/dDQPPWt/uefa.webp",
+            "name": "⚽COPA AMERICA 2024",
+            "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
           },
-          {
-            "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
-            "ico": "https://i.ibb.co/dDQPPWt/uefa.webp",
-            "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
+   {
+            "name": "⚽COPA AMERICA 2024",
+            "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
             "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
           },
-          {
-            "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
-            "ico": "https://i.ibb.co/dDQPPWt/uefa.webp",
-            "uri": "6x1RxIbubcjZq6GXEssFFwulhG0B31BvvIrsWL6AaNiIYeYla/mYNUEj9gzvBoTevGSxalPnE9qY51RnKz+8zEDeKNzapgQQgox2EbwYAXo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "⚽EUROPA Y CHAMPIONS LEAGUE",
-            "ico": "https://i.ibb.co/dDQPPWt/uefa.webp",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H099hUxWGeqJrafaZ9MXQSCSzHPnWZ9BGitxP/0hfq22UX2jMQ4cC1N8coPvnKrZwv1H/qUTPqXb9jzEp3ol0z",
+     {
+            "name": "⚽COPA AMERICA 2024",
+            "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
             "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfrG0v5gQlvQVREkjPiQVcRnVkCspOGviv+Pb1hrkFAhS7TEtF2CumQG3lNSm13JzCqrVzAQtWfO0KsQqh6/g3V4DqdN4/vhJ0Yl4GBepmqOISjPHDMYur0NTJupfuN5LA=="
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
+          },
+   {
+            "name": "⚽COPA AMERICA 2024",
+            "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
           }
+         
     ]
  },
- {
-    "name": "⚽LIBERTADORES Y SUDAMERICANA",
-    "mode": false,
-    "lista": [
-        {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVYKNzOtN0DnoFS2GyZrOscJ7c8Q3T49sYNrslHrJa0lNl7+nrHpKhKgcIjuY9dg5FilPes81rJtt3Bw36YhA56Hpt8XjexJGJqSFzUr1U+iGlmSCgLiCWFZ3RanH9jbYA=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EFHOaQNGNCIgbLZporzpEk9F9eQuvbI7uLWgs/UpXwpv2AahOIiFKZvTrw23FDox3",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeK+utVwlqnXyGL1sbgvmbfFDKSYR5H8iM4TsuTA9LAqqvD5wMQAQJMn6E1y2Y7OHGVqJskdfUPPqDAb4GkU9VnPqtrEY2ZxFQVgsmHgY9onZ/FUUyngh7Om0GB+ULhLKg=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0E+YaHM+rjb7A5abIShlov05xT7L2gwzQXkkkHYsXKxPkJ+KmavtucHIy1C9Fvl2R+",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETvvBYmBQUTz3Bcj9lMHvToRLv0JBRheGnRAJosbgxTRzwaddxDE0xDAyGSBf127IKXQShcYMydwxaRvw4Z+RsFRidZBRpJ7ZuDZ/wtPOwVVfcr8ZvYmV/f6XU+89hOaiA=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H099hUxWGeqJrafaZ9MXQSCSzHPnWZ9BGitxP/0hfq22UX2jMQ4cC1N8coPvnKrZwv1H/qUTPqXb9jzEp3ol0z",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfrG0v5gQlvQVREkjPiQVcRnVkCspOGviv+Pb1hrkFAhS7TEtF2CumQG3lNSm13JzCqrVzAQtWfO0KsQqh6/g3V4DqdN4/vhJ0Yl4GBepmqOISjPHDMYur0NTJupfuN5LA=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Fv8O6xBY5i3r5+sAvx68qtDPEItzESGGO3VhYCGWq19uIDemNs7xtZrWl6zNp9JFA=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXb4lncldJOFmqd7r18ORIfZ9lV0HLaUL506gKTJ3CLNojaLsTnKijPvTudT0hv2i67S8UerjiC6vyuoMlUkSn9QRX8Rug1I37kE+XS9BLfTdmimshLM+OL4qA4cMsVpgA=="
-          },
-          {
-            "name": "⚽LIBERTADORES Y SUDAMERICANA",
-            "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-            "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-          }
-    ]
- },
-
- {
+  {
     "name": "⚽TYC SPORTS🇦🇷",
     "mode": false,
     "lista": [
