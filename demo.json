@@ -1,94 +1,18 @@
+
 [
  {
-    "name": "⚡¡ESTRENOS!⚡",
+    "name": "⚡¡ESTRENOS EN LA NUEVA APP STREAX PLAY!⚡",
     "mode": false,
     "lista": [
           {
-    "name": "SIN EDULCORAR",
-    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SAYEN: LA CAZADORA",
-    "ico": "https://pics.filmaffinity.com/sayen_la_cazadora-960606733-large.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0iTHJLM4b3Q/C6Ap7J46JXg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA IDEA DE TENERTE",
-    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "OPERACIÓN ESPERANZA: LOS NIÑOS PERDIDOS EN EL AMAZONAS",
-    "ico": "https://image.tmdb.org/t/p/w780/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlVL3JxotS7Hw/zeso/gOhLng==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LUNA SIN MIEL",
-    "ico": "https://image.tmdb.org/t/p/w780/qq1NN345dn8RO6D1uyFExsAC3sQ.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0Oedy647cKQw8ygEAXX8LpA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EN ESA DIRECCIÓN",
-    "ico": "https://image.tmdb.org/t/p/w780/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gSKID3LwvWkF7iA4Mkl3WA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FIGHTER",
-    "ico": "https://image.tmdb.org/t/p/w780/fy7cDkhCAER6a1i3SAiVvyLx5oO.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZTKsIUbEUGP1o+UdN7Gcmhg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SCOOP",
-    "ico": "https://image.tmdb.org/t/p/w780/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZCeixouUH34WI5jDSk2TBbg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MADAME WEB",
-    "ico": "https://image.tmdb.org/t/p/w780/rQpQ8vRlltPcLP1hsxP9saCcK1U.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ/l/o9ySgkTqBg0KdMeXG2w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RESCATE IMPOSIBLE",
-    "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20maTVhGbwgr287AD2Pk3vPZ6U+9Yln77CN+6z2ngV0fKw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SIN EDULCORAR",
-    "ico": "https://image.tmdb.org/t/p/w154/7bMO1avAidIzHhSQNLt6hLv8gZX.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA IDEA DE TENERTE",
-    "ico": "https://es.web.img3.acsta.net/c_310_420/pictures/24/03/07/08/53/0753011.jpg",
-    "uri": "8wOfFyOCrsrgjpZod8l2nuj8E04YdPCyjRmGXqxF20lGSRQTIVBj0u944TVWGrlV2QVjX+LZlZXZGe3G2oBAGA==",
+    "name": "CONSULTE A SU VENDEDOR",
+    "ico": "https://i.ibb.co/3R31V4h/Precios2024-1.png",
+    "uri": "8wOfFyFFFFOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-
-         ]
+ 
+    ]
  },
 {
     "name": "DIVERSIÓN 24/7",
@@ -1558,6 +1482,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQMUi7syZa2or0OinjI/X8jwChgWUnZ7LGew8M/ytKxwNcC/LeSnQdAOknEnjHT0bwITB79sgac6dpAKM02GMZkfjdYUGNnRebSo97naI7y/nBWkek9sarq0QYS7yY3tNA=="
       }
+          
     ]
  },
 {
