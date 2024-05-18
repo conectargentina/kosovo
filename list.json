@@ -2592,27 +2592,27 @@
     "name": "🎦PELICULAS Y SERIES",
     "mode": false,
     "lista": [
-      {
-        "name": "GOLDEN",
-        "ico": "https://i.ibb.co/PF7zRd3/Golden-Blanco-2020.webp",
-        "uri": "qGZLimAEYS4tg7pstKRVv+XVhpSSw6L4SY4kXB7AASd+GRjDRusAwixYQfZG8HuK77P2kD3KDbLyzsuCPmM35ffxXbBM2abshZoYViveZrslMkorizmVm9WpFHwtQYm/",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GOLDEN PLUS",
-        "ico": "https://i.ibb.co/0QygQDg/goldenplus.jpg",
-        "uri": "qGZLimAEYS4tg7pstKRVv2Z1ndcgWH6BnC9qlKb0nb2DTbdvD3nBhXI2jLJJWxft1ufQhc80W6UtUxjCkZNLpB8dvEvVdlt7sOPtUV9aWwE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GOLDEN PREMIER EDGE",
-        "ico": "https://i.ibb.co/8jnxbfK/2024-04-28-14-44-42.png",
-        "uri": "qGZLimAEYS4tg7pstKRVv1KsCciL0WOJetW8PIWh3pgwFz9OWA8s2WnFFE1VsUmOX4sCXqi/4fCsaxf3Wtil4JJH/3HhVMVIoNPNc3gSD8g366AjMrKtjXkAswxXkgwH",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    {
+            "name": "GOLDEN",
+            "ico": "https://i.ibb.co/zrLK2yC/Golden-Blanco-2020-2.webp",
+            "uri": "qGZLimAEYS4tg7pstKRVv+XVhpSSw6L4SY4kXB7AASd+GRjDRusAwixYQfZG8HuK77P2kD3KDbLyzsuCPmM35ffxXbBM2abshZoYViveZrslMkorizmVm9WpFHwtQYm/",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "GOLDEN PLUS",
+            "ico": "https://i.ibb.co/zrLK2yC/Golden-Blanco-2020-2.webp",
+            "uri": "qGZLimAEYS4tg7pstKRVv2Z1ndcgWH6BnC9qlKb0nb2DTbdvD3nBhXI2jLJJWxft1ufQhc80W6UtUxjCkZNLpB8dvEvVdlt7sOPtUV9aWwE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "GOLDEN PREMIER EDGE",
+            "ico": "https://i.ibb.co/zrLK2yC/Golden-Blanco-2020-2.webp",
+            "uri": "qGZLimAEYS4tg7pstKRVv1KsCciL0WOJetW8PIWh3pgwFz9OWA8s2WnFFE1VsUmOX4sCXqi/4fCsaxf3Wtil4JJH/3HhVMVIoNPNc3gSD8g366AjMrKtjXkAswxXkgwH",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
       {
         "name": "CINE LATINO",
         "ico": "https://i.ibb.co/f110383/ar-cine-latino-m.png",
