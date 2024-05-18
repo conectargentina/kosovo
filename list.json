@@ -2664,13 +2664,6 @@
       },
       {
         "name": "CINECANAL",
-        "ico": "https://i.ibb.co/9hpbZW7/ar-cinecanal-1-m.png",
-        "uri": "CO2MWXb3TWD6yytHKk8Vd+zCN+4HFDhefXOLZj4GTTBvDElsS9NtrNsIWMlDtwuNdzdIdyWNkhWFUbyOGivrog==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcmYu/mGrxjkEWi6FpJANCa5x639u1qKZC3lghZY8KJa7r2vOtLcTbQIzr7WLcTO68zvmI881Xf0pzpz9hHcAt9YoOpg5KBITIdrl6jVItpLcLSN8axpZ2B2SWWaZkmeKQ=="
-      },
-      {
-        "name": "CINECANAL",
         "ico": "https://television-libre.online/img/cinecanal.webp",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H0Gs4xl3NAmvLjkDqC9yCT9QiogGatose/a3L6fLmQkS55EH/9n8Ak/hTI9S2cxnnC0knKftkVcFUxbAOu+Lgz",
         "drm_scheme": "clearkey",
