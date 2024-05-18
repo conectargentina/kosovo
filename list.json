@@ -4425,7 +4425,7 @@
     "name": "📺URUGUAY🇺🇾",
     "mode": false,
     "lista": [
-     {
+      {
             "name": "CANAL 4",
             "ico": "https://television-libre.online/img/canal4uy.webp",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GjBjbqSxJgkYkH15bnGRePsP4r5R/XI4BZcz73lKU4RS0JSjsHY93rjjE5HCZFaJMOhzIVk1JAXat8N3BDqPQ+",
@@ -4463,21 +4463,21 @@
           },
      {
     "name": "A+V+",
-    "ico": "https://i.ibb.co/gdMc45D/238613109-4266413890115492-8538797680696507354-n.jpg",
+    "ico": "https://i.ibb.co/tsT9kVw/av.webp",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL0uoGgtmTpyOAPGIPGYlqmYmtuWFTc5qtk0tJXuyT6Hw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
  {
     "name": "MAROÑAS",
-    "ico": "https://www.maronas.com.uy/public/web/img/hipodromos/maronas/logo.png?1707508528",
+    "ico": "https://i.ibb.co/ZhMY8sN/maro-as-logo-E873-D14-D49-seeklogo-com.png",
     "uri": "dVQSe6IH6kaL+9BTVIrs6P6iP9cbGWzAWlp/0aaFniWqSacqPspkVfaf5mNgnF9T2+HAGDD241N6wYlUisi+ZW1RNNT0qkdumbeh3zl9TQHBr+hiqvnjEYNBigz+3IjA",
     "drm_scheme": "",
     "drm_license_url": ""
   },
           {
             "name": "UCL TV",
-            "ico": "https://plataformas.news/online/nota_ucl-tv-sigue-apostando-al-contenido-original-en-america-latina.jpg",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png",
             "uri": "05kDJLattigN03jrTqkjiKiNRaDXG8gzVBDOvvcqvUKcB7707OBgAbRNVeZxAapF55x4v9Xk5fvW6OkDsygEwg==",
             "drm_scheme": "",
             "drm_license_url": ""
