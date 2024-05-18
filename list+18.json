@@ -2545,7 +2545,7 @@
     "lista": [
        {
             "name": "TLN",
-            "ico": "https://i.ibb.co/8DMbYwz/16473899-1421123434573150-1117910964079135311-n.png",
+            "ico": "https://television-libre.online/img/tlnovelas.png",
             "uri": "skjCZJt9hOILbVSgzkPJjlln4ilO75DfT9oYifrjA81DJuRoT6muqjwM3W5d+dhI68lFMwvJ8OXIu4cWY/Pu4g==",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -2553,28 +2553,28 @@
                    
           {
             "name": "TNT NOVELAS",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png",
+            "ico": "https://television-libre.online/img/tntnovelas.png",
             "uri": "O4zQaBxapxoofA7Utbs4FwKCLHXn/EHPekzUaS8GNCk+dGtsdrl8Txrvb9zdujJ465VJ2f9XSQu6YTOlysbOOBXkxTEfhpE/9o2LzXLMv4U=",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ec3QCoHAjgNXR85RBqEjEff3N8wcrGASdoCF86ZcHBKkhj/ijLnHs2VWzbMslEXi3FxKyKjfuqhuf7xz6YJLGizmNkbU7Ki5gI/s4TPk9uF7dwAamnY6KD2t6Z5e7g2lAA=="
           },
           {
             "name": "PASIONES",
-            "ico": "https://tvpasiones.com/wp-content/uploads/2017/06/logo_pasiones.png",
+            "ico": "https://television-libre.online/img/pasiones.webp",
             "uri": "O4zQaBxapxoofA7Utbs4F01ypullrBHmlEf6LRsnUP7vi/4Q7QAjRRpVNS9cIhKkxGQ7jB3CCz64yF/0zv/ejdxzCHE3bgMOr+a56jlWmU0Ex8Z87guUbWVDyDaJ6wxf",
             "drm_scheme": "clearkey",
             "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZ1zpvxsv17UTuuLRfYTMC0BtF4z0T4rhrM4t/TQd66uddTNSH+iFthPb2Z4/XkeVpeP9ZJM3SazYSFjMdT2U97wgsSlcJ/A/T1abW9RJNUWtLFStpEvEPp5iM/Noyf7Sw=="
           },
           {
             "name": "TL NOVELAS",
-            "ico": "https://i.ibb.co/HHx1bnv/12-tl-novelas.png",
+            "ico": "https://television-libre.online/img/tlnovelas.png",
             "uri": "kerMsZ4+4jaDO68Wg0enVxs733+HQmEl4K2yfDIXYDOOPl/jo6Vo3+eW+xgYpelIFOBjkmcyZL11LBoEXQINKg==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
                {
             "name": "CANAL DE LAS ESTRELLAS",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg",
+            "ico": "https://television-libre.online/img/estrellas.png",
             "uri": "Sjpe5dvltFsz5ZidM8fYSbDfWD1dXGLjNoPufGMKXU6c5IPt17emOC2r9zrrgdOU0yCbbNgr9PGIe7P0/O2PUBUTz9GgUDfvY2WhtOu5S4M=",
             "drm_scheme": "",
             "drm_license_url": ""
@@ -2588,35 +2588,35 @@
           },
           {
             "name": "LAS ESTRELLAS 2",
-            "ico": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png",
+            "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg",
             "uri": "PrH29CIEJzS7km6ubHHy8Gk+Ic/NtC3jq6AqoI1i1qTtbW6bPIq86ZRupQCa0mBJkx9hVEiNXCFW8ylYD30yTFTx/BmzmHWavwMJfnE0tvs=",
             "drm_scheme": "",
             "drm_license_url": ""
           },
          {
     "name": "RCN TELENOVELAS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/RCN_Novelas_logo.svg/165px-RCN_Novelas_logo.svg.png",
+    "ico": "https://television-libre.online/img/rcn.webp",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK2+GuA+i9n25xThG5ztLDM62sIG95Yyky+yfG3+VS7+w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "UNIVISIÓN TELENOVELAS",
-    "ico": "https://static.epg.best/us/UnivisionEast.us.png",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_Univision.svg",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLPCbqz9Lqpyx0AhcraWr6fApiSrw9aMnm+jhdbcOEPcA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TL NOVELAS",
-    "ico": "https://i.ibb.co/qCckdpB/104568258-2693880174165522-2975525694633742913-n.jpg",
+    "ico": "https://television-libre.online/img/tlnovelas.png",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKetItZnhvTHy7Psxju2z5yfp2Mqm28oLBg3O03uZS9ng==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LAS ESTRELLAS",
-    "ico": "https://static.epg.best/mx/LasEstrellas.mx.png",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfIKR/rJZKhB3qrOCZkw6QQAY2zxfHnyqRtHWu/sM4d6zA==",
     "drm_scheme": "",
     "drm_license_url": ""
