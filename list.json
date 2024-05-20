@@ -3038,18 +3038,11 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
- {
+{
     "name": "DW",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Ws+funy0SvUSkTArX9arBxI9arvJwO/jUOMf4XMXZWj54=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "sS3X7qHJbL20mg6CSvBaeotGbOltmc7ph+JcyEPkMhCrB3YctSyxnZBGjgijPe+MDR9onjw7jxbcmdK4MrH5nF6jOJjwWJnFVsjYmpciwIUT2caUnhCl82JX6ExWKS37nG2Ex54hfm182/R1xicxo/wi5bltSDdpxcEBJ3W2IpOvhUxGqNADBDLRAbx7OFfsJdgXTJWBGomdS8KRCfyeBonwT6NHTFMzxrdfVXlSm270N1HQ31OYZJEzLVmCmWmzfMtLTbhKeYZB+i+ytvgGfi/A/9H2wGuvBfzOGJfJUTI="
-  },
-  {
-    "name": "EURONEWS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsPplSN98HvNkvbeEoZwJTtDx+U/rXtZz+lZlkNTN/Pr+m/smd++GRO6J7cQLag0vl",
-    "drm_scheme": "clearkey",
+    "ico": "https://i.ibb.co/qjG4vPN/6065f6834c6c7c875c2c1c16-dwe.png",
+    "uri": "xlpI+bb0Sbezo/7HLRVodlOsVwvP9FjrIls0mxkumYM2PNd1ZLTDCqcLHsneclGQs5Gttsiul2uW+LwVAjiIn4OjjLglQQyBUzc0uePu+o0=",
+    "drm_scheme": "",
     "drm_license_url": ""
   },
   {
@@ -3065,9 +3058,7 @@
     "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WspSejp0QRorMz7njMQwkf7+fI0ZuVPx9UwNyP4HiB643xHUo+iIvS0abJx1vtHRY2",
     "drm_scheme": "clearkey",
     "drm_license_url": ""
-  },
-
-
+  }
       {
         "name": "ODISEA",
         "ico": "https://i.ibb.co/bBwXr6d/odisea.png",
