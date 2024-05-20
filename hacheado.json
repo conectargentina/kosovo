@@ -35,7 +35,45 @@
                       "drm_scheme": "clearkey",
                       "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
                       "icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
-                  }
+                  },
+      {
+        "name": "DW",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/DW/SA_Live_dash_enc/DW.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png",
+        "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg72TnjGRPmdcbKowGcBSIg6Mggr8fo6Xjtdu6vV6dc7eEXKfQQqFXumE36yGYYCrDoC8invcXAQy8a5b7ztI7ku2UVOY/NG2wB8tVrWZBU2WD9QxJeomoWyAurJ7g5u7LQ=="
+      },
+      {
+        "name": "DW ESPAÑOL",
+        "uri": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "icono": "https://i.postimg.cc/rmvHqgHW/1280px-Deutsche-Welle-symbol-2012-svg.png"
+      },
+      {
+        "name": "EURONEWS",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "https://i.postimg.cc/LXTqp05Q/600px-Euronews-2016-alternative-logo.png",
+        "drm_license_uri": "1Dh0aiPKTARVnGPLLvpMuBvVe2hv5OoR7tEbdi1MCaNSJGBlHSyFMlrn7ySpa1rJ01rcNZJ8ArCpJAPLzZ0Zg+zwePD5NnfhIbpcvkvMVtU97OXUWv1gNOCY98Mwh95J81HL+C/E7+yeDNhyMRcO9N2vu1iEfO34IkQu5mxhYttTHO36nRBV8CKFv3FTvp87wOHx4Ubar56QxzWbmEIqzg=="
+      },
+      {
+        "name": "CNNE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/cnn.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b20ed9da0e5457c9dfd3ae0b6092491&key=98997a7020c18cb28174a2490147830a"
+      },
+      {
+        "name": "Star TVE",
+        "uri": "https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(STAR_TVE_HD)/index.m3u8",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png"
+      },
+      {
+        "name": "TVE",
+        "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd",
+        "drm_scheme": "clearkey",
+        "icono": "http://78.47.174.211/logos/tve.png",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=53e0a3741e2e4ff5843f165b53309088&key=45095caabd9a359cd7ea3910d865d643"
+      }
 
     ]
   }
