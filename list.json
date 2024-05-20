@@ -9,28 +9,8 @@
         "uri": "8wOfFyFFFFOCrsrgjpZod8l2nuGITXfWdhTWKQTFAy+KtI2gnSz2njTLOk8pPxuHhDT0gWQEH6IN+O/uSr/83k8ANA==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
- {
-    "name": "DW",
-    "ico": "https://i.ibb.co/qjG4vPN/6065f6834c6c7c875c2c1c16-dwe.png",
-    "uri": "xlpI+bb0Sbezo/7HLRVodlOsVwvP9FjrIls0mxkumYM2PNd1ZLTDCqcLHsneclGQs5Gttsiul2uW+LwVAjiIn4OjjLglQQyBUzc0uePu+o0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "CNNE",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsdsovoH9KT1lpfyxGpcXs1DK8ty8brrVZEDro5YqTXufICMCnzIaVY/Up6Ohql8oaXZ2XWHsjlDiue5bDz9EDdA==",
-    "drm_scheme": "Clearkey",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TVE",
-    "ico": "https://i.ibb.co/qphHcns/Logo-TVE-Internacional-svg.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WspSejp0QRorMz7njMQwkf7+fI0ZuVPx9UwNyP4HiB643xHUo+iIvS0abJx1vtHRY2",
-    "drm_scheme": "Clearkey",
-    "drm_license_url": ""
-  }
+      }
+
 
     ]
   },
