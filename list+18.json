@@ -3046,7 +3046,13 @@
     "name": "📺CULTURA",
     "mode": false,
     "lista": [
-         
+           {
+    "name": "DW",
+    "ico": "https://i.ibb.co/qjG4vPN/6065f6834c6c7c875c2c1c16-dwe.png",
+    "uri": "xlpI+bb0Sbezo/7HLRVodlOsVwvP9FjrIls0mxkumYM2PNd1ZLTDCqcLHsneclGQs5Gttsiul2uW+LwVAjiIn4OjjLglQQyBUzc0uePu+o0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "TELEMUNDO INTERNACIONAL",
     "ico": "https://i.ibb.co/qBP2Jrh/44789884-1150506165103280-8362940656963813376-n.png",
