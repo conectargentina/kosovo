@@ -18,15 +18,8 @@
     "name": "DIVERSIÓN 24/7",
     "mode": false,
     "lista": [
-      {
-        "name": "CHAVO DEL 8",
-        "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL CHAVO DEL OCHO 2",
+           {
+        "name": "EL CHAVO DEL OCHO",
         "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD021VHwHh1lRY9rCCCDscdcA==",
         "drm_scheme": "",
@@ -106,6 +99,13 @@
         "name": "LOS SIMPSONS",
         "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFF6jow+lOWn96agBCqpyNqg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "CHAVO DEL 8 Opc.2",
+        "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
+        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
