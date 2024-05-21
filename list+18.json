@@ -4923,6 +4923,13 @@
     "drm_license_url": ""
   },
   {
+    "name": "LA RED",
+    "ico": "https://static.epg.best/cl/LaRed.cl.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7soKis2tNN+UhZefhlMAwxA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "TVN",
     "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
     "uri": "3pjpIQv++6HqWLEcuFs5nfVxuvENiN9tCWnfrulFgnd0gx6k/D+iYHp537th2INAzRpzgG/S+l30cl/CZ/Ar3i4FazECsnq4sNdUK4BD75GZPPeSlbu9WwprBxsZItrK",
