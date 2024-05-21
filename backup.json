@@ -21,14 +21,14 @@
     "lista": [
      {
     "name": "CHAVO DEL 8",
-    "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
     "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL CHAVO DEL OCHO 2",
-    "ico": "https://i.ibb.co/pyCvLQM/CMX5-WI3-EBZGD7-DVLS2-MOD3-VJRI.jpg",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD021VHwHh1lRY9rCCCDscdcA==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1521,55 +1521,69 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
-  {
-    "name": "BEIN SPORTS",
-    "ico": "https://ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-            "name": "BEIN SPORTS EXTRA Ñ",
-            "ico": "https://ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-            "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-  {
-    "name": "BEIN SPORTS",
-    "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
- {
-    "name": "BEIN SPORTS ESPAÑOL",
-    "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
- {
-    "name": "BEIN SPORTS EXTRA",
-            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "BEIN SPORTS EXTRA",
-            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
- {
-            "name": "BEIN SPORTS EXTRA",
-            "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
-            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+      {
+        "name": "BEIN SPORTS",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS EXTRA Ñ",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS",
+        "ico": "https://i.ibb.co/w72BhyJ/bein-sport-1-logo-9-DADBC761-B-seeklogo-com.png",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS ESPAÑOL",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS EXTRA",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS EXTRA",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS EXTRA Ñ",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BEIN SPORTS EXTRA",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+     {
+        "name": "BEIN SPORTS EXTRA",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
    
   {
     "name": "EUROSPORT 1 HD",
@@ -1614,14 +1628,7 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "BEIN SPORTS EXTRA",
-            "ico": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
-            "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-                 {
+                  {
             "name": "VTV",
             "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/Logo_VTV_nuevo.png",
             "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
@@ -1650,14 +1657,6 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },        
-         
-          {
-            "name": "BEIN SPORTS EXTRA Ñ",
-            "ico": "https://i.ibb.co/gJ9z814/o-h-1-895-bein-sports-xtra-1.png",
-            "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
           {
             "name": "AMERICA SPORTS",
             "ico": "https://i.ibb.co/1rMMbhK/unnamed-6.jpg",
@@ -3048,7 +3047,13 @@
     "name": "📺CULTURA",
     "mode": false,
     "lista": [
-         
+           {
+    "name": "DW",
+    "ico": "https://i.ibb.co/qjG4vPN/6065f6834c6c7c875c2c1c16-dwe.png",
+    "uri": "xlpI+bb0Sbezo/7HLRVodlOsVwvP9FjrIls0mxkumYM2PNd1ZLTDCqcLHsneclGQs5Gttsiul2uW+LwVAjiIn4OjjLglQQyBUzc0uePu+o0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "TELEMUNDO INTERNACIONAL",
     "ico": "https://i.ibb.co/qBP2Jrh/44789884-1150506165103280-8362940656963813376-n.png",
@@ -4907,21 +4912,28 @@
       {
     "name": "LIGA CHILENA",
     "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd79ROVBzuTPdsyN3kmExL7dV1wK55FfrdT0EhSXJVAess=",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7x+U3dl4SvFjhc32Gg+dB6JHxppXbxLBOf9SeHXfIM3k=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TNT SPORTS CHILE",
     "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKZJPu8blIwyU8+hV9V+vAjxa36jxKRi1QH09MmuNNIhg==",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7x+U3dl4SvFjhc32Gg+dB6JHxppXbxLBOf9SeHXfIM3k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://static.epg.best/cl/LaRed.cl.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7soKis2tNN+UhZefhlMAwxA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TVN",
     "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
-    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7u5RXoMc1P4vAQERXKOiBdw==",
+    "uri": "3pjpIQv++6HqWLEcuFs5nfVxuvENiN9tCWnfrulFgnd0gx6k/D+iYHp537th2INAzRpzgG/S+l30cl/CZ/Ar3i4FazECsnq4sNdUK4BD75GZPPeSlbu9WwprBxsZItrK",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -4934,32 +4946,47 @@
   },
   {
     "name": "MEGA",
-    "ico": "https://cdn.mitvstatic.com/channels/cl_mega_m.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLWG1z3PjrOM9I6VIgYkSK1fxatmy0JM5o4vsDWg3ncpw==",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7HlWtbdLk7uLfdYJQLmi4dku44FEgRJzRlQ+EnNyzusk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
+    "uri": "bdn50+CnMW/B+oMbu7isD4yPX+kJbvtyeJKfsdfspBO5x8SPfmUYqEn1xO4Q2fbYIB3xPkexPs5YRs84+B57t1aGjDRAFBnaPvMgdpE2SBYE4pc7rjKveQotGliwNADehrBfs8eDWA5PehAEz4ZNRQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24 HORAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7JxzTg6PIyivP4krzuGRgdJW88sC5/GnI1rAEJKx9QFQ=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CHILE VISIÓN",
     "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD02edYG3R9Nrhb0iMuIR9xaQ==",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7om+siHPDdGPdVcniL4fMkA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LA RED",
     "ico": "https://static.epg.best/cl/LaRed.cl.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PdZ1J/DMnw7roTQGmz2TAA==",
+    "uri": "iX5d1Koud8XT7KMJ+89wLxr3q624hFB+ia/9dOMA/Z5LeHrjsrsXOtnurhcJUTmZMFPy7mS0L8cD075tBJmVfCp8rwbJVYnP7LZSmVQiQFDbh0YA5nkm2ARfdeZWs4IT",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TV CHILE",
     "ico": "https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png",
-    "uri": "8wOfFyOCrsrgjpZod8l2njymtRib4hqh73xMpNxhS0gF9y5ctzaQLHKko9PJYt8gxUrcHr9EKCq1RLd4lYFT9g==",
+    "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7JxzTg6PIyivP4krzuGRgdJW88sC5/GnI1rAEJKx9QFQ=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
+
 
     ]
  },
