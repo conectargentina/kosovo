@@ -3941,20 +3941,27 @@
     "name": "📺BRASIL🇧🇷",
     "mode": false,
     "lista": [
-        {
+       {
+    "name": "JOGOS DO DIA",
+    "ico": "https://pm1.aminoapps.com/7244/27cbd8837a1cb7aa6869eddd09962ee1826a4cd6r1-800-394v2_hq.jpg",
+    "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8ShkHaXFilXKKgNDmcQX+0YP8oEse6xFNHQmrdQl7nu1w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },   
+{
             "name": "RADIO TUPI RJ",
             "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/640px-Super_R%C3%A1dio_Tupi_logo_2019.png",
             "uri": "gzw8ItTZaQwqCzd8/bEiivYo4OkjczrSIcufvx/EUNhPddPfkK8ixX0gf9GXj+21sqlWKTnvT7xS/56GefOgSA==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "GLOBO BAHIA",
-            "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
-            "uri": "swbMc8uZn4+SPzpEdZoxAcbTRCJFKVMi8U0kND4ygZNMxjl0qIf/6xX9M5qhF5UANS6pbhv22gSFv6rqYNzzWl6BTWnlCVwLLN9RWkfaM5YJTGAVHI/zNGNdYuGP45vvQ33ZdZz6ppeTrcObuRNbWw==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+  {
+    "name": "GLOBO BAHIA",
+    "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
+    "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SMMOjqSnnAxBQHk0eM/UWGqkjEvcDauC4dOxdZXBm1vM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "GLOBO TV",
             "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
@@ -3969,6 +3976,20 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
+ {
+    "name": "GLOBO RJ",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOg/Kmypcw2pWCm1NF7fiDyTRL/3lqgdD6KTm4pMxnANM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO RJ",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SMW8PZjJVGV5gpTaM5XgK8TYusVKQT7SiWoRflCI44+E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "TV GAZETA ES - GLOBO",
             "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
@@ -4011,13 +4032,13 @@
             "drm_scheme": "",
             "drm_license_url": ""
           },
-          {
-            "name": "RECORD RJ FHD",
-            "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
-            "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SBkDl0iwAg7Y8IlOXu0RvBAW0TKKGzGLxAciIfbruEfU=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
+  {
+    "name": "RECORD RJ FHD",
+    "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
+    "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8Syzzh9ep3MqvMjcyFEUNoAjjLflM35hkdtYq6jT1sjFs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
           {
             "name": "RECORD RJ FHD",
             "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
@@ -4695,6 +4716,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+
   {
     "name": "MOVISTAR LA LIGA",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
@@ -4716,7 +4738,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-
   {
     "name": "TELEDEPORTE",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
@@ -4728,6 +4749,20 @@
     "name": "MOVISTAR PLUS",
     "ico": "https://i.pinimg.com/564x/1c/2a/39/1c2a396172821afd4abed99d46d76553.jpg",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKXspkvJJo1LbZR3slNgE8jKgOWhhylGh0dJK/H7kLmGQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MOVISTAR LIGA CAMPEONES",
+    "ico": "https://i.imgur.com/MVFRKTv.png",
+    "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOJZtHzDxlZvzDrGpBgPK+EyoEP9+968LcizatsAyX8OU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ANTENA 3 INTERNACIONAL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLexsEcEP+nXzIYktKNcenqmmA5kJ/W93fwBAsAYESYog==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
