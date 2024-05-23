@@ -4364,16 +4364,44 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
       },
+{
+    "name": "VTV+",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2oHZ0FTRLBLAiIWYoNir3yKFt0EbOv4vj0lz2zktRYSU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2/2FnsTLxXUhPsls3X7wzA4PrwXI+6CDOK2/o56iV0OY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2YaZugpTm0v1yB6SSr07vQvaKwQEkRfwr6CtLc0vr4aw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "VTV",
-        "ico": "https://television-libre.online/img/vtv.webp",
+        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
       },
       {
         "name": "VTV",
-        "ico": "https://television-libre.online/img/vtv.webp",
+        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
