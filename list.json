@@ -288,7 +288,7 @@
     "name": "⚽DEPORTES ARGENTINA🇦🇷",
     "mode": false,
     "lista": [
-                {
+      {
         "name": "FOX SPORTS 1",
         "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HvkRV6wSfREHiTRqG4rA0EHRRMuDjttGNMBMRHCGGjuw6P5fzwteHoC0Q4WM9+YUNJUVQnF51/rEqn5J8+Mo38",
@@ -357,6 +357,27 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FHUMNgQB8ai0Er4FopihglQ9eFbHSqF01LrcQ6hwAOTclZFLZsKVDp9FwOPOZBZ745gYbhcz9J1geTUDDpYAM9",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
+      },
+      {
+        "name": "DIRECT TV",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrdNdzh9oL6+BsAILFvf5LXQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECT TV 2",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrf0J/lz+qVJpT8x9tTlARUg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECT TV PLUS",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/1/613_blanco2.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrn+e5Xyo24tdz0TZn+54Z5g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "TYC SPORTS",
@@ -428,7 +449,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
       },
-{
+      {
         "name": "ESPN PREMIUM FHD",
         "ico": "https://television-libre.online/img/espnpr.webp",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
@@ -2873,7 +2894,7 @@
       },
       {
         "name": "TELEMUNDO INTERNACIONAL",
-        "ico": "https://i.ibb.co/qBP2Jrh/44789884-1150506165103280-8362940656963813376-n.png",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFo4rBPRTvtZQHnhMEJqo6kw==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -3779,7 +3800,7 @@
         "drm_license_url": ""
       },
       {
-        "name": "GLOBO TV",
+        "name": "GLOBO SP",
         "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
         "uri": "2MSDcX7BiuFO4tBG4AD2js32b6vVMiH5EtR4J1tuThRurYTLMdxXEwxgBTA7/ikC3eoUylp0k+DvfphazIETag==",
         "drm_scheme": "",
@@ -3789,13 +3810,6 @@
         "name": "GLOBO RJ FHD",
         "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
         "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8Se9ugzNYiF/24MhiWJ9wAiw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GLOBO RJ",
-        "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
-        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOg/Kmypcw2pWCm1NF7fiDyTRL/3lqgdD6KTm4pMxnANM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4301,7 +4315,7 @@
     "name": "🇺🇾 URUGUAY",
     "mode": false,
     "lista": [
-       {
+      {
         "name": "CANAL 4",
         "ico": "https://television-libre.online/img/canal4uy.webp",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GjBjbqSxJgkYkH15bnGRePsP4r5R/XI4BZcz73lKU4RS0JSjsHY93rjjE5HCZFaJMOhzIVk1JAXat8N3BDqPQ+",
@@ -4364,72 +4378,86 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
       },
-{
-    "name": "VTV+",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2oHZ0FTRLBLAiIWYoNir3yKFt0EbOv4vj0lz2zktRYSU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "VTV+",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2/2FnsTLxXUhPsls3X7wzA4PrwXI+6CDOK2/o56iV0OY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "VTV+",
-    "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
-    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2YaZugpTm0v1yB6SSr07vQvaKwQEkRfwr6CtLc0vr4aw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DIRECT TV",
-    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
-    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
       {
-        "name": "VTV",
-        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
-      },
-      {
-        "name": "VTV",
-        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
+        "name": "DIRECT TV",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "VTV+",
-        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOg/Kmypcw2pWCm1NF7fiDyTRL/3lqgdD6KTm4pMxnANM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "VTV+",
-        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrW1Ao+Dt7Nba8oVjms4uz8g==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2oHZ0FTRLBLAiIWYoNir3yKFt0EbOv4vj0lz2zktRYSU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2/2FnsTLxXUhPsls3X7wzA4PrwXI+6CDOK2/o56iV0OY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2YaZugpTm0v1yB6SSr07vQvaKwQEkRfwr6CtLc0vr4aw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
+      },
+      {
+        "name": "VTV",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HQVcDmvA9aPxnDLyWx7Oq4v+U/LPMlaMC7YxkrUDR221wCv2n9y21PPG2OeptvwPaJ5MoEjPP6prDpbvHxZu7S",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZIf56ZzR7kQjT+0Nous17G9sM6pDpnJAQa9aGZf6z/3hyySsO62rSxp3xGfnWlNCHWCMCPaPbQbTo+raqyqv7fReaeGl6GQXvG8jXBSstDmBlcT84dkLwmPd+M2HScNTg=="
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOg/Kmypcw2pWCm1NF7fiDyTRL/3lqgdD6KTm4pMxnANM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VTV+",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOfArLHJlMfT7xM5Efi0AIsiIeDI0AcittHToWr35ctaU=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "VTV+",
-        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd772aVVZEGFUDYviCZuAxC1O12aYvczEBOPyjenqsVCUo=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "VTV+",
-        "ico": "https://i.ibb.co/w02x3Gg/Logo-Campeonato-Uruguayo-Primera-Divisi-n.png",
+        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOPqaNlbIQeRVQFNFMFiZclQtBfuDJazxIAlYscU9u080=",
         "drm_scheme": "",
         "drm_license_url": ""
