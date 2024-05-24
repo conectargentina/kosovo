@@ -3813,6 +3813,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GLOBO RJ 4K",
+    "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrtIoJSg1xZzpMv4LIY/7Uxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "GLOBO RJ",
         "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
@@ -4176,22 +4183,36 @@
     "name": "⚽DEPORTES BRASIL🇧🇷",
     "mode": false,
     "lista": [
-      {
-        "name": "BAND SPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SKkIJU1f67QDTPIzXO6KJeiYmSiwYFGkQcJ80j2uUE4s=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS PPV",
-        "ico": "https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SsbUb4wuk87AXh+5usWhbPI86PkmUSlPKYSfMU2wMJaU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV",
+  {
+    "name": "BAND SPORTS",
+    "ico": "https://megacanaisonline.com/wp-content/webp-express/webp-images/uploads/2022/08/Design-sem-nome-20.png.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrnvZsFfSlZkjda63Sn5rlhw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "FOX SPORTS 1",
+    "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrXaGjjQIbqESQp1GYrSG4sw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX SPORTS 2",
+    "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrSjkRbF1NVxeirLaaCZ6pzw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrfFfjtFsjchPjZlw0vvdNlQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
+        "name": "SPORT TV Op2",
         "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
         "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8Svq1DQATcROvfZJ1DnFG0zX9uj4thtkOE86J0OC7ruoY=",
         "drm_scheme": "",
@@ -4621,6 +4642,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "ANTENA 3 INTERNACIONAL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2wwX2NyqG8nqpgn0Nn1CE73waKxS+JOgpfd8qMCzcBaw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "ANTENA 3 INTERNACIONAL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Antena_3_Internacional_logo_2017.svg/800px-Antena_3_Internacional_logo_2017.svg.png",
@@ -4780,6 +4808,35 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "CDO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrzHVOVEtkqKvY30Con3C1Sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE",
+    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VruBCU0yYkA7fat42KvjqmLQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE 2",
+    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrKvbXmGvMPNynTGma0EjsEQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE 3",
+    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrl6goj9iBfG1m+lrI7u8SNA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "TNT SPORTS CHILE",
         "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
@@ -4870,20 +4927,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "LATINA",
-        "ico": "https://i.ibb.co/dD9QQ1g/Logotipo-de-Latina-Televisi-n-svg.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0mIgVF7HIRD3BI5hg8mbW2A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PANAMERICANA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1038px-Logo_Panamericana_2020.png",
-        "uri": "aOMYax4iZWYrbOnyUtSs/S3525QkqZTtnjk8LYlr+uUhcXUgtwlK5geo1slyabPnAOkMVWHOYyzYgmsylIAeqW7y1jMTTZdm/JYfANhNccs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+
       {
         "name": "AMERICA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/471px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
@@ -4892,12 +4936,48 @@
         "drm_license_url": ""
       },
       {
-        "name": "WILLAX",
-        "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png?resize=768%2C432&ssl=1",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD05lBYBoGR9HWI9VyG9/3dSQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "AMERICA",
+    "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png?resize=768%2C432&ssl=1",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrkhzD29GVpJ8/9h9CBx+dfA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LATINA",
+    "ico": "https://i.ibb.co/fCj5Xft/2024-05-24-20-04-33-png.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrdbO0u2qcFHS3IlQxEsicfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RPP",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrVxWQDssFaptQDC8NdI5tOg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV PERU",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/512px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VriqLdx/Jd2Ani4nS03bk4LQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANAMERICANA",
+    "ico": "https://tv-libre.com/img/panam.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrWIBMeaRHlQUuUkrNhtezhg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AUTENTICA TV",
+    "ico": "https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vr0GwC4hvNdmg/jc3nrzzCEg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
