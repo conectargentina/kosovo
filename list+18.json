@@ -4808,6 +4808,35 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "CDO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrzHVOVEtkqKvY30Con3C1Sg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE",
+    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VruBCU0yYkA7fat42KvjqmLQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE 2",
+    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrKvbXmGvMPNynTGma0EjsEQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS CHILE 3",
+    "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrl6goj9iBfG1m+lrI7u8SNA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "TNT SPORTS CHILE",
         "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
