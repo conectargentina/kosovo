@@ -4898,20 +4898,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "LATINA",
-        "ico": "https://i.ibb.co/dD9QQ1g/Logotipo-de-Latina-Televisi-n-svg.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0mIgVF7HIRD3BI5hg8mbW2A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PANAMERICANA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Panamericana_2020.png/1038px-Logo_Panamericana_2020.png",
-        "uri": "aOMYax4iZWYrbOnyUtSs/S3525QkqZTtnjk8LYlr+uUhcXUgtwlK5geo1slyabPnAOkMVWHOYyzYgmsylIAeqW7y1jMTTZdm/JYfANhNccs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+
       {
         "name": "AMERICA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/471px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
@@ -4920,12 +4907,48 @@
         "drm_license_url": ""
       },
       {
-        "name": "WILLAX",
-        "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png?resize=768%2C432&ssl=1",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD05lBYBoGR9HWI9VyG9/3dSQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "AMERICA",
+    "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Willax-TV-en-vivo-Online.png?resize=768%2C432&ssl=1",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrkhzD29GVpJ8/9h9CBx+dfA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LATINA",
+    "ico": "https://i.ibb.co/fCj5Xft/2024-05-24-20-04-33-png.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrdbO0u2qcFHS3IlQxEsicfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RPP",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrVxWQDssFaptQDC8NdI5tOg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV PERU",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/512px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VriqLdx/Jd2Ani4nS03bk4LQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANAMERICANA",
+    "ico": "https://tv-libre.com/img/panam.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrWIBMeaRHlQUuUkrNhtezhg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AUTENTICA TV",
+    "ico": "https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vr0GwC4hvNdmg/jc3nrzzCEg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
