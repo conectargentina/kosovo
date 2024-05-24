@@ -3813,6 +3813,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GLOBO RJ 4K",
+    "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrtIoJSg1xZzpMv4LIY/7Uxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "GLOBO RJ",
         "ico": "https://i.ibb.co/mhYTWDm/Globo-logo-2020-svg-1.png",
@@ -4176,22 +4183,36 @@
     "name": "⚽DEPORTES BRASIL🇧🇷",
     "mode": false,
     "lista": [
-      {
-        "name": "BAND SPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/800px-BandSports_logo.svg.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SKkIJU1f67QDTPIzXO6KJeiYmSiwYFGkQcJ80j2uUE4s=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS PPV",
-        "ico": "https://img.sport-tv-guide.live/images/tv-station-estadio-tnt-sports-2559.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SsbUb4wuk87AXh+5usWhbPI86PkmUSlPKYSfMU2wMJaU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV",
+  {
+    "name": "BAND SPORTS",
+    "ico": "https://megacanaisonline.com/wp-content/webp-express/webp-images/uploads/2022/08/Design-sem-nome-20.png.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrnvZsFfSlZkjda63Sn5rlhw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "FOX SPORTS 1",
+    "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrXaGjjQIbqESQp1GYrSG4sw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX SPORTS 2",
+    "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrSjkRbF1NVxeirLaaCZ6pzw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrfFfjtFsjchPjZlw0vvdNlQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
+        "name": "SPORT TV Op2",
         "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
         "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8Svq1DQATcROvfZJ1DnFG0zX9uj4thtkOE86J0OC7ruoY=",
         "drm_scheme": "",
