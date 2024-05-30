@@ -3692,7 +3692,7 @@
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
-       {
+             {
     "name": "CHILE 24HS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
     "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
@@ -3708,8 +3708,50 @@
   },
   {
     "name": "TVN",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
     "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "CHILE 24HS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://static.epg.best/cl/Mega.cl.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKgQWq82HqMhzSKWuLtuWx68q8wI2PJsbnvBoeH+Fj4vQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://static.epg.best/cl/Mega.cl.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS",
+    "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL8mEu5STGjQAMjA+0Cy2xN6HCDbJ3D1gtmFdpP+7fWKA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
