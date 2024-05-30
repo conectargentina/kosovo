@@ -3691,24 +3691,10 @@
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
-       {
+      {
     "name": "CHILE 24HS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
     "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CHILEVISIÓN",
-    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTVN5VcvHjMNcychnlG+LjHCGpjqtBcvGTFr8x3wPtXAk=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TVN",
-    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3720,9 +3706,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "CHILEVISIÓN",
-    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+    "name": "CNN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTg2zRV8nCH1WlBM/TQJ2ZJQun3M4wkU9jkDeGH+cRLao=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3734,15 +3720,36 @@
     "drm_license_url": ""
   },
   {
-    "name": "MEGA",
-    "ico": "https://static.epg.best/cl/Mega.cl.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKgQWq82HqMhzSKWuLtuWx68q8wI2PJsbnvBoeH+Fj4vQ==",
+    "name": "TVN",
+    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "MEGA",
     "ico": "https://static.epg.best/cl/Mega.cl.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3762,23 +3769,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "MEGA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "LA RED",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
     "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/EGPeWfyoYbD/LhBAoQCRR3TvwsCUF6KruAmrhfPmcw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CNN",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTg2zRV8nCH1WlBM/TQJ2ZJQun3M4wkU9jkDeGH+cRLao=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3793,13 +3786,6 @@
     "name": "CDO 2",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
     "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0K0/okL1bcZldEts83WRF6w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TNT SPORTS",
-    "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTXXwcMTYzZec2ICjjgYh/0aeSb1mn6Ub4ZpmdpOH/hjQ=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
