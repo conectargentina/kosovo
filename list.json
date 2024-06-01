@@ -1627,10 +1627,10 @@
     ]
   },
   {
-    "name": "⭕PACK UNIVERSAL Y MOVISTAR",
+    "name": "⭕PACK UNIVERSAL, MOVISTAR Y STARZ",
     "mode": false,
     "lista": [
-      {
+         {
         "name": "MOVISTAR ACCIÓN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png",
         "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
@@ -1706,7 +1706,71 @@
         "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXdjz8FReA8Oy/2diZec0aJjoM77VS1L23ZPKgfwxWl0SDHPIlBXUwn6WDzmJGjQ87pxuD7zARhhiFPFHIhPkyy+",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeK3Q452Az7YITDddyoO8337f30vy/BOR5n7EvLRQmHEG5iGqeUCeeBxp8aWBa3UoMzPZ1Xb/wcbA06G48UMLVZmWCEYWLr8ntFz1ylyMbL6BtJ2GY36jVCmM6ikm/W/3A=="
-      }
+      },
+      {
+        "name": "UNIVERSAL PREMIERE",
+        "ico": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDWW2Iiwws7j8B/m3w1th9NHFKvgCJXJ0Q+g5vhvcajHp5ZYIMJce/s23Af/8pierya",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UNIVERSAL COMEDY",
+        "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDW8EZT4BdGlEjAP0q1MRfhr5IXXBtnodnr8veJsnEMKUHmqhNVA5c2ldxbrLpfm2fp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+    "name": "STARZ",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboaMe3CgEFX9ef7fIY1ME255GXHP2rIVFGvAiuL7r+oI0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ WEST",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboRF5ZV0LOoWPVNRPDj0KCVdKqkzvn272KJybpPenkaWY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboSMYjl3b7UQkswl5KWaoJaeTVSgVK9TaPSfWAEa1eNwI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE CLASSIC",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE CLASSIC",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE SUSPENSE",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE WESTERN",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
       
     ]
   },
