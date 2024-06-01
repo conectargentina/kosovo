@@ -1685,63 +1685,7 @@
         "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXdjz8FReA8Oy/2diZec0aJjoM77VS1L23ZPKgfwxWl0SDHPIlBXUwn6WDzmJGjQ87pxuD7zARhhiFPFHIhPkyy+",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeK3Q452Az7YITDddyoO8337f30vy/BOR5n7EvLRQmHEG5iGqeUCeeBxp8aWBa3UoMzPZ1Xb/wcbA06G48UMLVZmWCEYWLr8ntFz1ylyMbL6BtJ2GY36jVCmM6ikm/W/3A=="
-      },
-      {
-        "name": "UNIVERSAL PREMIERE",
-        "ico": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDWW2Iiwws7j8B/m3w1th9NHFKvgCJXJ0Q+g5vhvcajHp5ZYIMJce/s23Af/8pierya",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL COMEDY",
-        "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDW8EZT4BdGlEjAP0q1MRfhr5IXXBtnodnr8veJsnEMKUHmqhNVA5c2ldxbrLpfm2fp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL REALITY",
-        "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDW84kjPoOwAYuEedn0v40uNrLi4njpjppgPoTvgsC+UnOc5aPLWsBTnKOhKijfD9Ir",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CRIME",
-        "ico": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDWUkh9rWWIh4emNod5175/Md4X8FqW/V68ECYhVzsd/pIsh3H2MH2ZQNnAYemBmQVK",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CINEMA",
-        "ico": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDWbceT2DtBejh0uHEc9GJ4Nazni12iy56SHWQsYN3OgUJGW3XwG3DOMltcSvBoBmOr",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CRIME 2",
-        "ico": "http://static.tvar.io/imagenes/uncrime.png",
-        "uri": "IMeFQpGO1rLJOlsoJ1GkGVrhs1NKkM4ZPH/QUPrbMqKaHt3dCjM/rdJ7vUNmshBA",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL PREMIERE 2",
-        "ico": "http://static.tvar.io/imagenes/unpremiere.png",
-        "uri": "IMeFQpGO1rLJOlsoJ1GkGVrhs1NKkM4ZPH/QUPrbMqJmNaLO5HMv12StXPnQPulM",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL REALITY 2",
-        "ico": "http://static.tvar.io/imagenes/unreality.png",
-        "uri": "IMeFQpGO1rLJOlsoJ1GkGVrhs1NKkM4ZPH/QUPrbMqITru9LJFyRjwRZabcuMI8d",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+      }    
     ]
   },
   {
