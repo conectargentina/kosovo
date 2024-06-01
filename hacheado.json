@@ -15,47 +15,54 @@
         "drm_license_uri": "https://m3ukodi.com/php/clearkey_hextobase64/results.php?keyid%5B%5D=e866499fbc1149f49989672075aa3a68&key%5B%5D=d2dd5c95623c6343240981c2202fc311",
         "icono": "https://i.ibb.co/1zvrLR0/hbosignature.png"
       },
-  {
-        "name": "EUROSPORT  1  ES",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-031/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
+ {
+        "name": "EURO  SPORT",
+        "uri": "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-027/stream.mpd?p=web",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "http://78.47.174.211/logos/eurosport.png"
+        "drm_license_uri": "https://mute.mariabareiro.repl.co/HELLOWORL/euro.json",
+		"icono": "https://i.postimg.cc/YCpsC1Sw/eurosports1.jpg"
+      },
+{
+        "name": "DAZN ALEMANIA",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-017/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+		"icono": "https://i.postimg.cc/3xk1f9S9/2048px-DAZN-logo-new-svg.png"  
       },
       {
-        "name": "EUROSPORT  2  ES",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-032/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
+        "name": "DAZN ALEMANIA 2",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-018/stream.mpd?p=web",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "http://78.47.174.211/logos/eurosport2.png"
-      },
-       {
-        "name": "EUROSPORT  1  DE",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-027/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "http://78.47.174.211/logos/eurosport.png"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+		"icono": "https://i.postimg.cc/3xk1f9S9/2048px-DAZN-logo-new-svg.png"  
       },
       {
-        "name": "EUROSPORT  2  DE",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-028/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
+        "name": "DAZN ESPAÑA 1",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd?p=web",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "http://78.47.174.211/logos/eurosport2.png"
-      },
-       {
-        "name": "EUROSPORT  1  IT",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-029/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "http://78.47.174.211/logos/eurosport.png"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+		"icono": "https://i.postimg.cc/3wvThXRF/dazn1es.jpg"  
       },
       {
-        "name": "EUROSPORT  2  IT",
-        "uri": "https://dce-ac-live.cdn.indazn.com:443/dash/dazn-linear-030/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ",
+        "name": "DAZN ESPAÑA 2",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd?p=web",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0",
-        "icono": "http://78.47.174.211/logos/eurosport2.png"
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+		"icono": "https://i.postimg.cc/h4w1zVPd/dazn2es.jpg"  
+      },
+      {
+        "name": "DAZN FORMULA 1",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+		"icono": "https://i.postimg.cc/nzrqMhy2/1200px-DAZN-F1-logo-svg.png"  
+      },
+      {
+        "name": "DAZN LA LIGA",
+        "uri" : "https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd?p=web",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://exoplaydoo.000webhostapp.com/keys/daznnes.json",
+		"icono": "https://i.postimg.cc/vHVLWDcS/DAZN-LA-LIGA.png"  
       }
 
               ]
