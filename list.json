@@ -3893,24 +3893,10 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "EUROSPORT 1 HD",
-        "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 1 LIVE",
+        {
+        "name": "MOVISTAR LA LIGA",
         "ico": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEpdSudQpBSWOGtCh4f9RVQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 2 HD",
-        "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Xp2ODalufC03H21YiU3A5g==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
