@@ -1596,19 +1596,12 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtQiAwEUt1B8CXLOJEtKizXG1mn988FP4Qc/JzZHRAHdJmNJHH+Zn8vsoGFs3pHMpA8ykAuRhi9+azSN4mm2SzQgRX4c/9qDWJuXU3dFaMjkNOVDXRSRdHOsmAvfstaexEg=="
       },
-     {
+{
     "name": "HBO SIGNATURE",
-    "ico": "https://i.ibb.co/42x13pY/hbosig.webp",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTb9lwRBAURHMN6Y21bNpc6LUTXTTd1Zb85/dIbcOm1Fg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO SIGNATURE",
-    "ico": "https://i.ibb.co/42x13pY/hbosig.webp",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJtAXOHo5i0zmlvqNO2ZfeLJWs/4ZkOFFYrEUyauFFwBA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
+    "ico": "https://i.ibb.co/1zvrLR0/hbosignature.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsxjB83zs5fTF6PhySWp2nWSXt+fENqE7MnpBqVZBP1nrBKoe2eCDo4WmdaCevQdPn3cruRVn+Th3sVrFYa3qCkA==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENq233+5AaAVmy5Y5oRNkkf7oAtUwkwBTCQ3d0vsDF/u8A=="
   },
       {
         "name": "HBO MUNDI",
