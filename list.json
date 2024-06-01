@@ -1644,6 +1644,34 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "CINE ESPAÑOL",
+    "ico": "https://www.logo.wine/a/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.svg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubojznhh4nhXo+95BwI/tphrTJ1JFLvsed0IDgsOSR0ADg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo42cbdCJUtlYiyV1NPATLB9+m8g8ZAhQH8wW+ljUjCAI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE ACCIÓN",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE ACCIÓN",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "UNIVERSAL CINEMA FLOW",
         "ico": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png",
