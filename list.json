@@ -549,8 +549,7 @@
       }
     ]
   },
- 
-   {
+  {
     "name": "⚽COPA AMERICA",
     "mode": false,
     "lista": [
@@ -1409,13 +1408,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtQiAwEUt1B8CXLOJEtKizXG1mn988FP4Qc/JzZHRAHdJmNJHH+Zn8vsoGFs3pHMpA8ykAuRhi9+azSN4mm2SzQgRX4c/9qDWJuXU3dFaMjkNOVDXRSRdHOsmAvfstaexEg=="
       },
-{
-    "name": "HBO SIGNATURE",
-    "ico": "https://i.ibb.co/1zvrLR0/hbosignature.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsxjB83zs5fTF6PhySWp2nWSXt+fENqE7MnpBqVZBP1nrBKoe2eCDo4WmdaCevQdPn3cruRVn+Th3sVrFYa3qCkA==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENq233+5AaAVmy5Y5oRNkkf7oAtUwkwBTCQ3d0vsDF/u8A=="
-  },
+      {
+        "name": "HBO SIGNATURE",
+        "ico": "https://i.ibb.co/1zvrLR0/hbosignature.png",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsxjB83zs5fTF6PhySWp2nWSXt+fENqE7MnpBqVZBP1nrBKoe2eCDo4WmdaCevQdPn3cruRVn+Th3sVrFYa3qCkA==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENq233+5AaAVmy5Y5oRNkkf7oAtUwkwBTCQ3d0vsDF/u8A=="
+      },
       {
         "name": "HBO MUNDI",
         "ico": "https://i.ibb.co/zQjTfFz/hbomundi.webp",
@@ -1443,7 +1442,7 @@
     "name": "⭕PACK UNIVERSAL, MOVISTAR Y STARZ",
     "mode": false,
     "lista": [
-         {
+      {
         "name": "MOVISTAR ACCIÓN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png",
         "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
@@ -1457,34 +1456,34 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-{
-    "name": "CINE ESPAÑOL",
-    "ico": "https://www.logo.wine/a/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.svg",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubojznhh4nhXo+95BwI/tphrTJ1JFLvsed0IDgsOSR0ADg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CINE FHD",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo42cbdCJUtlYiyV1NPATLB9+m8g8ZAhQH8wW+ljUjCAI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CINE ACCIÓN",
-    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CINE ACCIÓN",
-    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "CINE ESPAÑOL",
+        "ico": "https://www.logo.wine/a/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.svg",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubojznhh4nhXo+95BwI/tphrTJ1JFLvsed0IDgsOSR0ADg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo42cbdCJUtlYiyV1NPATLB9+m8g8ZAhQH8wW+ljUjCAI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE ACCIÓN",
+        "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CINE ACCIÓN",
+        "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "UNIVERSAL CINEMA FLOW",
         "ico": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png",
@@ -1534,57 +1533,55 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
- {
-    "name": "STARZ",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboaMe3CgEFX9ef7fIY1ME255GXHP2rIVFGvAiuL7r+oI0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STARZ WEST",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboRF5ZV0LOoWPVNRPDj0KCVdKqkzvn272KJybpPenkaWY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STARZ ENCORE",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboSMYjl3b7UQkswl5KWaoJaeTVSgVK9TaPSfWAEa1eNwI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STARZ ENCORE CLASSIC",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STARZ ENCORE CLASSIC",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STARZ ENCORE SUSPENSE",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "STARZ ENCORE WESTERN",
-    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-
-      
+      {
+        "name": "STARZ",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboaMe3CgEFX9ef7fIY1ME255GXHP2rIVFGvAiuL7r+oI0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STARZ WEST",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboRF5ZV0LOoWPVNRPDj0KCVdKqkzvn272KJybpPenkaWY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STARZ ENCORE",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboSMYjl3b7UQkswl5KWaoJaeTVSgVK9TaPSfWAEa1eNwI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STARZ ENCORE CLASSIC",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STARZ ENCORE CLASSIC",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STARZ ENCORE SUSPENSE",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "STARZ ENCORE WESTERN",
+        "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
@@ -3299,27 +3296,27 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "EUROSPORTS",
-    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-    "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAwnkxvaqS6+LNdJmgjn6mRQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EUROSPORTS",
-    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-    "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAr6WT0sWI4Q86tjNnDq0OCQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EUROSPORTS",
-    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-    "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvA1zMxfKzVl1e8EjsUdLHigA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "EUROSPORTS",
+        "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+        "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAwnkxvaqS6+LNdJmgjn6mRQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EUROSPORTS",
+        "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+        "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAr6WT0sWI4Q86tjNnDq0OCQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EUROSPORTS",
+        "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+        "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvA1zMxfKzVl1e8EjsUdLHigA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "TELEDEPORTE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
@@ -3501,103 +3498,103 @@
     "mode": false,
     "lista": [
       {
-    "name": "CHILE 24HS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-{
-    "name": "CHILE 24HS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CNN",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTg2zRV8nCH1WlBM/TQJ2ZJQun3M4wkU9jkDeGH+cRLao=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TVN",
-    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TVN",
-    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CHILEVISIÓN",
-    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CHILEVISIÓN",
-    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MEGA",
-    "ico": "https://static.epg.best/cl/Mega.cl.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MEGA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TNT SPORTS",
-    "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
-    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL8mEu5STGjQAMjA+0Cy2xN6HCDbJ3D1gtmFdpP+7fWKA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL 13",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/Lf2cz39cNWG1RZsaT81nwXR5yCcrl3ltN/gcR9nYgg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA RED",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/EGPeWfyoYbD/LhBAoQCRR3TvwsCUF6KruAmrhfPmcw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CDO",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
-    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTXXwcMTYzZec2ICjjgYh/0aeSb1mn6Ub4ZpmdpOH/hjQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CDO 2",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
-    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0K0/okL1bcZldEts83WRF6w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+        "name": "CHILE 24HS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILE 24HS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CNN",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTg2zRV8nCH1WlBM/TQJ2ZJQun3M4wkU9jkDeGH+cRLao=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TVN",
+        "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TVN",
+        "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILEVISIÓN",
+        "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILEVISIÓN",
+        "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MEGA",
+        "ico": "https://static.epg.best/cl/Mega.cl.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MEGA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TNT SPORTS",
+        "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
+        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL8mEu5STGjQAMjA+0Cy2xN6HCDbJ3D1gtmFdpP+7fWKA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 13",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/Lf2cz39cNWG1RZsaT81nwXR5yCcrl3ltN/gcR9nYgg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA RED",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/EGPeWfyoYbD/LhBAoQCRR3TvwsCUF6KruAmrhfPmcw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CDO",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTXXwcMTYzZec2ICjjgYh/0aeSb1mn6Ub4ZpmdpOH/hjQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CDO 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0K0/okL1bcZldEts83WRF6w==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
@@ -3670,6 +3667,75 @@
     ]
   },
   {
+    "name": "🇲🇽 MEXICO",
+    "mode": false,
+    "lista": [
+      {
+        "name": "TUDN",
+        "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N25T2PxGgeSHIUqm2I7UE25YjvniXY+V+R5KPiH184yyY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TUDN",
+        "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTylf1hb3IVbQCxVblCD2r2wK7/EQKEJ1CB38MQokMM7w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TUDN USA",
+        "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6tzCGuDDMe38Rri1L56FgZxI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TELEVISA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT9iaX4YMDRNjgvBZ6bCZMNGNLRfoMVHZl75opaCFnyGk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "AZTECA 7",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTpm1kYwAPapE9c52FmZrF5YdoV018i6+GiB7nhAnIZyw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 5",
+        "ico": "https://www.logotypes101.com/logos/168/724027DEBFAD552EE93BED12AC529B64/Canal_5.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTiJhicX1nEa/I6OA70pPstah9gamKg/ZMx6uxd03v5Mk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UNIVISIÓN",
+        "ico": "https://seeklogo.com/images/U/univision-networks-logo-92A440DCCD-seeklogo.com.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTbJhqdfDUbfEFCGwjF5FaCTGXFqHp6UQYxAhPOKqe9Pw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FOX DEPORTES",
+        "ico": "https://i.ibb.co/K0KjrsY/FOXDEPORTES.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0up0XV+s/bCOzgdYIZjTxyQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "AZTECA 7",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTpm1kYwAPapE9c52FmZrF5YdoV018i6+GiB7nhAnIZyw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
@@ -3736,7 +3802,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-        {
+      {
         "name": "MOVISTAR LA LIGA",
         "ico": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEpdSudQpBSWOGtCh4f9RVQ==",
