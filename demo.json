@@ -549,7 +549,7 @@
       }
     ]
   },
-   {
+    {
     "name": "⚽COPA AMERICA",
     "mode": false,
     "lista": [
@@ -1442,7 +1442,7 @@
     "name": "⭕PACK UNIVERSAL, MOVISTAR Y STARZ",
     "mode": false,
     "lista": [
-      {
+       {
         "name": "MOVISTAR ACCIÓN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png",
         "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
@@ -1582,8 +1582,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-
-      
+ 
     ]
   },
   {
@@ -3299,7 +3298,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
+  {
     "name": "EUROSPORTS",
     "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
     "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAwnkxvaqS6+LNdJmgjn6mRQ==",
@@ -3500,7 +3499,7 @@
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
-       {
+             {
     "name": "CHILE 24HS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
     "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
@@ -3670,6 +3669,75 @@
     ]
   },
   {
+    "name": "🇲🇽 MEXICO",
+    "mode": false,
+    "lista": [
+    {
+    "name": "TUDN",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N25T2PxGgeSHIUqm2I7UE25YjvniXY+V+R5KPiH184yyY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TUDN",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTylf1hb3IVbQCxVblCD2r2wK7/EQKEJ1CB38MQokMM7w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TUDN USA",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6tzCGuDDMe38Rri1L56FgZxI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEVISA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT9iaX4YMDRNjgvBZ6bCZMNGNLRfoMVHZl75opaCFnyGk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AZTECA 7",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTpm1kYwAPapE9c52FmZrF5YdoV018i6+GiB7nhAnIZyw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 5",
+    "ico": "https://www.logotypes101.com/logos/168/724027DEBFAD552EE93BED12AC529B64/Canal_5.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTiJhicX1nEa/I6OA70pPstah9gamKg/ZMx6uxd03v5Mk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UNIVISIÓN",
+    "ico": "https://seeklogo.com/images/U/univision-networks-logo-92A440DCCD-seeklogo.com.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTbJhqdfDUbfEFCGwjF5FaCTGXFqHp6UQYxAhPOKqe9Pw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX DEPORTES",
+    "ico": "https://i.ibb.co/K0KjrsY/FOXDEPORTES.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0up0XV+s/bCOzgdYIZjTxyQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AZTECA 7",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTpm1kYwAPapE9c52FmZrF5YdoV018i6+GiB7nhAnIZyw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+  {
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
@@ -3736,7 +3804,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-        {
+       {
         "name": "MOVISTAR LA LIGA",
         "ico": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEpdSudQpBSWOGtCh4f9RVQ==",
