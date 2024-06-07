@@ -549,243 +549,7 @@
       }
     ]
   },
-  {
-    "name": "⭕DIVERSIÓN 24/7",
-    "mode": false,
-    "lista": [
-      {
-        "name": "EL CHAVO DEL OCHO",
-        "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD021VHwHh1lRY9rCCCDscdcA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CASO CERRADO",
-        "ico": "https://budtv-ultra.com/posters/1711913283211.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Ci4NSYHW/wilIz2aDyRTJg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FBI",
-        "ico": "https://budtv-ultra.com/posters/1711913566465.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0RNofB6b+EtfCc9Wzryx9qg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PEPA PIG",
-        "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0FYQj2OoDQ+9Bb3eX2+Dfww==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "HEY ARNOLD",
-        "ico": "https://budtv-ultra.com/posters/1711908596346.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ab0nHp6BiNWGklOlzvThHQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "THE GOOD DOCTOR",
-        "ico": "https://budtv-ultra.com/posters/1711912069480.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Gj/GmrhDhPlPVVJhja0AVw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DINOSAURIOS",
-        "ico": "https://pupilasembrasas.com.br/wp-content/uploads/2014/01/42381.jpg",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7rJf4vP7oFtlTMUNmbgiOnvnsJ85IljAVtcqBmBEfKac=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINEMA UNIVERSE",
-        "ico": "https://i.ibb.co/WHSSMQ1/Marvel-Cinematic-Universe-Logo.webp",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7pHZZrKsVdv9se3ECvEl/kin22RxEucU+OsOgVUyFnjc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": " DISNEY MOVIES",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/800px-Disney_cinema_logo.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7z8CtQvSCB2oD/DGD98XRZKLnva3rxCe15BmcPEfdM24=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SOUTH PARK",
-        "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFe+i0AG3gR29mei4Saw6++w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL CHAVO ANIMADO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFUHRSaIYELvAmAz1D5LM1pA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHAVO DEL 8",
-        "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsrXuHRS7oFIiKM+mZjt0JA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LOS SIMPSONS",
-        "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFF6jow+lOWn96agBCqpyNqg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL CHAPULÍN COLORADO",
-        "ico": "https://static.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/7/7f/Chapul%C3%ADn_Colorado.png/revision/latest?cb=20190316043827&path-prefix=es",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1LrjA4ufUVuRqLYa2MofAg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DRAGON BALL SUPER",
-        "ico": "https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFHAOwpJq207ZJXHcqKxiIeA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL PAJARO LOCO",
-        "ico": "https://i.ibb.co/4TJ8k2p/6a0a77a49e190ba1ec1211b426b0ef7c.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFsulQyIWsxvdWgoRFUDU4Vg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "NARUTO",
-        "ico": "https://i.ibb.co/NSPys4j/imagenes-sin-fondo-naruto.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFxAAKRzd4tQYhEuWvTnQY4Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BOB ESPONJA",
-        "ico": "https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFH3x+je3Epw6ylCWvraiKjQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TOM AND JERRY",
-        "ico": "https://www.clarin.com/img/2015/03/24/H1JtXsaQx_1256x620.jpg",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEIV4yxkUyba0q8kJwyp/tA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BEN 10 HD",
-        "ico": "https://i.ibb.co/XDDb4Pf/ben-10.jpg",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCsr+SDdZd5EdKXnUbF05qA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DOCUMENTALES",
-        "ico": "https://static.wikia.nocookie.net/dreamlogos/images/d/df/Canal_Documentary_1993.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFJvuXlL+Fvu2Hj7vtM5dSZw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PANTERA ROSA",
-        "ico": "https://i.ibb.co/PcCk0wH/f6633e6de07c300d8397ef9f4c980849.jpg",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFunuWFkA1QbpBN0PTEY3NYA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SONIC Y SU BANDA",
-        "ico": "https://i.blogs.es/2596e6/sonic/1366_2000.webp",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF2rzObSQWbgoME4bSvQmXNw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PEPA PIG",
-        "ico": "http://3.bp.blogspot.com/-OKgL_YL-xLM/VA-XemRZymI/AAAAAAAAiB8/QnF5BGVW-Hs/s1600/p%2Bpig.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFFXO3iZ93leuUQiFk0kHAhA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CARS DISNEY",
-        "ico": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/imagenes-cars-4_xten.jpg",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFCXUDlg1BBAXEN9TwEDpTog==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "O MEJOR DE DISNEY HD",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFhsxVZ2Trk61TOb+OH1ELVQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
-    "name": "⭐EVENTOS STREAX",
-    "mode": false,
-    "lista": [
-      {
-        "name": "DSPORTS|",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0/eE8ROy/IjzKLvaBAHWglA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS|",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7YCiBfJbhwqpDfle4jlrX4g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS|",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
-        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOS0yueugSnJ1+tG/urPtxtw1PXMXEeRvFZzIA7MNYY8k=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS|",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/1/613_blanco2.png",
-        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuOI/ozaB/bBRF2S0p4ZehTBIzAa7tKouSdUZqK44loUOY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS|",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuODy233pp2OLBzZbRCqzlHrrsPNIoLRBfK/JVHLvuexq8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS|",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "8kGMNe2V+9Zlt6x155fZm61/FedHHyIM7h2UsYVQHmI7eEf0Ga597gXU6qN9DhuODy233pp2OLBzZbRCqzlHrrsPNIoLRBfK/JVHLvuexq8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    ]
-  },
-  {
+    {
     "name": "⚽COPA AMERICA",
     "mode": false,
     "lista": [
@@ -892,7 +656,21 @@
     "name": "⭕PROVINCIAS🇦🇷",
     "mode": false,
     "lista": [
-      {
+        {
+    "name": "CANAL 8 MAR DEL PLATA",
+    "ico": "https://i.ibb.co/Xjf026r/1676293959012-jpg.png",
+    "uri": "s4VbPQWRVxvY7ssoq1pec4FVL/49eT16m5CVtE4iOXH9SxOMlWj6XcPVzONbMYOq3sJcpAqQhgzaB7nGA2PfwqK3nbo7Pz8ZyduEDIGaWZN3+N060+AUo3pq6MavO3U0",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 10 MAR DEL PLATA",
+    "ico": "https://i.ibb.co/2swfDFq/Canal-10-Mar-del-Plata-29.webp",
+    "uri": "Dh8gtpttFoe5Fdue3NVnQW3dwqUZhCMJYDKGgUetY/DlCRj/1JOvhzbs4mQQNyWeYm3opshqR45obg1UK8gPZm+ReVhI+mxsAPTScpXvtcPZ6i3PJyysKk6k/o4zlamtT+jlAIetb3x+M0mVSjGglQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
         "name": "TELEFE ROSARIO",
         "ico": "https://static.tvar.io/imagenes/teleferosario.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fywder//z/T9Ro7QaKhLvSTGIWTbIArbBB1AG5ZfT0oV3Zc9QsOPkUoQf2lOUjlSyye/yfhFvey+uk5UtxWnCHLm+lb1fIBeVkEMR1/Gn0HqpEkEWU8VU3eMgZCJcoFZTw==",
@@ -1644,20 +1422,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "FJjpKzmMrKmw4RB0yjaIqnJCEJAEPrBcAvuuqUSOL1ezcAx/QX7Vwrug57bRxrHdFPxABmt6/1ONJt8xGi2UtQiAwEUt1B8CXLOJEtKizXG1mn988FP4Qc/JzZHRAHdJmNJHH+Zn8vsoGFs3pHMpA8ykAuRhi9+azSN4mm2SzQgRX4c/9qDWJuXU3dFaMjkNOVDXRSRdHOsmAvfstaexEg=="
       },
-      {
-        "name": "HBO SIGNATURE",
-        "ico": "https://i.ibb.co/42x13pY/hbosig.webp",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0PopQONpvrQyHvPFzwSesrg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "HBO SIGNATURE",
-        "ico": "https://i.ibb.co/42x13pY/hbosig.webp",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioF1Pjlm7U8Tjzk9YUzWS2tuA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+{
+    "name": "HBO SIGNATURE",
+    "ico": "https://i.ibb.co/1zvrLR0/hbosignature.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsxjB83zs5fTF6PhySWp2nWSXt+fENqE7MnpBqVZBP1nrBKoe2eCDo4WmdaCevQdPn3cruRVn+Th3sVrFYa3qCkA==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENq233+5AaAVmy5Y5oRNkkf7oAtUwkwBTCQ3d0vsDF/u8A=="
+  },
       {
         "name": "HBO MUNDI",
         "ico": "https://i.ibb.co/zQjTfFz/hbomundi.webp",
@@ -1682,10 +1453,10 @@
     ]
   },
   {
-    "name": "⭕PACK UNIVERSAL Y MOVISTAR",
+    "name": "⭕PACK UNIVERSAL, MOVISTAR Y STARZ",
     "mode": false,
     "lista": [
-      {
+       {
         "name": "MOVISTAR ACCIÓN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/800px-Movistar_Acci%C3%B3n.svg.png",
         "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
@@ -1699,6 +1470,34 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "CINE ESPAÑOL",
+    "ico": "https://www.logo.wine/a/logo/Movistar_Cine_Espa%C3%B1ol/Movistar_Cine_Espa%C3%B1ol-Logo.wine.svg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubojznhh4nhXo+95BwI/tphrTJ1JFLvsed0IDgsOSR0ADg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo42cbdCJUtlYiyV1NPATLB9+m8g8ZAhQH8wW+ljUjCAI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE ACCIÓN",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE ACCIÓN",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/1200?cb=20200629222648&path-prefix=es",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9GtfP/upAghhbxBEeHa+Jepf3cN3IBlknPjMH83pnL8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "UNIVERSAL CINEMA FLOW",
         "ico": "https://i.ibb.co/D4p8NpJ/Universal-Cinema-2021.png",
@@ -1748,48 +1547,56 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "UNIVERSAL REALITY",
-        "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDW84kjPoOwAYuEedn0v40uNrLi4njpjppgPoTvgsC+UnOc5aPLWsBTnKOhKijfD9Ir",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CRIME",
-        "ico": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDWUkh9rWWIh4emNod5175/Md4X8FqW/V68ECYhVzsd/pIsh3H2MH2ZQNnAYemBmQVK",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CINEMA",
-        "ico": "https://tvlatinolibre.com/wp-content/uploads/2023/07/Diseno-sin-titulo-73.png",
-        "uri": "eS0ZOrCl6lVGYy/BZQNUH87jp6VSSI4wSoST6vYppOJO5lDjRfJC2/3zSVftiCDWbceT2DtBejh0uHEc9GJ4Nazni12iy56SHWQsYN3OgUJGW3XwG3DOMltcSvBoBmOr",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CRIME 2",
-        "ico": "http://static.tvar.io/imagenes/uncrime.png",
-        "uri": "IMeFQpGO1rLJOlsoJ1GkGVrhs1NKkM4ZPH/QUPrbMqKaHt3dCjM/rdJ7vUNmshBA",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL PREMIERE 2",
-        "ico": "http://static.tvar.io/imagenes/unpremiere.png",
-        "uri": "IMeFQpGO1rLJOlsoJ1GkGVrhs1NKkM4ZPH/QUPrbMqJmNaLO5HMv12StXPnQPulM",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL REALITY 2",
-        "ico": "http://static.tvar.io/imagenes/unreality.png",
-        "uri": "IMeFQpGO1rLJOlsoJ1GkGVrhs1NKkM4ZPH/QUPrbMqITru9LJFyRjwRZabcuMI8d",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+ {
+    "name": "STARZ",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboaMe3CgEFX9ef7fIY1ME255GXHP2rIVFGvAiuL7r+oI0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ WEST",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboRF5ZV0LOoWPVNRPDj0KCVdKqkzvn272KJybpPenkaWY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboSMYjl3b7UQkswl5KWaoJaeTVSgVK9TaPSfWAEa1eNwI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE CLASSIC",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE CLASSIC",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubottN8G789r1Uh6FB5g7w0xnnwNXG6+9kWR0T2Sv+ReQc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE SUSPENSE",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "STARZ ENCORE WESTERN",
+    "ico": "https://i.ibb.co/PzfVWHW/Starz-Logo-webp.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubovPlYTMR/C3t0qo318nLUj6SKn+jjx6tBzX+XLLa4tJg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+ 
     ]
   },
   {
@@ -1831,6 +1638,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "TRU TV",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboCLcfQq/S8abaifZNZeT2lnyLObeEVsFpSCJSF74OC08=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "ODISEA",
         "ico": "https://i.ibb.co/bBwXr6d/odisea.png",
@@ -3505,13 +3319,27 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "EUROSPORTS",
-        "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "EUROSPORTS",
+    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+    "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAwnkxvaqS6+LNdJmgjn6mRQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EUROSPORTS",
+    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+    "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAr6WT0sWI4Q86tjNnDq0OCQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EUROSPORTS",
+    "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
+    "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvA1zMxfKzVl1e8EjsUdLHigA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "TELEDEPORTE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
@@ -3692,111 +3520,104 @@
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
-      {
-        "name": "LIGA CHILENA",
-        "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7x+U3dl4SvFjhc32Gg+dB6JHxppXbxLBOf9SeHXfIM3k=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CDO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrzHVOVEtkqKvY30Con3C1Sg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS CHILE",
-        "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VruBCU0yYkA7fat42KvjqmLQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS CHILE 2",
-        "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrKvbXmGvMPNynTGma0EjsEQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS CHILE 3",
-        "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrl6goj9iBfG1m+lrI7u8SNA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS CHILE",
-        "ico": "https://i.ibb.co/W0mjXDj/ESTADIOTNTSPORTS.webp",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7x+U3dl4SvFjhc32Gg+dB6JHxppXbxLBOf9SeHXfIM3k=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED",
-        "ico": "https://static.epg.best/cl/LaRed.cl.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7soKis2tNN+UhZefhlMAwxA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVN",
-        "ico": "https://cdn.mitvstatic.com/channels/ar_tvn-chile_m.png",
-        "uri": "3pjpIQv++6HqWLEcuFs5nfVxuvENiN9tCWnfrulFgnd0gx6k/D+iYHp537th2INAzRpzgG/S+l30cl/CZ/Ar3i4FazECsnq4sNdUK4BD75GZPPeSlbu9WwprBxsZItrK",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 13",
-        "ico": "https://i.ibb.co/BssXDwh/descarga-1.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7DR5LbVnLX8moEZ4003+3bAdbhfAqkcP7DUhEiJE+Ut4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7HlWtbdLk7uLfdYJQLmi4dku44FEgRJzRlQ+EnNyzusk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
-        "uri": "bdn50+CnMW/B+oMbu7isD4yPX+kJbvtyeJKfsdfspBO5x8SPfmUYqEn1xO4Q2fbYIB3xPkexPs5YRs84+B57t1aGjDRAFBnaPvMgdpE2SBYE4pc7rjKveQotGliwNADehrBfs8eDWA5PehAEz4ZNRQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "24 HORAS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7JxzTg6PIyivP4krzuGRgdJW88sC5/GnI1rAEJKx9QFQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILE VISIÓN",
-        "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7om+siHPDdGPdVcniL4fMkA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED",
-        "ico": "https://static.epg.best/cl/LaRed.cl.png",
-        "uri": "iX5d1Koud8XT7KMJ+89wLxr3q624hFB+ia/9dOMA/Z5LeHrjsrsXOtnurhcJUTmZMFPy7mS0L8cD075tBJmVfCp8rwbJVYnP7LZSmVQiQFDbh0YA5nkm2ARfdeZWs4IT",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TV CHILE",
-        "ico": "https://www.lyngsat.com/logo/tv/tt/tv-chile-cl.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7JxzTg6PIyivP4krzuGRgdJW88sC5/GnI1rAEJKx9QFQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+             {
+    "name": "CHILE 24HS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "CHILE 24HS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CNN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTg2zRV8nCH1WlBM/TQJ2ZJQun3M4wkU9jkDeGH+cRLao=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://static.epg.best/cl/Mega.cl.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS",
+    "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL8mEu5STGjQAMjA+0Cy2xN6HCDbJ3D1gtmFdpP+7fWKA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 13",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/Lf2cz39cNWG1RZsaT81nwXR5yCcrl3ltN/gcR9nYgg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/EGPeWfyoYbD/LhBAoQCRR3TvwsCUF6KruAmrhfPmcw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CDO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTXXwcMTYzZec2ICjjgYh/0aeSb1mn6Ub4ZpmdpOH/hjQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CDO 2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0K0/okL1bcZldEts83WRF6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
@@ -3868,6 +3689,277 @@
       }
     ]
   },
+ 
+{
+    "name": "⭕DIVERSIÓN 24/7",
+    "mode": false,
+    "lista": [
+  {
+    "name": "PEPA PIG",
+    "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubosYtidiPjk/ig5DumNavzh3TE+SMNXgIRfkmKms8xdpI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CASO CERRADO",
+    "ico": "https://budtv-ultra.com/posters/1711913283211.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKOxial3Vj+sX6yttUP2Lgkq6kzU8OucvrFAFKmnMTI8w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CHAVO DEL OCHO",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboB4EKXDZH+pX4L3VRPycpFi5K0602XW1iqMAn0sDaT0o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HEY ARNOLD",
+    "ico": "https://budtv-ultra.com/posters/1711908596346.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboFuZc0MX0yXudgnnGjU1TyG/Ykvi/QHomHlaFilbzUAU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DINOSAURIOS",
+    "ico": "https://pupilasembrasas.com.br/wp-content/uploads/2014/01/42381.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboJ4MbCUSx90LhkeboADDTgSTkyGZMmne9hCivvRTtKgM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINEMA UNIVERSE",
+    "ico": "https://i.ibb.co/WHSSMQ1/Marvel-Cinematic-Universe-Logo.webp",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo7HBSZ6lU5t8oKtn7uMUMhcK88wbsN8Vc819GtNhlRIY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SOUTH PARK",
+    "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboVrls1EbuVTPzq+fX2WqwRJCCranFlESaCN/coHNG5Es=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHAVO DEL 8",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboB4EKXDZH+pX4L3VRPycpFi5K0602XW1iqMAn0sDaT0o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS SIMPSONS",
+    "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubodVWinozaqbZ88BpbQfxz24BC4VRzYssXNWdu2sHLvdA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DRAGON BALL SUPER",
+    "ico": "https://orig00.deviantart.net/da46/f/2017/033/2/3/dragon_ball_super_logo_by_victormontecinos-daxn5se.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboB8owwxvZzPqIAcZOUEX3PG30arfSsXbiVhGAO2MiTRo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PAJARO LOCO",
+    "ico": "https://i.ibb.co/4TJ8k2p/6a0a77a49e190ba1ec1211b426b0ef7c.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboyV/2GPvXzxMwLkP6qVO4cCCy8clUt731OAXZakf7NdM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NARUTO",
+    "ico": "https://i.ibb.co/NSPys4j/imagenes-sin-fondo-naruto.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboPmZVz78eDBOpu6xy7Z49JIU3QPWOEiYM0a62hGrh9SU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BOB ESPONJA",
+    "ico": "https://seeklogo.com/images/B/Bob_Esponja-logo-0D3F3F01DD-seeklogo.com.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboYZ+mbAjqBa68lySokO/o/O37z461BxG3Kln46BOgBfk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TOM AND JERRY",
+    "ico": "https://www.clarin.com/img/2015/03/24/H1JtXsaQx_1256x620.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubor2HeG12c0v3FdLCwAitFkY5OOzEzcI+Uz3oZ2StenLQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DOCUMENTALES",
+    "ico": "https://static.wikia.nocookie.net/dreamlogos/images/d/df/Canal_Documentary_1993.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboLZpOVOuf5NpjLNAlptrNLTB9CshwTjeKQJY7yS0MesY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANTERA ROSA",
+    "ico": "https://i.ibb.co/PcCk0wH/f6633e6de07c300d8397ef9f4c980849.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboc22IHrCIBVkra4ulS5snWJXSy5Oc5HP1M1kHX5/7mwM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SONIC Y SU BANDA",
+    "ico": "https://i.blogs.es/2596e6/sonic/1366_2000.webp",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboR2bhY8bdql5Y6UPmh9HuKyCmkbnhH+b4YEJ8fhNJYpI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PATO AVENTURAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Patoaventuras_logo.png/800px-Patoaventuras_logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboe//2YALUmShZQXWoLOnYjsVNUiF+QlL3IWSnS9ZozAY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PADRE DE FAMILIA 1",
+    "ico": "https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2020/03/05/152D3E9E-7A8B-4B77-B6D3-7A4D9A7767E8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboF7GSI485LbdPQSlny+zQg0A4LPqcDbZZ8pL4g4SNMrc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PADRE DE FAMILIA 2",
+    "ico": "https://fotografias-neox.atresmedia.com/clipping/cmsimages02/2020/03/05/152D3E9E-7A8B-4B77-B6D3-7A4D9A7767E8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboF7GSI485LbdPQSlny+zQg0A4LPqcDbZZ8pL4g4SNMrc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA LEY DE MILO MURPHY",
+    "ico": "https://i.pinimg.com/originals/00/35/e6/0035e63dedffc14ab972227f98b9e322.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubouHgLhY7F4FXMxD+jzudEgALNYOmDjT2E3DI3ykHC6tE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "CINEMA STREAX",
+    "mode": false,
+    "lista": [
+       {
+    "name": "CLASICOS DE DISNEY",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboZjniV97fBJtAmLLkEBbto+NyeANFeALmujP1h3xelq8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ACCIÓN",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboD0yT0yyHLouO2YPRy9vD/UqRJ8hJm/V6JR1tH7l15ss=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HORRORFY",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubon3UIRFj/jtLr1hK7ptS5beS2OPndMyh9SQ3Kt6mFtwk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DREAMWORKS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboNXo0rvE/UEErUr8eS05vlNBU1uUhtTvUfCiCm0a2fCg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ANIMATIONS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9oWg9lmyvmgNqrw3gvLPSQJos2yiCCWOckwI/cvSxy8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MARVEL STUDIO",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboH1QQKhoGa1rNu8tdcI8/kRMj0o7llmw3ErwPcSw4nII=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+  {
+    "name": "🇲🇽 MEXICO",
+    "mode": false,
+    "lista": [
+    {
+    "name": "TUDN",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N25T2PxGgeSHIUqm2I7UE25YjvniXY+V+R5KPiH184yyY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TUDN",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTylf1hb3IVbQCxVblCD2r2wK7/EQKEJ1CB38MQokMM7w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TUDN USA",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6tzCGuDDMe38Rri1L56FgZxI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEVISA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT9iaX4YMDRNjgvBZ6bCZMNGNLRfoMVHZl75opaCFnyGk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AZTECA 7",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTpm1kYwAPapE9c52FmZrF5YdoV018i6+GiB7nhAnIZyw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 5",
+    "ico": "https://www.logotypes101.com/logos/168/724027DEBFAD552EE93BED12AC529B64/Canal_5.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTiJhicX1nEa/I6OA70pPstah9gamKg/ZMx6uxd03v5Mk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UNIVISIÓN",
+    "ico": "https://seeklogo.com/images/U/univision-networks-logo-92A440DCCD-seeklogo.com.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTbJhqdfDUbfEFCGwjF5FaCTGXFqHp6UQYxAhPOKqe9Pw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX DEPORTES",
+    "ico": "https://i.ibb.co/K0KjrsY/FOXDEPORTES.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0up0XV+s/bCOzgdYIZjTxyQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AZTECA 7",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTpm1kYwAPapE9c52FmZrF5YdoV018i6+GiB7nhAnIZyw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
   {
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
@@ -3935,24 +4027,10 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "EUROSPORT 1 HD",
-        "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0q6RMIeccKT9jiKB2k7radg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 1 LIVE",
+       {
+        "name": "MOVISTAR LA LIGA",
         "ico": "https://iptvboss.xyz/logos/Spain/M%2BLigadeCampeones.es.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFEpdSudQpBSWOGtCh4f9RVQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 2 HD",
-        "ico": "https://i.ibb.co/p2zLVnG/apps-20993-13510798885152455-b53f2a8a-4d2c-422f-b6ce-afd09ddfee9f.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0Xp2ODalufC03H21YiU3A5g==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
