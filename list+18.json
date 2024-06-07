@@ -3689,7 +3689,7 @@
       }
     ]
   },
-  
+ 
 {
     "name": "⭕DIVERSIÓN 24/7",
     "mode": false,
@@ -3841,6 +3841,54 @@
     "drm_scheme": "",
     "drm_license_url": ""
       }
+    ]
+  },
+  {
+    "name": "CINEMA STREAX",
+    "mode": false,
+    "lista": [
+       {
+    "name": "CLASICOS DE DISNEY",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboZjniV97fBJtAmLLkEBbto+NyeANFeALmujP1h3xelq8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ACCIÓN",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboD0yT0yyHLouO2YPRy9vD/UqRJ8hJm/V6JR1tH7l15ss=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HORRORFY",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubon3UIRFj/jtLr1hK7ptS5beS2OPndMyh9SQ3Kt6mFtwk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DREAMWORKS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboNXo0rvE/UEErUr8eS05vlNBU1uUhtTvUfCiCm0a2fCg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ANIMATIONS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9oWg9lmyvmgNqrw3gvLPSQJos2yiCCWOckwI/cvSxy8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MARVEL STUDIO",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboH1QQKhoGa1rNu8tdcI8/kRMj0o7llmw3ErwPcSw4nII=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
