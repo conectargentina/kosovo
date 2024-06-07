@@ -684,6 +684,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "CANAL 8 MAR DEL PLATA",
+    "ico": "https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-06.png",
+    "uri": "s4VbPQWRVxvY7ssoq1pec4FVL/49eT16m5CVtE4iOXH9SxOMlWj6XcPVzONbMYOq3sJcpAqQhgzaB7nGA2PfwqK3nbo7Pz8ZyduEDIGaWZN3+N060+AUo3pq6MavO3U0",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 10 MAR DEL PLATA",
+    "ico": "https://www.cxtvenvivo.com/assets/img/ui/logo-header.webp",
+    "uri": "Dh8gtpttFoe5Fdue3NVnQW3dwqUZhCMJYDKGgUetY/DlCRj/1JOvhzbs4mQQNyWeYm3opshqR45obg1UK8gPZm+ReVhI+mxsAPTScpXvtcPZ6i3PJyysKk6k/o4zlamtT+jlAIetb3x+M0mVSjGglQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CANAL 9 - LA RIOJA",
         "ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_9bZY2pUS8g54PiR3suNwJU_sYy0vNWzMewdsxZogjDhCwqM3xZVgZRsDztX3x7sskNBIg1UEgqxaAYq_ox9sf5p13AQ6A2WVp1wf0RXut7BEkBGXAKbn9O_xtHx7zpNtsnx4TEOlfTFv6DHLSlyP3JTHmkipa8-VOU8GvyDoZg21fQODfFJ7cnXe/s662/c9-lr-2020.png",
@@ -1624,6 +1638,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "TRU TV",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboemghlFWFKlCh81yl6j/b0J6LRJ8JN/JJQr32l7jYae0=",
+    "drm_scheme": null,
+    "drm_license_url": ""
+  },
       {
         "name": "ODISEA",
         "ico": "https://i.ibb.co/bBwXr6d/odisea.png",
