@@ -3673,27 +3673,6 @@
     "name": "⭕DIVERSIÓN 24/7",
     "mode": false,
     "lista": [
-        {
-    "name": "EL CHAVO DEL OCHO",
-    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboE1WWBWfrL9It7bYVbQQhYq4/JUx/JqHSN5+Ake2kBYc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CASO CERRADO",
-    "ico": "https://budtv-ultra.com/posters/1711913283211.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo5hK5O7Pi7dkN15wBCAga3YTDrjWGlrtoUwAJDIDOl5A=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FBI",
-    "ico": "https://budtv-ultra.com/posters/1711913566465.png",
-    "uri": "iX5d1Koud8XT7KMJ+89wLxr3q624hFB+ia/9dOMA/Z5LeHrjsrsXOtnurhcJUTmZMFPy7mS0L8cD075tBJmVfNGy3iKK8zl/V1IdYA3jtohUmAByoN65wIjZ7K7Yz1cu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
   {
     "name": "PEPA PIG",
     "ico": "https://i.ibb.co/9rDD6zP/f84d42598a227942a5863dfbef5f67fa.jpg",
@@ -3702,16 +3681,23 @@
     "drm_license_url": ""
   },
   {
-    "name": "HEY ARNOLD",
-    "ico": "https://budtv-ultra.com/posters/1711908596346.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboFuZc0MX0yXudgnnGjU1TyG/Ykvi/QHomHlaFilbzUAU=",
+    "name": "CASO CERRADO",
+    "ico": "https://budtv-ultra.com/posters/1711913283211.png",
+    "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKOxial3Vj+sX6yttUP2Lgkq6kzU8OucvrFAFKmnMTI8w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "THE GOOD DOCTOR",
-    "ico": "https://budtv-ultra.com/posters/1711912069480.png",
-    "uri": "iX5d1Koud8XT7KMJ+89wLxr3q624hFB+ia/9dOMA/Z5LeHrjsrsXOtnurhcJUTmZMFPy7mS0L8cD075tBJmVfHmduRKcpxmTL6WZJFujFqG2e7an03AcTxPwhrCaF5Cr",
+    "name": "EL CHAVO DEL OCHO",
+    "ico": "https://i.ibb.co/LzFpt6r/chavo8.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboB4EKXDZH+pX4L3VRPycpFi5K0602XW1iqMAn0sDaT0o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HEY ARNOLD",
+    "ico": "https://budtv-ultra.com/posters/1711908596346.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboFuZc0MX0yXudgnnGjU1TyG/Ykvi/QHomHlaFilbzUAU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3737,30 +3723,9 @@
     "drm_license_url": ""
   },
   {
-    "name": " DISNEY MOVIES",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Disney_cinema_logo.png/800px-Disney_cinema_logo.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboPxGYebk4oA5ZY4UnfiRsnPB7sjpOP9bgeAe7ysfQRdQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": " DISNEY PIXAR",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Disney_pixar_logo.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboEp92/TU/5KBfHkhUmrzq7WuaH/ze8u12SDgD+yr+zYg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "SOUTH PARK",
     "ico": "https://i.ibb.co/F7NFVcV/south-park-logo-by-zizigolllo-d8k6cad-fullview.jpg",
     "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboVrls1EbuVTPzq+fX2WqwRJCCranFlESaCN/coHNG5Es=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CHAVO ANIMADO",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/El_Chavo_Animado_logo.svg/250px-El_Chavo_Animado_logo.svg.png",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboxD9lZOvBpEljNRQQO/hj1T0oE330qGqTlYRVckRq1fU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3775,13 +3740,6 @@
     "name": "LOS SIMPSONS",
     "ico": "https://www.pngfind.com/pngs/m/62-625721_bart-simpson-images-bart-simpson-hd-wallpaper-and.png",
     "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubodVWinozaqbZ88BpbQfxz24BC4VRzYssXNWdu2sHLvdA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL CHAPULÍN COLORADO",
-    "ico": "https://static.wikia.nocookie.net/death-battle-fanon-wiki-en-espanol/images/7/7f/Chapul%C3%ADn_Colorado.png/revision/latest?cb=20190316043827&path-prefix=es",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubosmXlE+dvX6rbnmc9t1uxiZ3QNJxNH91Tg25ffWwK6Dg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3817,13 +3775,6 @@
     "name": "TOM AND JERRY",
     "ico": "https://www.clarin.com/img/2015/03/24/H1JtXsaQx_1256x620.jpg",
     "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubor2HeG12c0v3FdLCwAitFkY5OOzEzcI+Uz3oZ2StenLQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BEN 10 HD",
-    "ico": "https://i.ibb.co/XDDb4Pf/ben-10.jpg",
-    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboZkIDTjVFHLVvjxgJ/REyQnd76nidvKf4oRFqk2+3MVQ=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
