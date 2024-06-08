@@ -1178,35 +1178,7 @@
     "name": "⭕PELICULAS Y SERIES",
     "mode": false,
     "lista": [
-      {
-        "name": "GOLDEN",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.984186640_GoldenLA(2020).png.2ebb0b70e24c90b222ef304afe2bf82c.png",
-        "uri": "qGZLimAEYS4tg7pstKRVv+XVhpSSw6L4SY4kXB7AASd+GRjDRusAwixYQfZG8HuK77P2kD3KDbLyzsuCPmM35ffxXbBM2abshZoYViveZrslMkorizmVm9WpFHwtQYm/",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GOLDEN PLUS",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.984186640_GoldenLA(2020).png.2ebb0b70e24c90b222ef304afe2bf82c.png",
-        "uri": "qGZLimAEYS4tg7pstKRVv2Z1ndcgWH6BnC9qlKb0nb2DTbdvD3nBhXI2jLJJWxft1ufQhc80W6UtUxjCkZNLpB8dvEvVdlt7sOPtUV9aWwE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GOLDEN PREMIER EDGE",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_08/large.984186640_GoldenLA(2020).png.2ebb0b70e24c90b222ef304afe2bf82c.png",
-        "uri": "qGZLimAEYS4tg7pstKRVv1KsCciL0WOJetW8PIWh3pgwFz9OWA8s2WnFFE1VsUmOX4sCXqi/4fCsaxf3Wtil4JJH/3HhVMVIoNPNc3gSD8g366AjMrKtjXkAswxXkgwH",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CINE LATINO",
-        "ico": "https://i.ibb.co/XYQq2sy/cinelatino-logo2-jpg.png",
-        "uri": "X/WxX8YhejMHdBxZbkJA+9OY7wZko0yQsaP8cXysGEcaKX/Jsl7lFHu4+iMqNT7wQUCtqRTBc3pFv19o4Iy6+g==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "pfccQdO0x9675khuei5j0RZJhlBl9NT3a1WwtrhJ5zWPR9GaYVvrMDRVYXxdHEi9dze+F33zLjR5/0f5AZyM1stUAqV0LV0w7sWCkn2yj84rXoaa1jY/n2bN9Rs/3ME3rUSjQdMC23Kn2tFg002fag=="
-      },
-      {
+          {
         "name": "WARNER CHANNEL",
         "ico": "https://television-libre.online/img/warner.webp",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FXiNG9jiMiKwEvt9eYJcqvVp/dgPtEtgEb9gqya920PAcAGGRmdYJFFHiXdMR+V3G9cbyYIvsjtpsM/rP9yBw1",
