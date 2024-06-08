@@ -656,7 +656,14 @@
     "name": "⭕PROVINCIAS🇦🇷",
     "mode": false,
     "lista": [
-        {
+  {
+    "name": "2 MAR DEL PLATA",
+    "ico": "https://i.ibb.co/qN6hyqk/canal2mdp-jpg.png",
+    "uri": "FTu3LsLvfdIiqlG1vbUiv/rHZfWrUO8yZOED+IYe1I7EoffRHyxB4RCJBnTfPDSug21nJ0cvrehkZNRYfLX/ng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
     "name": "CANAL 8 MAR DEL PLATA",
     "ico": "https://i.ibb.co/Xjf026r/1676293959012-jpg.png",
     "uri": "s4VbPQWRVxvY7ssoq1pec4FVL/49eT16m5CVtE4iOXH9SxOMlWj6XcPVzONbMYOq3sJcpAqQhgzaB7nGA2PfwqK3nbo7Pz8ZyduEDIGaWZN3+N060+AUo3pq6MavO3U0",
