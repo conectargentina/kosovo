@@ -2852,153 +2852,140 @@
     "name": "⚽DEPORTES BRASIL🇧🇷",
     "mode": false,
     "lista": [
-      {
-        "name": "BAND SPORTS",
-        "ico": "https://megacanaisonline.com/wp-content/webp-express/webp-images/uploads/2022/08/Design-sem-nome-20.png.webp",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrnvZsFfSlZkjda63Sn5rlhw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FOX SPORTS 1",
-        "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrXaGjjQIbqESQp1GYrSG4sw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FOX SPORTS 2",
-        "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrSjkRbF1NVxeirLaaCZ6pzw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV",
-        "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrfFfjtFsjchPjZlw0vvdNlQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV Op2",
-        "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8Svq1DQATcROvfZJ1DnFG0zX9uj4thtkOE86J0OC7ruoY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 2 ",
-        "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SER5q/MJqVS4Dy3HRHUgxj6u+S2/PqVKuJWrQr31E2ow=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 3 ",
-        "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8S9oRGo4Gzjru7U0v4mVcPVA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PREMIERE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SpVNb50Hy3vzG2Ptag+mMEwmWMxTNClqpnfOj6PrRlsE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PREMIERE 2",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8Sc1l+pYgXvYTPDvC8E8mEhjwY+W3SthCNvA4uusS+Lxg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PREMIERE 3",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8S1/QTfGA7nGnQp467ZStmrbpzOUaj24T7fFslJU1Rqrc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PREMIERE 4K",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SpVNb50Hy3vzG2Ptag+mMEwmWMxTNClqpnfOj6PrRlsE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BAND SPORTS 4K",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SuWp9k8K8T4mJomWq0pzwVhzqJMQMP1O3OpBHGvry6aA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESPN 4K",
-        "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SW4kO3ok9EyTi94JgSP3VLqu/KAMfZK7FlPVhQC1kw6M=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UFC PASS",
-        "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SXdHpPaTXiypF2w1r7F4DbwIIodFutBctjy0qrF2waUw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COMBATE",
-        "ico": "https://www.imagensempng.com.br/wp-content/uploads/2023/04/3787.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8S3THCyNB/86/+4iw8TYgzypxbIQBqUi3S3c6ZDtTZv48=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ESPN FHD",
-        "ico": "https://c0.klipartz.com/pngpicture/318/371/gratis-png-espn-television-espn-video-de-alta-definicion-extra-lam-radio-hd.png",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SWqh+X1juXzrIBkxqmYAEzxdoOg0ADgciA1wooOXKjxc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FOX SPORTS",
-        "ico": "https://i.ibb.co/DLbfhZS/photo1694966226.jpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SGgo1Z/5cY9rTmYFoRj+QexNqCOhIw8Kb1TtWeB4JS+E=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+ 1",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webpg",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SULa23MZCe38LKYCx9gcKN+z0lldngI70eWiSwXuxZe8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+ 2",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SWJMzdxLZJ36oDlFozD8T+ssL35ITB/UZ8XsxQ6n9lGE=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+3",
-        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
-        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SLaqqmzs8masOtyPrauHypu32eB9Pvwye2kLUONQNZig=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TYC SPORTS",
-        "ico": "https://1.deporte-libre.org/img/tycsports.png",
-        "uri": "tBw/SFWKxm+FDxAiybooUkr9Ohw/fFL9AyNyM4fBnjRi9vAhs2bG/n5ReWgsFdV5FfqyTlBjUzxhlD8JSN9oZA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+       {
+    "name": "BAND SPORTS",
+    "ico": "https://megacanaisonline.com/wp-content/webp-express/webp-images/uploads/2022/08/Design-sem-nome-20.png.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTS9AXADttEDQgb2TxzO9bUlLL6DLMhoiJBXNZFi9DCis=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX SPORTS 1",
+    "ico": "https://i.ibb.co/cD3CyWC/foxsports.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuiGjCd5fO+NKT5jrXK8R1+B6qhs+mXEc2naIRrkzFng=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX SPORTS 2",
+    "ico": "https://i.ibb.co/d5RLy9Q/foxsports2.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT8VbUQOS7iWxG/CEh4A3MryJWZvsnnQX8K+aCeS9Ag5I=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "IhS/SBHlOL3qMWwZ9lknvkXNoUEUnaTT/Hv0I7feG7mhbRjZs1Y8gRV6j4QXKhsx5jIl839SB4ktqmT3EotPX72vjTbTfTfhoa0G/ADgWNf5TlSxmVFeB4iXwmiQBPbV",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV Op2",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTBojWIHG6nynnxBUWsd9ysxvI0BdJPHX6hXiWtR4l3qo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 2 ",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTzlSDjUwBmArQ2V/PpKqVcYiosIbmYErgYRXZUVu4bBg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 3 ",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDC21mZ3rVjuHXKNQv5xg0po9oReV1OFgxcMDNEd+ZFA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PREMIERE 4K",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+    "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD02o4QH/sK/LmWXIAO19/gng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PREMIERE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboUpY1wxQtPnzZ6bQnmYILmbBU/IBrnXvL02tikaK7UKY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PREMIERE 2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboDw5YM/zHacMuIGoE8OP/6hiZ5maeJLioxx8TQFLM/JE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PREMIERE 3",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboiR0J8mJ4LYCpYcST9xX1eBIElvjruCbIy7+DIRwe0R4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PREMIERE 4",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboykAsMiMvY2yDVdZnC3BJtRymWF5RUdYbtvT853IIdms=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PREMIERE 5",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboAAhEXP2HHltzQp0ltJc2YsfmBocC3HspLCUWHTYPtKU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BAND SPORTS 4K",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/5/5d/BandSports_logo_2018.png",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTS9AXADttEDQgb2TxzO9bUlLL6DLMhoiJBXNZFi9DCis=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPN 4K",
+    "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9DvrSLOBfi+YOeO+B23gabcgYItwilnnmSNV7L3/J60=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UFC PASS",
+    "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuborS04VKFrm5S2XNwKzxlZyqUY+6plvPzR9I8+Sjq7dYw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COMBATE",
+    "ico": "https://www.imagensempng.com.br/wp-content/uploads/2023/04/3787.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo7BRJp9EZQ6v4AowXrG4zaS0uSwz69NbV7Ef6nlXuTKk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPN FHD",
+    "ico": "https://c0.klipartz.com/pngpicture/318/371/gratis-png-espn-television-espn-video-de-alta-definicion-extra-lam-radio-hd.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubowpOI5uhoPN8wZZBkbHBcKu2ydDGbTSSSIGRWcjLCRpg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FOX SPORTS",
+    "ico": "https://i.ibb.co/DLbfhZS/photo1694966226.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubomsuSq8sq9CfmVH+xZdQSMR67PUNWuS0d82wI36k4GQI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
