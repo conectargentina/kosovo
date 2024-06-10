@@ -2594,9 +2594,16 @@
     "mode": false,
     "lista": [
   {
-    "name": "RADIO TUPI RJ",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/640px-Super_R%C3%A1dio_Tupi_logo_2019.png",
-    "uri": "sPqYdSF1GbL4e3W1Iehh1SheEsX8E86ds8WCQvnEERkTUYoGPG7yred9F60ICPK4/jOXpR/JPRkd0vsl9YTwkwm0t40KOkPLTdNP8Gg6bbkUpwxS9wX/7786qCuRGyBZ",
+    "name": "RADIO CBN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/800px-CBN_logo.svg.png",
+    "uri": "lpNal1+Cfttpe/8+iQOiJQKx9BLIFDfEyb1HEdm2VrWs1SDGgo27QTL6AEu5ENHeen758Xwj7sJY2RTugBfwZnBnK6q06g91YDsGGxonfJRWQ9rrQU5PLKOdKGgMGz+i9J1rq32blDvzZfooENg8V1H5D0251GksE6vFqnSYHVTqv4wWpmWRhKtVVoZEuQKGm4yQJ34ctclAjDILZER+Tmipx327BYZhKjVPf+02uRhqycmzujzoRdS1mDevSk7wGzi/0d2556hma0qNvbVg145D+DTglFucr0FgWhRx9hFguA1IC43SzN7Lst5F7DS3b0pfhvsJH+qsL5fZCFdjqV4IzgVZLaxn9XqIkL3K9Y8gYlurK8XpOXKkfxTQN/spB6J0Uj0rEvnaCTLhbyh0x606bOs6SeW81ojmrTjCj2480RYlh+mJqFiRlOLq5xx50O8SkLDAKI5uDAlX0H8nMja4P0zW5ypVZxOsZFa+kFKcONLE33R0cLgYv9Uoze0cEjfoDM0huzwEwgPjiUMrbQYmxJwSxCoxiazgzCXqN2dl7ZH0kguuE+lzS1zJTUHOwpW6bNdkul5SOrFTQeyLqKm8g1DMjm5Ow9eGfKUrJuMNUJYJzQEm15FcY+7q+GhhHs3R/N5UNiXBWHZPxkvy+KV8/RE4j2ECo/i1f8zbmd1+dE9JcvrcNJ8V/tHT5yKio7n10NVJw5wngd9BaQjVSWRHKemL0npP4/yWzkiz6Zz9KDJqnbLRsYhdj0CFlQJIrHuwnxTkS8RlVQWfi5A3ob5tvQqPE7/L6ACWsIeib/fUlmaHFnjeVa63lB8LNDUg4faq5EQRx5mgJv9t+1KjNq+NpOpsei/1XPSDFgB1QiXmj/+5rPWsUpdP7WCmiStGG1GOCEB8WKqOaShccRhg1ug/S5oJnibw4bVVuESNkAP3w5bTDi5l/3EkUEuVdl5Eybc4SW7XdTfcbMSkl7C5gQ93H7PZk1RBPNZrHOkCo9DW1qDRnLMZoKXWUYyWYJoOStt04a3jv1QQ0xGPYLASBw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV Op3",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgZn4wLQpy7whdLeJI0eubaSqbJyAB7uNYUW4sNTod2+H9GrFfp5/5mKLPQOBv7UrBdSXqzFnFgd5Og1tiMZuvkKDw2/HF7maWEOY2o8yr/NAWV1yd8vTUqZ5oLWMOjHB745l5xIebvQRdEKh0UkF2lsOb+uCj41IOqHfwcBImprHjgKfzZ0IiP8h1xVyjJ61IM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2719,7 +2726,14 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+{
+    "name": "RADIO TUPI RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/640px-Super_R%C3%A1dio_Tupi_logo_2019.png",
+    "uri": "gzw8ItTZaQwqCzd8/bEiivYo4OkjczrSIcufvx/EUNjPtOjIU1bSLxXy4IVuktq5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
     "name": "SPORT TV",
     "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
     "uri": "IhS/SBHlOL3qMWwZ9lknvkXNoUEUnaTT/Hv0I7feG7mhbRjZs1Y8gRV6j4QXKhsx5jIl839SB4ktqmT3EotPX72vjTbTfTfhoa0G/ADgWNf5TlSxmVFeB4iXwmiQBPbV",
