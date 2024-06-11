@@ -19,10 +19,9 @@
       },
  {
         "name": "GLOBO TESTE",
-        "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
-        "uri": "https://embedmax.site/tvI/espn3.php?token=a331d733739a98dee796cdac64cb57437e5995bc-f2fa04652b0af80c4ab9dfde21b9b83d-1718146304-1718146124&remote=no_check_ip",
-        "drm_scheme": "",
-        "drm_license_url": ""
+         "uri": "https://embedmax.site/tvI/espn3.php?token=a331d733739a98dee796cdac64cb57437e5995bc-f2fa04652b0af80c4ab9dfde21b9b83d-1718146304-1718146124&remote=no_check_ip",
+        "icono": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+ 
       },
  
       {
