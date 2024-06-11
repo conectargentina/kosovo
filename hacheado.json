@@ -72,10 +72,10 @@
               "samples": [
  
  {
-                      "name": "",
-                      "uri": "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGd",
+                      "name": "AE MUNDO",
+                      "uri": "https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd",
                       "drm_scheme": "clearkey",
-                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b",
+                      "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=430e25f361b8414eb639882f9d267348&key=134f8512c76050e0d58ad587897e9787",
                       "icono": "https://www.copaargentina.org/redes-folder/img/copaargentina.png"
                         }
 
