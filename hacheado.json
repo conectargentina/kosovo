@@ -17,6 +17,14 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dabefaac89742589778fcfab78f08354&key=896dd914683b01c8044ffd34d7b6416b",
         "icono": "https://i.ibb.co/X2X854s/canal4uy.png"
       },
+{
+        "name": "SKY SPORTS",
+        "uri": "https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0005b3dba78ae0fe7a9288022d3b3736&key=d2827df80dd7e9243ba6b5bbda5dfa82",
+        "icono": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png"
+      },
+ 
       {
         "name": "TELEDOCE",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal12URU/SA_Live_dash_enc/Canal12URU.mpd",
