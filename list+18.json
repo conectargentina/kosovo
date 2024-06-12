@@ -667,51 +667,60 @@
     ]
   },
  {
-    "name": "CANALES DE CÓRDOBA",
+    "name": "🇦🇷 CANALES DE CORDOBA",
     "mode": false,
     "lista": [
-      {
-        "name": "⚽ESPN PREMIUM",
-        "ico": "https://television-libre.online/img/espnpr.webp",
-        "uri": "h+OCBmXEgkqLSItXuSyr2yCLrGfvW5khvZWWcHGd/9YsKZi4GvLlPdKWaI1nOqJWGddYNLc+zON1geOJhLU+ac+qONgeMbiDgsEUDZmcKF0CAmUDmxLGpK2uon/KtIwM6XrdsoypZKQsjsvBQWstWA==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpQ3zPF27mQWN89yOyTMueZw=="
+ 
+     {
+        "name": "CANAL 10 CORDOBA",
+        "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1024px-Network_10_logo_2018.svg.png",
+        "uri": "s4VbPQWRVxvY7ssoq1pec08KxcssIEHReuI6DIil5yu+q1IZ+qUwXu27UP8MXTYSBmuP2w0d3E4oLZLWG5LMwHjn+r63S4cEKRtk3QTTm/jmf82SlHh8dPxGElgKkJhc",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
-        "name": "⚽ESPN PREMIUM FHD",
-        "ico": "https://television-libre.online/img/espnpr.webp",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJskhUnjaiX5TvpujinSSyrN+wqHTuOVLikm7v3x7fzXsj3g9d58dBps8P0GmsYxL2C8rWpMRVF7LQir+23ZrsgDJB6BgNIfu+8Igbenc+nMw=",
+        "name": "CANAL 12 CORDOBA",
+        "ico": "https://i.ibb.co/XSBg5Wx/eldoce-logo.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F0Tl+WtYe/iRC29D4DQTGlp+fvagSGpjF75AKQW5cpyQZwrUYPLZwrG9sk3CBEeGB8r2TTDIVO/MHgr+foU7ganrbHLbeGjjZOcf6gZL1naKBRs+o3S/h9zIQWPPtKPmqw==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERbisRvRc+3cGCYSJ7pYMDYLBVghJ7RMtASv3Nu0OwVsy+HI7UdFtveRtISUz8QFV8Vbx8kdkl8ubIawE2Yjvfqx9TOhW5eVMeEwjUnmI3OIvBtW6rcco6y9t5eK07r7xg=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERNqgnfbJ9Gg5CAISs6prNC9LSSZU5N4+l3DdV8VU+G46G5Yisv5KSDSSFccIt52G4EeF6nSHFbzKNdrjfXd4K0jlYbzgh9mK9A23ppr6BuSSixlIh//AwiX7g8cewz7FA=="
       },
-      {
-        "name": "⚽TNT SPORT HD",
-        "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
+     {
+        "name": "TELEFE CORDOBA",
+        "ico": "https://static.tvar.io/imagenes/telefecba.png",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNA1ODbabMDINLnYKtLTQkEo+H+rJVHEVE6E/usD6dTQoO+Caxj1lraADop1gKKoirzzeqCpJqPjN+BguWJ7aeH",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
+        "drm_license_url": "pfccQdO0x9675khuei5j0cBCWTaE5n3gwrGZcgk+Po0KvVv6bdTHgNKa3qsS5tD2eu+ehCXAk5freiJ3Atpnm5/5446BGbwk/2JJZhOJKwc2H7AzvCHFh2JdVN/exGGLhTHz7KxQmpQ6Fd5F9S7+BBrozsjxzFaxPx7T4X6NxHw="
       },
-      {
-        "name": "⚽TNT SPORT HD",
-        "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
-      },
-      {
-        "name": "⚽TYC SPORTS",
-        "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "⚽TYC SPORTS",
-        "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
+  {
+    "name": "CANAL C",
+    "ico": "https://i.ibb.co/7RZNXhb/large-149662702-Canal-CARG-png-23727216c06f3a2756a46e13f0c6a876.png",
+    "uri": "q0Mrg9dm9tI74UiA87XQ1sketYCWhXiqXASFvIRzasZzi+TS+dzExBifKEU9PotL53kr4reVNJ9+9oZjtzv4iBb8es1OQ40pfk2oSa8bfhvrURXU4D3Wra/ytzIpMp5qi2tdsKmHXDW7S1jz2HwPODCkjDotMlHo7W0oMGHb09PuNAMHWnd5sFvfi7vnbhOsstSdCwEI4agJj4Yuf888HCD4dvrI/0Zwil5csEMldOyZLWdanFtaPuVl9Q8Hiz/Hm3l6Q4kzAMT5tqSHPvsG7QV9yMzK0dZaJqeiHA61Y77AoiPhh14njSDdlX6RF8cCDcMRXWbUou1kVXTZjs8hbPgGHIHoVwj7v/SkUNx/VvYvaAryU+MK9q8gzglT1GbZ21G5wLd+jrCouH5NhftRoKU+NEAYNxOwE3iEva/MZ75N7m+0aa4d82KMfwnphCTopCWj5Ue7/59YfJYbe+mzgX3P1FZywE1ENNsJ2k8mSglSZ6naYptnmbJ66XF8SuxnbUvLMzpmzbFpqmsgA7jCPMYP0W+TBY0fMOgHnd5KHr0JP8YDRwUkcO7f9Pmgl1Zw1ugTGhS1GjdfAxiWsgRJBm4av8iKtPF8iCNPQtiXe+b1pp6yWtktjNqiJwlEyPadJ1ZhOehVdl9+KtUzoy4su1aE2GjgTlR1gNrKBMQhjjSF09ohvv8MuWJ8H9U9AJiutXWELvWiBTNc9bEyGoDTB7A7l4x1jihVeDqgjasqNTnIh/laRJYmd80jtDw5XFr9vY6lxj0kNWME7LaL4SLtJryubpw/jagDlGUY7qviCY37l8o+Xpofo6jRNZ1VaT354jRwovaTiaYVWNY+KzKdlkSN7R5H0fAlduCv+DWIC+T/KWi5fJd0LqU9hgVf7JL7nf9y4x68rdnTgCCidhhLqonIUMkAOzgB1RcsR/6JLgB/L5YzbiO7GCmuN3mjLUxycoJU6vgJCkBwrUYKqRA9LOwISlELf/PoYY5Apf1CzslJ31QM8Vsljl4tJgFq3w9OFKqHvnfCpUPOUYeZUXoDhnQNTAphZQflM9Ac+xtaxwFPK0LMnjG+4ovvBaJE+fZK3DMkFhV4pXwwSIumtaRqKZiAeVO/acB4qdL8R95xVh4OyyLjX12A9Po6OFCoxutswyDFf3E0/6F+MjR5mRbl41xEM4r35I5M/SGYLB8zXDgjaUOLSe394zQFCGsZFGRcyE4DtnoGwz4McNb1abA6p8ZBnWp1hGb7i/4lOFj/wHxsgXuFq1r/NDuJw5IYF91lcAHWWUBQdIXPoQyCKcZCr8qYufNhsJIgIS/BXM8LHtoLVodf8NlWFEkLVb4koZRFEIKq1VfrIpah7Ebtx7n5ROYKSKuRSNft9gI1vBjT5c6KwOxmtZLxY+9ZSfkrFUKJU0LHIctEFzwuN9cRfOdj4dvLHbff2BuU/jUt37aLaC8cOCvrmhTGoF/ZaIcdTESbBWYSyOClZvSwwlSL7XJs7cGylzTV1LVbwwB/w5YgOjo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL U",
+    "ico": "https://i.ibb.co/yNPNwyj/ar-cba-24n-m.png",
+    "uri": "s4VbPQWRVxvY7ssoq1pec6249ptKNv+Ou1p+LaT46cBok0Z3Qz7KheE2MZJed6eZSvTO88cf8voCNgDDE8Y6TKlEIMsjh0c53aIijbBISv4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 20",
+    "ico": "https://i.ibb.co/1qB0nPq/channels4-profile-1.jpg",
+    "uri": "bZ9hIiIlHGGDzdhqdkAFw+Huws8HFqTjL0AidHBVDQBd7yntchnbKNUOFTP/5nbSr0rxH33b94VUODu/E5hlXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SAN FRANCISCO",
+    "ico": "https://i.ibb.co/GMBybk9/305404928-518692200257477-8245331182613739018-n.jpg",
+    "uri": "Rc+kQu63nuifx66qKWQyVWW/v4XmPAJUuHO9/2f1btU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
