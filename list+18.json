@@ -719,7 +719,14 @@
     "uri": "Rc+kQu63nuifx66qKWQyVWW/v4XmPAJUuHO9/2f1btU=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
+  },
+   {
+        "name": "CANAL 13 RIO CUARTO",
+        "ico": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
 
     ]
   },
