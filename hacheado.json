@@ -10,6 +10,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8dd34782d754f8fcb1e8b38da9ffad0b&key=6fb97467c0f0ea13f86d41a70e029c51",
         "icono": "https://i.ibb.co/G7f4Rbh/canal10uy-2.png"
       },
+     {
+        "name": "CANAL AE",
+        "uri": "https://anbalancer.express.com.ar/live/c1eds/AE_Mundo_HD/SA_DASH_cipix/AE_Mundo_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=430e25f361b8414eb639882f9d267348&key=134f8512c76050e0d58ad587897e9787",
+        "icono": "https://i.ibb.co/8KtD6rw/streaxapp-png.png?ts=1717106123"
+      },
       {
         "name": "CANAL 4",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c4eds/Canal4_URU/SA_Live_dash_enc/Canal4_URU.mpd",
