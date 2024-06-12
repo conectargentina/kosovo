@@ -649,7 +649,92 @@
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0c1Oe8/KQ1hX3yVkGJinA3g==",
         "drm_scheme": "",
         "drm_license_url": ""
-      }
+      },
+  {
+    "name": "SPORT TV OP4",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "UQq8NaCYvqDXAZnERSF+jns0y3Je91Yrp7xxHi5lpDiSS639Jzx7kIQUiCNNe/qH+mghKzJ5A5yPoYb3wnri36mJlMLfYZw28anmT0G4GKDviNiyjC5S436U+si/ZrRWBWZhxxSylhx5NWjUsTZwDGpzd3Jd3HpSismNpicY6QbC2IOpmNASgeMPvQirRi9k7Qrn54Y9GEjFVremH259xPcGbSkBv8MeDhdmPYArYkArXxqVsHgKfy4tJLFXh0w8LaqivOLFY6uQfobJ87so7Te8gJZISUwOd/eIbER8HkE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO TESTE",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgI7pqjCJG3ng9952kPwccrkeHsuQhnCm7Lilk2SsDlKnFRg6kAPo8qhOyBb9DePWyoR0VTP+xXFa3IGmnc8zgkyBRv2xHZN30YWci+NrpjZ4M1Fju+BfrDemd/WV2mahsWwQLT/Zi6l0QT2VR/bq/UK5rhEHN2QF6be4NwqNF0xJ0Kn/EDwBO6QxUrJ2QWR3ILTLW+onzTIRQtP+sTm/pCg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+ {
+    "name": "🇦🇷 CANALES DE CORDOBA",
+    "mode": false,
+    "lista": [
+ 
+     {
+        "name": "CANAL 10 CORDOBA",
+        "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1024px-Network_10_logo_2018.svg.png",
+        "uri": "s4VbPQWRVxvY7ssoq1pec08KxcssIEHReuI6DIil5yu+q1IZ+qUwXu27UP8MXTYSBmuP2w0d3E4oLZLWG5LMwHjn+r63S4cEKRtk3QTTm/jmf82SlHh8dPxGElgKkJhc",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CANAL 12 CORDOBA",
+        "ico": "https://i.ibb.co/XSBg5Wx/eldoce-logo.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F0Tl+WtYe/iRC29D4DQTGlp+fvagSGpjF75AKQW5cpyQZwrUYPLZwrG9sk3CBEeGB8r2TTDIVO/MHgr+foU7ganrbHLbeGjjZOcf6gZL1naKBRs+o3S/h9zIQWPPtKPmqw==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERNqgnfbJ9Gg5CAISs6prNC9LSSZU5N4+l3DdV8VU+G46G5Yisv5KSDSSFccIt52G4EeF6nSHFbzKNdrjfXd4K0jlYbzgh9mK9A23ppr6BuSSixlIh//AwiX7g8cewz7FA=="
+      },
+     {
+        "name": "TELEFE CORDOBA",
+        "ico": "https://static.tvar.io/imagenes/telefecba.png",
+        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNA1ODbabMDINLnYKtLTQkEo+H+rJVHEVE6E/usD6dTQoO+Caxj1lraADop1gKKoirzzeqCpJqPjN+BguWJ7aeH",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "pfccQdO0x9675khuei5j0cBCWTaE5n3gwrGZcgk+Po0KvVv6bdTHgNKa3qsS5tD2eu+ehCXAk5freiJ3Atpnm5/5446BGbwk/2JJZhOJKwc2H7AzvCHFh2JdVN/exGGLhTHz7KxQmpQ6Fd5F9S7+BBrozsjxzFaxPx7T4X6NxHw="
+      },
+  {
+    "name": "CANAL C",
+    "ico": "https://i.ibb.co/7RZNXhb/large-149662702-Canal-CARG-png-23727216c06f3a2756a46e13f0c6a876.png",
+    "uri": "q0Mrg9dm9tI74UiA87XQ1sketYCWhXiqXASFvIRzasZzi+TS+dzExBifKEU9PotL53kr4reVNJ9+9oZjtzv4iBb8es1OQ40pfk2oSa8bfhvrURXU4D3Wra/ytzIpMp5qi2tdsKmHXDW7S1jz2HwPODCkjDotMlHo7W0oMGHb09PuNAMHWnd5sFvfi7vnbhOsstSdCwEI4agJj4Yuf888HCD4dvrI/0Zwil5csEMldOyZLWdanFtaPuVl9Q8Hiz/Hm3l6Q4kzAMT5tqSHPvsG7QV9yMzK0dZaJqeiHA61Y77AoiPhh14njSDdlX6RF8cCDcMRXWbUou1kVXTZjs8hbPgGHIHoVwj7v/SkUNx/VvYvaAryU+MK9q8gzglT1GbZ21G5wLd+jrCouH5NhftRoKU+NEAYNxOwE3iEva/MZ75N7m+0aa4d82KMfwnphCTopCWj5Ue7/59YfJYbe+mzgX3P1FZywE1ENNsJ2k8mSglSZ6naYptnmbJ66XF8SuxnbUvLMzpmzbFpqmsgA7jCPMYP0W+TBY0fMOgHnd5KHr0JP8YDRwUkcO7f9Pmgl1Zw1ugTGhS1GjdfAxiWsgRJBm4av8iKtPF8iCNPQtiXe+b1pp6yWtktjNqiJwlEyPadJ1ZhOehVdl9+KtUzoy4su1aE2GjgTlR1gNrKBMQhjjSF09ohvv8MuWJ8H9U9AJiutXWELvWiBTNc9bEyGoDTB7A7l4x1jihVeDqgjasqNTnIh/laRJYmd80jtDw5XFr9vY6lxj0kNWME7LaL4SLtJryubpw/jagDlGUY7qviCY37l8o+Xpofo6jRNZ1VaT354jRwovaTiaYVWNY+KzKdlkSN7R5H0fAlduCv+DWIC+T/KWi5fJd0LqU9hgVf7JL7nf9y4x68rdnTgCCidhhLqonIUMkAOzgB1RcsR/6JLgB/L5YzbiO7GCmuN3mjLUxycoJU6vgJCkBwrUYKqRA9LOwISlELf/PoYY5Apf1CzslJ31QM8Vsljl4tJgFq3w9OFKqHvnfCpUPOUYeZUXoDhnQNTAphZQflM9Ac+xtaxwFPK0LMnjG+4ovvBaJE+fZK3DMkFhV4pXwwSIumtaRqKZiAeVO/acB4qdL8R95xVh4OyyLjX12A9Po6OFCoxutswyDFf3E0/6F+MjR5mRbl41xEM4r35I5M/SGYLB8zXDgjaUOLSe394zQFCGsZFGRcyE4DtnoGwz4McNb1abA6p8ZBnWp1hGb7i/4lOFj/wHxsgXuFq1r/NDuJw5IYF91lcAHWWUBQdIXPoQyCKcZCr8qYufNhsJIgIS/BXM8LHtoLVodf8NlWFEkLVb4koZRFEIKq1VfrIpah7Ebtx7n5ROYKSKuRSNft9gI1vBjT5c6KwOxmtZLxY+9ZSfkrFUKJU0LHIctEFzwuN9cRfOdj4dvLHbff2BuU/jUt37aLaC8cOCvrmhTGoF/ZaIcdTESbBWYSyOClZvSwwlSL7XJs7cGylzTV1LVbwwB/w5YgOjo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL U",
+    "ico": "https://i.ibb.co/yNPNwyj/ar-cba-24n-m.png",
+    "uri": "s4VbPQWRVxvY7ssoq1pec6249ptKNv+Ou1p+LaT46cBok0Z3Qz7KheE2MZJed6eZSvTO88cf8voCNgDDE8Y6TKlEIMsjh0c53aIijbBISv4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 20",
+    "ico": "https://i.ibb.co/1qB0nPq/channels4-profile-1.jpg",
+    "uri": "bZ9hIiIlHGGDzdhqdkAFw+Huws8HFqTjL0AidHBVDQBd7yntchnbKNUOFTP/5nbSr0rxH33b94VUODu/E5hlXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SAN FRANCISCO",
+    "ico": "https://i.ibb.co/GMBybk9/305404928-518692200257477-8245331182613739018-n.jpg",
+    "uri": "Rc+kQu63nuifx66qKWQyVWW/v4XmPAJUuHO9/2f1btU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+        "name": "CANAL 13 RIO CUARTO",
+        "ico": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+    "name": "COOP JESÚS MARIA",
+    "ico": "https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75",
+    "uri": "cuOwSimjr6lnR339WCoh53lSAkgx8TXcg33SK0Fxpip+O8Mbho8vhKGSCy6D9EhyX1e4DOfBOaV26dQvwWdg2xzE9L2vCOyXcUNs8j9eUPYndmstbU5OAdxCe5BqCT4Q",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
@@ -2594,9 +2679,16 @@
     "mode": false,
     "lista": [
   {
-    "name": "RADIO TUPI RJ",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/640px-Super_R%C3%A1dio_Tupi_logo_2019.png",
-    "uri": "sPqYdSF1GbL4e3W1Iehh1SheEsX8E86ds8WCQvnEERkTUYoGPG7yred9F60ICPK4/jOXpR/JPRkd0vsl9YTwkwm0t40KOkPLTdNP8Gg6bbkUpwxS9wX/7786qCuRGyBZ",
+    "name": "RADIO CBN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/800px-CBN_logo.svg.png",
+    "uri": "lpNal1+Cfttpe/8+iQOiJQKx9BLIFDfEyb1HEdm2VrWs1SDGgo27QTL6AEu5ENHeen758Xwj7sJY2RTugBfwZnBnK6q06g91YDsGGxonfJRWQ9rrQU5PLKOdKGgMGz+i9J1rq32blDvzZfooENg8V1H5D0251GksE6vFqnSYHVTqv4wWpmWRhKtVVoZEuQKGm4yQJ34ctclAjDILZER+Tmipx327BYZhKjVPf+02uRhqycmzujzoRdS1mDevSk7wGzi/0d2556hma0qNvbVg145D+DTglFucr0FgWhRx9hFguA1IC43SzN7Lst5F7DS3b0pfhvsJH+qsL5fZCFdjqV4IzgVZLaxn9XqIkL3K9Y8gYlurK8XpOXKkfxTQN/spB6J0Uj0rEvnaCTLhbyh0x606bOs6SeW81ojmrTjCj2480RYlh+mJqFiRlOLq5xx50O8SkLDAKI5uDAlX0H8nMja4P0zW5ypVZxOsZFa+kFKcONLE33R0cLgYv9Uoze0cEjfoDM0huzwEwgPjiUMrbQYmxJwSxCoxiazgzCXqN2dl7ZH0kguuE+lzS1zJTUHOwpW6bNdkul5SOrFTQeyLqKm8g1DMjm5Ow9eGfKUrJuMNUJYJzQEm15FcY+7q+GhhHs3R/N5UNiXBWHZPxkvy+KV8/RE4j2ECo/i1f8zbmd1+dE9JcvrcNJ8V/tHT5yKio7n10NVJw5wngd9BaQjVSWRHKemL0npP4/yWzkiz6Zz9KDJqnbLRsYhdj0CFlQJIrHuwnxTkS8RlVQWfi5A3ob5tvQqPE7/L6ACWsIeib/fUlmaHFnjeVa63lB8LNDUg4faq5EQRx5mgJv9t+1KjNq+NpOpsei/1XPSDFgB1QiXmj/+5rPWsUpdP7WCmiStGG1GOCEB8WKqOaShccRhg1ug/S5oJnibw4bVVuESNkAP3w5bTDi5l/3EkUEuVdl5Eybc4SW7XdTfcbMSkl7C5gQ93H7PZk1RBPNZrHOkCo9DW1qDRnLMZoKXWUYyWYJoOStt04a3jv1QQ0xGPYLASBw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV Op3",
+    "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgZn4wLQpy7whdLeJI0eubaSqbJyAB7uNYUW4sNTod2+H9GrFfp5/5mKLPQOBv7UrBdSXqzFnFgd5Og1tiMZuvkKDw2/HF7maWEOY2o8yr/NAWV1yd8vTUqZ5oLWMOjHB745l5xIebvQRdEKh0UkF2lsOb+uCj41IOqHfwcBImprHjgKfzZ0IiP8h1xVyjJ61IM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2719,7 +2811,14 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+{
+    "name": "RADIO TUPI RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png/640px-Super_R%C3%A1dio_Tupi_logo_2019.png",
+    "uri": "gzw8ItTZaQwqCzd8/bEiivYo4OkjczrSIcufvx/EUNjPtOjIU1bSLxXy4IVuktq5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
     "name": "SPORT TV",
     "ico": "https://i.ibb.co/J2sJJT1/Sportv-Logo-1024x576.jpg",
     "uri": "IhS/SBHlOL3qMWwZ9lknvkXNoUEUnaTT/Hv0I7feG7mhbRjZs1Y8gRV6j4QXKhsx5jIl839SB4ktqmT3EotPX72vjTbTfTfhoa0G/ADgWNf5TlSxmVFeB4iXwmiQBPbV",
