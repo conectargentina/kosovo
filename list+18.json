@@ -726,7 +726,14 @@
         "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
         "drm_scheme": "",
         "drm_license_url": ""
-      }
+      },
+  {
+    "name": "COOP JESÚS MARIA",
+    "ico": "https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75",
+    "uri": "cuOwSimjr6lnR339WCoh53lSAkgx8TXcg33SK0Fxpip+O8Mbho8vhKGSCy6D9EhyX1e4DOfBOaV26dQvwWdg2xzE9L2vCOyXcUNs8j9eUPYndmstbU5OAdxCe5BqCT4Q",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
 
     ]
   },
