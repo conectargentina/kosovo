@@ -219,7 +219,21 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
+      },
+        {
+    "name": "TELEFE 2",
+    "ico": "https://television-libre.online/img/telefe.png",
+    "uri": "ZLktQIbRT1rwj7lEf5IVMIIm9qnOj+Uyn8Dsg+Ju4XKh7VCW39+BR+WiIlXGxYCrPn5WOEKQ4FOqpULg00vXh8nGnoar+ZHYBPgsMmvHXSLaIyyfrLIjrDWv6PKvlpp/",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO SP",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "tNuCA806+RvMmzKjeHUFYPJ5TfuMTXyOIT5f6peAyGDWWlRCb7UdTmwq2KENERE8s3zZaLbkZfn9MuxGFpa5KA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
