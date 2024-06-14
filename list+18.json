@@ -180,7 +180,7 @@
       },
       {
         "name": "TNT SPORT HD",
-        "ico": "https://i.ibb.co/bHzCG5w/unnamed.png",
+        "ico": "https://television-libre.online/img/tntar.svg",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
@@ -199,41 +199,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
-      {
+        {
         "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-        "ico": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "uri": "jZL/3bMCZlY67dJ3dWwsaYJ+WVDxDRYJXhL7TtvCjigZEFmP4L2wiAR+6CSRosVR",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
-        "ico": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "uri": "wiIsstxGra7lMjCi/CTqXVabVKqvvhudite+Ow/EcKecQ05HMtro7n6wciqU6ltJ5YA1iqNdULi+cztCj8z3msgQriugSb2g8+jkKBvL/Gc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TYC SPORTS",
         "ico": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
-  {
-    "name": "TELESOL",
-    "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
-    "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix8EEeXXPKYMSgiOftlSijt2ak2idrV/QKm6iEI8lWXqC0pWkhSTmT4BKTp5DbKWLG8ehcV7d0Eye2/N3eud7IAcya58XefQ2DDHA7Kdl8z+og==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ZONDA",
-    "ico": "https://yt3.googleusercontent.com/ytc/AIdro_lfaAhb-0WphyvNJ9Tt4FqBQ08eAPFhhyeDp5i0x7__LXA=s176-c-k-c0x00ffffff-no-rj",
-    "uri": "2VWQH2iTde4vB+02chz2lVDi5TRbhUVCXZU08Z5rA4DOo5IHSOVXKUAbpjULDCSteutxsG1EZ+mbrMsV3lCOuTm5hRH/7JXbhhMtu05aJH8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
     ]
   },
   {
@@ -256,14 +228,14 @@
       },
       {
         "name": "⚽TNT SPORT HD",
-        "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
+        "ico": "https://television-libre.online/img/tntar.svg",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
       },
       {
         "name": "⚽TNT SPORT HD",
-        "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
+        "ico": "https://television-libre.online/img/tntar.svg",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GeB2w85F8uzUdXZJgqi1DUWceCXuDj8ujEZaB8a8Xl3N/B0vXPEKPa3UsVAzYlDodGJySM/4GehYubV/qMz9Oq",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
@@ -3326,7 +3298,7 @@
   },
   {
     "name": "TNT SPORTS",
-    "ico": "https://i.ibb.co/yPB0Jts/tnt-sports-hd.png",
+    "ico": "https://television-libre.online/img/tntar.svg",
     "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL8mEu5STGjQAMjA+0Cy2xN6HCDbJ3D1gtmFdpP+7fWKA==",
     "drm_scheme": "",
     "drm_license_url": ""
