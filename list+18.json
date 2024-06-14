@@ -795,14 +795,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0RBhJPHTZq1zPewDSgzyL70A6yHt68sE5Zb2Adpd+RmJbIQtMQr7SOkX0HcbTxngucBwA92DBF7d6E5l+IrGVcrWVtFiNSM8xBmytUvgshPg5D1KcoTOH0jh4ipyyWBCqdSi+BUjWg+D0X8LS90txUs="
       },
-  {
-    "name": "TELESOL",
-    "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
-    "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix8EEeXXPKYMSgiOftlSijt2ak2idrV/QKm6iEI8lWXqC0pWkhSTmT4BKTp5DbKWLG+ZEkgz8YkPOq8Zo8b7ovc4KfnRoD5mlVv8jKJa3h1tNw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-      {
+       {
         "name": "CANAL NUEVE TELEVIDA - MENDOZA",
         "ico": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png",
         "uri": "bdn50+CnMW/B+oMbu7isDzMgswfbvFglyz3CMz7Q3w/jMmbniiGXhwqjnbb9ELpPwDF0WMt/u0yIaBxgoTtBQw5r1Vs0o/VJOED/FlhR9yXYilQ6LSFc/w0CU/6eC8uQCEBt7omFn5ujNI0IOmI8cg==",
@@ -914,14 +907,14 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "Telesol San Juan",
-        "ico": "https://static.tvar.io/imagenes/telesol.png",
-        "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix8EEeXXPKYMSgiOftlSijt2ak2idrV/QKm6iEI8lWXqC0pWkhSTmT4BKTp5DbKWLG908oS+rTff0joUUir09JTMHPOXzASgdFImaxqnFSPEbg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+ {
+    "name": "TELESOL",
+    "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
+    "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix8EEeXXPKYMSgiOftlSijt2ak2idrV/QKm6iEI8lWXqC0pWkhSTmT4BKTp5DbKWLG+ZEkgz8YkPOq8Zo8b7ovc4KfnRoD5mlVv8jKJa3h1tNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+          {
         "name": "COSMOS TV SAN JUAN",
         "ico": "https://www.radio.es/images/broadcasts/af/83/36918/1/c300.png",
         "uri": "SCaNtbheutpvO+8fw3lElaKFtkeGaz2kRc+M21sp3WkjzNR8HTHDAYXjVptTYzHK",
