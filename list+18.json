@@ -526,14 +526,21 @@
     "mode": false,
     "lista": [
   {
-    "name": "GLOBO",
+    "name": "BRASIL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+    "name": "BRASIL",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
     "uri": "2MSDcX7BiuFO4tBG4AD2js32b6vVMiH5EtR4J1tuThSh964taP7xwvRc3XtNPGTku73heyMFIZzPf3JiEicKBw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
  {
-        "name": "TYC SPORTS",
+        "name": "ARGENTINA",
         "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
@@ -541,7 +548,7 @@
       },
  
           {
-        "name": "TELEFE",
+        "name": "ARGENTINA",
         "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
         "drm_scheme": "clearkey",
@@ -556,7 +563,7 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
       },
       {
-        "name": "TV CIUDAD",
+        "name": "URUGUAY",
         "ico": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Gua+mqtBnhjY94Ezkh7p7M6G7dpM8SUklKx01XSZDH71Mo9I47HEtzC/IqhVYqGcUd5nCntmEtqdElp9epq/xF",
         "drm_scheme": "clearkey",
@@ -564,20 +571,26 @@
       },
 
    {
-        "name": "GEN",
+        "name": "PARAGUAY",
         "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ER46U4k9VzANPTMkRy9+z82lp5YPjOqzUfeEHYhDg5Rj1prYq+FFleask5FCdYClQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQxneGYZOszpYc0XiPa1AvkIGlC+nCnI+Q19r8AIYqjG31WtMTs50NqDAvapXrSWhF2Sx1JnGhqai/1xsO6iLT4P/32Y4lo6tsrzjp1WY9odOiXrjFRJqa7XEAqUgx6qeQ=="},
       
       {
-        "name": "TELEFUTURO",
+        "name": "PARAGUAY",
         "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GF6wPoTfYaECaFwHuPpDIXOjjne9h66lDqVVQrINKmRr8L58FITo2aJgadysD0LS3fapIfey2Obz0w9W/M93vQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EX9Pw+88C7lwonWxzakSLSrylTy8mtdMfFoTSnDBqWe1fkGf6a2Ivp3ZzCRrR2Jr8wkRSKkpSLc3fP9Hoq3YkJszu8/ajn+zRA1IRd6DSuwv++TtawGULXhqIt1PmyoaRA=="
-      }
-
+      },
+  {
+    "name": "COLOMBIA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
+    "uri": "CUOuQJ5FZGbKzJpDLnSOJErJB8m9XC2t77XHja6ilErcv0HJWyg5TskgRfwCo8IxOQQtHNCPTdRL7g6/hHPhww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },  
   {
