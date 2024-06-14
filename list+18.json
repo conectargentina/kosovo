@@ -219,8 +219,21 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
-
+      },
+  {
+    "name": "TELESOL",
+    "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
+    "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix8EEeXXPKYMSgiOftlSijt2ak2idrV/QKm6iEI8lWXqC0pWkhSTmT4BKTp5DbKWLG8ehcV7d0Eye2/N3eud7IAcya58XefQ2DDHA7Kdl8z+og==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ZONDA",
+    "ico": "https://yt3.googleusercontent.com/ytc/AIdro_lfaAhb-0WphyvNJ9Tt4FqBQ08eAPFhhyeDp5i0x7__LXA=s176-c-k-c0x00ffffff-no-rj",
+    "uri": "2VWQH2iTde4vB+02chz2lVDi5TRbhUVCXZU08Z5rA4DOo5IHSOVXKUAbpjULDCSteutxsG1EZ+mbrMsV3lCOuTm5hRH/7JXbhhMtu05aJH8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
