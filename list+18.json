@@ -3491,6 +3491,104 @@
         "drm_license_url": ""
       },
       {
+    "name": "MOVISTAR DEPORTES",
+    "ico": "https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubokRtQP3Cnd6ytTq/cspELZNLYd6no+EttO4ZtttMyXoE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LIGA 1 MAX*",
+    "ico": "https://i.ibb.co/Xssz7mr/Liga1-Peru-W.png",
+    "uri": "RQjUTTIqkL5Tg78OiKCCQSriqgPhOy1zBiT5ZPmjS0sJH6qWfBOrMNgTQ1wAhrLGIn+y9fKm4AeeqCrnqs3EiX4pNvvaM0+U8atYn4aU8dP1ANgObhuOzkGX7syxF+YrZbIAqQKmRnpGsfIwjnquCuihrUslDvYN9qXLWy9b9CmT+YBoREfmZhoSEr2ROTwsRpsZbqmBmL9CWl3ZvlUMTkg2MYtaGG6NE8d38FEJSXwdLpwk3sTVzR1tzPpk5LMz",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LIGA 1 MAX**",
+    "ico": "https://i.ibb.co/Xssz7mr/Liga1-Peru-W.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboRDsI3Xz4nGjM5A6RDvUXpU0WF1JFgeSBR/nZGJ57usE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AMERICA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/471px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "uri": "F/M/bbXI4NP4/AB2pFecDX0zy98Yv1J+ilU0WNGDBtVToQEFfcsR6GPb1rViXqPQsmdeRojr1UQ/O1s9wAX8Z2NOGSsNO7tB9W6QRuOcBpVWXaJNXBRPMkJMzH2mfa1F3n1R2fiS3vXq/i62xJa0RQFQQ9i8UEvG4Xr9v6g1FvYTuEN6b+3vwzItu4A4ccTS7rZOzu1hlRvIzGyoCeepPqLCNVIaLq6Um92vDy+7dfRpVKHMdTBRTIvbZ3BGY6/k",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AMERICA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/471px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboJzXkshXKa+hYrbbReBoZKXWilmwZtI9/m5KBQ/Nexgo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERU MAGICO",
+    "ico": "https://i.postimg.cc/1txyCcbg/perumagico.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboBWiwIvQo7gswYT8jGaMfv6M4NYUWZJQooaAc1pYBF1U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EXITOSA",
+    "ico": "https://i.postimg.cc/2jGMRyzN/exitosa.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubooTAnAMC77cNw1WyMFbvmERuvkJ4j/5e0nNblOv3W/f4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ATV",
+    "ico": "https://i.postimg.cc/V6LTxx00/atv.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo+xi9q/E3/ICdWN8dasEnAhwlZlxA0wnv30020Q8HiB0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERU NOTICIAS",
+    "ico": "https://i.postimg.cc/x8Jp1frC/TV-Per-Noticias-2019-logo.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubodUEdUeNDQmN7EbtId1iIto90q9vxx45Ce9kFsK+lJsQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FRECUENCIA LATINA",
+    "ico": "https://i.postimg.cc/gknx3wjY/Logo-latina-1997.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboohGxIaDfeva74P1THViJ8iCdki6mKkIYMETKl914wBk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CAPITAL TV",
+    "ico": "https://i.postimg.cc/cJGWqznw/2020-Canal-Capital-logo-svg.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo1qUIItj1rlKt6xkrVW0Ri0sfFAsWj8AfaRW+cdzDrck=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CULTURA 24",
+    "ico": "https://i.postimg.cc/gknx3wjY/Logo-latina-1997.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubofmdCn7MEQGAt1hVasQLX4QotXqOH59dGlNiXmz93jyI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BEST CABLE SPORTS",
+    "ico": "https://i.postimg.cc/8zPC3Z30/bestcable.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubofmdCn7MEQGAt1hVasQLX4QotXqOH59dGlNiXmz93jyI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BEST CABLEE SPORTS",
+    "ico": "https://i.postimg.cc/8zPC3Z30/bestcable.png",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubofmdCn7MEQGAt1hVasQLX4QotXqOH59dGlNiXmz93jyI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
         "name": "AMERICA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/471px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0BVlKD6/3Hsh9zkU52zCDsA==",
