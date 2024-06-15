@@ -554,7 +554,7 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
       },
       {
-        "name": "TV PUBLICA",
+        "name": "ARGENTINA",
         "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
         "drm_scheme": "clearkey",
@@ -585,6 +585,27 @@
         "name": "COLOMBIA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
         "uri": "CUOuQJ5FZGbKzJpDLnSOJErJB8m9XC2t77XHja6ilErcv0HJWyg5TskgRfwCo8IxOQQtHNCPTdRL7g6/hHPhww==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PERU",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTEDCGyk6fvHs8PYyIpzAE1Y/4JiugGr+iBwPW7gNaDIk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PERU",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubokOfpOM8GVWzQhKped2I+BhRassi/wa/r4EkE17ynAJI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOLIVIA",
+        "ico": "https://www.fbf.com.bo/img/escudo.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTEQqdvgrJIviLy6bqSpjaGlIQR3a86RjIaSr6j7WyM4c=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -685,9 +706,16 @@
         "drm_license_url": "pfccQdO0x9675khuei5j0cBCWTaE5n3gwrGZcgk+Po0KvVv6bdTHgNKa3qsS5tD2eu+ehCXAk5freiJ3Atpnm5/5446BGbwk/2JJZhOJKwc2H7AzvCHFh2JdVN/exGGLhTHz7KxQmpQ6Fd5F9S7+BBrozsjxzFaxPx7T4X6NxHw="
       },
       {
-        "name": "CANAL C",
-        "ico": "https://i.ibb.co/7RZNXhb/large-149662702-Canal-CARG-png-23727216c06f3a2756a46e13f0c6a876.png",
-        "uri": "q0Mrg9dm9tI74UiA87XQ1sketYCWhXiqXASFvIRzasZzi+TS+dzExBifKEU9PotLj4WXIZtGoFBJzTq1fMdNGKm391rdRkUSsXqbEYqQtQln7F/YQwVmIigT0i1nuOkRaoPGI19Inz/o5p3kTrMmYvLV8zTVX0pKw6A1Ku2QzOfEtHd3yaB454EsptUkTZX6zvgzuT24kdMSWSfEhvkvoOlo6j4rR99fSTXY8FLhAnEMBXPPOdLBjhMiX7Xrdu/pfM5ZKg5xfB0h+jt4T2pf/tHPQkSDCNBImlVmgDfq5nXJatmB6RcJL2XRVgM48xICYEGFIeQnABe/cWtXCSqviiyuaGCldjaQC6j7ja9LvoSK/V0sTRu/DX8CMKE4jRF2sYjvsqA7OTZX0wxCB59lw3wgfaEpC7SzK2Y8vOzDBU1ZyszxMUkBRXHWBQ9SE4xkohDDV7kO4sTo0R0HCyBqH/RPyqSJh+3gLPo0eGxko6/0pTc/Q7dNxz0nydszGDWbx24Wv6Ol9BU+qh+/z88qRG2ID5pC61PEpSoONvH8Pfohkl32DparaCxvPaQ/Lv7gN76bzlsvsT85YM6V/aG6UuuFgQpNzT5KkMdwK/xRPMgEJDIIDSZ3sB+JHiABD4ru0tmKKWUlxMCjiKNj4diwByLQQb8fQGPGWheJYZqeUUsvcW/2Qxsk1ur+oGvTdartIoXbkmmzqrveGLj3/LJI5fRIdgxHZ3PXMqFWH5v1FB/oBkJE5xB1lLuWANtAwVRG8O3Q89bBJnIFk3s6ovswbxZ4Rn5Ttvf6RIj8P631cnvCE0HMMpOTQM/yzZAt9lL4kY3JGdeMn9WbkkXTnEwZpfdEVx8xxcJpOMStZ9x+sDgbczP2EnFuoO5azvvSznIpOls/aEvLUBsKctU6dsmdHG/oy5iJgZa8TwtsCG86UEVnY+8G4VO/0LA3jD1RWbJu+zy1X8DFrZc6BQglQWJnLbVsum8kfX+8Llyikgd0tBP/AkoE3Ec9Aw1XGbilr7EmMMpMKu+hsOcsiRUBcvsomtZm5pxII9QCWJPlBjteiXgB8lTyEbmgyAej4HYfScY1pqJp4Pq1A8eCYd1d22q7dHcDyaCFb/R70NBJgNEXnEwJR6QjXTcXeRyCqF9Kx/ZI7fsoCFx+zlR0lDRVPmwgsfxUFnXri/WHTkZXrr6CSNbLiNtuvK1DdHO90ioClmZZMKAWHmkc/EWFq9HI1TXuOVzoh4ArpMt/+Hfk2HusqA/fVZmcHoO5maXperDp3KFXNjxSPgxu0TNS3M/8kan2jbIciLoW6lrV34MeK2OC45qNcAKSRtfgUT83hGuPRhRt2vk8Y3BfNW6k6w8o+il0AXiXhgfT3WV77xBFjYCAj3Zt1izUnHcupEzmsF4QfrG9s2wCllbtKVY/o6HP5ff8m3IT08gAbhRy8SkyZv7J6v+tjTwhkN1q6+HjZUirpa3+2L0/L3OU1jMzEKdW19KC9A==",
+        "name": "UNITEVE VILLA MARIA",
+        "ico": "http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png",
+        "uri": "Bs7fzYIKIbxUnsP9vofnXSywxly5WCWYwq+Is+R8X52FZn5e7aP4kqDxgo/reg/3r3sMc3nc3zz9rqyu7THxcg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "9 RIO CUARTO",
+        "ico": "https://www.canal9riocuarto.com.ar/El_Canal_de_los_Riocuartenses,_y_tu_mejor_compania._files/logotrans.png",
+        "uri": "FTu3LsLvfdIiqlG1vbUiv7eQTtoIHESwtJK2ct5HCBCaNNgSSYtZmvb+GBsHC5ydC9+O2C8sIKHB6hRuy53ouFiHxSDoQWR/4M16Ylk7mSs=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -2432,6 +2460,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "SOMOS DEL ESTE",
+        "ico": "https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",
+        "uri": "ttVAiLSF49BB9Ky3uyXO6n5KCCONq8UTjqU2aGRmzQpUXkQQmuDMGBG/mxbcmFwBbGr1IlYhkA29udvPlVY78OaK8tjyr0whrnRkRs6XNxM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "UNIVERSO TV",
         "ico": "http://imgfz.com/i/gWBHzNp.jpeg",
         "uri": "C5Erk90Z9YLm5Re5zmCrN7QDKwseXAPgATkDimFJL/21MTHrfGLfE7ADtrtvJs0eq9omZ1J2HDxAp+Qn4YTvLw==",
@@ -2995,6 +3030,13 @@
     "name": "🇺🇾 URUGUAY",
     "mode": false,
     "lista": [
+      {
+        "name": "CHARRUA TV",
+        "ico": "https://static.wixstatic.com/media/f8faa2_b19584fbaeb44266bddc2664e3a64331~mv2.jpg/v1/fill/w_275,h_130,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%2520CHARRUATV_2018_edited.jpg",
+        "uri": "GEYKMz0KRKBYjdIQ+3tXbnpmxnZPniVflKqhUJ1rpnVSRqxFjxYILz8M6M/z28w4XUYsSo7zz5c2HjcZo/v7Hw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "CANAL 4",
         "ico": "https://television-libre.online/img/canal4uy.webp",
