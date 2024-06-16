@@ -525,13 +525,13 @@
     "name": "⚽COPA AMERICA",
     "mode": false,
     "lista": [
-      {
-        "name": "BRASIL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-        "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "BRASIL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
@@ -2731,6 +2731,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "GLOBO RJ FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYP7jOO8UpS/T4oTmarnck1GHmEV2YRcwi7aTCz6jdjbu36CWzvw6V1ZOosJYRxJJOgtXaBH5M90PaFbAHEYm/pw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO RJ FHD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiS8IDJbhVHI1zC0+k7rDKtw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "GLOBO MG",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
@@ -2933,13 +2947,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "SPORT TV",
-        "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
-        "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCi/78w7oNCjYXd3JO9ZikchA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SPORT TV*",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
@@ -2963,7 +2984,7 @@
       },
       {
         "name": "PREMIERE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/30/Premiere_FC_logo.png",
+        "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere2-300x169.webp",
         "uri": "8YXBZFZooe5f2ewgnUMpgEVPVdPjZrC196UrSuYHKdZ0MoSZ1fbTq+i8dx6H8b7E",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -3114,6 +3135,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "VTV+",
+    "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiELZIExrP7ACuGOdh+gHicg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "VTV+",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
