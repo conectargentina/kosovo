@@ -2926,6 +2926,13 @@
     "drm_license_url": ""
   },
   {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiyEv/AnMsfTzhqJGzcFSUPA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "SPORT TV 3 ",
     "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv3-300x169.webp",
     "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKrtoSq6uewCbuLxd/y6ve84=",
@@ -3055,6 +3062,13 @@
     "name": "PARAMOUNT+ 2",
     "ico": "https://www.pngall.com/wp-content/uploads/13/Paramount-Logo.png",
     "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKr2b4wC6jokfr5REsanyGI4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+       {
+    "name": "multi",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5ygA3sg/YgRblytLqNuOiEvrFQ4DZOP1vg0R7NjILT4c=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
