@@ -528,7 +528,7 @@
       {
         "name": "BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiyEv/AnMsfTzhqJGzcFSUPA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -584,6 +584,13 @@
       {
         "name": "COLOMBIA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiPhhUwWOr6Q5lRWf3K35GvA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COLOMBIA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
         "uri": "CUOuQJ5FZGbKzJpDLnSOJErJB8m9XC2t77XHja6ilErcv0HJWyg5TskgRfwCo8IxOQQtHNCPTdRL7g6/hHPhww==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -606,6 +613,34 @@
         "name": "BOLIVIA",
         "ico": "https://www.fbf.com.bo/img/escudo.png",
         "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTEQqdvgrJIviLy6bqSpjaGlIQR3a86RjIaSr6j7WyM4c=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ECUADOR",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/285px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiAxFci5Ro5uj5nLZt7KlosQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHILE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/800px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png",
+        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "VENEZUELA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg/800px-Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg.png",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9RyxZQZTRRGw/sliJHAwss9TaABx/UfAgNrGle8X6Yw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MEXICO",
+        "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCicjaN3B+CsSazxTWk+uC2PA==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -2727,6 +2762,20 @@
       {
         "name": "GLOBO RJ FHD",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiFBIkY1CIhvAVDzDYnjnRlA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GLOBO RJ FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiA5KwKTm/b239i/x5kKoJew==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GLOBO RJ FHD",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYP7jOO8UpS/T4oTmarnck1GHmEV2YRcwi7aTCz6jdjbu36CWzvw6V1ZOosJYRxJJOgtXaBH5M90PaFbAHEYm/pw==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -2950,7 +2999,7 @@
       {
         "name": "SPORT TV",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiyEv/AnMsfTzhqJGzcFSUPA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4916,8 +4965,14 @@
         "uri": "ErnLbxQnHsoffgCuMe701F7WnsrUPcv1IOtegkWWkBHOid9bCdhxEuMb8Q2FpB3vXWiW2evAtMsI308VzhWPiGg6uWPdB2Hyd0qpU1ouBXbvZxB8kussuiRZjPhVPRJ921uHysQt1bW9hVxKJ2Tvx/CmIjDqjYFz4D3s29d4ehA=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "prueba tv",
+        "ico": "https://abtechsolutions.ca/wp-content/uploads/2019/02/Test-uai-258x227.png",
+        "uri": "fvsKcKAX9SS6LrCTsmcSRhJ0PTFLBzZqQAWPgIPHvJuRzAY7jDmVSLRoyn49siL/Yxkq6cMaAmlTGDDXuSqu8LbncIaSYvL1SarzQ/NbG7w=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       }
-
     ]
   }
 ]
