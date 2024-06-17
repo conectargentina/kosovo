@@ -532,6 +532,13 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "BRASIL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
  {
     "name": "BRASIL",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
@@ -3014,6 +3021,13 @@
   {
     "name": "SPORT TV",
     "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
     "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCi/78w7oNCjYXd3JO9ZikchA==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -4976,14 +4990,7 @@
         "uri": "ErnLbxQnHsoffgCuMe701F7WnsrUPcv1IOtegkWWkBHOid9bCdhxEuMb8Q2FpB3vXWiW2evAtMsI308VzhWPiGg6uWPdB2Hyd0qpU1ouBXbvZxB8kussuiRZjPhVPRJ921uHysQt1bW9hVxKJ2Tvx/CmIjDqjYFz4D3s29d4ehA=",
         "drm_scheme": "",
         "drm_license_url": ""
-    },
-  {
-    "name": "prueba tv",
-    "ico": "https://abtechsolutions.ca/wp-content/uploads/2019/02/Test-uai-258x227.png",
-    "uri": "fvsKcKAX9SS6LrCTsmcSRhJ0PTFLBzZqQAWPgIPHvJuRzAY7jDmVSLRoyn49siL/Yxkq6cMaAmlTGDDXuSqu8LbncIaSYvL1SarzQ/NbG7w=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+    }
     ]
   },
   {
