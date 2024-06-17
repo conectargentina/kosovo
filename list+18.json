@@ -3155,13 +3155,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "VTV+",
-    "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiELZIExrP7ACuGOdh+gHicg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+
   {
     "name": "VTV+",
     "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
@@ -3182,7 +3176,21 @@
         "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJk+Vs81d+w7ZCbr/qkcLHvucUG8xIJ5oaQo93UcGEm4A==",
         "drm_scheme": "",
         "drm_license_url": ""
-      }
+      },
+        {
+    "name": "VTV+",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "6saOmgddwiGx45ewrYXFOssodNTHnQaV4EQ5VCuF3++f7WozO6dax2zNuz8n2r2j6/pCNO3AI1XWRaN2rPeHUw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VTV+",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTVN5VcvHjMNcychnlG+LjHCGpjqtBcvGTFr8x3wPtXAk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   
