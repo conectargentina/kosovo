@@ -208,3 +208,10 @@
   }
     ]
   }
+
+{        "name": "VTV PLUS",
+        "uri" : "https://edge-live01-mun.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A_wl/VTV_Plus_HD.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070", 
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png"
+      },
