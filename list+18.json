@@ -253,7 +253,14 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
+      },
+        {
+    "name": "prueba",
+    "ico": "https://iptv-checker.com/assets/images/logo/light.png",
+    "uri": "pS5yMZUvBEtYJN7ryeRqqK9MfHSdDt13YOG9X7LXUmbneHfeR4yGO4DC6UGiXnXLfHO0ZEBxVpdKR6d0tRRkzWC+VXl+9kEi9inoyhdzaBv5HTPuUfvea36th7vhplX/JD+C9QaQmUAECGizCCwvJNPOmeHq4lmkH55RBKBglaC6qbRQ8yx30k+brrA6SF0bxfsHDxOEzLUAjEzwKMIySgg06rAesfHfvGDBjIEbZniXAaw2kF7CWfx+G3FOEJFm",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
