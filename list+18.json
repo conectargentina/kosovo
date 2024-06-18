@@ -532,10 +532,10 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+        {
     "name": "BRASIL",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYRDXBtkeYUX13lR0R4ON+sjrayKUv4po/ZV+cjmo0roWqmLHvm+8nUwcfjrOYjQVCswf1bMmzwuDGgKYdEyUkKw==",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKnxxv6KE/EZuA1puKIw5pwc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1610,7 +1610,7 @@
       },
 {
     "name": "CINE ESPAÑOL",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Movistar_Cine_Espa%C3%B1ol.svg",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/800px-Movistar_Cine_Espa%C3%B1ol.svg.png",
     "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubojznhh4nhXo+95BwI/tphrTJ1JFLvsed0IDgsOSR0ADg=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -2817,6 +2817,13 @@
   {
     "name": "GLOBO NEWS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvCRfTLAoLjsp6UC9JcSPTmJk9N/RXyL4P2cO72HcjJPs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO NEWS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",
     "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvCRfTLAoLjsp6UC9JcSPTmBP9z3ikSxw0yf/05Tj8XN4=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -2904,10 +2911,17 @@
     "name": "⚽DEPORTES BRASIL🇧🇷",
     "mode": false,
     "lista": [
-     {
+  {
     "name": "BAND SPORTS",
-    "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
-    "uri": "IhS/SBHlOL3qMWwZ9lknvg4P1JEYN474Void6FRRmXSdr3R6Ft2ThUOnPwwsvrB2cvlT0f4D/NfExFiJzK9M4zLFUXPOv/TrqyDkMK6WDHqNjiX+AujKiF9oVg2jgubTKaxLhwAYRlPN59UfEGs5Ow==",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/800px-BandSports2024.png",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKutgViCkP2Z5/itrh8UwOHw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKnxxv6KE/EZuA1puKIw5pwc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2919,16 +2933,16 @@
     "drm_license_url": ""
   },
   {
-    "name": "SPORT TV 2 ",
-    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv2-300x169.webp",
-    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKlB7yMUEv56tBCRz0+0BiWw=",
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiyEv/AnMsfTzhqJGzcFSUPA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SPORT TV",
-    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
-    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiyEv/AnMsfTzhqJGzcFSUPA==",
+    "name": "SPORT TV 2 ",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv2-300x169.webp",
+    "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKlB7yMUEv56tBCRz0+0BiWw=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3179,14 +3193,14 @@
       },
         {
     "name": "VTV+",
-    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
     "uri": "6saOmgddwiGx45ewrYXFOssodNTHnQaV4EQ5VCuF3++f7WozO6dax2zNuz8n2r2j6/pCNO3AI1XWRaN2rPeHUw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "VTV+",
-    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
     "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTVN5VcvHjMNcychnlG+LjHCGpjqtBcvGTFr8x3wPtXAk=",
     "drm_scheme": "",
     "drm_license_url": ""
