@@ -14,7 +14,7 @@
         "uri" : "https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c1bde7a32df5da8b89ed5ec6d149705&key=75bcdf2f47dc0d14e3d7f12f0d0f8ac5",
-		"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
+	"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
       },
       {
         "name": "UNIVERSO",
