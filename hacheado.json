@@ -11,7 +11,7 @@
       },
    {
         "name": "DIRECT TV",
-        "uri" : "https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd",
+        "uri" : "https://getcdn.nowonline.com.br/Content/Channel/SPOGLHD/dsc2/manifest.mpd",
         "drm_scheme": "clearkey",
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1a247505a8ee5814998fc7c2b6bc0d1f&key=f01c5a0718d47371a541d22f2daabad5",
 		"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
