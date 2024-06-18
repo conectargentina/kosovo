@@ -13,25 +13,10 @@
         "name": "DIRECT TV",
         "uri" : "https://tvup-ccs-live.akamaized.net/directvsportpan/directvsportpan.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=52e4b2d4cef25a0f861c70520b290d1e&key=077a6ac0ddd98af5d130ea60d449809c",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1a247505a8ee5814998fc7c2b6bc0d1f&key=f01c5a0718d47371a541d22f2daabad5",
 		"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
       },
  
- {
-        "name": "DIRECT TV",
-        "uri" : "https://tvup-ccs-live.akamaized.net/directvsportplus/directvsportplus.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=52e4b2d4cef25a0f861c70520b290d1e&key=077a6ac0ddd98af5d130ea60d449809c",
-		"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
-      },
-	  
-	  { 
-	         "name": "DIRECT TV2",
-        "uri" : "https://tvup-ccs-live.akamaized.net/directvsport2/directvsport2.mpd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=52e4b2d4cef25a0f861c70520b290d1e&key=077a6ac0ddd98af5d130ea60d449809c",
-		"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
-      },
       {
         "name": "UNIVERSO",
         "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8",
