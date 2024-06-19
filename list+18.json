@@ -3134,20 +3134,27 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbB6UnrB4zGpag1/eq8+B8tou5k7mOwqJ8IMNPtnLU1rfyUusmil3WXva5wYHSRytmi3bGSC3/4nlOZuXpq4Ia7qUO/ikhalvOGLC6BEplUveuFqLcVEmIyS1G78xMrpTA=="
       },
-      {
-        "name": "A+V+",
-        "ico": "https://i.ibb.co/tsT9kVw/av.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL0uoGgtmTpyOAPGIPGYlqmYmtuWFTc5qtk0tJXuyT6Hw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MAROÑAS",
-        "ico": "https://i.ibb.co/ZhMY8sN/maro-as-logo-E873-D14-D49-seeklogo-com.png",
-        "uri": "dVQSe6IH6kaL+9BTVIrs6P6iP9cbGWzAWlp/0aaFniWqSacqPspkVfaf5mNgnF9T2+HAGDD241N6wYlUisi+ZW1RNNT0qkdumbeh3zl9TQHBr+hiqvnjEYNBigz+3IjA",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "VTV PLUS",
+    "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
+    "uri": "O4zQaBxapxoofA7Utbs4FzC/LXJ/D8nvkZc67I1wMLSfVfAIp44fv6ImkoY3/Q4Gb1zs3TjIEqhtnKy9fpDNhwodzC33rHziYB+RHZTd0XJp6hm8iiYYb17YfkhBGd+zhRZRO/sYtR7oVhQWe8qjSw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENr/xnPKt6pvsigNqcF/XbcpGKVxJpDntmNmx3vXrXoTng=="
+  },
+  {
+    "name": "A+V+",
+    "ico": "https://i.ibb.co/tsT9kVw/av.webp",
+    "uri": "2y9+NqiqWzjL7NB6s9x97pD7oRz3usJX6RoKHMhwRSlBm/tlyOjhXWG3ikEp/sdvT2OoTWYq2SxovZNFUF94C/GBWkLuR6cfWZc/ulvlY3w4Xe256WMjIvOGDjBiPbViEWUGjR1Dmpf94K3dvFfhvCqX7D3RFBvFPGixRu2M24GI8Ado4Bp8Zosf0zUHl0gPu3aTcIQmvGPoQfSoH21yF3h+tDlcWMOrSb0xod6nCXFs8fW7jHyVxrpaWXj9am4dsDLej8gpjjCqik+LZQfP3GttqJ0MYROJkZ8s2FslBa8R1j4oIkMJ12QOMPh9hRYnkUpgsQTmpejvVdwm5IZmP7BZArV0nOXjeSmknZCWWcSRXgPiL+nouOXLyaruQW/MwUx0UqBSolrZAEaXLTJLdIUmSmdkmBbX7InrGHhJv2JTKdgUVj/yMyb3DmiY3lTSZzArEgbhLcw2XHefoGK932EccPNxp8ldfwT1bKn3jfPjtEe9MbsDcRFshlGqd24crnpOYRo2U7yGav7JTkG4/w8l1CHMmh23dJvQL5gKmtaRjDHiLb67ZRh+ecZPD7aUUT3DVz6EZ77yA3b+yv1bvQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MAROÑAS",
+    "ico": "https://i.ibb.co/ZhMY8sN/maro-as-logo-E873-D14-D49-seeklogo-com.png",
+    "uri": "WaLPvml9NwPTjOVrgV5YAWZ5An2fhXbWO22vVvNeaBGLa6OTjlK47IwaH+5J8J6fp4Y5f5KCfvaqG46V8r8XT7WgBCuNvA3nkcpfYJbaOYg4Tlt5HDekycFLHAZPqt6Xa1jqQH4+Gz10T9ODj1oSIMRsWEdFJ6L/43dFWXsfYuY7Ow/73myttxl4NXLXl22mxUBJnUUbdpRWKaC2EbpVd8PGcdzWBtCTznpFpS3C0P3yZRYqRwMRBRdsVqJggaFSHLsdBL2nXmKRaHE4sQq2p9o6QlOiqnsB98zrljC97SW9BWBm9sa+AENbsbzHdvJ6nojN6uVqJjgwCDhORwCh0MeNCU9/PSdmi9gVumQbzRnsLrjSafkm+r5GxuxGaCX42S0ZkzSDW9MacjR8DVnNJGGjde/f7BJR84KdakjcReZxwda5TQAGt7fsNfd3JO7QBdbd2An5ODIE4BgCSE/M7OHpcC0iqV42cB0dc72ymh3RPg/ckWHn7JSr3CuVBKHDrnrFR2cb/WjFoaX+nJwfKazlyqAsNsb9ZQ0NFRnW8X5hbEpQdXCN5dNpn+nbtADa1iAehAsx/yxqnAelkLWhm0mRz1gEeHW5oPQrlwxlfgpmHxc1od87jfkyZKn6FC7bUbKygjGr3Wj+Kt93hd89Xg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "UCL TV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/1/16/UCL_Televisi%C3%B3n.png",
