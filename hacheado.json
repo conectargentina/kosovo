@@ -16,6 +16,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=da8a49a594160cc0059f07b9f71cd39a&key=37ca91dd799b351a02445151c7f61070",
 	"icono": "https://deportestvhd2.com/img/logo-canal/DSports.png?up"  
       },
+{
+        "name": "PREMIERE SPORTS",
+        "uri" : "https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(premiersports1)/manifest_720.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0005b3dba78ae0fe7a9288022d3b3736&key=d2827df80dd7e9243ba6b5bbda5dfa82",
+	"icono": "https://i.ibb.co/4PRPhpY/Starz-Logo.webp"  
+      },
       {
         "name": "UNIVERSO",
         "uri": "https://testphp07.alwaysdata.net/universo/index.m3u8",
