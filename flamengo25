@@ -19,6 +19,13 @@
         "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc8c82ac2ec7e9799527c29db7354e81&key=cc4aae173dd2ef17ae26be3f7ae87662",
         "icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
       },
+  {
+        "name": "GOURMET",
+        "uri": "https://edge-mix02-coe.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=OTNkODUzYWM0YzhlMjRjZjAyOTVmNmY5N2VlNTNiZDM&key=ZmE1ODE3ZmFiNGZiMDU0Y2NlYTFhYmI5ZjNkNzY3ZWQ",
+        "icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
+      },
       {
         "name": "GEN TV ",
         "uri": "https://edge-mix02-mun.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd",
