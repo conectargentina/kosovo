@@ -2691,9 +2691,9 @@
         "drm_license_url": ""
       },
       {
-        "name": "GLOBO RJ**",
+        "name": "GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqeKBMlMMDBadgA6PO6+wBdWGmfq6O5/YgPLheh8a+DKGLjBxKjMMwmsAp5oUUYZAolrWbDvxRmLrXU4VthgzY1AtmdAYqPeYQmd2XzspNUCZ+LzLsexw6jDr+0t/dT4OD/kztiSYN5crqJZWNwM8B22MPCiQJWEeQWaa9ITQT/4uFgXCraJx7vXFC/DNSHD7Kd/XfLrE9eEnUawvX4gMrBpWw2SLmPJeif11m+4QLGDUckMTFERBZXkIvDiLzSvS9yszl4OfhgGL0AE74vp+PuFxTJNaH+xoV18VQzWotUVayfR153rkjyWiVB8i80H25R3R0Bcd/7rqWzcaVc81rxhDuVeXoJJW0I9jQbkIi7uRD+nFrqOx5v6qFimU+wvr+5zz9l1KqLAYOYlaGgp/7gmvWl0wbzEOO2psgG24Ad1wcssX3awW3fQzFK+t28xlXFYWUDBJ0OooaMase74YUlBYPgz5aazQl6QBm6cfl/EfsJ1cxIIEK9UhfRw7U4Cbi1dCpzHhDHqiC+xUaeD1k5Sf1nfT76RyPwRcUI3o00trz6VKgh1fv67YahsQWPIylKfyBJ0XiUaxho9wHJlQECFL3Nmp9G1MAmIuGPjqLomN3dz+IBETPeZBn2u6KYAV4iFd4h5Do7/MxNlJzJDQRRwgMusnzUWE4QOrKi7Ju7HVWONbIBV+3VM/V4WMLRXyY0vsD3V/U2cmnHk5yyGJjoyinsDQQiKGh7EeM0RgvWltw0nzChkYVBmOppBNWogRTQbr+fbRWd29kSJ88/+d/QOuDRZK2+YLZnSvPCs6mX3fBOh+zCr72l6FmaTHseLf3n1+9Lnfs9gxl5XRwxBWpQw",
+        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqeKBMlMMDBadgA6PO6+wBdWGmfq6O5/YgPLheh8a+DKGLjBxKjMMwmsAp5oUUYZAolrWbDvxRmLrXU4VthgzY1AtmdAYqPeYQmd2XzspNUCZ+LzLsexw6jDr+0t/dT4OD/kztiSYN5crqJZWNwM8B22MPCiQJWEeQWaa9ITQT/4uFgXCraJx7vXFC/DNSHD7Kf0CJbw5EKwyiI+NLiLHmwul7kN2U8qCZaSgLYZXZZP5Y9/dWGAJ/I23t+CSEVLypMFBVeueotpMK5AjuWuoM/31UQNbFx9DrskQqNDvvxDLg4//16F7oMpomF3p2nQFkDqaWeXoT/gPUsTPB37h2m57l3HZCHnhG1QuWBE1V1H0urfmVCVfX96bbM0btDffgViQQcTQyUrRVFwXO1LOUQQUe33IGKFdnmhxhCsc2z7Cg9qh7QFLBwseaDe6Yi/E6mtuvOCNWAXkodIRudlYpzE2l6W9UOKIBxnrjIvWd13JfPujzSZZMfkMiyXor4/Cpo/GoL2umy0UzQAkmM6FxXa94TdFLgpDGnaV2kxh71INyEZrNaTxortNVOyd3D6txdTevTBWiFwfis3RsHkrcJhoo+GEk7YxqXz22D26Gm6nfb5sVAaSUsZ6YAC8x6TpFJoWi6dBwkGkZ4WvofNQBl/3nMRSbHourVVuBswlG0N2YJDZ6XbchePj4ZH18N1c4a0ftCKOy+tOm5Zi4BCyH0+uPFRQOxpN6KoGNMSWQNc8R8ov5zOqx/o3iN7GxBn/Uu/cuYLPd1p18gG3UPFKcsNV3Col8+bfjelwDNWJPaQHLgmx1h38G0bsRq4v+40z876FosomXS6GdcEdD0jv7lofpHBahlZBKEHqhwtYh4UYFW9qGHHTzODO1EuwaMLQ4BxYKAZtRDg20UExLHXWFKe",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -2736,6 +2736,20 @@
         "name": "GLOBO PORTO ALEGRE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKiRMPpnyA6i1FT7qmePOITI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RECORD NEWS",
+        "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
+        "uri": "qmpp2ZYBi8D30mWnf3FFgI+9e1+raxuV4cjySXCpdOR6PtePt4MIwTc8KX5KtEuCJqQ5gkm1ic10pGZWl2kS48ZMOrXwOrvsD8OSXAJmnERcg2k2r5smT55CA7g7m/lm+1DRD+w2vuVZHaBgih8A7Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BAND NEWS",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png",
+        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqfJiYRnCnxb0kqWFNfyky4XsJbGWA/cfvihv40KLK0ssuuOAJ02ogb/cUnMiHasyNADbErZsI4tuK8IZyCJ7IU4O4bo5/vKjyE8KH/z29rYCF70V/ctByGqw4jkPVx2jgJTf+ChGn6PuZPlezsJeNXcQK34eqOubMjoajczwdNydXPa4dVbEeXYHuPzOKQf8fwWMzTCT2e3yNwaZtwPp1PedFG4pasnJbowGVaOn4UZGtbI1nB5zBPFyyZbU80M3LrHjCCnBA4qP6eHIvJP4iOQCpKXQi8NdYw7XBxlLdXsd4UNsCcYZMTmPgo/7WNQOu345O4tpBs6Gnud47Rn1pzBbT42j3/+k7NQOqPQ3qk11ihOIz8mHBzsoPp252Z0KwFDyJJ2GDpYTjuIY/eVFkkoKb7+TssWamiJKHRncgaU8jjOn/3HHnKXgW1jFmtluPOX+7ulE2uwabvhmmQdmNOovKhz3wfMf7E6n69cx6khm4RqCCjqPLPymHYIR8eSJ56EIubk9UoIUzKKoDWOLI0rcRO2S/Bw+wqBPlc2fRid6b14fuOCOvTdFrqoNTjLraS3U8q+dw0QZG+pN3WA0LCK3uaAmHhi2MKiU8U2ZdD1ygc+BPaQuhkMd2TEzbdnQlcHsguy0gmMxYuqw8ag2PMfrM+IJ6G1RBQVNKvADbAPhsSMOhjsNOngBlcDLTCOnQMhtJOiAxygBd2ucfru/jMmmEs2aoXp3ycfmiB9BGtvAlKrd42Nk4vmKyKATsQKrybCKm1adxzJVx2KjIZdRtxCCtVIB0Pl1jefr0pILibMA5lDWWV93DuSmvPfO6e3UX8Vlz0lHd8swa32GVxqiPUlQkmD5c8+ky2wWajyCmQaLPl7ygTRFaPvJ0Kb08waqGIT6aw44W9/yKPnalqJ7NqA",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3403,44 +3417,44 @@
       {
         "name": "DAZN 1",
         "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKV/KYk+vuCjEOkBAA2pW/LFWpDAFo92AhLPlv0kvQA0A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDQf6VdPhtHW7Uv2LbuY1XUOWTUq/1x35uUKZpEqxZPKkJY4poMvu1KDHskHIcxmDoasq0ha687l8NwCufhHgJjM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVwGj06b4akW7QYLgVyABi67IOmJsIOyBO1LPP40TBrtRLcl4zcvEZdL6khUtbO0EwAk5AJoj7NoKnEBaOtDjqtD2zaV8uAmYv2724qCDiyFbgoJvNcjQovvERLQh1Qpkg=="
       },
       {
         "name": "DAZN 2",
         "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfJdOgmH6acInCSnkfdtnjXN7QUPAX4hx+2Mo/CIOzsayA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDRtmNNGo/re/uEHkR0ZCxaDClRwpfhjZLNvLuQ7zvaopm9gVfCsiDh2fdFgF7G6fHCcQGd/J+cYRJ+nDgIcsD1o=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfE1tynXiNP0huspknXCAmen7zpFUky3RTLZuXoVCPZSiz8h6pER+5cropp7UYi0kntkZB1mPiUXQMA825z10Cq/ZGcvXT8Wn6aKa4cxWHgQegpBtTF4cQ2VkHDrU1V6VQ=="
       },
       {
         "name": "DAZN 3",
         "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfKl7Kcq/hdvCzRfRsk+Dtc7rc9MONNMblCBGEABJpvC4A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDd/oO9QDPkKwlUljCpRpAVX3DqatXTmTi1qUhWYCh7WMN5BKAtxePboGKQEGIOD/FnR0A2JYWJMfxFaWsFQttM0=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXg+yTylHlegQRAeDqqEJy0Cr/RbJSsoRPKTlAjeC0OD0RUKGMxCq3KRoIl+4bc2SzwfcKuflo4LlJoPvyJ1uDX5xZYpsTquSJPXwWxKL40A7lCyM1nK9wu3LHzM7FbmIw=="
       },
       {
         "name": "DAZN 4",
         "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK+Co2wOPjuBMQwR7ArK0dPPG6LkVeKSUjx0pE4ji0SOg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDeYEmu1vRth+sui4stEWzM6LGxC54th1SXfL+dcdhBSSeY4moP0Yj4uHLiaHa+8vnFpGtyQWtZTBDcNNzg32Z+U=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQTGGcTLA45XgoIZonDrxdcRI9t4bpUXAal6x0T/wI+Oeu2Eg6T7hS4siYQMigFUuClz/fcmphd6QOM+vlbCOZRdR4409wqnwkCHGqYZ97jX2Yi6d22rYT2S7Be3hr1uzg=="
       },
       {
         "name": "DAZN FORMULA 1",
         "ico": "https://i.ibb.co/mcp1JdM/DAZN-F1-750x354.jpg",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLtM/pitoquHFTeQ7i2OpTa7X+dJbx5YNHWk4MCw27LGg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
       },
       {
-        "name": "DAZN F1 EXTRA",
-        "ico": "https://i.ibb.co/mcp1JdM/DAZN-F1-750x354.jpg",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfI5/8kJqRF7cj6AnNkCoCQ8J25DgamHSXcA5lZIFCKHpA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "name": "DAZN LA LIGA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png",
+        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vDpAk+uz2apOEUoK4XN2Lyo9kqnCnsQnyu3VjNs2qiswKJ2/0lB7KVmMr7sVvURojglq6TcDSSDgyuUG6fJ6jY4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efu9wZe3VNbcek1hg1WwqTRKHi/0487WTrpHOlwke+4kNfB0QRTAgqOkw3MTklebfDRcDA1DKNqLOy8zAsqR+UezX86bKxjBCVpS/eolBmAxD6nusFW7afFmo5OlDEABeQ=="
       }
     ]
   },
