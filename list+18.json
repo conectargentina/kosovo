@@ -880,13 +880,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TELEPOSADAS",
-        "ico": "https://i.ibb.co/D5w3N5n/photo-4951872193508257266-y.jpg",
-        "uri": "KHy+k2YiMDwkDxnFSGOgUVCYg3Wb3b+WhD3zj6wAbgldpXc6mvQgMxYvYjzLkxCWh4Y3lvqypkmHE+qfHksh1CVCJEekFnvIgkVv1kRYDHw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+   {
+    "name": "MISIONES 4",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/0/09/Misionescuatro_logo.png",
+    "uri": "aZPYAq3GD+4tARA+OABaOKp5Nr5zTvMfpL7kj/TG7i8Zg5c+Lea++WZ//6t4LLBDsiUZYcQcyZYCpFtUf9gl9P2kPUjs5NZHy15HMU2NNKAbOEFpXb5FAMUrptesm8tjF7T+uznXKK7e9T+xdBnMLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "POSADAS 4",
+    "ico": "https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png",
+    "uri": "aZPYAq3GD+4tARA+OABaOKp5Nr5zTvMfpL7kj/TG7i8Zg5c+Lea++WZ//6t4LLBDsiUZYcQcyZYCpFtUf9gl9P2kPUjs5NZHy15HMU2NNKAbOEFpXb5FAMUrptesm8tjF7T+uznXKK7e9T+xdBnMLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CANAL 2 MISIONES",
         "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-2-Posadas-en-vivo-Online-1.png?fit=1920%2C1080&ssl=1",
@@ -1672,13 +1679,14 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFo4rBPRTvtZQHnhMEJqo6kw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+     {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
+    "uri": "J+6SZMcfJA0usTKAjlxwGwJS0vuSSRCHomXmb8SgR0cckFt8Nn8w+/7QVUU9BLms1p9DJ84SOkti1SPuK9/Wfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "NATIONAL GEOGRAPHIC",
         "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
@@ -2997,13 +3005,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "multi",
-        "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
-        "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5ygA3sg/YgRblytLqNuOiEvrFQ4DZOP1vg0R7NjILT4c=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+  {
+    "name": "ITALIAN SPORTS",
+    "ico": "https://iili.io/dH9SdOX.png",
+    "uri": "9Ve7Uuh0SCQYTlE/3KHyv9pnu5CT/Se0iuHdA+q3T3CrVD29GnMICorIVOZlnhQUAoenflHzR6fEzszMGp/pEhWvScf7PR4BXBZaqusNb+WCdnvUpWY4ZSZuAJBGbPJu",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ea2hD/ugnn6zs0xhr8YDmNjRBi41JgTLxpwbl4CdKSOImKIwyyse2nRvibXgxs0xTpjEevYqmu3FqRW8S0LJT0HBom7xd4NcRdkOTMWWShwIHPykVA7WnHZbIGlsC+/uEg=="
+  }
     ]
   },
   {
