@@ -2921,6 +2921,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "PREMIERE**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkk01lmwIec+cDcT81rx8EnSBOxOHbtuOEtwmNMwdMAWgN8R99t4qidq7Ta5dW5wZgYoY7lmJtZxs7DNxlGDjsLU=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfSWxCN9i25qZhNtjA3Z1+lT60gOcaO1PB/AUqWUMrXaiMp6cI5C6utfOcaGX9nlwzyyLdo/4tSymTbGj8PlivyKanzyeiN8Lquyhj52o8TlaB4g8YS2ahKaO24aatL9pg=="
+  },
       {
         "name": "PREMIERE",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
