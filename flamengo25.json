@@ -23,7 +23,7 @@
         "name": "GOURMET",
         "uri": "https://edge-mix02-coe.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=OTNkODUzYWM0YzhlMjRjZjAyOTVmNmY5N2VlNTNiZDM&key=ZmE1ODE3ZmFiNGZiMDU0Y2NlYTFhYmI5ZjNkNzY3ZWQ",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ZmE1ODE3ZmFiNGZiMDU0Y2NlYTFhYmI5ZjNkNzY3ZWQ&key=OTNkODUzYWM0YzhlMjRjZjAyOTVmNmY5N2VlNTNiZDM",
         "icono": "https://i.postimg.cc/50CZVS03/ver-tv-publica-canal-7-argentina-en-vivo.jpg"
       },
       {
