@@ -1735,27 +1735,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": ""
       },
-      {
-        "name": "GOURMET",
-        "ico": "http://78.47.174.211/logos/elgourmet.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhUASf6rVIQAvlVF6Q81TtNY/eVEkPH2xmEmh+Lt17rHNla4AjpvlsuKvDodmnGeC6",
-        "drm_scheme": "clearkey",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL GOURMET 2",
-        "ico": "https://i.ibb.co/yRnCnRJ/el-gourmet.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7EroQA6aQ7OWmpBTgJ5pJRA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL COCINA",
-        "ico": "https://i.ibb.co/D8TXv1Y/2024-05-07-18-32-10.png",
-        "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fLwWyBch/VkNVo6/52L872vAUgjHBiUvZLuxOIjuGpPZ",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+   {
+    "name": "GOURMET",
+    "ico": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqCCNdzEVM/+xxD8UxesDa8ixuCx3JTTSh65Bs1fT6KHg8MN2upvBcFwoVWCaej3+K90rVycyHzPsD3sQV4Lljzya3jFzetmT32GHiPdoVQYm",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcJztuKnoqz4B6jpWzfNBzs5xo0YFP2NraVTanK6Lqi3+PaM0F3uz2SvJzefj9SDlbT53YevjLmuDNdmkcKcoWqluvc7YYmh8iX+OkCWTybadpVWBig1CF6QhEnKuOxqvQ=="
+  },
       {
         "name": "TRAVELXP ES",
         "ico": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
