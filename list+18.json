@@ -3416,7 +3416,14 @@
     "name": "🇪🇸 DAZN",
     "mode": false,
     "lista": [
-       {
+          {
+        "name": "DAZN LA LIGA",
+        "ico": https://i.ibb.co/wWkGmgG/dazn-laliga-1-color.webp",
+        "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vDpAk+uz2apOEUoK4XN2Lyo9kqnCnsQnyu3VjNs2qiswKJ2/0lB7KVmMr7sVvURojglq6TcDSSDgyuUG6fJ6jY4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efu9wZe3VNbcek1hg1WwqTRKHi/0487WTrpHOlwke+4kNfB0QRTAgqOkw3MTklebfDRcDA1DKNqLOy8zAsqR+UezX86bKxjBCVpS/eolBmAxD6nusFW7afFmo5OlDEABeQ=="
+      },
+ {
     "name": "DAZN 1",
     "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
     "uri": "+NnUPZcg56QqZXHu08euMdcrZ2FkbWl3WGrnMk6zPchkxP+Gx38LL4DaHSFU2YWHEWFkFBji4ykRakziKRmmDQf6VdPhtHW7Uv2LbuY1XUOWTUq/1x35uUKZpEqxZPKkJY4poMvu1KDHskHIcxmDoasq0ha687l8NwCufhHgJjM=",
@@ -3450,13 +3457,6 @@
     "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
-  },
-  {
-    "name": "DAZN LA LIGA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png",
-    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vDpAk+uz2apOEUoK4XN2Lyo9kqnCnsQnyu3VjNs2qiswKJ2/0lB7KVmMr7sVvURojglq6TcDSSDgyuUG6fJ6jY4=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efu9wZe3VNbcek1hg1WwqTRKHi/0487WTrpHOlwke+4kNfB0QRTAgqOkw3MTklebfDRcDA1DKNqLOy8zAsqR+UezX86bKxjBCVpS/eolBmAxD6nusFW7afFmo5OlDEABeQ=="
   }
     ]
   },
