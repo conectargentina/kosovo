@@ -13,11 +13,11 @@
       {
         "name": "EL TRECE",
         "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
-        "uri": "FyFKTyVLdtJA4wvzjjdJi3V1ounzjy5b+GlRQlwbRiKSCC20lsZbkabHSHfEiVxktXqeJ0ZwDmJrVo5rgNDV0KQXYwbnGb6Pvy9la5Q15r8=",
+        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2IqUFHiMdbRWuvqrsxEq+EAA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
+         {
         "name": "EL TRECE",
         "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhf5WkpbaP6ao15lkH/BWQzTpTn2zNN89IMhNyKU/xY+9ykBIz2U53Qb95XRh1kQjn",
@@ -644,6 +644,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "MEXICO",
+    "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
+    "uri": "J+6SZMcfJA0usTKAjlxwG4eFeqmqRBooaL6B0ogSyrh4jfTu4THpI4IGQAqMJ/YJYh7a42/heuHg8GrzzaS14g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "MEXICO",
         "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
@@ -678,14 +685,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0cBCWTaE5n3gwrGZcgk+Po0KvVv6bdTHgNKa3qsS5tD2eu+ehCXAk5freiJ3Atpnm5/5446BGbwk/2JJZhOJKwc2H7AzvCHFh2JdVN/exGGLhTHz7KxQmpQ6Fd5F9S7+BBrozsjxzFaxPx7T4X6NxHw="
       },
-      {
-        "name": "SHOWSPORT",
-        "ico": "https://canalshowsport.com.ar/wp-content/uploads/2021/11/2021-11-logo-SS-HEADER-STICKY-byExpectacionbbb.png",
-        "uri": "q0Mrg9dm9tI74UiA87XQ1sketYCWhXiqXASFvIRzasZzi+TS+dzExBifKEU9PotLghUppSc7+njiwQhVt7klUuQVCiTXf96nD1Neyrbux4fY731hlgmJIA5em9xYqqkSnL09JqT0CG3x9Q9wuDHihTossFLgfQZ8IsyIZMrRa7NOFFzsBZVtKicIfh7NDPSO8dhw7qH3h5PJ0lFwYJKiSCH8uMK8qQkSLbWz1+urQAysEHGMpZcE45VqtFZXfW1aslPu0qQD9YF0EsHV/Ql2UnIcPVvYSIGBJn1YuY7CYDjoTI7Na+igZ6SoUDp4jt4LAisPDo04I3m2Rg7bxCEBi2+L9e5nbhv0hLBVFTzr9J2ftgBlKZt52NE1972XhV82wKlrZJ8DMlK3F+N4q8QUIZZlNQLnpovSHhf4QkgXIYRu8EDp9gHJWzv73OcsNKiyBsT9JGJPlBZITKgdw7eSLoCEnCsSJA2BbbCgEFEr4Oy6m8XR1ivEXqBfrCsoN789dN3JPKZCbU/qS1GGFQKB2QKCoNfM8Tb/c03Vd31VYXfv6xdwPXgrklVaW6rna3KdVS39v7+uX11M5O7/VQDZcGeMrqvueHRT/q1/H54eVqW3lI0deQGnq8GLRuwipAm88qK3b47s0U0zvkBTO4b66SjHbziDomXKFk1H0tUjjfbC7Mu7uJMJvsEBl9vaM4SjRmhDFee6AgbeqKhc0Bjq/1sPrdU74aCNYE+WoKhl/dBw5uUNU1SRncvB6lxLWUejHhx6M+kNl1ZY2OWtIDY8xP8pON76/PmyNtgyiF2HwQ6NyJ2aLtgWnWv49cL+ruV8x5QBlmmmC9RMKtygyN53mW5q4fngiol91diibmDkNIT6ReJhDyGXlOwI9x0KZDyB+X8xSJt30dz+qT2wXwE6NqumA5IK8vXcEnuYOx0iDpRB3QOsqvIsaEfZHGXESt7oa9WrxE6LFgHxklVX3VDkwWPI7V+9CJrP1RwkaASLoktowmimNicF/hjgQRymynxgEdiXok+Mw/w/NJNWZCJKK6iFFR+lsNnI0zdVbyPynyX1L+vfsBnTrG3P4Aow8AaHF2/Nb1k0novnE2gG2d6Vw3B70WO4zjX7tT87EriemQvdIuyKg8QYRhw4K5B50AwCjMv/eI6dOK8J464dRWgRmv6D3o9Lh6pYDygmJ+5EgOmMTVE1By8gSei/UfM8OKNNtp3afjpVKE00Pr3FwauC09lTyg3Jmt6T9a+bHLR9EKmEEGO94wSHYSFqAU5stOLcI2BF0eD9b0/bKMtwBf7qu5lte34dbxN6BiDvBhFF1+HAYg/olHPFUg1ItGxhFqtAXFL0Q9qvoUfQMEQIHEzGsKsugPOsDxYSt9eTmsdb4pUinYGffEQ/VLEWdE2K2tvb2pd/f0+LNqgMgTb351vgXij9ZCl1uC+NUIb1UMCQiJFCDS18ps55E7maXQ/cYlZbscMGaDee8Mwwx2S8V5KOHKr0OwP0vDTa6t5aOg2Qk+iLQByRJFVXUT83XII6sEVxnyQpRwcpCrJ08gZ0Ww/Ovg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+         {
         "name": "UNITEVE VILLA MARIA",
         "ico": "http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png",
         "uri": "Bs7fzYIKIbxUnsP9vofnXSywxly5WCWYwq+Is+R8X52FZn5e7aP4kqDxgo/reg/3r3sMc3nc3zz9rqyu7THxcg==",
@@ -880,13 +880,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TELEPOSADAS",
-        "ico": "https://i.ibb.co/D5w3N5n/photo-4951872193508257266-y.jpg",
-        "uri": "KHy+k2YiMDwkDxnFSGOgUVCYg3Wb3b+WhD3zj6wAbgldpXc6mvQgMxYvYjzLkxCWh4Y3lvqypkmHE+qfHksh1CVCJEekFnvIgkVv1kRYDHw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+   {
+    "name": "MISIONES 4",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/0/09/Misionescuatro_logo.png",
+    "uri": "aZPYAq3GD+4tARA+OABaOKp5Nr5zTvMfpL7kj/TG7i8Zg5c+Lea++WZ//6t4LLBDsiUZYcQcyZYCpFtUf9gl9P2kPUjs5NZHy15HMU2NNKAbOEFpXb5FAMUrptesm8tjF7T+uznXKK7e9T+xdBnMLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "POSADAS 4",
+    "ico": "https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png",
+    "uri": "aZPYAq3GD+4tARA+OABaOKp5Nr5zTvMfpL7kj/TG7i8Zg5c+Lea++WZ//6t4LLBDsiUZYcQcyZYCpFtUf9gl9P2kPUjs5NZHy15HMU2NNKAbOEFpXb5FAMUrptesm8tjF7T+uznXKK7e9T+xdBnMLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CANAL 2 MISIONES",
         "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-2-Posadas-en-vivo-Online-1.png?fit=1920%2C1080&ssl=1",
@@ -1672,13 +1679,35 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
-        "uri": "i43V2nAfCyyZ8dVVT935Ir059GjXdEQkmAeAgvjFkvDj6CeS4fLlRPAPQkq5lioFo4rBPRTvtZQHnhMEJqo6kw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "GOURMET",
+    "ico": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqCCNdzEVM/+xxD8UxesDa8ixuCx3JTTSh65Bs1fT6KHg8MN2upvBcFwoVWCaej3+K90rVycyHzPsD3sQV4Lljzya3jFzetmT32GHiPdoVQYm",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcJztuKnoqz4B6jpWzfNBzs5xo0YFP2NraVTanK6Lqi3+PaM0F3uz2SvJzefj9SDlbT53YevjLmuDNdmkcKcoWqluvc7YYmh8iX+OkCWTybadpVWBig1CF6QhEnKuOxqvQ=="
+  },
+ {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
+    "uri": "J+6SZMcfJA0usTKAjlxwGwJS0vuSSRCHomXmb8SgR0cckFt8Nn8w+/7QVUU9BLms1p9DJ84SOkti1SPuK9/Wfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
+    "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83DGxQyNb9ccS69xc6sre2VR7fqC2ZYzJcH/tk2eonMmC8mVi15DXzv33ktfsGRLVDYibx1QCCvN/2EAoEOTR31A",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+     {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
+    "uri": "J+6SZMcfJA0usTKAjlxwGwJS0vuSSRCHomXmb8SgR0cckFt8Nn8w+/7QVUU9BLms1p9DJ84SOkti1SPuK9/Wfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
       {
         "name": "NATIONAL GEOGRAPHIC",
         "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
@@ -1735,28 +1764,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": ""
       },
-      {
-        "name": "GOURMET",
-        "ico": "http://78.47.174.211/logos/elgourmet.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhUASf6rVIQAvlVF6Q81TtNY/eVEkPH2xmEmh+Lt17rHNla4AjpvlsuKvDodmnGeC6",
-        "drm_scheme": "clearkey",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL GOURMET 2",
-        "ico": "https://i.ibb.co/yRnCnRJ/el-gourmet.png",
-        "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7EroQA6aQ7OWmpBTgJ5pJRA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL COCINA",
-        "ico": "https://i.ibb.co/D8TXv1Y/2024-05-07-18-32-10.png",
-        "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fLwWyBch/VkNVo6/52L872vAUgjHBiUvZLuxOIjuGpPZ",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+       {
         "name": "TRAVELXP ES",
         "ico": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
         "uri": "Ac1wAi7H5IB+6kwrVFdHdMlIZEukgKx0QctqgV/AVCpQwJ49n8uFf9pn2ect2iRe7FghUrFzIm19nXZbxvbCBki3ctVuXnZXnlTekkT+3Y3AvopT3Qlg6H8j3QuEPoj+jAPiq2akfcxlcwtzIrvfK0DsZ9jvZoVDH3UdOunc/sE3ZmPss8EaHodLVbpIsw7bck0k8yWZvhT+iGT/8XGoCslT/Ejb2UpdfMnaajrnTDk=",
@@ -2683,6 +2691,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GLOBO RJ**",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqeKBMlMMDBadgA6PO6+wBdWGmfq6O5/YgPLheh8a+DKGLjBxKjMMwmsAp5oUUYZAolrWbDvxRmLrXU4VthgzY1AtmdAYqPeYQmd2XzspNUCZ+LzLsexw6jDr+0t/dT4OD/kztiSYN5crqJZWNwM8B22MPCiQJWEeQWaa9ITQT/4uFgXCraJx7vXFC/DNSHD7Kd/XfLrE9eEnUawvX4gMrBpWw2SLmPJeif11m+4QLGDUckMTFERBZXkIvDiLzSvS9yszl4OfhgGL0AE74vp+PuFxTJNaH+xoV18VQzWotUVayfR153rkjyWiVB8i80H25R3R0Bcd/7rqWzcaVc81rxhDuVeXoJJW0I9jQbkIi7uRD+nFrqOx5v6qFimU+wvr+5zz9l1KqLAYOYlaGgp/7gmvWl0wbzEOO2psgG24Ad1wcssX3awW3fQzFK+t28xlXFYWUDBJ0OooaMase74YUlBYPgz5aazQl6QBm6cfl/EfsJ1cxIIEK9UhfRw7U4Cbi1dCpzHhDHqiC+xUaeD1k5Sf1nfT76RyPwRcUI3o00trz6VKgh1fv67YahsQWPIylKfyBJ0XiUaxho9wHJlQECFL3Nmp9G1MAmIuGPjqLomN3dz+IBETPeZBn2u6KYAV4iFd4h5Do7/MxNlJzJDQRRwgMusnzUWE4QOrKi7Ju7HVWONbIBV+3VM/V4WMLRXyY0vsD3V/U2cmnHk5yyGJjoyinsDQQiKGh7EeM0RgvWltw0nzChkYVBmOppBNWogRTQbr+fbRWd29kSJ88/+d/QOuDRZK2+YLZnSvPCs6mX3fBOh+zCr72l6FmaTHseLf3n1+9Lnfs9gxl5XRwxBWpQw",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
@@ -2850,6 +2865,20 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "WTg+xpkqAAFkRv1uTA0KFiQDA+Evz6Z4TFoWeCpknIFVHIsd7I0JEwXa4dABwKBh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqc9QXkoNZBJKIOJA6oRGz6CPc+r2IQrsJ2lsxZfHWTWMWabbky0mhGY2UbX6IG2jp8v+l+E0bix+zh8G2/xYRFg4ky7KB+ns8hQcOymT1KW+xPOUsi28byCwlZGoRdliMOqhfLGeKro/ZXBBqI0jek7q5u4t+6Ou0i2Cuu9XUR4ru9xf+eN/zlhamxGMcWbMCd7nkVsCeZST2Ta3vplNn7ubZcbU3Cb7khL/IUwgIw4UXKmD6m7xEx9rEcU9xO4sg9nLLqIRJB5osW4/Gu+i7KD4MS6zvxj5HFakx5N4tmcMgKl+x54MOaWIrJjfVUb8o6oWlCiPuuEhnbOTcDFd477z40fGeOwg2Sn6cQjCKnCkbUWPCM+GQOBMaowvSCcaLLUkYc+ErK2/V6CYiM50jowCLcz2WrwvivKIbkMZpccKWtNqR2Mts5vCc2WON831w/pqn+0X42ernUmQOu6gwFtFW9U/wo9R9XDnH9aJp7EJIqwpbFtDdy/ziBXyqBjmJHFOZVOhO+GN+zwB4nQSV+DK6cNHesmdmQmW4kmbsAjPs6vEA35/dnwl5TfGDbYdEA5ONq6bxrwtSfb2gWy3KwSAz1S2uZtAPvCKPRXzJYdv80qiG/tyva8qVq3zHlJkmmAAfEVnSPlkwiZ4dnSxHny0M7UrrSFJUeGjx+lDWLARvVsg2WY542gA3UMS4wTohAMcJp75OzOASJP9JyTrGvf4ZH4YFpjIQctFxDFlQsWOPSO42n472eVMKOCRS7mBp74nkrKpnSyzHpV0Jix03Mstq0aXjDwPpDCfELwa73gv1Q4kZFXo4v4sJGMAe/EDhZZzVmKaErqAxr6pN8aRDSQ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SPORT TV",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
@@ -2864,6 +2893,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "WTg+xpkqAAFkRv1uTA0KFiQDA+Evz6Z4TFoWeCpknIFVHIsd7I0JEwXa4dABwKBh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SPORT TV",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
@@ -2913,6 +2949,41 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "PREMIERE**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkk01lmwIec+cDcT81rx8EnSBOxOHbtuOEtwmNMwdMAWgN8R99t4qidq7Ta5dW5wZgYoY7lmJtZxs7DNxlGDjsLU=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfSWxCN9i25qZhNtjA3Z1+lT60gOcaO1PB/AUqWUMrXaiMp6cI5C6utfOcaGX9nlwzyyLdo/4tSymTbGj8PlivyKanzyeiN8Lquyhj52o8TlaB4g8YS2ahKaO24aatL9pg=="
+  },
+  {
+    "name": "PREMIERE 2**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkh0hR/DnP3EO5CBsn7A+78PUDn4/nHKyKrUtJnOsXmaBHnLOR02Rhda1ImX/Pp5xVo/44TAUrsSBI4ygBkow8hM=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQkEbZbmn9rKgAY/mj/gs8U+L8Trcnsm4SbFQ81GTxxAr6r0FkFo7IhKHAsKr94KicgJOfI509HiVUNFJ278nPFRyB/tjIq9UVEMTiEjvnrPWL+Nirlwn2uN/hbWlO+84Q=="
+  },
+  {
+    "name": "PREMIERE 3**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkluSiaPiqvsXMg9fGhjoM6D6BJiuif9UylPk+B2XA0ay6MWj/RSBlu1n0gQt08C2QQDfXTocmWaVvDaxeenfXnM=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERW+GP22PAVlR2JnyTaLYtZTqE171CoHQvjg/GpmlrZQ/oK8IgHIicpjFj1RoIcsf2TSChvwmXST/3zbMz/3KSkNiOkk8TJRXPPeKDaXE9woDsHa1unLhWkvXDhc+HPgng=="
+  },
+  {
+    "name": "PREMIERE 4**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHkijUvCAQ2XLWN3zNIiAiRx5OA/GasnpIexG4062FasWKzZRRgyqUvS3WQ6sjkkPc6PPulHnU8e1hNjc5OROL54A=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efz6mjayP7q0P6xARbe6YA3/bRUAQCC7N3eQeKzUmXr3aRh4Ufh3GjsFIPYnrB1kmzr2Keo32WHLz0Et2GdUYORyigEuMrUkWIoGqIlHnZfIeEUx7Re0BYnb0ESdNfTBMw=="
+  },
+  {
+    "name": "PREMIERE 5**",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
+    "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXi7CsIMu2NBH2qs/QvZ2WF3+T9C7CAXq7kwAzz9nLnHklJlFuGywBxQvs9WpjtcHtwX/xHIevyYDClL/ox6Slv6Bw2Jgl0qnyLXvUOs43TZRN0GP8xe1E4XVL7PyJlxUTE=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVBhsyHYCj3FvhrpKbITBxUvIzkEFRTOH05g1bqzeaTcTMPSMREsycsT0h0f4DD1RLBqf1r/laPwZ831FZosbIaAfaOrrDnwh3sx1pgIyB74+0nl9JMPIaOpC+5stz+vIg=="
+  },
       {
         "name": "PREMIERE",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/premiere-300x169.webp",
@@ -3011,13 +3082,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "multi",
-        "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
-        "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQxcDMrFnrt6vkXC4Yruy3L5ygA3sg/YgRblytLqNuOiEvrFQ4DZOP1vg0R7NjILT4c=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+  {
+    "name": "PREMIER SPORTS 1",
+    "ico": "https://iili.io/dH9SdOX.png",
+    "uri": "UnArIprtyFWNVszbQHI/ZiLyG1438svggVZhmYeYm0ejnCRK+slCQUnNEw+Ose0XbQ4H/XxJUXGiE/0SNAY3DSlionEaaPo5Ei/jenp7O+u57J3hrn59bodxiCi1vnit5fqnAzCQKRxt9WRPq6C0Jv0ZbpgkUEQfAgV1AX1291U=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltRHZzPbl8qUaOKkJzxL7fFADXMO9UhcwtdkdhVZb7CaV5dMDmD61zPYyiomfeNsCzn0dM/dt2uX4kDYzTvD0YSv+YI4OhQmcqklgRNpktA0Vw=="
+  },
+  {
+    "name": "PREMIER SPORTS 1",
+    "ico": "https://iili.io/dH9SdOX.png",
+    "uri": "p4sQSidtOYo/o0nVDpYfzWvwIAcTHcCXl2EqpvthoVnIn8bTlW3b7m39HBbRKP6WtJaaZvnkguqYaMrzXyncUReY/n0/qHIj5bKbnv2ebDoQGOSxqAkJtuJUOEpZF/xoOkOXVHXYgUJtQThKQQ3VBa9MrY58mya0IMMAneTK5SU=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltTpIXsDbck1HwN+mlvQG/y/WDPa0D6fu/6kMkaYD4jSel7tOH8JImmme8NQb1rQyxTDqDwi4h650TedAYd8iAu35LxwkdhAAYcj+bLrbmNGBg=="
+  }
     ]
   },
   {
