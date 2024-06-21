@@ -1686,6 +1686,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
+    "uri": "J+6SZMcfJA0usTKAjlxwGwJS0vuSSRCHomXmb8SgR0cckFt8Nn8w+/7QVUU9BLms1p9DJ84SOkti1SPuK9/Wfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TELEMUNDO INTERNACIONAL",
+    "ico": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
+    "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83DGxQyNb9ccS69xc6sre2VR7fqC2ZYzJcH/tk2eonMmC8mVi15DXzv33ktfsGRLVDYibx1QCCvN/2EAoEOTR31A",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
      {
     "name": "TELEMUNDO INTERNACIONAL",
     "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
