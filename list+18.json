@@ -1686,6 +1686,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GOURMET",
+    "ico": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqCCNdzEVM/+xxD8UxesDa8ixuCx3JTTSh65Bs1fT6KHg8MN2upvBcFwoVWCaej3+K90rVycyHzPsD3sQV4Lljzya3jFzetmT32GHiPdoVQYm",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcJztuKnoqz4B6jpWzfNBzs5xo0YFP2NraVTanK6Lqi3+PaM0F3uz2SvJzefj9SDlbT53YevjLmuDNdmkcKcoWqluvc7YYmh8iX+OkCWTybadpVWBig1CF6QhEnKuOxqvQ=="
+  },
  {
     "name": "TELEMUNDO INTERNACIONAL",
     "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
@@ -1764,14 +1771,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": ""
       },
-   {
-    "name": "GOURMET",
-    "ico": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f68bb5e4ea711e0b73e7_elgourmet.png",
-    "uri": "fQlXZK8sFnbUgAEf0UbEqCCNdzEVM/+xxD8UxesDa8ixuCx3JTTSh65Bs1fT6KHg8MN2upvBcFwoVWCaej3+K90rVycyHzPsD3sQV4Lljzya3jFzetmT32GHiPdoVQYm",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcJztuKnoqz4B6jpWzfNBzs5xo0YFP2NraVTanK6Lqi3+PaM0F3uz2SvJzefj9SDlbT53YevjLmuDNdmkcKcoWqluvc7YYmh8iX+OkCWTybadpVWBig1CF6QhEnKuOxqvQ=="
-  },
-      {
+       {
         "name": "TRAVELXP ES",
         "ico": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
         "uri": "Ac1wAi7H5IB+6kwrVFdHdMlIZEukgKx0QctqgV/AVCpQwJ49n8uFf9pn2ect2iRe7FghUrFzIm19nXZbxvbCBki3ctVuXnZXnlTekkT+3Y3AvopT3Qlg6H8j3QuEPoj+jAPiq2akfcxlcwtzIrvfK0DsZ9jvZoVDH3UdOunc/sE3ZmPss8EaHodLVbpIsw7bck0k8yWZvhT+iGT/8XGoCslT/Ejb2UpdfMnaajrnTDk=",
