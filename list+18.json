@@ -526,6 +526,20 @@
     "mode": false,
     "lista": [
       {
+    "name": "COPA AMERICA",
+    "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+    "uri": "w+ZT4F8DBHevw4miW0ZP+oRtTCaT4yLwYy7Rzx0+3B8FbfxrzhBSm/+7ZqCq6zw9mMAohyGH1clONQovhAWRwEwNp7BAB6tKqcq6O4SK2X5KAuxMNLLcuk3MFtve6dUYjP7Hy4iXg6bcPzCrQ3keJA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPA AMERICA",
+    "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+    "uri": "KhtScBhlGG/7GVe7Cj16k4JCXjDYpmCKqBz1t/VUsC//HiGLR3vPnXCtlvpq/Lyg6+VaiwHY0zt07qihSHE0TmukQL6gdy/4Lb4sEnDR8og=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
         "name": "BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKiQBMNBh3BABEZLyDJtSHrw=",
@@ -3978,6 +3992,13 @@
     "name": "🇲🇽 MEXICO",
     "mode": false,
     "lista": [
+    {
+    "name": "VIX+",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "KhtScBhlGG/7GVe7Cj16k4JCXjDYpmCKqBz1t/VUsC//HiGLR3vPnXCtlvpq/Lyg6+VaiwHY0zt07qihSHE0TmukQL6gdy/4Lb4sEnDR8og=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },   
       {
         "name": "TUDN",
         "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
@@ -3985,7 +4006,15 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
+ {
+    "name": "TUDN",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "ru7OnrdCXD6OlatYBSKSBdjfFGv4QfMpsG4U1O10Bu9QFcXN68uanALo57YSIAxJyVBsG+l7yK36uPUq+CxM+1prpvHAFflSuvoZQL3F7Fk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+
+       {
         "name": "TUDN",
         "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
         "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTylf1hb3IVbQCxVblCD2r2wK7/EQKEJ1CB38MQokMM7w=",
@@ -4920,7 +4949,14 @@
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhS++dQ2VQaJ9TEKlYBs6ZGCcKKESrF7IZ8+1isS962TB6T2lumQjgn+TYpx5lc7OzRt1pHP6NxHXZiwAfFbMI48C/q+CBcAdJ9FOYa5KgRsaednujOx/Uma/pQ3xjeQuz09VbRCg7B+EbSRuKnkS9w4vjZzBhfRXrAMYd0ot3VU51aM8YXw2HYki7W9JhhaQHd8PqbDTSqyiq7148kJt2ibUsUYKQi5ILJMhY0V+imknhAvMROFqTKNZ7zayTkIq4=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
-      }
+      },
+       {
+    "name": "SPORTV TV 1 PT",
+    "ico": "https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png",
+    "uri": "K959uTZRFGFVsBIeljFNryNyDrKNd5UQZB2lSKcNCzMOAUrBBOK9Azqm1azPMhZdBbi+FyGu34PQZ34GqwM+xsi8jeM7+5jzH9/ScCIKzclO16J2Xj+39kv03GLlaCQJWFePOaOMs7kWXvX2au9bHUtzJH/ClOjDrzOwlQ1dJefsgd4cDVF0U8Pifpkvzt0wbYilU1MhDL5ds8V7nfCdAQ==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETa/uSr05vzDzkc+fV4N38CjB+oXOBo70qv/CWBOxLzKwc5NwQPE09hTlUsXYCyy2S0rxKtMmAp/KG0M6sfVXCHCIvnn7UFUhzmtQ93/WNQJIgdOqB75WWYqpZadldbYbg=="
+  }
     ]
   },
   {
