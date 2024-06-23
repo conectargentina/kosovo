@@ -532,13 +532,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "COPA AMERICA",
-    "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-    "uri": "KhtScBhlGG/7GVe7Cj16k4JCXjDYpmCKqBz1t/VUsC//HiGLR3vPnXCtlvpq/Lyg6+VaiwHY0zt07qihSHE0TmukQL6gdy/4Lb4sEnDR8og=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
  {
         "name": "BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
@@ -3994,7 +3987,7 @@
     "lista": [
     {
     "name": "VIX+",
-    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/1920px-ViX_Logo.svg.png",
     "uri": "KhtScBhlGG/7GVe7Cj16k4JCXjDYpmCKqBz1t/VUsC//HiGLR3vPnXCtlvpq/Lyg6+VaiwHY0zt07qihSHE0TmukQL6gdy/4Lb4sEnDR8og=",
     "drm_scheme": "",
     "drm_license_url": ""
