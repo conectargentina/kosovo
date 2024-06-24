@@ -664,7 +664,14 @@
         "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCicjaN3B+CsSazxTWk+uC2PA==",
         "drm_scheme": "",
         "drm_license_url": ""
-      }
+      },
+        {
+    "name": "EURO 2024",
+    "ico": "https://upload.wikimedia.org/wikipedia/it/f/f0/UEFA_Euro_2024_Logo.png",
+    "uri": "n67eI+PDvBOmLo18+BZKNgqZ1umYgIcgdL2L87QkbtwoOHqR9ft3BgWCW+JCZc/BoeaWqxgS15/8F+38ugCibYUoIh5Lexp/WtJsLcAoHwxbNA8opJl4V/l7LwVoQN5q",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "bJP+LN/6hxN40q2tvUc6Go3xAQX8yI/FpKIBNW24P+goDasqSlIw3XsW5/qv46oqZMhdQNlqdLjZbXvpK4OBUJ1BUxLx47x1ES7xHE/k+xOUyHguGQK1A+iNL15hqFo7xWB21OTejz18XJGC5dLpWtqIvyEcC2w0LyU34D/uYYE="
+  }
     ]
   },
   {
