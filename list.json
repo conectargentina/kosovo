@@ -664,14 +664,7 @@
         "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCicjaN3B+CsSazxTWk+uC2PA==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-        {
-    "name": "EURO 2024",
-    "ico": "https://upload.wikimedia.org/wikipedia/it/f/f0/UEFA_Euro_2024_Logo.png",
-    "uri": "n67eI+PDvBOmLo18+BZKNgqZ1umYgIcgdL2L87QkbtwoOHqR9ft3BgWCW+JCZc/BoeaWqxgS15/8F+38ugCibYUoIh5Lexp/WtJsLcAoHwxbNA8opJl4V/l7LwVoQN5q",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "bJP+LN/6hxN40q2tvUc6Go3xAQX8yI/FpKIBNW24P+goDasqSlIw3XsW5/qv46oqZMhdQNlqdLjZbXvpK4OBUJ1BUxLx47x1ES7xHE/k+xOUyHguGQK1A+iNL15hqFo7xWB21OTejz18XJGC5dLpWtqIvyEcC2w0LyU34D/uYYE="
-  }
+      }
     ]
   },
   {
@@ -772,13 +765,6 @@
         "name": "CANAL 10 MAR DEL PLATA",
         "ico": "https://i.ibb.co/2swfDFq/Canal-10-Mar-del-Plata-29.webp",
         "uri": "Dh8gtpttFoe5Fdue3NVnQW3dwqUZhCMJYDKGgUetY/DlCRj/1JOvhzbs4mQQNyWeYm3opshqR45obg1UK8gPZm+ReVhI+mxsAPTScpXvtcPZ6i3PJyysKk6k/o4zlamtT+jlAIetb3x+M0mVSjGglQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "AIRE DIGITAL",
-        "ico": "https://i.ibb.co/12wRthh/70ea0606-45c6-4b67-95e2-8dce1ba727c8.png",
-        "uri": "bdn50+CnMW/B+oMbu7isDzMgswfbvFglyz3CMz7Q3w+Rsda/WIXhiJiqw5tYMkkfk+/nMx6GRZbjp5JO5PrPQbb0pUQuSrfEyl05rftjLnfxnpYYlvw8hor6m6cNZl//1PyURFQZYfFOEXvaPJZoUk3fFlccPK2gh2UUOwHg1fvATxMOn6PBrBF6vhQhuZBj",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -954,6 +940,13 @@
         "name": "CANAL 12 CHUBUT",
         "ico": "https://canal12web.com/wp-content/uploads/2022/04/cropped-12.pie_-e1649431047642.png",
         "uri": "i8XeAu/e1buXKjKBsFH6FG6mT9Lb5FwyZ6Aab3rDATFERSpitsXYLlgd+atrOrBjYDGnL2sUbi3W5qHwR9L/KkAYp65YuFu0YF0qv/hTa9pKQ/QGHQhfhuXFd1LJc3Te",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TELESOL DIARIO",
+        "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
+        "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix+PYN3rQVproDIwrUaGR6L/VOgsZCTv44W/xrTNC+pFJw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -1701,25 +1694,11 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcJztuKnoqz4B6jpWzfNBzs5xo0YFP2NraVTanK6Lqi3+PaM0F3uz2SvJzefj9SDlbT53YevjLmuDNdmkcKcoWqluvc7YYmh8iX+OkCWTybadpVWBig1CF6QhEnKuOxqvQ=="
       },
       {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
-        "uri": "J+6SZMcfJA0usTKAjlxwGwJS0vuSSRCHomXmb8SgR0cckFt8Nn8w+/7QVUU9BLms1p9DJ84SOkti1SPuK9/Wfw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
+        "name": "TELEMUNDO",
         "ico": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83DGxQyNb9ccS69xc6sre2VR7fqC2ZYzJcH/tk2eonMmC8mVi15DXzv33ktfsGRLVDYibx1QCCvN/2EAoEOTR31A",
-        "drm_scheme": "clearkey",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/t/e/telemundo.png",
-        "uri": "J+6SZMcfJA0usTKAjlxwGwJS0vuSSRCHomXmb8SgR0cckFt8Nn8w+/7QVUU9BLms1p9DJ84SOkti1SPuK9/Wfw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENotGN1X3E3FCDko0yH7wzog9iKYkltF6tSjNpk3dF54ZA=="
       },
       {
         "name": "NATIONAL GEOGRAPHIC",
@@ -2719,65 +2698,79 @@
         "drm_license_url": ""
       },
       {
+        "name": "GLOBO RJ",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+        "uri": "brWGIYQc4njCGzc8x38KxtYlTpiAXQKUohEPHui8kwfBjvnb+RkvypnYSrBe0u43",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "GLOBO SP",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvP9wD7JzLnbnlp9a+feA2EC6HMmUCMqcrfDSn0iEbhqg=",
+        "uri": "tHvjk3di531pKxPhIB9YVWoTKSFRfGwgTQwVfiZGHYWQh0s+fs/G3wAdAe8nBHMeswEX1UNgQtitBGr8cTpvYVho87lRvJ/FiOAxe87ikiWey6phzKFDj3FSIXxLOOBn6yWZwvekA4OSEIo1DYu5hu93NPaE5evESg/vR1NOO5M=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "GLOBO MG",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvP9wD7JzLnbnlp9a+feA2EP53qmsIfmeRCHzxOdfzgAI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GLOBO BAHIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvP9wD7JzLnbnlp9a+feA2ELhOCouLymWrM9vDqMKakVg=",
+        "uri": "8YXBZFZooe5f2ewgnUMpgAkl9kJ3fi0kb2pKoIU6rs1Ff8nG/zgJRZ+mFIHPmS668+PdZcmL6eKv0eW5pveKHuEMPPPn3DLlpcdg/FperjypdoB72F0Ua/t+qNhUJhEjVyf57E8gajv+ScF6FT4/kIeed4Ranss02tMvwUE0HciH8axZJe/M/eRhlVbbBsKVTfnms9MDa39d0iJrdtk4vw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "GLOBO NORDESTE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYpeKhd9DyfffqorEEc5p+uYP7jOO8UpS/T4oTmarnck1I3ajnTWaiZJwgbIYTKr/2321l+JKk6RVpxHnfEPo/+HSicchz+aCzkELWQyjKo/Jg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GLOBO PORTO ALEGRE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKiRMPpnyA6i1FT7qmePOITI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RECORD NEWS",
-        "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
-        "uri": "qmpp2ZYBi8D30mWnf3FFgI+9e1+raxuV4cjySXCpdOR6PtePt4MIwTc8KX5KtEuCJqQ5gkm1ic10pGZWl2kS48ZMOrXwOrvsD8OSXAJmnERcg2k2r5smT55CA7g7m/lm+1DRD+w2vuVZHaBgih8A7Q==",
+        "uri": "8YXBZFZooe5f2ewgnUMpgAACeOA4M4/9sWyxSZL1b+t1aA+p1TbAxrUtouhZ+M10hF3KsfSn7NTIKY7uIch2AtUZksfxbp/6HcIEOXJx8hJfhS75V0NwhO7RyTVpEzr/B8MnlOfcR+TbbK2HzYrJuS9HFcVVIr65yIXgEY07k9h/gBKroCfE70+27wYZD2ZpAndOxIrcaRBWLox9VUlrqQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "BAND NEWS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png",
-        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqfJiYRnCnxb0kqWFNfyky4XsJbGWA/cfvihv40KLK0ssuuOAJ02ogb/cUnMiHasyNADbErZsI4tuK8IZyCJ7IU4O4bo5/vKjyE8KH/z29rYCF70V/ctByGqw4jkPVx2jgJTf+ChGn6PuZPlezsJeNXcQK34eqOubMjoajczwdNydXPa4dVbEeXYHuPzOKQf8fwWMzTCT2e3yNwaZtwPp1PedFG4pasnJbowGVaOn4UZGtbI1nB5zBPFyyZbU80M3LrHjCCnBA4qP6eHIvJP4iOQCpKXQi8NdYw7XBxlLdXsd4UNsCcYZMTmPgo/7WNQOu345O4tpBs6Gnud47Rn1pzBbT42j3/+k7NQOqPQ3qk11ihOIz8mHBzsoPp252Z0KwFDyJJ2GDpYTjuIY/eVFkkoKb7+TssWamiJKHRncgaU8jjOn/3HHnKXgW1jFmtluPOX+7ulE2uwabvhmmQdmNOovKhz3wfMf7E6n69cx6khm4RqCCjqPLPymHYIR8eSJ56EIubk9UoIUzKKoDWOLI0rcRO2S/Bw+wqBPlc2fRid6b14fuOCOvTdFrqoNTjLraS3U8q+dw0QZG+pN3WA0LCK3uaAmHhi2MKiU8U2ZdD1ygc+BPaQuhkMd2TEzbdnQlcHsguy0gmMxYuqw8ag2PMfrM+IJ6G1RBQVNKvADbAPhsSMOhjsNOngBlcDLTCOnQMhtJOiAxygBd2ucfru/jMmmEs2aoXp3ycfmiB9BGtvAlKrd42Nk4vmKyKATsQKrybCKm1adxzJVx2KjIZdRtxCCtVIB0Pl1jefr0pILibMA5lDWWV93DuSmvPfO6e3UX8Vlz0lHd8swa32GVxqiPUlQkmD5c8+ky2wWajyCmQaLPl7ygTRFaPvJ0Kb08waqGIT6aw44W9/yKPnalqJ7NqA",
+        "uri": "Jx/HomDAeZtTwIPeqP7gmW1Yblac/QxnjHCRv7EDhdbG6P4jfEmGM2BGF6Csg+x5S6SfKef64KtGCen7h+nN52fwj9YFC7SKTeKM5m9DSak=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RECORD NEWS",
+        "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
+        "uri": "s4VbPQWRVxvY7ssoq1pec7AbdDYm6WKZn5mVEXVeiHsEwd1/72jUAXs8nHOQVnwW3YfR1+GLYgzN+SnHlIeTP6hcaiUBXqRRbTyAQEneUsPXP3PxrorTGrwJCLQPt2kN",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CNN BRASIL",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
+        "uri": "8YXBZFZooe5f2ewgnUMpgGr+nuAkQlAJdCmI4Xjr1xe1s0MsLxs3I9VPHk94kZe4a7cHFZuvt8UnoPAFiZESFUJbzaSRMFN3xZUvfsNm52Cr/GuAl13/qnwPP8Yt+oeb+kaivA8Yo9J41VdIZnv/a79XVPbGb8KrX7oIiMb+VpjKiyh2tbcYzBAPMhPcSqcAd+uyYXnfHwLYYbuNy6ey5A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BAND SPORTS",
+        "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
+        "uri": "Jx/HomDAeZtTwIPeqP7gmW1Yblac/QxnjHCRv7EDhdbG6P4jfEmGM2BGF6Csg+x5v/7Z+Rd2IxErvyQjrMFrv/B9v/Nqq7ntZEzwMXlmy88=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SBT",
+        "ico": "https://i.ibb.co/cyWVCGW/sbt-logo-D5896-BC8-BB-seeklogo-com.png",
+        "uri": "8YXBZFZooe5f2ewgnUMpgJoz2hO3sX1mj2jCGYazlMDyxR2SGOpKiLlYRdKi0bndk1pIq9p9hDMtG3S15djvJLZCjQf07iBobwEULz63avE96p3b6OcVgwLJDHadjOV3YeaZAKiu2e/UOo+XyDeoMXGxKHSP5bM1QxGeoroTbQAeVUiQxw+4db0MyPAYO83F/yQL8d8iuSa1drMervb4Lg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RECORD RJ",
-        "ico": "https://i.ibb.co/R4W3Chy/RECORDTV.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKmfvm0cKhs/Fk5U0M+ZWpVs=",
+        "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwTeiHC2doNUI5mMXKIeXrSA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "RECORD SP",
-        "ico": "https://i.ibb.co/R4W3Chy/RECORDTV.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKmfvm0cKhs/Fk5U0M+ZWpVs=",
+        "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwUQ+mzTMGvY48ICz7xrJ+bM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -2792,83 +2785,6 @@
         "name": "GLOBO NEWS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvCRfTLAoLjsp6UC9JcSPTmBP9z3ikSxw0yf/05Tj8XN4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RECORD NEWS",
-        "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKkflPsOa/iBKRY8IiUrZsHQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BAND NEWS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKqQR5pGPGF4QwtTPiqAJeII=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN BRASIL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvORjcNmnqwPnwowtssoIm/D0WqsfTGDYykvcoFIYn1MY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BAND SPORTS",
-        "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKutgViCkP2Z5/itrh8UwOHw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SBT",
-        "ico": "https://i.ibb.co/cyWVCGW/sbt-logo-D5896-BC8-BB-seeklogo-com.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKm371kZBUVU3A9jU8Sm8iLU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RECORD RJ",
-        "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKu2A1nenzfUsq/iPXhdY1xg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RECORD SP",
-        "ico": "https://i.ibb.co/nktXP36/Record-Rio.png",
-        "uri": "IhS/SBHlOL3qMWwZ9lknvg4P1JEYN474Void6FRRmXSdr3R6Ft2ThUOnPwwsvrB2cvlT0f4D/NfExFiJzK9M49giMW3nrm5320c8zwf98Wy3jty/mRVzAtZQkTZFKD623VGP5Zz40lMb9ojFp3gsfQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BAND TV NEWS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/6/61/Band_News_TV_2021.png",
-        "uri": "IhS/SBHlOL3qMWwZ9lknvg4P1JEYN474Void6FRRmXSdr3R6Ft2ThUOnPwwsvrB2cvlT0f4D/NfExFiJzK9M40Edw/89EY6Gdp6kw85xED/a0GeIDT/XrfZJXgfcKoqdp/Ql9lpJh91fwXUPHnkVmA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN BRASIL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
-        "uri": "IhS/SBHlOL3qMWwZ9lknvg4P1JEYN474Void6FRRmXSdr3R6Ft2ThUOnPwwsvrB2cvlT0f4D/NfExFiJzK9M41UjeCTpZqILOTJ+PnTAPcyJlwARd97FYjKQP6b7Zrj/TJkJRY7XMB/XCeGjtCbQlg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SBT SP",
-        "ico": "https://i.ibb.co/cyWVCGW/sbt-logo-D5896-BC8-BB-seeklogo-com.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKm371kZBUVU3A9jU8Sm8iLU=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "VIVA",
-        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-viva-ao-vivo-gratis-24-horas-online.jpg",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKmwdV1jQAbBX7TufcgN15FM=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -4073,6 +3989,13 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
+      {
+        "name": "BEIN *SPORTS",
+        "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
+        "uri": "36+XoQI8b6CUJYqkIhrT6iMl7IkdJ1Zg3Crg7rpbYxQmjlqJQa1962QvIoZwfWweXdIS+7ljpa9Z69f9CwMglodB/gzN7gX5pSeaXqKEIDf5QqCuNq0iNS6PZAJFmECN",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVQW3+Uvh2LgE1LJrh6NlZ5rMtIjkvmJ0mzt9h4an8sPVZSpqW2lECdnu2yrZ76JQL5rIbyRjWcYxqqeF+dkW+NwD23a2kEC+T0Gjbqbn3XmdJ3tTPI4FJbSx4pFiHngrA=="
+      },
       {
         "name": "BEIN SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
