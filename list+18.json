@@ -4069,13 +4069,14 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
-        {
-    "name": "BEIN SPORTS*",
+    {
+    "name": "*BEIN SPORTS",
     "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
     "uri": "QlU1CfbGfNthwpm/QyeTk7IBec8EniHSmUgQO98KbP0uKKUGxANnyE8PS1NoLx3z1DNP4pzmqDNPWMi2XrjvUQ==",
     "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EYImFi9wBVjxvQqNsV7YX+wSMCJrjEnMCHZDU5nPg5vFxzOD1oLtPEquJmqc/lKWUQu4F985u4TBA56kz+3F7WNnObSjEmqlcYr6oI+T1QydYzT4m3RU2fmnrCymbjc5Ww=="
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES1DMRNRiFE7NE9/DsY1msVNNWaEopa7nvIKCRz7EBwVp9ixtTQ0f0fDyrwbhbPxYCZdSHQL0ii6ZvSPumlIPzfDxFcyvaLQhh/ecq9qJAzhGM8SOFTG6TIaazscW0INPQ=="
   },
+
       {
         "name": "BEIN SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
