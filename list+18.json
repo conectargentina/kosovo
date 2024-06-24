@@ -4069,13 +4069,14 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
-  {
-    "name": "BEIN SPORTS",
+ {
+    "name": "BEIN *SPORTS",
     "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
-    "uri": "56RrgpK1wjBcqRUgKpWfKkgt3752xYFek+J+rbPTZ/2cOBf2lKJ+Zzf9GQ/LVEVQMP2zTG2shDdMGrqK7L1tBAxuRegQtrVoaEoPzluFW4E=",
+    "uri": "36+XoQI8b6CUJYqkIhrT6iMl7IkdJ1Zg3Crg7rpbYxQmjlqJQa1962QvIoZwfWweXdIS+7ljpa9Z69f9CwMglodB/gzN7gX5pSeaXqKEIDf5QqCuNq0iNS6PZAJFmECN",
     "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ER10R1Q/f5GXz9pIjaqaoxYLzQHEtP0MVmMqV6762vBpOaFnG3EJMEi3U9S9Vp7rhBQ1z6QAvHboUgaLhath0xoRCRpu5aFT29RT4Pyt6kI/SFzgOoiqWAPL9Z1cxWp+3A=="
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVQW3+Uvh2LgE1LJrh6NlZ5rMtIjkvmJ0mzt9h4an8sPVZSpqW2lECdnu2yrZ76JQL5rIbyRjWcYxqqeF+dkW+NwD23a2kEC+T0Gjbqbn3XmdJ3tTPI4FJbSx4pFiHngrA=="
   },
+
       {
         "name": "BEIN SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
