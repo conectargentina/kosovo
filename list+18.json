@@ -2763,6 +2763,13 @@
     "drm_license_url": ""
   },
   {
+    "name": "BAND RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/500px-Rede_Bandeirantes_logo_2011.svg.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwVxA9cfFRFtHtvAg2yWFuNk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "BAND NEWS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png",
     "uri": "Jx/HomDAeZtTwIPeqP7gmW1Yblac/QxnjHCRv7EDhdbG6P4jfEmGM2BGF6Csg+x5S6SfKef64KtGCen7h+nN52fwj9YFC7SKTeKM5m9DSak=",
@@ -2843,6 +2850,13 @@
     "name": "UFC FIGTH PASS",
     "ico": "https://i.ibb.co/nzTB8zH/10850215-735705459885215-3579440659354800899-n-png.png",
     "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKo5mrRMdbP7I0ZUiC16BqRQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "UFC FIGTH PASS",
+    "ico": "https://i.ibb.co/nzTB8zH/10850215-735705459885215-3579440659354800899-n-png.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwVNVIHo+Xez/aV+VMeZgZqM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3583,6 +3597,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "LIGA 1 MAX***",
+    "ico": "https://i.ibb.co/Xssz7mr/Liga1-Peru-W.png",
+    "uri": "7MiiGZQwJ1F9SzgX7YPfhkr62RtSnJPgYs7rVHp8Na03lX8t+6dAd6zzTjL02vXUlH+UJvbLHTNGqjn4Z8NZMYRuwC2x+Kq7Ygq66kCDwXg=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
       {
         "name": "LIGA 1 MAX 2",
         "ico": "https://i.ibb.co/Xssz7mr/Liga1-Peru-W.png",
