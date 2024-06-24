@@ -526,6 +526,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "COPA AMERICA",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "w+ZT4F8DBHevw4miW0ZP+oRtTCaT4yLwYy7Rzx0+3B8FbfxrzhBSm/+7ZqCq6zw9mMAohyGH1clONQovhAWRwEwNp7BAB6tKqcq6O4SK2X5KAuxMNLLcuk3MFtve6dUYjP7Hy4iXg6bcPzCrQ3keJA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKiQBMNBh3BABEZLyDJtSHrw=",
@@ -3455,6 +3462,48 @@
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
+      },
+      {
+        "name": "SKY SPORTS FOOTBALL",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "iG0YV97Ej1EiDkGsMThEYQZeMFpC5YE3hUCo4nhzXbphpgyj8hW1vRxLYukpV3qXcfYU/ZDchfJntpFW2rQGvNoTtBHS3yK3LUagt/WS4EM704Es8nNb5eUifksQXvCnP9XSes29m+5k1Cp01acR1ceskEopNkRb2WeCUGPdL2o=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltQaLADiOTWI2OnCBKP6SwIHOoMJbGUu+ZPAIxjkirLxmVRP8hsfNbZeNEiTnG9J8AWOiofsj8hmanxt4OtSLxG6DG60kVZX9FKqco098IkVhw=="
+      },
+      {
+        "name": "SKY SPORTS FOOTBALL",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "iG0YV97Ej1EiDkGsMThEYQZeMFpC5YE3hUCo4nhzXbphpgyj8hW1vRxLYukpV3qXcfYU/ZDchfJntpFW2rQGvNoTtBHS3yK3LUagt/WS4EM704Es8nNb5eUifksQXvCnP9XSes29m+5k1Cp01acR1ceskEopNkRb2WeCUGPdL2o=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltQaLADiOTWI2OnCBKP6SwIHOoMJbGUu+ZPAIxjkirLxmVRP8hsfNbZeNEiTnG9J8AWOiofsj8hmanxt4OtSLxG6DG60kVZX9FKqco098IkVhw=="
+      },
+      {
+        "name": "SKY SPORTS PREMIER",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "dgwBdk+fsJTMy5rrBtw75glPwnbvVM2JTGzX48rQNz5QXJyZWLDxuB6kg95ZPm/u0rMo9vefK//Dbm+KdUTGb6ByIQV1av1pABaPEfRepRFevuW0vxUxotB6cL4WTodA9lqZ0k18g/6kywNuvP/DMRuPgtDcLVyV0Ajog5U9qIQmmp/VJsSKz0ssmW2giGFH",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltSDmP0Ho0PDevkUxGyulDJKQ9zVJAgWFcgzWqhRR+ejwdwRTh+YD5tjdgPzarRvrrsf/6EHVVNmeffpEqwxwbiHj988ijWUREZBlQ6LGLHp1A=="
+      },
+      {
+        "name": "SKY SPORTS MIX",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "dgwBdk+fsJTMy5rrBtw75iKeoonz6S4336q2Kfj7vOKlq91fi6tBPdvij0EzqHgtdEx7GlS9IAqj1vKfZ97tBpfSw37idlKFqzAvxZPz9wmj9AM2yojdRNM/1BkWqxIOe8mryuxynoJRFKMevbqpXoZSaMQXUvp2ka1ozKLEALE=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltSLIRBv+F7PsnbhqiRgp4W6dOYezqvUO87rDp3iM7+gjms/DeCIYrlXTC5qx7aP4OShiv0WRyoCEiN1JO+4GX/s6WAeFUnA6NPCPXJKvGuDMA=="
+      },
+      {
+        "name": "SKY SPORTS F1",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "9Ve7Uuh0SCQYTlE/3KHyv9pnu5CT/Se0iuHdA+q3T3CrVD29GnMICorIVOZlnhQUcUT0qQGp0RwZZUoOXMbOwMKh028hXEiQ6XmD5Yy0jOYUx5SdGme6B3k8ylpCwaNM",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltRebQK3JUs/Sbfmt6DPAPfqRpuxvvNo2iWXjS8cePyDoRKtFkmEql7gupNF1B1CTmJO0jBGKuev+0ytnVphmfLUJZ14bCHcon8DV0Lnmrc1mQ=="
+      },
+      {
+        "name": "SKY SPORTS MAIN EVENT",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "dgwBdk+fsJTMy5rrBtw75kl+njsSJJ+CWHUjvGsi/kVMxCKiLbbdjsd6PVPqpeiERh1dJ93ht7E1xMxjwXnAzt3PklKzlfRZiL8Ugnao5vjB80TMYI0mwxIPjigUIe2f1CnPEmJ31WNRBruXPXRq8wzxHu1zxfDOoAk7SdJkaWs=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltQLnsYfDR/lVmC2u2ECUGkNq5CDlhVEr+Z+L4feVVNCGsKnTKquy0Cu4AOP+AxoN1GGZBNOhTBo2Xups+On8bPIPk27JcSzrO7CDA93CW7cPg=="
       }
     ]
   },
@@ -3935,9 +3984,23 @@
     "mode": false,
     "lista": [
       {
+        "name": "VIX+",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/1920px-ViX_Logo.svg.png",
+        "uri": "KhtScBhlGG/7GVe7Cj16k4JCXjDYpmCKqBz1t/VUsC//HiGLR3vPnXCtlvpq/Lyg6+VaiwHY0zt07qihSHE0TmukQL6gdy/4Lb4sEnDR8og=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "TUDN",
         "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
         "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N25T2PxGgeSHIUqm2I7UE25YjvniXY+V+R5KPiH184yyY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TUDN",
+        "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+        "uri": "ru7OnrdCXD6OlatYBSKSBdjfFGv4QfMpsG4U1O10Bu9QFcXN68uanALo57YSIAxJyVBsG+l7yK36uPUq+CxM+1prpvHAFflSuvoZQL3F7Fk=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -4767,6 +4830,13 @@
         "drm_license_url": ""
       },
       {
+        "name": "PRUEBA TIGO",
+        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
+        "uri": "STsNZBese62GQcnpPsvBSRrEbkMcxI40G3zTrXlXGWveU2Mgzq/Y+5nf5IVi2YWLQUVCr32WeZbFpSb0pqBIPg0ppVH6mhavpv2LuFgsf8adT/MzL9gjh8/BO8uenAsV5RuDVP7hULp5iNV22BhdgF1RVZPJbcF1NXpk/WAeXSg=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ec5qsko2mvFaJ4WWDdIJFFzoTxZrIYxxbiSNrrLJD43tp71DUFEfe4qZujzdZm5JBkQ6g4I9x8MoDsg7FuXP85XyuLhnqqHDgGryxDWFCjzDKWci9mPz07LMe6pfhKP0Dw=="
+      },
+      {
         "name": "DUBAI RACING 3",
         "ico": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png",
         "uri": "fUwPD7QS8gxjHOmg284PhHaBo1ZUj2wmC3usgu2FEkXTWXZNS0T2P8bPo0BUv5oQn69IWlwAYWbRGtBzFvVclqwSq+3M+iE7NJ6MMyzJqG/VHs1rLaU3wBICqwtcMpCm",
@@ -4869,6 +4939,13 @@
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhS++dQ2VQaJ9TEKlYBs6ZGCcKKESrF7IZ8+1isS962TB6T2lumQjgn+TYpx5lc7OzRt1pHP6NxHXZiwAfFbMI48C/q+CBcAdJ9FOYa5KgRsaednujOx/Uma/pQ3xjeQuz09VbRCg7B+EbSRuKnkS9w4vjZzBhfRXrAMYd0ot3VU51aM8YXw2HYki7W9JhhaQHd8PqbDTSqyiq7148kJt2ibUsUYKQi5ILJMhY0V+imknhAvMROFqTKNZ7zayTkIq4=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
+      },
+      {
+        "name": "SPORTV TV 1 PT",
+        "ico": "https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png",
+        "uri": "K959uTZRFGFVsBIeljFNryNyDrKNd5UQZB2lSKcNCzMOAUrBBOK9Azqm1azPMhZdBbi+FyGu34PQZ34GqwM+xsi8jeM7+5jzH9/ScCIKzclO16J2Xj+39kv03GLlaCQJWFePOaOMs7kWXvX2au9bHUtzJH/ClOjDrzOwlQ1dJefsgd4cDVF0U8Pifpkvzt0wbYilU1MhDL5ds8V7nfCdAQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETa/uSr05vzDzkc+fV4N38CjB+oXOBo70qv/CWBOxLzKwc5NwQPE09hTlUsXYCyy2S0rxKtMmAp/KG0M6sfVXCHCIvnn7UFUhzmtQ93/WNQJIgdOqB75WWYqpZadldbYbg=="
       }
     ]
   },
