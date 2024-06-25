@@ -1215,12 +1215,26 @@
     "name": "⭕NOVELAS👠",
     "mode": false,
     "lista": [
-        {
+{
     "name": "TLN NOVELAS",
     "ico": "https://television-libre.online/img/tlnovelas.png",
-    "uri": "1Y6p9zQgg8m6NpHSJYDq1sa3MwiiSnPR6z7sw33isZrHwLd7zGgXHwa9AMMnBXUgLK+aQThE33vngxGBLASeS1W3QUv3M2fv2P/ZpofOMSSAzcPfZICuG8tITCU8OQyToLg1g+kr05/B2O0KlO/ZMQ==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENoMHTdsHPS7C/BLf6XCIz4fBWDWb5VfKei/KicVVZJ0KQ=="
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM462a950BQMoH8OIn+g2pgxVA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RCN TELENOVELAS",
+    "ico": "https://television-libre.online/img/rcn.webp",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46pJjt4dMuw2BoQf3IF7oPOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UNIVISIÓN TELENOVELAS",
+    "ico": "https://seeklogo.com/images/U/univision-networks-logo-92A440DCCD-seeklogo.com.png",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46HVukrEr6mD3ncxLNPCge1w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
       {
         "name": "TNT NOVELAS",
