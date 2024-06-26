@@ -560,7 +560,15 @@
     "name": "⚽COPA AMERICA",
     "mode": false,
     "lista": [
- {
+
+       {
+    "name": "COPA AMERICA",
+    "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46LZnpUIFQKrcS2eRyumbrRw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
     "name": "COPA AMERICA",
     "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
     "uri": "w+ZT4F8DBHevw4miW0ZP+oRtTCaT4yLwYy7Rzx0+3B8FbfxrzhBSm/+7ZqCq6zw9mMAohyGH1clONQovhAWRwEwNp7BAB6tKqcq6O4SK2X5KAuxMNLLcuk3MFtve6dUYjP7Hy4iXg6bcPzCrQ3keJA==",
@@ -609,14 +617,7 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
       },
-      {
-        "name": "URUGUAY",
-        "ico": "https://seeklogo.com/images/A/asociacion-uruguaya-de-futbol-logo-8AE2DF5DB7-seeklogo.com.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Gua+mqtBnhjY94Ezkh7p7M6G7dpM8SUklKx01XSZDH71Mo9I47HEtzC/IqhVYqGcUd5nCntmEtqdElp9epq/xF",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
-      },
-      {
+       {
         "name": "PARAGUAY",
         "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ER46U4k9VzANPTMkRy9+z82lp5YPjOqzUfeEHYhDg5Rj1prYq+FFleask5FCdYClQ=",
@@ -659,34 +660,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "BOLIVIA",
-        "ico": "https://www.fbf.com.bo/img/escudo.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTEQqdvgrJIviLy6bqSpjaGlIQR3a86RjIaSr6j7WyM4c=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ECUADOR",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg/285px-Logo_de_la_Federaci%C3%B3n_Ecuatoriana_de_F%C3%BAtbol_%282%29.svg.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiAxFci5Ro5uj5nLZt7KlosQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILE",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/800px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "VENEZUELA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg/800px-Logotipo_de_la_Federaci%C3%B3n_Venezolana_de_F%C3%BAtbol.svg.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo9RyxZQZTRRGw/sliJHAwss9TaABx/UfAgNrGle8X6Yw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-  {
     "name": "MEXICO",
     "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
     "uri": "J+6SZMcfJA0usTKAjlxwG4eFeqmqRBooaL6B0ogSyrh4jfTu4THpI4IGQAqMJ/YJYh7a42/heuHg8GrzzaS14g==",
