@@ -1264,34 +1264,28 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZ1zpvxsv17UTuuLRfYTMC0BtF4z0T4rhrM4t/TQd66uddTNSH+iFthPb2Z4/XkeVpeP9ZJM3SazYSFjMdT2U97wgsSlcJ/A/T1abW9RJNUWtLFStpEvEPp5iM/Noyf7Sw=="
       },
-        {
-    "name": "CORAZÓN*",
-    "ico": "https://television-libre.online/img/azcorazon.png",
-    "uri": "s4VbPQWRVxvY7ssoq1pec7AbdDYm6WKZn5mVEXVeiHuSBPdTuKW70+xhdcuTN9PftmnwzqHH6FBr1zhmCqyfGni36q77uOIO8FYdcrJmvBQMqucngonrhW6njXrFhrZ7",
+  {
+    "name": "RCN TELENOVELAS",
+    "ico": "https://television-libre.online/img/rcn.webp",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46pJjt4dMuw2BoQf3IF7oPOQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LAS ESTRELLAS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Las_estrellas_2017.jpg/600px-Las_estrellas_2017.jpg",
-    "uri": "q0Mrg9dm9tI74UiA87XQ1sketYCWhXiqXASFvIRzasZzi+TS+dzExBifKEU9PotL+ywYPNQDvI+qZKdachPyEoqurJ0P9Yzd9GoP38knwEUkoCaO2je8l33GrPODXqL8ikfPP/RDks7egFJ5GqwxYxIUZy+YkG8zKjUpVWj62bBbghIrlJxjRh67v3Q7DLGclbhReFFReHJheBr4BdnFDTEgTokITe6aidC1gBkE6ly0v8q8hscAmdFifCSh6b5D8zCkP1mAwT4kbpWRL8US54FOZ1kdEPCt+JBPuoVYNFNIedxGclKURdafno5qsfj7HQgmxeNfQVp7WxGTs2xrsxm14uoP+WAJQ5rGjITq/2tJq34ebiggEXdJwoPhKgIJ70EwMW4N+a+5OABVzY2pSsZrWfvMvqmXn6jSMCo/Mc9TtKmitC/YVEBN0WR0S4OZhf0hOfn5Q2cFVUxDhozEceE++0dgp4wJj/LGdz3ezO3GC/lywmJC10lI0P+o2lyLNKdJW0e5hJkgpdC1s18ejzbJcoEiQnV0heX716Yx/Oi/cmP/VLfFdfkL6VO/Bf+yMJODqQcX3Gq1HnT8mbXq9lRKbUWPnSHMC8xXFb7GnfRnohE/LXc1MU7Qhw4Rf+sVZMOjfwcuFLrVcynf2soHjLylseENNvEGn02ybRbCwp5cjsrOBCZ1kgxIZ+jbY57E/9qPmLJfbMYDlyKv3A4ICa6pdGdijEyl5gwKBVChSfQFfA3lDWR1/u+4A0M3tsSHxtOhsGUC+NlTrOwJ5iBMpJVTDtRWWGbiibST4BQhRAB7SAd+h4HoB85M+bl/U/hEmztz6/411oyMfN9Rl2rN8Fb+oLrX+wSo/s346Aq3Vonrs3Sy+i99K/Xkoymrrm/gI9OrXZdT4h+RQnVvSSJgSd8iFiskLhNwx3mRVCrX4NAYpr1w8weisdoc0WXv+4vWn6KD5bWFqZog/pCefwnf0eVhgT/EPvFHuPt+oagecf08ndEz53jpX/hvhxJK1izFaWYQlLQkaD6qJowEpOl7xaaQ7L8JQ8vKF8GU/8GsXJavpXDE0ZgAlUH5SEVj9gVy1fOouCVHz9J6B9vVDM3i3O8b9UWJXnFS8xP2tYEkf7s8orCq0QLP+JbiKACsnDiRxkDlTp3LXwNzvJKd4LKDelRp1X8DpYjkV+6JCtzYPH4eHkuZaFNiNa9m5Ccy91OzPItRxcD/iUAD/E6TQkFf+g0HJlqzQdcoq9HpNrrAcz9FL70EipeUiKhXcCTfQaAK3fl1ilf+rrq6OKFhkZoL33GtFvP2zAEamy8Yy9UooRDixQLwrIbwjmpoJeCsVJ3feaUBQ0F9g2K1e18QgeSOByzuZo6D+v7pSeX4Af4zBPjTfF2wKJyCFOYRDHmCSLDN",
+    "name": "CORAZÓN*",
+    "ico": "https://television-libre.online/img/azcorazon.png",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46Ap5gaWrCc8J2UjLAuvjEYA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-      {
-        "name": "RCN TELENOVELAS",
-        "ico": "https://television-libre.online/img/rcn.webp",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfK2+GuA+i9n25xThG5ztLDM62sIG95Yyky+yfG3+VS7+w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UNIVISIÓN TELENOVELAS",
-        "ico": "https://seeklogo.com/images/U/univision-networks-logo-92A440DCCD-seeklogo.com.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfLPCbqz9Lqpyx0AhcraWr6fApiSrw9aMnm+jhdbcOEPcA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+           {
+    "name": "TLN NOVELAS",
+    "ico": "https://television-libre.online/img/tlnovelas.png",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM462a950BQMoH8OIn+g2pgxVA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
