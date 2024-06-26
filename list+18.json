@@ -1696,6 +1696,13 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcJztuKnoqz4B6jpWzfNBzs5xo0YFP2NraVTanK6Lqi3+PaM0F3uz2SvJzefj9SDlbT53YevjLmuDNdmkcKcoWqluvc7YYmh8iX+OkCWTybadpVWBig1CF6QhEnKuOxqvQ=="
   },
+  {
+    "name": "EL TIEMPO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png",
+    "uri": "2kFHVcaqhtBAALWntg9z14z6LdQ8wQBDwk7CQ+u/4M/mupkJQe2B1AC6bYa+4VU35deykH+RrQXOBEv9S1WhKHOcfFa7iBpHwpG3Ctsyp0Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
  {
     "name": "TELEMUNDO",
     "ico": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
@@ -2679,6 +2686,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+        {
+    "name": "RADIO TUPI RJ",
+    "ico": "https://www.abi.org.br/wp-content/uploads/2016/12/super-radio-tupi.jpg",
+    "uri": "gzw8ItTZaQwqCzd8/bEiivYo4OkjczrSIcufvx/EUNjPtOjIU1bSLxXy4IVuktq5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "RADIO 93 RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/93_FM_%28Rio_de_Janeiro%29_logo.png/640px-93_FM_%28Rio_de_Janeiro%29_logo.png-CBN_logo.svg.png",
