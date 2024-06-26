@@ -652,13 +652,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "PERU",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubokOfpOM8GVWzQhKped2I+BhRassi/wa/r4EkE17ynAJI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+   {
+    "name": "PERU",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46gBw8vHlEPM7a6rU60Yy1YQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
     "name": "MEXICO",
     "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
@@ -2693,7 +2693,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-
       {
         "name": "GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
@@ -2701,6 +2700,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GLOBO RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46P8R+//mpAnYX5HlMR3fKTA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 {
     "name": "GLOBO RJ",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
@@ -2831,6 +2837,13 @@
     "name": "SPORT TV",
     "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
     "uri": "WTg+xpkqAAFkRv1uTA0KFiQDA+Evz6Z4TFoWeCpknIFVHIsd7I0JEwXa4dABwKBh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM463xo/YaGPXsLt5aCmH6G9WQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
