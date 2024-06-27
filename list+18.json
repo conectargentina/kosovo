@@ -4044,7 +4044,14 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
- {
+        {
+    "name": "PREMIER SPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/413px-Premier_sports_logo_2018.svg.png",
+    "uri": "HJp5F1YEG+1cDiBaAVA8Vw5lkN3+wJag07WokU+6stSTw/sBGjIvLrpPK3lj/rZLJvpSyHBY6jop0Kw0ZqclUXjZQQCSMMd58W3+XQ3tNkQ=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcwgML+QuixvQ8lzfQgFqnhXyWTShe1ULNoQh58QddA6UeYKlABCHJ5RChHr3UsrSLAuluQB6qhxarIINTbGumRIZmDVpQwMGHRfi5DiEOeC4rZU3Sf2X5wa5TtO5S0LdA=="
+  },
+      {
     "name": "BEIN *SPORTS",
     "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
     "uri": "36+XoQI8b6CUJYqkIhrT6iMl7IkdJ1Zg3Crg7rpbYxQmjlqJQa1962QvIoZwfWweXdIS+7ljpa9Z69f9CwMglodB/gzN7gX5pSeaXqKEIDf5QqCuNq0iNS6PZAJFmECN",
