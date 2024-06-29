@@ -1805,47 +1805,47 @@
     "mode": false,
     "lista": [
       {
-    "name": "RAKUTEN ACCIÓN",
-    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
-    "uri": "2ggOqA7wt/lIqO7E3ObMAsogTzz7OUt5G+j8zGH2HgMkc4azjfmSh84mYtvso9Et3mUpVQgcjJsxM9k6lVCfOQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN FAMILY",
-    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
-    "uri": "2ggOqA7wt/lIqO7E3ObMAsogTzz7OUt5G+j8zGH2HgMkc4azjfmSh84mYtvso9Et3mUpVQgcjJsxM9k6lVCfOQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN TOPFREE",
-    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
-    "uri": "2ggOqA7wt/lIqO7E3ObMAh0GUNysbzKTwDKPtsBmNE8yplSEImKHVJQZofVfUQepLaRkjPZbKRYNRqxJCV7Lvw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN MYTIMES",
-    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
-    "uri": "VKyiIKq51GisFWe3iakR/Q5PaPPyKgm3U8Rw4eV8Dc8YDJzJi94LSXS7YwzyeoUn1E7+TFRGlN6dxIs8q+pobA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN TVSHOWS",
-    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
-    "uri": "2ggOqA7wt/lIqO7E3ObMAug0Y9mcVfpx96ciLUx7OkICgGeZ8WkGdQuK/F8+B0sKC09EbywO25NTI4KWiKDMAg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RAKUTEN ROMANCE",
-    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
-    "uri": "3XPUcjQn6uoohwm2mzasn6h1HJBBO5tecHj74XzLXcf9k6ICkhfe7u3s0p4k2ay6oYIYSPnOYehaOQFr4ZuN6f+fT9RrazzWTOyl3pzaf8b3RcOqgYzMaiHzUM5LEFcdC2L7bKmHVv61WUypCLQPy5Wzq1RUpUfXvTLm3aSq1i7cbNBDQICI7/e02yUumFXfodMnFVFREX1vPpp/0O1oxis3mD7umuBX2uyZjFC50rA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+        "name": "RAKUTEN ACCIÓN",
+        "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+        "uri": "2ggOqA7wt/lIqO7E3ObMAsogTzz7OUt5G+j8zGH2HgMkc4azjfmSh84mYtvso9Et3mUpVQgcjJsxM9k6lVCfOQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAKUTEN FAMILY",
+        "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+        "uri": "2ggOqA7wt/lIqO7E3ObMAsogTzz7OUt5G+j8zGH2HgMkc4azjfmSh84mYtvso9Et3mUpVQgcjJsxM9k6lVCfOQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAKUTEN TOPFREE",
+        "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+        "uri": "2ggOqA7wt/lIqO7E3ObMAh0GUNysbzKTwDKPtsBmNE8yplSEImKHVJQZofVfUQepLaRkjPZbKRYNRqxJCV7Lvw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAKUTEN MYTIMES",
+        "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+        "uri": "VKyiIKq51GisFWe3iakR/Q5PaPPyKgm3U8Rw4eV8Dc8YDJzJi94LSXS7YwzyeoUn1E7+TFRGlN6dxIs8q+pobA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAKUTEN TVSHOWS",
+        "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+        "uri": "2ggOqA7wt/lIqO7E3ObMAug0Y9mcVfpx96ciLUx7OkICgGeZ8WkGdQuK/F8+B0sKC09EbywO25NTI4KWiKDMAg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAKUTEN ROMANCE",
+        "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+        "uri": "3XPUcjQn6uoohwm2mzasn6h1HJBBO5tecHj74XzLXcf9k6ICkhfe7u3s0p4k2ay6oYIYSPnOYehaOQFr4ZuN6f+fT9RrazzWTOyl3pzaf8b3RcOqgYzMaiHzUM5LEFcdC2L7bKmHVv61WUypCLQPy5Wzq1RUpUfXvTLm3aSq1i7cbNBDQICI7/e02yUumFXfodMnFVFREX1vPpp/0O1oxis3mD7umuBX2uyZjFC50rA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
@@ -2870,7 +2870,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-           {
+      {
         "name": "GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46P8R+//mpAnYX5HlMR3fKTA==",
@@ -2919,20 +2919,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-    {
-    "name": "MODO VIAGEM",
-    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-modo-viagem-ao-vivo-no-celular-online-gratis.jpg",
-    "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwVBmQFYOrcsoa51HmUKcpOc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RECORD NEWS",
-    "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
-    "uri": "s4VbPQWRVxvY7ssoq1pec7AbdDYm6WKZn5mVEXVeiHtDmWVuMFHc4UfLDv2VEgLXGxf2MRsdBtSk+T206RWvyBxhN2FAUBRyg84yDCJqEHDIF92eQbpkhTQXpuMDDQpN",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "MODO VIAGEM",
+        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-modo-viagem-ao-vivo-no-celular-online-gratis.jpg",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwVBmQFYOrcsoa51HmUKcpOc=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RECORD NEWS",
+        "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
+        "uri": "s4VbPQWRVxvY7ssoq1pec7AbdDYm6WKZn5mVEXVeiHtDmWVuMFHc4UfLDv2VEgLXGxf2MRsdBtSk+T206RWvyBxhN2FAUBRyg84yDCJqEHDIF92eQbpkhTQXpuMDDQpN",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "CNN BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
@@ -3010,21 +3010,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-        {
-    "name": "GLOBO NEWS",
-    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
-    "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwaivBlh/7HalfiQacyW+wU0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GLOBO NEWS2",
-    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
-    "uri": "8YXBZFZooe5f2ewgnUMpgAACeOA4M4/9sWyxSZL1b+seKhaLtm4o3L9xZXgW1d6HF/6ST6NPu5ii7Plz0RmHPZwmqNWvUDLZnTARsRyQwIQe9RLR8lFH6JdWvEpI/33Mkx95PiNBHVdBoPEDsNUXBw9Kec7qTbEJ0fiq+s+HddEhNN0K3IJ7fRqkQ/RYQkJmHZWAXZH2J+EPDqKU+Q2tsQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
- 
+      {
+        "name": "GLOBO NEWS",
+        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwaivBlh/7HalfiQacyW+wU0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GLOBO NEWS2",
+        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
+        "uri": "8YXBZFZooe5f2ewgnUMpgAACeOA4M4/9sWyxSZL1b+seKhaLtm4o3L9xZXgW1d6HF/6ST6NPu5ii7Plz0RmHPZwmqNWvUDLZnTARsRyQwIQe9RLR8lFH6JdWvEpI/33Mkx95PiNBHVdBoPEDsNUXBw9Kec7qTbEJ0fiq+s+HddEhNN0K3IJ7fRqkQ/RYQkJmHZWAXZH2J+EPDqKU+Q2tsQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
     ]
   },
   {
