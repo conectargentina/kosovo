@@ -693,11 +693,18 @@
         "drm_license_url": ""
       },
     {
-    "name": "EURO COPA CHANNEL",
+    "name": "EURO 2024",
     "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
     "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Wsc+I8rg5yKF5A+EKdlzGnXz7BNgIJ2Kis2ckinmOCeiibAm3Am5EuXEvgc4fX+BIofeJE7UbT6MfYiZea2agFcw==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENouIi/1FUnObNGaZX1uoxNhuovLufSttVJYtZPBnigEzw=="
+  },
+  {
+    "name": "V SPORT 1",
+    "ico": "https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png?t=1663546986",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Wsc+I8rg5yKF5A+EKdlzGnXz7BNgIJ2Kis2ckinmOCeiibAm3Am5EuXEvgc4fX+BIofeJE7UbT6MfYiZea2agFcw==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eeu6fwWw9r44xfTaF00mtQApvSULavFj7Jeb0eHpgzM3wOkVlnd/J2VfXgV1J85Dvzv14CiK64sK0jVa9IcTw5qH2+FeivnlUwp0+IS81y/bQErwfSAmXzBQ0vro9emG7Q=="
   },
       {
         "name": "BRASIL",
