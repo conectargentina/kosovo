@@ -1,4 +1,110 @@
 [
+ 
+  {
+    "name": "⭐PELICULAS",
+    "mode": false,
+    "lista": [
+  {
+    "name": "EN LAS PROFUNDIDADES DEL SENA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww9s0QSZ06WIxyZAKAdg6nqfE5v.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4xqMPVBithi4W9qfYfDCzM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA POSESIÓN DE MERCY BLACK",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FANTASÍA",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ46FLrTOkJqIBA4J9LALN8w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CADAVER",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TE VEO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs91aIwM7dB152Wbg84LVrpFM2T.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQoIqBIBTba0jUSqqfSKjCLLc3qqoW5e1XCxA2fz+0Q1Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FUIMOS HEROES",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA PRIMERA PROFECÍA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ+q+HNXiBZXGNrsurkfBuMY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "IMAGINARY",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ1zXeCcvWLhn4qhBiKkJUnM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA HERENCIA TIENE UN PRECIO",
+    "ico": "https://panel.budtv-ultra.com/posters/w0N9wVv0904itL2Gwdvon2AR4IU.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQyQOIBjjGGYvc3B3zyzIGwk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL MINISTERIO DE LA GUERRA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPNumPkIkv9lm51qpffVJEhtlC7.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4UDgQLvPpeFRTnDpk1WI2s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA IDEA DE TENERTE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ/Otzgz/4BNWGTifhjkglRo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "INFIEL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUpWRFvvN6l0LUIJbFNZw4jWvB.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9b746T3ANnuy3HOugvtl37x6paFS6JhhBcD96HJrWeP8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UN ASUNTO FAMILIAR",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cARSBgATiIZarMqsTFjdVOOjupl.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4tTvN1GkUFP7d/ZWTztb0M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BIONICOS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ5yj3mfybZGNJ66INkmcSeM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+    
   {
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
@@ -2778,6 +2884,48 @@
     "drm_license_url": ""
   },
   {
+    "name": "CBN RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaiAGDFDGRfYVRyx9WUwnFkfyJIKnTJSjlq6g3+wky37dc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BAND RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/800px-Rede_Bandeirantes_logo_2018.svg.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaixrYMmPJVsM7agpb6gOQK0S/pA4eVsFf4hWBDEpDrMT8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BAND BAHIA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/800px-Rede_Bandeirantes_logo_2018.svg.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaixrYMmPJVsM7agpb6gOQK0aOPZ0yIDBf6PnzAcQtd644=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVE BAHIA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/800px-Rede_Bandeirantes_logo_2018.svg.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaiAGDFDGRfYVRyx9WUwnFkf6VFuLGo33cpEZtpAXO1MYU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BAND RS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/800px-Rede_Bandeirantes_logo_2018.svg.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaixrYMmPJVsM7agpb6gOQK0QRhJjlDvc7Ad9fCCkVW/9c=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RECORD RJ",
+    "ico": "https://fenaj.org.br/wp-content/uploads/2023/09/RJ-RECORD-Rio-de-janeiro.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaiAGDFDGRfYVRyx9WUwnFkfzMoAyXVZDvdBUOp9KGlngg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "BAND SPORTS",
     "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
     "uri": "Jx/HomDAeZtTwIPeqP7gmW1Yblac/QxnjHCRv7EDhdbG6P4jfEmGM2BGF6Csg+x5v/7Z+Rd2IxErvyQjrMFrv/B9v/Nqq7ntZEzwMXlmy88=",
@@ -2862,9 +3010,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "SPORT TV**",
+    "name": "SPORT TV",
     "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
-    "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqc9QXkoNZBJKIOJA6oRGz6CPc+r2IQrsJ2lsxZfHWTWMWabbky0mhGY2UbX6IG2jp8v+l+E0bix+zh8G2/xYRFg4ky7KB+ns8hQcOymT1KW+xPOUsi28byCwlZGoRdliMOqhfLGeKro/ZXBBqI0jek7q5u4t+6Ou0i2Cuu9XUR4ru9xf+eN/zlhamxGMcWbMCd7nkVsCeZST2Ta3vplNn7ubZcbU3Cb7khL/IUwgIw4UXKmD6m7xEx9rEcU9xO4sg9nLLqIRJB5osW4/Gu+i7KD4MS6zvxj5HFakx5N4tmcMgKl+x54MOaWIrJjfVUb8o6oWlCiPuuEhnbOTcDFd477z40fGeOwg2Sn6cQjCKnCkbUWPCM+GQOBMaowvSCcaLLUkYc+ErK2/V6CYiM50jowCLcz2WrwvivKIbkMZpccKWtNqR2Mts5vCc2WON831w/pqn+0X42ernUmQOu6gwFtFW9U/wo9R9XDnH9aJp7EJIqwpbFtDdy/ziBXyqBjmJHFOZVOhO+GN+zwB4nQSV+DK6cNHesmdmQmW4kmbsAjPs6vEA35/dnwl5TfGDbYdEA5ONq6bxrwtSfb2gWy3KwSAz1S2uZtAPvCKPRXzJYdv80qiG/tyva8qVq3zHlJkmmAAfEVnSPlkwiZ4dnSxHny0M7UrrSFJUeGjx+lDWLARvVsg2WY542gA3UMS4wTohAMcJp75OzOASJP9JyTrGvf4ZH4YFpjIQctFxDFlQsWOPSO42n472eVMKOCRS7mBp74nkrKpnSyzHpV0Jix03Mstq0aXjDwPpDCfELwa73gv1Q4kZFXo4v4sJGMAe/EDhZZzVmKaErqAxr6pN8aRDSQ",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaisZBFqivwJdNncOC1IfazTJ0H7n6QwWqidu4f31+GJ5Y=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2910,27 +3058,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "STAR+ 1",
-        "ico": "https://television-libre.online/img/starplus.webp",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKtGEGRuf/fYSKrUFTaLYEhc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+ 2",
-        "ico": "https://television-libre.online/img/starplus.webp",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKnowPTyyRxRNQOnKNzeuZso=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "STAR+ 3",
-        "ico": "https://television-libre.online/img/starplus.webp",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKiRuBlVVZq19dCIQikI8+og=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+{
+    "name": "CAZÉ TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaiAGDFDGRfYVRyx9WUwnFkf0J6jsM6LtoUsILWy7rhPCE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GOAT TV",
+    "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaiAGDFDGRfYVRyx9WUwnFkf+I01Nl7dW2tpGBp/elgzy8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "COMBATE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png",
@@ -3008,6 +3149,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "ELEVEN SPORTS",
+    "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+    "uri": "yitOZ2gj+FDNIK98GNDVP0jBne+NWbqeEsILrYO57Oy8p1wCBY0aLVkn3Wh5KCaisZBFqivwJdNncOC1IfazTF39rv9NviBEc4hxQVm77ws=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "ELEVEN SPORTS",
         "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
@@ -3571,6 +3719,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+     
       {
         "name": "CDO 2",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
@@ -4043,14 +4192,34 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
- {
+        {
+    "name": "PREMIER SPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/413px-Premier_sports_logo_2018.svg.png",
+    "uri": "HJp5F1YEG+1cDiBaAVA8Vw5lkN3+wJag07WokU+6stSTw/sBGjIvLrpPK3lj/rZLJvpSyHBY6jop0Kw0ZqclUXjZQQCSMMd58W3+XQ3tNkQ=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcwgML+QuixvQ8lzfQgFqnhXyWTShe1ULNoQh58QddA6UeYKlABCHJ5RChHr3UsrSLAuluQB6qhxarIINTbGumRIZmDVpQwMGHRfi5DiEOeC4rZU3Sf2X5wa5TtO5S0LdA=="
+  },
+        {
+    "name": "SKY SPORTS ITALIA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png",
+    "uri": "9Ve7Uuh0SCQYTlE/3KHyv4Vhe/KstMZe491L7n9mjHmqoRU+aiJKJCAqN0Y9KJtw76nD5g9bm6GyH8sLxd7AAfTBTIA+GQLem2cpntORlEqYQ4x6F7YHVHjV7bHCI/ui",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ea2hD/ugnn6zs0xhr8YDmNj3Pp9roho2ClXIIJlxehTBpqCgSk99POKi751m3A4okG99Btou1GHi8YQeDCqXouErUk64ljm6FmJL6sO/UFcCAqBg5EVIov4QhJStyWzIow=="
+  },
+        {
+    "name": "SKY SPORTS PREMIER",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png",
+    "uri": "dgwBdk+fsJTMy5rrBtw75glPwnbvVM2JTGzX48rQNz5QXJyZWLDxuB6kg95ZPm/u0rMo9vefK//Dbm+KdUTGb6ByIQV1av1pABaPEfRepRFevuW0vxUxotB6cL4WTodA9lqZ0k18g/6kywNuvP/DMRuPgtDcLVyV0Ajog5U9qIQmmp/VJsSKz0ssmW2giGFH",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltTilTu34RTRkP7YA1HTlf0jP4c7jvFUXYQ88nIdQpCSjkVZPORy4N2QQcqhl6jVJoctyzSOnQG2NzYhM8It2YH84QSlAI3+PTyntL3v6Mx9yQ=="
+  },
+      {
     "name": "BEIN *SPORTS",
     "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
     "uri": "36+XoQI8b6CUJYqkIhrT6iMl7IkdJ1Zg3Crg7rpbYxQmjlqJQa1962QvIoZwfWweXdIS+7ljpa9Z69f9CwMglodB/gzN7gX5pSeaXqKEIDf5QqCuNq0iNS6PZAJFmECN",
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVQW3+Uvh2LgE1LJrh6NlZ5rMtIjkvmJ0mzt9h4an8sPVZSpqW2lECdnu2yrZ76JQL5rIbyRjWcYxqqeF+dkW+NwD23a2kEC+T0Gjbqbn3XmdJ3tTPI4FJbSx4pFiHngrA=="
   },
-
       {
         "name": "BEIN SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
