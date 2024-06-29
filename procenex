@@ -18,6 +18,27 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+{
+    "name": "VIERNES NEGRO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4LWnCBeAl6ifC9MCL20P80rxv8.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQx3ety2Oyqr18KLs8FI4ybw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MISTERIO A LA VISTA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jce1QvM2sma0TKYckNmIKzjhHC.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQx3ety2Oyqr18KLs8FI4ybw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "REINO ANIMAL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWh4BiNEmg7d91ZOXPzdkRo0KSO.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ70g9kcEpi2xz7zJQHZ4jbY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "FANTASÍA",
     "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg",
@@ -3232,6 +3253,96 @@
     "uri": "p4sQSidtOYo/o0nVDpYfzWvwIAcTHcCXl2EqpvthoVnIn8bTlW3b7m39HBbRKP6WtJaaZvnkguqYaMrzXyncUReY/n0/qHIj5bKbnv2ebDoQGOSxqAkJtuJUOEpZF/xoOkOXVHXYgUJtQThKQQ3VBa9MrY58mya0IMMAneTK5SU=",
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltTpIXsDbck1HwN+mlvQG/y/WDPa0D6fu/6kMkaYD4jSel7tOH8JImmme8NQb1rQyxTDqDwi4h650TedAYd8iAu35LxwkdhAAYcj+bLrbmNGBg=="
+  }
+    ]
+  },
+  {
+    "name": "⚽DEPORTES PORTUGAL",
+    "mode": false,
+    "lista": [
+     {
+    "name": "CANAL 11",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiQ3LiUbkIQQP52zaX1aSJdw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "A BOLA",
+    "ico": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/f9fd5953232115.5bbf8f633c5d9.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCipzoTfvOsQDHcOB5vAwIaqw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV +",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCilZvp3uwlYoAvLmwXXicVzQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 1",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCi/VM3Nts1NOefHyF0hd7h6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 2",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCi4hN198g97DlepIVXeCwp2w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 3",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCipj7l1K4BvGk2y7VhiHVUDA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 4",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCideTmr6DRPfdwFrDa7SAhvw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 5",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCitnpwJepiKznHwB+VNdJ4Fg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV NBA",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiTVh1z/1gMNfbQP5MbCeZPw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EUROSPORT 1",
+    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_4553.png.0b24fa22d930d321d3aaec7816ea25d3.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiNHklmnondrjJgg4T7ZJ34Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EUROSPORT 2",
+    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_37351.png.e15e216910f2abef6a73cf2a2536e428.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCivadmAcHxeQShThanldgIvA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV NBA",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiTVh1z/1gMNfbQP5MbCeZPw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
     ]
   },
