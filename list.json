@@ -3251,90 +3251,69 @@
     ]
   },
   {
-    "name": "⚽DEPORTES PORTUGAL",
+    "name": "⚽PLATAFORMAS",
     "mode": false,
     "lista": [
       {
-        "name": "CANAL 11",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiQ3LiUbkIQQP52zaX1aSJdw==",
+        "name": "APPLE TV 1",
+        "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwfivaPIbm/js6v/kHiSzZ8g=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "A BOLA",
-        "ico": "https://mir-s3-cdn-cf.behance.net/project_modules/fs/f9fd5953232115.5bbf8f633c5d9.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCipzoTfvOsQDHcOB5vAwIaqw==",
+        "name": "APPLE TV 2",
+        "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwTcREsizTiW325wZa7VY76E=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV +",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCilZvp3uwlYoAvLmwXXicVzQ==",
+        "name": "APPLE TV 3",
+        "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwek6pxo5NrkWoM7m+ghmjCI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV 1",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCi/VM3Nts1NOefHyF0hd7h6w==",
+        "name": "APPLE TV 4",
+        "ico": "https://i.ibb.co/R22WjmQ/mls-season-pass-logo-1-D990447-E0-seeklogo-com.png",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwTvYucPCLoEm64fV6NfC++M=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV 2",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCi4hN198g97DlepIVXeCwp2w==",
+        "name": "STAR+ 1",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwUZADf1SveYqf+r/o2b7VLs=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV 3",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCipj7l1K4BvGk2y7VhiHVUDA==",
+        "name": "STAR+ 2",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwRSvqwwQPGKGJGqteuQKIw4=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV 4",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCideTmr6DRPfdwFrDa7SAhvw==",
+        "name": "STAR+ 3",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwWO/fOsVK7iEhPr98OXykGw=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV 5",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCitnpwJepiKznHwB+VNdJ4Fg==",
+        "name": "STAR+ 4",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwURQ32yeHGJ7jEZP/H2JS2k=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV NBA",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiTVh1z/1gMNfbQP5MbCeZPw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 1",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_4553.png.0b24fa22d930d321d3aaec7816ea25d3.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiNHklmnondrjJgg4T7ZJ34Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EUROSPORT 2",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/large.gallery_11278_7_37351.png.e15e216910f2abef6a73cf2a2536e428.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCivadmAcHxeQShThanldgIvA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV NBA",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiTVh1z/1gMNfbQP5MbCeZPw==",
+        "name": "STAR+ 5",
+        "ico": "https://i.ibb.co/YhLFdC5/562158.webp",
+        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwas9rGLxs/n1Uf5nJ7axPZM=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
