@@ -1,4 +1,76 @@
 [
+ 
+  {
+    "name": "PELICULAS DEL MES",
+    "mode": false,
+    "lista": [
+   {
+    "name": "REVUELTO",
+    "ico": "https://panel.budtv-ultra.com/posters/wDf3FFcVsiv6rd8zeUYgcnrS1BK.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSOUE+NbGiCiMcqQmZ0AkCbQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VOLUNTAD",
+    "ico": "https://panel.budtv-ultra.com/posters/pfw2fYKCJWSxgUXkHcJM4kPlO2n.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSht2qu4+G76X5Nu0xSZWjLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRETOS FAMILIARES",
+    "ico": "https://panel.budtv-ultra.com/posters/eUSnJIhAqsEbtwBJLqPyZZjSEM9.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSrAnscZiq3EgVxH/CLm89xQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ARCADIAN",
+    "ico": "https://panel.budtv-ultra.com/posters/1blZfK6KtBkCGWeo7iIPlLAzzqr.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSjdWDC2M+M/f0ZiMr7Ohrbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA COCINA",
+    "ico": "https://panel.budtv-ultra.com/posters/aEHpKFCLWvVTIUM8gr4m7cfj8Bf.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSWpKe0zmMrFHqXEt68OQlFA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "IMAGINARY",
+    "ico": "https://panel.budtv-ultra.com/posters/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSqBIvBy5BXyIi4vkzDDW9Pw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA HERENCIA TIENE UN PRECIO",
+    "ico": "https://panel.budtv-ultra.com/posters/w0N9wVv0904itL2Gwdvon2AR4IU.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSGkRFsW83wl6U/R+eYo0YaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BIONICOS",
+    "ico": "https://panel.budtv-ultra.com/posters/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSGkRFsW83wl6U/R+eYo0YaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPECIALISTA",
+    "ico": "https://panel.budtv-ultra.com/posters/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg",
+    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaS+HSELVK6B4A6zm+BHrHYbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+    ]
+  },
+    
   {
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
