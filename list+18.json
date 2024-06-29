@@ -682,7 +682,7 @@
     ]
   },
   {
-    "name": "⚽COPA AMERICA",
+    "name": "⚽COPA AMERICA Y EURO",
     "mode": false,
     "lista": [
       {
@@ -692,13 +692,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "COPA AMERICA",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "w+ZT4F8DBHevw4miW0ZP+oRtTCaT4yLwYy7Rzx0+3B8FbfxrzhBSm/+7ZqCq6zw9mMAohyGH1clONQovhAWRwEwNp7BAB6tKqcq6O4SK2X5KAuxMNLLcuk3MFtve6dUYjP7Hy4iXg6bcPzCrQ3keJA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    {
+    "name": "EURO 2024*",
+    "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Wsc+I8rg5yKF5A+EKdlzGnXz7BNgIJ2Kis2ckinmOCeiibAm3Am5EuXEvgc4fX+BIofeJE7UbT6MfYiZea2agFcw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
       {
         "name": "BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
