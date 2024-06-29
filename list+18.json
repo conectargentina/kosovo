@@ -1,17 +1,107 @@
 [
  
   {
-    "name": "PELICULAS DEL MES",
+    "name": "⭐PELICULAS",
     "mode": false,
     "lista": [
-   {
-    "name": "PRUEBA",
-    "ico": "https://panel.budtv-ultra.com/posters/wDf3FFcVsiv6rd8zeUYgcnrS1BK.jpg",
-    "uri": "fJ/TVFZByShgZmIMkJ68WuQlXBbLZROd4jNsNA+MUzGwqm2pCxXMxsrGMh6UdYaSOUE+NbGiCiMcqQmZ0AkCbQ==",
+  {
+    "name": "EN LAS PROFUNDIDADES DEL SENA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww9s0QSZ06WIxyZAKAdg6nqfE5v.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4xqMPVBithi4W9qfYfDCzM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA POSESIÓN DE MERCY BLACK",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FANTASÍA",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ46FLrTOkJqIBA4J9LALN8w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CADAVER",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TE VEO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs91aIwM7dB152Wbg84LVrpFM2T.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQoIqBIBTba0jUSqqfSKjCLLc3qqoW5e1XCxA2fz+0Q1Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "FUIMOS HEROES",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA PRIMERA PROFECÍA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ+q+HNXiBZXGNrsurkfBuMY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "IMAGINARY",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ1zXeCcvWLhn4qhBiKkJUnM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA HERENCIA TIENE UN PRECIO",
+    "ico": "https://panel.budtv-ultra.com/posters/w0N9wVv0904itL2Gwdvon2AR4IU.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQyQOIBjjGGYvc3B3zyzIGwk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL MINISTERIO DE LA GUERRA",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPNumPkIkv9lm51qpffVJEhtlC7.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4UDgQLvPpeFRTnDpk1WI2s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA IDEA DE TENERTE",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ/Otzgz/4BNWGTifhjkglRo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "INFIEL",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUpWRFvvN6l0LUIJbFNZw4jWvB.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9b746T3ANnuy3HOugvtl37x6paFS6JhhBcD96HJrWeP8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UN ASUNTO FAMILIAR",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cARSBgATiIZarMqsTFjdVOOjupl.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4tTvN1GkUFP7d/ZWTztb0M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BIONICOS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ5yj3mfybZGNJ66INkmcSeM=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-
     ]
   },
     
