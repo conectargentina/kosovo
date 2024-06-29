@@ -1801,6 +1801,54 @@
     ]
   },
   {
+    "name": "⭕RAKUTEN TV",
+    "mode": false,
+    "lista": [
+      {
+    "name": "RAKUTEN ACCIÓN",
+    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+    "uri": "2ggOqA7wt/lIqO7E3ObMAsogTzz7OUt5G+j8zGH2HgMkc4azjfmSh84mYtvso9Et3mUpVQgcjJsxM9k6lVCfOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN FAMILY",
+    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+    "uri": "2ggOqA7wt/lIqO7E3ObMAsogTzz7OUt5G+j8zGH2HgMkc4azjfmSh84mYtvso9Et3mUpVQgcjJsxM9k6lVCfOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN TOPFREE",
+    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+    "uri": "2ggOqA7wt/lIqO7E3ObMAh0GUNysbzKTwDKPtsBmNE8yplSEImKHVJQZofVfUQepLaRkjPZbKRYNRqxJCV7Lvw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN MYTIMES",
+    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+    "uri": "VKyiIKq51GisFWe3iakR/Q5PaPPyKgm3U8Rw4eV8Dc8YDJzJi94LSXS7YwzyeoUn1E7+TFRGlN6dxIs8q+pobA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN TVSHOWS",
+    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+    "uri": "2ggOqA7wt/lIqO7E3ObMAug0Y9mcVfpx96ciLUx7OkICgGeZ8WkGdQuK/F8+B0sKC09EbywO25NTI4KWiKDMAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RAKUTEN ROMANCE",
+    "ico": "https://i.ibb.co/SnZ37Kr/Rakuten-TV.png",
+    "uri": "3XPUcjQn6uoohwm2mzasn6h1HJBBO5tecHj74XzLXcf9k6ICkhfe7u3s0p4k2ay6oYIYSPnOYehaOQFr4ZuN6f+fT9RrazzWTOyl3pzaf8b3RcOqgYzMaiHzUM5LEFcdC2L7bKmHVv61WUypCLQPy5Wzq1RUpUfXvTLm3aSq1i7cbNBDQICI7/e02yUumFXfodMnFVFREX1vPpp/0O1oxis3mD7umuBX2uyZjFC50rA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+  {
     "name": "⭕CULTURA",
     "mode": false,
     "lista": [
@@ -2822,21 +2870,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "GLOBO RJ",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqeKBMlMMDBadgA6PO6+wBdWGmfq6O5/YgPLheh8a+DKGLjBxKjMMwmsAp5oUUYZAolrWbDvxRmLrXU4VthgzY1AtmdAYqPeYQmd2XzspNUCZ+LzLsexw6jDr+0t/dT4OD/kztiSYN5crqJZWNwM8B22MPCiQJWEeQWaa9ITQT/4uFgXCraJx7vXFC/DNSHD7Kf0CJbw5EKwyiI+NLiLHmwul7kN2U8qCZaSgLYZXZZP5Y9/dWGAJ/I23t+CSEVLypMFBVeueotpMK5AjuWuoM/31UQNbFx9DrskQqNDvvxDLg4//16F7oMpomF3p2nQFkDqaWeXoT/gPUsTPB37h2m57l3HZCHnhG1QuWBE1V1H0urfmVCVfX96bbM0btDffgViQQcTQyUrRVFwXO1LOUQQUe33IGKFdnmhxhCsc2z7Cg9qh7QFLBwseaDe6Yi/E6mtuvOCNWAXkodIRudlYpzE2l6W9UOKIBxnrjIvWd13JfPujzSZZMfkMiyXor4/Cpo/GoL2umy0UzQAkmM6FxXa94TdFLgpDGnaV2kxh71INyEZrNaTxortNVOyd3D6txdTevTBWiFwfis3RsHkrcJhoo+GEk7YxqXz22D26Gm6nfb5sVAaSUsZ6YAC8x6TpFJoWi6dBwkGkZ4WvofNQBl/3nMRSbHourVVuBswlG0N2YJDZ6XbchePj4ZH18N1c4a0ftCKOy+tOm5Zi4BCyH0+uPFRQOxpN6KoGNMSWQNc8R8ov5zOqx/o3iN7GxBn/Uu/cuYLPd1p18gG3UPFKcsNV3Col8+bfjelwDNWJPaQHLgmx1h38G0bsRq4v+40z876FosomXS6GdcEdD0jv7lofpHBahlZBKEHqhwtYh4UYFW9qGHHTzODO1EuwaMLQ4BxYKAZtRDg20UExLHXWFKe",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GLOBO RJ",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvP9wD7JzLnbnlp9a+feA2ENecadHgbAm+tO8oQLUyZUI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+           {
         "name": "GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46P8R+//mpAnYX5HlMR3fKTA==",
@@ -2885,13 +2919,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "RECORD NEWS",
-        "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
-        "uri": "s4VbPQWRVxvY7ssoq1pec7AbdDYm6WKZn5mVEXVeiHsEwd1/72jUAXs8nHOQVnwW3YfR1+GLYgzN+SnHlIeTP6hcaiUBXqRRbTyAQEneUsPXP3PxrorTGrwJCLQPt2kN",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    {
+    "name": "MODO VIAGEM",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-modo-viagem-ao-vivo-no-celular-online-gratis.jpg",
+    "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwVBmQFYOrcsoa51HmUKcpOc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RECORD NEWS",
+    "ico": "https://seeklogo.com/images/R/record-news-logo-93E6FB767F-seeklogo.com.png",
+    "uri": "s4VbPQWRVxvY7ssoq1pec7AbdDYm6WKZn5mVEXVeiHtDmWVuMFHc4UfLDv2VEgLXGxf2MRsdBtSk+T206RWvyBxhN2FAUBRyg84yDCJqEHDIF92eQbpkhTQXpuMDDQpN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CNN BRASIL",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
@@ -2969,20 +3010,21 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "GLOBO NEWS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvCRfTLAoLjsp6UC9JcSPTmJk9N/RXyL4P2cO72HcjJPs=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GLOBO NEWS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvCRfTLAoLjsp6UC9JcSPTmBP9z3ikSxw0yf/05Tj8XN4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+        {
+    "name": "GLOBO NEWS",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
+    "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwaivBlh/7HalfiQacyW+wU0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GLOBO NEWS2",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgAACeOA4M4/9sWyxSZL1b+seKhaLtm4o3L9xZXgW1d6HF/6ST6NPu5ii7Plz0RmHPZwmqNWvUDLZnTARsRyQwIQe9RLR8lFH6JdWvEpI/33Mkx95PiNBHVdBoPEDsNUXBw9Kec7qTbEJ0fiq+s+HddEhNN0K3IJ7fRqkQ/RYQkJmHZWAXZH2J+EPDqKU+Q2tsQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+ 
     ]
   },
   {
@@ -2993,13 +3035,6 @@
         "name": "BAND SPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/800px-BandSports2024.png",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKutgViCkP2Z5/itrh8UwOHw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "UFC FIGTH PASS",
-        "ico": "https://i.ibb.co/nzTB8zH/10850215-735705459885215-3579440659354800899-n-png.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKo5mrRMdbP7I0ZUiC16BqRQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3233,20 +3268,6 @@
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKr2b4wC6jokfr5REsanyGI4=",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "PREMIER SPORTS 1",
-        "ico": "https://iili.io/dH9SdOX.png",
-        "uri": "UnArIprtyFWNVszbQHI/ZiLyG1438svggVZhmYeYm0ejnCRK+slCQUnNEw+Ose0XbQ4H/XxJUXGiE/0SNAY3DSlionEaaPo5Ei/jenp7O+u57J3hrn59bodxiCi1vnit5fqnAzCQKRxt9WRPq6C0Jv0ZbpgkUEQfAgV1AX1291U=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltRHZzPbl8qUaOKkJzxL7fFADXMO9UhcwtdkdhVZb7CaV5dMDmD61zPYyiomfeNsCzn0dM/dt2uX4kDYzTvD0YSv+YI4OhQmcqklgRNpktA0Vw=="
-      },
-      {
-        "name": "PREMIER SPORTS 1",
-        "ico": "https://iili.io/dH9SdOX.png",
-        "uri": "p4sQSidtOYo/o0nVDpYfzWvwIAcTHcCXl2EqpvthoVnIn8bTlW3b7m39HBbRKP6WtJaaZvnkguqYaMrzXyncUReY/n0/qHIj5bKbnv2ebDoQGOSxqAkJtuJUOEpZF/xoOkOXVHXYgUJtQThKQQ3VBa9MrY58mya0IMMAneTK5SU=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltTpIXsDbck1HwN+mlvQG/y/WDPa0D6fu/6kMkaYD4jSel7tOH8JImmme8NQb1rQyxTDqDwi4h650TedAYd8iAu35LxwkdhAAYcj+bLrbmNGBg=="
       }
     ]
   },
