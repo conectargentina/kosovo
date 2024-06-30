@@ -486,21 +486,28 @@
       {
         "name": "DIRECT TV",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrdNdzh9oL6+BsAILFvf5LXQ==",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DIRECT TV 2",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrf0J/lz+qVJpT8x9tTlARUg==",
+        "name": "DIRECT TV",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2WWds0oQMiebWSmEXBIBD6grov9f0mMNL07mr2H+qE4w=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DIRECT TV PLUS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/1/613_blanco2.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrn+e5Xyo24tdz0TZn+54Z5g==",
+        "name": "DIRECT TV",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2QRiNamcO7z95ket0BL/HLwFAcrBiomFp/ocyW7+YgVM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECT TV",
+        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2QRiNamcO7z95ket0BL/HLwFAcrBiomFp/ocyW7+YgVM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -689,6 +696,13 @@
         "name": "COPA AMERICA",
         "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46LZnpUIFQKrcS2eRyumbrRw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COPA AMERICA",
+        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6t2e99VAQVyHgRegkOrnvjhQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
