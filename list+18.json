@@ -483,27 +483,34 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
       },
-      {
-        "name": "DIRECT TV",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9VrdNdzh9oL6+BsAILFvf5LXQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIRECT TV 2",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrf0J/lz+qVJpT8x9tTlARUg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DIRECT TV PLUS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/1/613_blanco2.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1yEeiONc9FYMBJ18lH6DAo+zH/bs/R40r/HxY947z9Vrn+e5Xyo24tdz0TZn+54Z5g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+        {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2WWds0oQMiebWSmEXBIBD6grov9f0mMNL07mr2H+qE4w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2QRiNamcO7z95ket0BL/HLwFAcrBiomFp/ocyW7+YgVM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2QRiNamcO7z95ket0BL/HLwFAcrBiomFp/ocyW7+YgVM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "TYC SPORTS",
         "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
