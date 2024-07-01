@@ -1353,13 +1353,20 @@
     "name": "⭕NOVELAS👠",
     "mode": false,
     "lista": [
-      {
-        "name": "TLN NOVELAS",
-        "ico": "https://television-libre.online/img/tlnovelas.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM462a950BQMoH8OIn+g2pgxVA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "TLN NOVELAS",
+    "ico": "https://television-libre.online/img/tlnovelas.png",
+    "uri": "skjCZJt9hOILbVSgzkPJjlln4ilO75DfT9oYifrjA81DJuRoT6muqjwM3W5d+dhI68lFMwvJ8OXIu4cWY/Pu4g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANELA TV",
+    "ico": "https://i.ibb.co/mXjSP2N/305485292-514111867392252-5094053615646168433-n.png",
+    "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18Xcs6JIu6PlPnN5B62a6YIIOABd6CzJlom4Ep0QCA9CBd4yMfndqa7gpRm/TB9W+xobmHLMNTEMj1lDLGr9oU9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "LAS ESTRELLAS",
         "ico": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/72/b2/4b/72b24b99-b3ff-7e3b-5013-9f9c8ae261db/source/200x200bb.jpg",
@@ -2898,6 +2905,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GLOBO BRASIL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "2MSDcX7BiuFO4tBG4AD2js32b6vVMiH5EtR4J1tuThRurYTLMdxXEwxgBTA7/ikC3eoUylp0k+DvfphazIETag==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
            {
         "name": "GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
@@ -4247,6 +4261,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "TUDN",
+    "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
+    "uri": "+doS6as5xM1f4aVK2uXzZuWSOqYaGsmoRUbEzQfEchjErJvGF2Va2/Yx1v4mTGABT5djf5g3zyVe0WKE/LUJxOtkV1XPJGJ4NVH57IBxSQWNQx8GiD6RedLBQx6T6528",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQpDB9eCazvcK8P8YiBa8nIcrWL5PpWQmHR3rXwVWQvDzjec7v8PqZwLBuYIp92gJmZBHEUle857j7uS98LzpuywY1Oysv98+hV/7wV9M7eNY62jh4xyJDt9BvLhqPMyow=="
+  },
       {
         "name": "TUDN",
         "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
