@@ -4268,12 +4268,12 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-{
+  {
     "name": "TUDN",
     "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
-    "uri": "+doS6as5xM1f4aVK2uXzZuWSOqYaGsmoRUbEzQfEchjErJvGF2Va2/Yx1v4mTGABT5djf5g3zyVe0WKE/LUJxOtkV1XPJGJ4NVH57IBxSQWNQx8GiD6RedLBQx6T6528",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQpDB9eCazvcK8P8YiBa8nIcrWL5PpWQmHR3rXwVWQvDzjec7v8PqZwLBuYIp92gJmZBHEUle857j7uS98LzpuywY1Oysv98+hV/7wV9M7eNY62jh4xyJDt9BvLhqPMyow=="
+    "uri": "gNBb35DZcJiHJnyoXkGR8tOpvEjdL4DsfW+MyIJTEFFmUhqoGrhuTnQXKMPM2hxl",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
       {
         "name": "TUDN",
@@ -4303,6 +4303,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "UNIVISION",
+    "ico": "https://www.univision.com/_next/static/images/logo-univision-color.49f6b4c4450cea582fa78cbc00dee7d8.1719847150550.svg",
+    "uri": "GKAO29nhk67Frpz9xLl43Oh1xaBv3G8twnAsIsT223+2qKjKZvXKgFltDb/4G8YoEVIZfidniQQSrHu6eAEtQQCLbF0HjyHdAznDVPGiwNw6uBhOtnFl0JV1L/9n6I7W",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "TELEVISA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png",
