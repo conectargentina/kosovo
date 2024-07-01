@@ -1,4 +1,3 @@
-
 [
   {
     "name": "⭐PELICULAS",
@@ -3073,6 +3072,27 @@
     "uri": "8YXBZFZooe5f2ewgnUMpgAACeOA4M4/9sWyxSZL1b+seKhaLtm4o3L9xZXgW1d6HF/6ST6NPu5ii7Plz0RmHPZwmqNWvUDLZnTARsRyQwIQe9RLR8lFH6JdWvEpI/33Mkx95PiNBHVdBoPEDsNUXBw9Kec7qTbEJ0fiq+s+HddEhNN0K3IJ7fRqkQ/RYQkJmHZWAXZH2J+EPDqKU+Q2tsQ==",
     "drm_scheme": "",
     "drm_license_url": ""
+  },
+        {
+    "name": "SPORT TV",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-ao-vivo-tv-online.jpg",
+    "uri": "brWGIYQc4njCGzc8x38Kxo/512PePHdvye8oCOe85QXbE+oP6RvfpKjviXZ2DzF+gUNsVQfGQYgrini06HvaJg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 2",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-2-ao-vivo-tv-ao-vivo.jpg",
+    "uri": "brWGIYQc4njCGzc8x38KxvUHDCXC6InfDuCSvhBtB97F2HE/5+TPp72wsIYKT1sd9jZmxEpqpKssA9x1sCbLjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 3",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-3-ao-vivo-24-horas-hd-online.jpg",
+    "uri": "brWGIYQc4njCGzc8x38KxiHjMwu9tTCXe9uI5q6zQjlohSAV4iTvTCfu5WwLxc0YuPC7gv3CZErQjYGK/0oxHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
  
     ]
@@ -3095,6 +3115,27 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "SPORT TV",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-ao-vivo-tv-online.jpg",
+    "uri": "brWGIYQc4njCGzc8x38Kxo/512PePHdvye8oCOe85QXbE+oP6RvfpKjviXZ2DzF+gUNsVQfGQYgrini06HvaJg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 2",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-2-ao-vivo-tv-ao-vivo.jpg",
+    "uri": "brWGIYQc4njCGzc8x38KxvUHDCXC6InfDuCSvhBtB97F2HE/5+TPp72wsIYKT1sd9jZmxEpqpKssA9x1sCbLjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 3",
+    "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-3-ao-vivo-24-horas-hd-online.jpg",
+    "uri": "brWGIYQc4njCGzc8x38KxiHjMwu9tTCXe9uI5q6zQjlohSAV4iTvTCfu5WwLxc0YuPC7gv3CZErQjYGK/0oxHw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SPORT TV",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
@@ -4269,12 +4310,12 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-{
+  {
     "name": "TUDN",
     "ico": "https://i.ibb.co/FVmfFWV/tudn.png",
-    "uri": "+doS6as5xM1f4aVK2uXzZuWSOqYaGsmoRUbEzQfEchjErJvGF2Va2/Yx1v4mTGABT5djf5g3zyVe0WKE/LUJxOtkV1XPJGJ4NVH57IBxSQWNQx8GiD6RedLBQx6T6528",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQpDB9eCazvcK8P8YiBa8nIcrWL5PpWQmHR3rXwVWQvDzjec7v8PqZwLBuYIp92gJmZBHEUle857j7uS98LzpuywY1Oysv98+hV/7wV9M7eNY62jh4xyJDt9BvLhqPMyow=="
+    "uri": "gNBb35DZcJiHJnyoXkGR8tOpvEjdL4DsfW+MyIJTEFFmUhqoGrhuTnQXKMPM2hxl",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
       {
         "name": "TUDN",
@@ -4304,6 +4345,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "UNIVISION",
+    "ico": "https://www.univision.com/_next/static/images/logo-univision-color.49f6b4c4450cea582fa78cbc00dee7d8.1719847150550.svg",
+    "uri": "GKAO29nhk67Frpz9xLl43Oh1xaBv3G8twnAsIsT223+2qKjKZvXKgFltDb/4G8YoEVIZfidniQQSrHu6eAEtQQCLbF0HjyHdAznDVPGiwNw6uBhOtnFl0JV1L/9n6I7W",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "TELEVISA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png",
@@ -4359,20 +4407,27 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcwgML+QuixvQ8lzfQgFqnhXyWTShe1ULNoQh58QddA6UeYKlABCHJ5RChHr3UsrSLAuluQB6qhxarIINTbGumRIZmDVpQwMGHRfi5DiEOeC4rZU3Sf2X5wa5TtO5S0LdA=="
       },
-      {
-        "name": "SKY SPORTS ITALIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/512px-Sky_Sport_1_DE_Logo_2020.svg.png",
-        "uri": "9Ve7Uuh0SCQYTlE/3KHyv4Vhe/KstMZe491L7n9mjHmqoRU+aiJKJCAqN0Y9KJtw76nD5g9bm6GyH8sLxd7AAfTBTIA+GQLem2cpntORlEqYQ4x6F7YHVHjV7bHCI/ui",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ea2hD/ugnn6zs0xhr8YDmNj3Pp9roho2ClXIIJlxehTBpqCgSk99POKi751m3A4okG99Btou1GHi8YQeDCqXouErUk64ljm6FmJL6sO/UFcCAqBg5EVIov4QhJStyWzIow=="
-      },
-      {
-        "name": "SKY SPORTS PREMIER",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/2560px-Sky_Sport_Premier_League_Logo_2022.svg.png",
-        "uri": "dgwBdk+fsJTMy5rrBtw75glPwnbvVM2JTGzX48rQNz5QXJyZWLDxuB6kg95ZPm/u0rMo9vefK//Dbm+KdUTGb6ByIQV1av1pABaPEfRepRFevuW0vxUxotB6cL4WTodA9lqZ0k18g/6kywNuvP/DMRuPgtDcLVyV0Ajog5U9qIQmmp/VJsSKz0ssmW2giGFH",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltTilTu34RTRkP7YA1HTlf0jP4c7jvFUXYQ88nIdQpCSjkVZPORy4N2QQcqhl6jVJoctyzSOnQG2NzYhM8It2YH84QSlAI3+PTyntL3v6Mx9yQ=="
-      },
+       {
+    "name": "V SPORT 1",
+    "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+    "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cW7Lrf4pZMOZsrmupleUGZi49topqXcFSAB2qMdxQXPZkvxvJi2w0DYC6nsjG0lXfu",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee/BBt5bjIkWUCbk28+gO1yKzoLD/H4HnCOp/gAq67sEKMfEg2HYpYiZsETYTgJTAYU4t2JseCijy6AfardDwFYUb3hZb+GhiFGVprV0ZHNWmUeVIyDkR4rdOPy//fLoYw=="
+  },
+  {
+    "name": "V SPORT 2",
+    "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+    "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cW7Lrf4pZMOZsrmupleUGZiyPhF1JIaG71/K9jlGomj7MHSVrvZzxiXZRI6qMLSjim",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZsUVfnd62jaA4LSoZb8N0knMiKvs7a6eSUBiItuGctAIO3HI5bo5d/edxTwIt1Oh5rajdR4OWbeQru0ee0xmNsT3d7w/uDRPCcOt2MUPrO5bmP1ix505fDIwLJSE+mVVw=="
+  },
+  {
+    "name": "V SPORT 3",
+    "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+    "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cWDHCi7wV3KXeeHPvJ92rSXh9ETHejpDpCzsME2EkH6+3HTkmS/k4f2aT4PJmjAZiJ",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efldpm4zC9eQJb7qvrSn3awWrkjh/xBcI3/NtEupyfufqNTIzpMd2BhuXYIp5I1+7/Q4qrwpAhYKnryo2c/smUpRIgEldTxnyfi2rNXm/xPzrx60U/zB4ypIaKy408U27g=="
+  },
       {
         "name": "BEIN *SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
