@@ -3518,8 +3518,15 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "l3UIvfKj9qVFjW6JpOC7LigUeSvYzKbcwpCo7Pz9lM/39eR9SsIYYFN17oRshESa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
-        "name": "GOL TV",
+        "name": "GOL TV2",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
         "uri": "Bz0pGosS57sH409uPV/OrE2CSU8lpIZoV2/5U5E3jM0=",
         "drm_scheme": "",
@@ -5198,17 +5205,24 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "ELEVEN SPORTS 4",
+    "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+    "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },  
+{
+    "name": "SETANTA SPORTS KZ",
+    "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+    "uri": "T4IQSxIEozHLek2WwLakhf+lbZc/ZVUn0Q4hCpO2T29QQR1jW4esWSlGysZH6EgPIKn/NeN7hbC+bRuqbB4i0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SETANTA SPORTS 1",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
         "uri": "0ZXK2VEtfXUNk+qU5oHS57CjV3Pg10C5kSup4V8iHAFAhVMumNM25IB8bgf0NWhqKjxS73/f0WCLCeRfF/gRy0CRPpU1gMuo1hLHXoTC6J0ZB6vACFmJUqDljx5vmwJWVQ1mUYVKx+uuTPEjR9kB+J7fiSGiwqYz9CHdQnYRYFHAnlrORJBIyjuO4xfmEg9n",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SETANTA SPORTS KZ",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
-        "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
