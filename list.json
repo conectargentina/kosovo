@@ -5135,6 +5135,27 @@
         "drm_license_url": ""
       },
       {
+        "name": "SOLOCALCIO HD",
+        "ico": "https://i.ibb.co/10fwskd/Solocalcio.png",
+        "uri": "g0EZNMBaIhOt4zJDsiQuxxPZIljLuggIKMGCxoEDhu/kBm8drMLTXZfvVrc0U85bUnG/HGN1L6FyiUq6y9HVZoZXqZsbY0T3zkkuEMonno5ElfS/9MdImeBgu4UA9jlAo5AoBuauQQ9vMbWzUf8BDIjyASKJI8ng5OV5Y16SjUCnimHeacPm0kX1lj+uSfiBMJlvCRYf3TJIOv4Bil28mcDyMQsxTM2Eyg4gPMiLQjvD0B16Bw9heG+szGmo0+DMSRvU6tNrbrX0ZpCJc+C9EUxqxdvLPiFBPIJkT3K556sig/1v/9UNKZqUlA0mkInSdA+DVJyHphwUaeS2kTW5wYwnbe5VJ5zwPWPA/f7iuqE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PADEL TV",
+        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
+        "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtT9H6Pnk6ebeLYFAXc7E148vljyajZuhqZM3B+kM1menWkGVRgwE/wS5AiLiUXHxdyRrDPDx4TcPsulJesTIAEDuOH0W6zH6LLOeA5MX7+1xA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT TV 1",
+        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+        "uri": "g0EZNMBaIhOt4zJDsiQuxxPZIljLuggIKMGCxoEDhu/kBm8drMLTXZfvVrc0U85biw5Kv1lQI+bM2jyO2kPXEivAXyFDvdcVySymn9ZixQJrzgOZpLKKMg8ziYLftHCUZjIswNewtyUgszqDeP77pDy3YWRyGajsV6GgMzqNR4w9HiY2EYchCdI9fnf0cZu4Na/QDRTJKE9nIwUtwHMP26NKLuTdKPsbNoxe5gC9vUd9V9murI/Ktm4AZFfnqRcUjPcH60/7s6nycQ0zzh9z9HXCAohgnNJVH1r7xQYph05UxfzM0wTKuwnl77YvEL2AebWKo0vqkD5IeZ0k/sVtlI9q1G4pNJEH0Oo1UUvI6dA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "EUROSPORT 1",
         "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
         "uri": "qwYE1IavH+psnyFG2JxKGG4p7tBPiiaJNJUNtjQWctW66vyIBfmDKuNIxlBRpFFZ",
@@ -5178,14 +5199,14 @@
       },
       {
         "name": "SETANTA SPORTS 1",
-        "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
         "uri": "0ZXK2VEtfXUNk+qU5oHS57CjV3Pg10C5kSup4V8iHAFAhVMumNM25IB8bgf0NWhqKjxS73/f0WCLCeRfF/gRy0CRPpU1gMuo1hLHXoTC6J0ZB6vACFmJUqDljx5vmwJWVQ1mUYVKx+uuTPEjR9kB+J7fiSGiwqYz9CHdQnYRYFHAnlrORJBIyjuO4xfmEg9n",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "SETANTA SPORTS KZ",
-        "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
         "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -5229,20 +5250,6 @@
         "name": "JS 4",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
         "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yHt/UloQ/dsGtr3IlQ5JXYw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SOLOCALCIO HD",
-        "ico": "https://i.ibb.co/10fwskd/Solocalcio.png",
-        "uri": "cKLRxYkTyscgkxom+78eHfffxJ6MkqG5BxwgdhdV8YQuOX4LitZKsZAIB4DXin2zRboFo00y9m8Zl+ISAGLbPA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PADEL TV",
-        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
-        "uri": "cKLRxYkTyscgkxom+78eHZE2EFBEU5vpRHLPKbebaF2MzLDdoQWzHNPtUgm5ikUPrEzRUviGcSoMTGS+Buj6JQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
