@@ -3512,6 +3512,20 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
       },
       {
+        "name": "RADIO SPORT 890",
+        "ico": "https://www.sport890.com.uy/wp-content/themes/sport890_theme/img/logo.png",
+        "uri": "/w9l1ggass2Hs5h2d2X/kVPrt6mfMSj+Cv+flogEGWJrJM95Dn3rS3+RLgY+0IqyCW1tSid7qfVXyke1l2TKKDy9vxwHzLqFsfoX7QB8PKY=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "GOL TV",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+        "uri": "Bz0pGosS57sH409uPV/OrE2CSU8lpIZoV2/5U5E3jM0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "DIRECT TV",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
         "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
@@ -4407,25 +4421,18 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcwgML+QuixvQ8lzfQgFqnhXyWTShe1ULNoQh58QddA6UeYKlABCHJ5RChHr3UsrSLAuluQB6qhxarIINTbGumRIZmDVpQwMGHRfi5DiEOeC4rZU3Sf2X5wa5TtO5S0LdA=="
       },
       {
-        "name": "V SPORT 1",
-        "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
-        "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cW7Lrf4pZMOZsrmupleUGZi49topqXcFSAB2qMdxQXPZkvxvJi2w0DYC6nsjG0lXfu",
+        "name": "M4 SPORTS",
+        "ico": "https://m4sport.hu/wp-content/plugins/hms-global-widgets/common/styles/images/m4-redesign/m4_sport_rgb_a_B.png",
+        "uri": "kjdWdi8nURv+OFDRHJBcHN/tNEZKlq9O22y6MOPltD96btEPssywv9NUydoTIXBvEWUXZf6ujQohA8rL7cFv7VZsLtuEpH21so2w0YMJpxg=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee/BBt5bjIkWUCbk28+gO1yKzoLD/H4HnCOp/gAq67sEKMfEg2HYpYiZsETYTgJTAYU4t2JseCijy6AfardDwFYUb3hZb+GhiFGVprV0ZHNWmUeVIyDkR4rdOPy//fLoYw=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUzOC9ssY9rinO+leOSYhTOyjbLcE2VdqaZ5jey7jpidUAR3iSzLTXHUT8cA5CVwPM3ZknmrSh9YFNiyG4F6akCFJVrRA7JBEgath6y902a0VrwEZu14r/P3AKKzucwg4Q=="
       },
       {
-        "name": "V SPORT 2",
+        "name": "SIN NOMBRE",
         "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
-        "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cW7Lrf4pZMOZsrmupleUGZiyPhF1JIaG71/K9jlGomj7MHSVrvZzxiXZRI6qMLSjim",
+        "uri": "5haCGv5sEGEBq9cUh1B2fnVSpWF3DGh2vLRvIGEKbgeIxMPttt4xM5geod2fpsl4qlLVa0Qyq7SfzIa0Pwa55McuOLpRTu6dZipuMeGPoBNZ1h8tvJlKZwO5JRxSs+7iyWaHLFPJ4RHHd2Q4G7n8sA==",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZsUVfnd62jaA4LSoZb8N0knMiKvs7a6eSUBiItuGctAIO3HI5bo5d/edxTwIt1Oh5rajdR4OWbeQru0ee0xmNsT3d7w/uDRPCcOt2MUPrO5bmP1ix505fDIwLJSE+mVVw=="
-      },
-      {
-        "name": "V SPORT 3",
-        "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
-        "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cWDHCi7wV3KXeeHPvJ92rSXh9ETHejpDpCzsME2EkH6+3HTkmS/k4f2aT4PJmjAZiJ",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Efldpm4zC9eQJb7qvrSn3awWrkjh/xBcI3/NtEupyfufqNTIzpMd2BhuXYIp5I1+7/Q4qrwpAhYKnryo2c/smUpRIgEldTxnyfi2rNXm/xPzrx60U/zB4ypIaKy408U27g=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdyJXaX6ZLuZVzO3TqzLEb5R4Vd5meBSltcydNvu4cpDCSz5709jeeFnavaFfJofgtzBY+r/IfSbhbeLE0f/+PQSxc5arB9AcCRRxQagCZPogxR8A0Clj/K05IxBzkixTA=="
       },
       {
         "name": "BEIN *SPORTS",
@@ -5307,13 +5314,152 @@
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhS++dQ2VQaJ9TEKlYBs6ZGCcKKESrF7IZ8+1isS962TB6T2lumQjgn+TYpx5lc7OzRt1pHP6NxHXZiwAfFbMI48C/q+CBcAdJ9FOYa5KgRsaednujOx/Uma/pQ3xjeQuz09VbRCg7B+EbSRuKnkS9w4vjZzBhfRXrAMYd0ot3VU51aM8YXw2HYki7W9JhhaQHd8PqbDTSqyiq7148kJt2ibUsUYKQi5ILJMhY0V+imknhAvMROFqTKNZ7zayTkIq4=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
+      }
+    ]
+  },
+  {
+    "name": "⚽EUROPA, ITALIA, FRANCIA Y JAPÓN",
+    "mode": false,
+    "lista": [
+      {
+        "name": "SKY LA LIGA",
+        "ico": "https://w7.pngwing.com/pngs/190/341/png-transparent-sky-sports-news-television-channel-sky-sports-television-text-trademark.png",
+        "uri": "gNBb35DZcJiHJnyoXkGR8tOpvEjdL4DsfW+MyIJTEFGmbwJ5d5I/FWeFCV1pGzqk",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
-        "name": "SPORTV TV 1 PT",
-        "ico": "https://www.thesportsdb.com/images/media/tvlogo/qpyqws1470407526.png",
-        "uri": "K959uTZRFGFVsBIeljFNryNyDrKNd5UQZB2lSKcNCzMOAUrBBOK9Azqm1azPMhZdBbi+FyGu34PQZ34GqwM+xsi8jeM7+5jzH9/ScCIKzclO16J2Xj+39kv03GLlaCQJWFePOaOMs7kWXvX2au9bHUtzJH/ClOjDrzOwlQ1dJefsgd4cDVF0U8Pifpkvzt0wbYilU1MhDL5ds8V7nfCdAQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETa/uSr05vzDzkc+fV4N38CjB+oXOBo70qv/CWBOxLzKwc5NwQPE09hTlUsXYCyy2S0rxKtMmAp/KG0M6sfVXCHCIvnn7UFUhzmtQ93/WNQJIgdOqB75WWYqpZadldbYbg=="
+        "name": "SKY BUNDESLIGA",
+        "ico": "https://sender.epglogos.de/302x190_w/623.png",
+        "uri": "MJQQXemSYpRw9e/QT9eqtbxDGNKom85/aGmUPP2ek+B8yuvcF4GK8DyRz+z5XsMA0lR1rrJN+abChNsDVNVn+Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EUROSPORT 1",
+        "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
+        "uri": "qwYE1IavH+psnyFG2JxKGG4p7tBPiiaJNJUNtjQWctW66vyIBfmDKuNIxlBRpFFZ",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EUROSPORT 2",
+        "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
+        "uri": "wBd/6rTyCc/sPrLUNExzQpGjgDlUo0oSmlPfN4Kl7iir9A+DD7upnVNbrpuCGnQx",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EUROSPORT 3",
+        "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
+        "uri": "wBd/6rTyCc/sPrLUNExzQpGjgDlUo0oSmlPfN4Kl7iir9A+DD7upnVNbrpuCGnQx",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELEVEN SPORTS 1",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "X12aMiM/hE/Y8aK06Eih80W4AdkD6rExjTKVx2Q8XoTxGjbneSDxI6ZRXmN4cz9aG8dNzC84PyVrIaZDTYK/45tKL+6qBLcPwRNIdQ/IroM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELEVEN SPORTS 2",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "X12aMiM/hE/Y8aK06Eih85XgsDeom7/jQwk742Bh4JEF7+N6zVM/PpNG4miz2o3UNjk7ZaUXqlQOmw7yeCXdx6s0jQmib5wVTCfJzlfdr8s=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ELEVEN SPORTS 3",
+        "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+        "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SETANTA SPORTS 1",
+        "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+        "uri": "0ZXK2VEtfXUNk+qU5oHS57CjV3Pg10C5kSup4V8iHAFAhVMumNM25IB8bgf0NWhqKjxS73/f0WCLCeRfF/gRy0CRPpU1gMuo1hLHXoTC6J0ZB6vACFmJUqDljx5vmwJWVQ1mUYVKx+uuTPEjR9kB+J7fiSGiwqYz9CHdQnYRYFHAnlrORJBIyjuO4xfmEg9n",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SETANTA SPORTS KZ",
+        "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+        "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JS 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBLufZHTdnjjFbiRAfo+L68=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JS 2",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yC3s7FItJhSBFAC9LX+2ca0=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JS 3",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBWhRspXkVfzxT6oXKAeL4o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JS 3",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yBWhRspXkVfzxT6oXKAeL4o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JS 4",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yHt/UloQ/dsGtr3IlQ5JXYw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "JS 4",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/J_Sports_Logo.svg/250px-J_Sports_Logo.svg.png",
+        "uri": "I4M7scAmGLnRqn/Gq/JySX1iquU2FV1GTJIxTi3/EK65cxdGus9BGMQXUFHFfOylX7nojUE4i6UNkREBWQl4yHt/UloQ/dsGtr3IlQ5JXYw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SOLOCALCIO HD",
+        "ico": "https://i.ibb.co/10fwskd/Solocalcio.png",
+        "uri": "cKLRxYkTyscgkxom+78eHfffxJ6MkqG5BxwgdhdV8YQuOX4LitZKsZAIB4DXin2zRboFo00y9m8Zl+ISAGLbPA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PADEL TV",
+        "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
+        "uri": "cKLRxYkTyscgkxom+78eHZE2EFBEU5vpRHLPKbebaF2MzLDdoQWzHNPtUgm5ikUPrEzRUviGcSoMTGS+Buj6JQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MOTORSPORTS",
+        "ico": "https://www.mtrspt1.com/en/dominios/mtrspt.pagegear.co/plantillas/pagegear/recursos/logo-mtrspt.png",
+        "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtSk3sXggs5RHXuvH/I9ou8EKkFspMLcoKN0dmVKykMzIUFbq6RH+4NKPiqLBr2sgz0ZhU5CVUEljZRzCnhPDo2z",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SPORT FRANCE",
+        "ico": "https://i.ibb.co/p1stMyz/sportenfr.webp",
+        "uri": "zCqsxi4QaMrmYGHGUNNaDJn18VAWDgD2X2LXDZvM21rGR4esvBoDUen+ZLN75OaXwHesmmAbcwNkdBz2I7w/3Z4Qx7ZINzEiixipiblUFDo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
       }
     ]
   },
