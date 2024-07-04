@@ -3587,7 +3587,35 @@
     "name": "🇪🇸 ESPAÑA",
     "mode": false,
     "lista": [
-      {
+       {
+    "name": "LA 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+    "uri": "fXFW02gJYNQooMN/+vCmxa1BMDrpbpRm7h9EaA0wwVeYkAAgDLh4rC8vALNEOZufRONqooO+P7Vchs15rstySjoD1aRH8GAyEdoFGs75eM4razBJV+Iz+8ZelUs0J/+iYq0fRFAAglgKNwITLsCwAin16Pv8oe4vNJaI2BWOK1A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVE",
+    "ico": "https://c0.klipartz.com/pngpicture/264/436/gratis-png-television-espanol-tve-internacional-rtve-television-en-espana-obi-logo.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WspSejp0QRorMz7njMQwkf7+fI0ZuVPx9UwNyP4HiB643xHUo+iIvS0abJx1vtHRY2",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EclH9D//A8YfOO4yoRb5GmAwQ6kVzfqjEd65deS+LiT9N8S0mTkOIp9UuOBl4ITJetu2gCVGfVWqV0avLFNsznklnJ76KAbuTEcS2ncUYOQOp3sGizI7+gVLalnHyqKlbA=="
+  },
+  {
+    "name": "RTVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+    "uri": "CfVL4QXWxIiaUUlSE6EGIRcseQWqmx3yd9cie/R/8egIVKjNHBDp5nJrp1Q1cAUq",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RTVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+    "uri": "CfVL4QXWxIiaUUlSE6EGIUqfYDZkdKgPm2FirX7pQQcvyH/HdmqQPS8IZxMCx2wO",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
         "name": "VAMOS FHD",
         "ico": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0kroV1pYQyDQ9oPGt4JolLw==",
