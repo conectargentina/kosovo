@@ -693,145 +693,125 @@
     "mode": false,
     "lista": [
       {
-        "name": "COPA AMERICA",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
+        "name": "TVMAX",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46LZnpUIFQKrcS2eRyumbrRw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "COPA AMERICA",
-        "ico": "https://i.ibb.co/fCnWqXS/CAMERICA2024.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6t2e99VAQVyHgRegkOrnvjhQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EURO 2024",
-        "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-        "uri": "6SAwQJoIfR8hJMxf7SQBC0BDpqcD97mEDrhR8ZIVD55sWAliyKXhpr4SHlzpb4Ny74s0DoOqYSei5NgVnp5xsQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Edzods4Xvt/Qum15DTDAeN9u0LbAwjjuLClc56gBidtVscBLHFBT4EdUCwe2OoL4oBRh653BggdEXwQSm7Mouq/Q+/9WXDnmZCIX4b3NYK0m9La7wyu7otFiuupv9k3A9g=="
-      },
-      {
-        "name": "EURO 2024",
-        "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-        "uri": "uhYmf2RoDLsD4qr8Ocs6YOzmTIOjRlfoQ7j9RlKOfMJbfyRCKgqYrjmb+8Dndg8qhyRWsxrR521XXt5GnHNmug==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EURO 2024*",
-        "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-        "uri": "n67eI+PDvBOmLo18+BZKNgqZ1umYgIcgdL2L87QkbtxqKAGbawjF2bs+NV04djaGve0Mdr2T62dbTG6jnG0PGQKWK3cNSeGKNfIiPDdGHZVDTiq4DnD2Ro0vWYiMttaz",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZ+AIBkPPOn0aHGeDv3cWnGRsTSfGpLBYlQHSZhnXg+45JbI53UPzg1Z61DKbCy3ckaab8DMHi9tD6JjOYrHEsgjGlvzEVpPzAPLRh1UmhaBPlFJzLrRrkQGQENIXQjejA=="
-      },
-      {
-        "name": "EURO 2024 V1",
-        "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
-        "uri": "gglYdbRF9TYppUCOD6DesKW1iLFDTUmrT74xgJGozpfzAqPG1usIHHmsNcet90cW7Lrf4pZMOZsrmupleUGZi49topqXcFSAB2qMdxQXPZkvxvJi2w0DYC6nsjG0lXfu",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee/BBt5bjIkWUCbk28+gO1yKzoLD/H4HnCOp/gAq67sEKMfEg2HYpYiZsETYTgJTAYU4t2JseCijy6AfardDwFYUb3hZb+GhiFGVprV0ZHNWmUeVIyDkR4rdOPy//fLoYw=="
-      },
-      {
-        "name": "BRASIL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKiQBMNBh3BABEZLyDJtSHrw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BRASIL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-        "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKnxxv6KE/EZuA1puKIw5pwc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BRASIL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/199px-Brazilian_Football_Confederation_logo.svg.png",
-        "uri": "2MSDcX7BiuFO4tBG4AD2js32b6vVMiH5EtR4J1tuThSh964taP7xwvRc3XtNPGTku73heyMFIZzPf3JiEicKBw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ARGENTINA",
-        "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
+        "name": "TYC SPORTS",
+        "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
-        "name": "ARGENTINA",
-        "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
-        "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
+        "name": "TUDN",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6t2e99VAQVyHgRegkOrnvjhQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+     {
+        "name": "GLOBO RJ",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+        "uri": "brWGIYQc4njCGzc8x38KxtYlTpiAXQKUohEPHui8kwfBjvnb+RkvypnYSrBe0u43",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
+        "name": "LA 1",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+        "uri": "fXFW02gJYNQooMN/+vCmxa1BMDrpbpRm7h9EaA0wwVeYkAAgDLh4rC8vALNEOZufRONqooO+P7Vchs15rstySjoD1aRH8GAyEdoFGs75eM4razBJV+Iz+8ZelUs0J/+iYq0fRFAAglgKNwITLsCwAin16Pv8oe4vNJaI2BWOK1A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TVE",
+        "ico": "https://seeklogo.com/images/T/tve-la-1-logo-18CBC6CD6F-seeklogo.com.png?v=638252010700000000",
+        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WspSejp0QRorMz7njMQwkf7+fI0ZuVPx9UwNyP4HiB643xHUo+iIvS0abJx1vtHRY2",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EclH9D//A8YfOO4yoRb5GmAwQ6kVzfqjEd65deS+LiT9N8S0mTkOIp9UuOBl4ITJetu2gCVGfVWqV0avLFNsznklnJ76KAbuTEcS2ncUYOQOp3sGizI7+gVLalnHyqKlbA=="
+      },
+      {
+        "name": "RTVE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+        "uri": "CfVL4QXWxIiaUUlSE6EGIRcseQWqmx3yd9cie/R/8egIVKjNHBDp5nJrp1Q1cAUq",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RTVE",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+        "uri": "CfVL4QXWxIiaUUlSE6EGIUqfYDZkdKgPm2FirX7pQQcvyH/HdmqQPS8IZxMCx2wO",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+   {
+        "name": "MATCH!",
+        "ico": "https://i.ibb.co/7jFLwdp/Match-TV.png",
+        "uri": "6SAwQJoIfR8hJMxf7SQBC0BDpqcD97mEDrhR8ZIVD57K+6+K7e/8HogZYDmorWgU5R8K/5RiLLKMvrPBTlZDpQ==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXlRUSMZmBgRHE63axIHkxlNPdvTS/YByeUknhXDxBNexUenfeR0lKWsbeVPscDvuRZ0J5bZEe7gVCI6kNEJyk3OurQoxhUNkGOevqmyQx2MFkiylYjdbvubcNnMtNTqCQ=="
       },
-      {
-        "name": "ARGENTINA",
-        "ico": "https://seeklogo.com/images/A/afa-argentina-3-star-logo-CE85FC39D9-seeklogo.com.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+            {
+        "name": "EURO 2024",
+        "ico": "https://i.ibb.co/MDH7gmv/Logo2024.webp",
+        "uri": "n67eI+PDvBOmLo18+BZKNgqZ1umYgIcgdL2L87QkbtxqKAGbawjF2bs+NV04djaGve0Mdr2T62dbTG6jnG0PGQKWK3cNSeGKNfIiPDdGHZVDTiq4DnD2Ro0vWYiMttaz",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZ+AIBkPPOn0aHGeDv3cWnGRsTSfGpLBYlQHSZhnXg+45JbI53UPzg1Z61DKbCy3ckaab8DMHi9tD6JjOYrHEsgjGlvzEVpPzAPLRh1UmhaBPlFJzLrRrkQGQENIXQjejA=="
+      },
+  {
+    "name": "TVI PT",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/1/19/TVI_logo.jpg",
+    "uri": "Gn+ZS5p0KfLRWYUCZo+gOpxfnG5ELr6K31AMiEmi5eFJXFy/V9RqVq1p4LP5WH+s1w+lDbhnCp5P4u/EKk7X4j12OUDWqyelJvkYrk4YMLJZANRemcD4nVRUNdOfPey7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+    {
+        "name": "M4 SPORTS",
+        "ico": "https://m4sport.hu/wp-content/plugins/hms-global-widgets/common/styles/images/m4-redesign/m4_sport_rgb_a_B.png",
+        "uri": "kjdWdi8nURv+OFDRHJBcHN/tNEZKlq9O22y6MOPltD96btEPssywv9NUydoTIXBvEWUXZf6ujQohA8rL7cFv7VZsLtuEpH21so2w0YMJpxg=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUzOC9ssY9rinO+leOSYhTOyjbLcE2VdqaZ5jey7jpidUAR3iSzLTXHUT8cA5CVwPM3ZknmrSh9YFNiyG4F6akCFJVrRA7JBEgath6y902a0VrwEZu14r/P3AKKzucwg4Q=="
+      },
+  {
+    "name": "VTC HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_VTC1HD.png",
+    "uri": "Wq625BK65PcFjfjCruiko96fjr/X32SUTwFTPvk/8+z90uRV3KzgWMHdD96sZMUO",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BBC HD",
+    "ico": "https://www.pngall.com/wp-content/uploads/15/BBC-Logo-PNG-Photos.png",
+    "uri": "U81pIsv9aM93JpPfOO615dSOiXzM1YJNbyhZJO0ylGfFpvnOvWF4eTwhKrD0eQNQLRU2O8Ts9V2zG+6W53lplhAveW19Ps3yGr3QabBQPcs9oaur2evyEiWRq53FBHS135w0dTS5TnswrN0mvjoUuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ARD 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "uri": "yx70rhVcnu0JjCfWRQ3eaXCuxkpY9dJup94LadJ/gnfzTPao/hmuIXBvyiHVkrnLnIBcqXdaWJ2FiDw9lVGnyEaxoJJXf8jDYao9MOv2sIE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+          {
+        "name": "ARENA  1  PREMIUM",
+        "ico": "https://i.postimg.cc/QxGqy6q8/arena1.jpg",
+        "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
         "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
       },
-      {
-        "name": "PARAGUAY",
-        "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ER46U4k9VzANPTMkRy9+z82lp5YPjOqzUfeEHYhDg5Rj1prYq+FFleask5FCdYClQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQxneGYZOszpYc0XiPa1AvkIGlC+nCnI+Q19r8AIYqjG31WtMTs50NqDAvapXrSWhF2Sx1JnGhqai/1xsO6iLT4P/32Y4lo6tsrzjp1WY9odOiXrjFRJqa7XEAqUgx6qeQ=="
-      },
-      {
-        "name": "PARAGUAY",
-        "ico": "https://seeklogo.com/images/E/ESCUDO_PARAGUAY_FRENTE-logo-608E519542-seeklogo.com.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GF6wPoTfYaECaFwHuPpDIXOjjne9h66lDqVVQrINKmRr8L58FITo2aJgadysD0LS3fapIfey2Obz0w9W/M93vQ",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EX9Pw+88C7lwonWxzakSLSrylTy8mtdMfFoTSnDBqWe1fkGf6a2Ivp3ZzCRrR2Jr8wkRSKkpSLc3fP9Hoq3YkJszu8/ajn+zRA1IRd6DSuwv++TtawGULXhqIt1PmyoaRA=="
-      },
-      {
-        "name": "COLOMBIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCiPhhUwWOr6Q5lRWf3K35GvA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "COLOMBIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png/600px-Escudo_de_la_Federaci%C3%B3n_Colombiana_de_F%C3%BAtbol.png",
-        "uri": "CUOuQJ5FZGbKzJpDLnSOJErJB8m9XC2t77XHja6ilErcv0HJWyg5TskgRfwCo8IxOQQtHNCPTdRL7g6/hHPhww==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERU",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTEDCGyk6fvHs8PYyIpzAE1Y/4JiugGr+iBwPW7gNaDIk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "PERU",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg/257px-Logotipo_de_la_Federaci%C3%B3n_Peruana_de_F%C3%BAtbol.svg.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46gBw8vHlEPM7a6rU60Yy1YQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEXICO",
-        "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
-        "uri": "J+6SZMcfJA0usTKAjlxwG4eFeqmqRBooaL6B0ogSyrh4jfTu4THpI4IGQAqMJ/YJYh7a42/heuHg8GrzzaS14g==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEXICO",
-        "ico": "https://i.ibb.co/YTZySMk/MSMX-62.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOo3vrg3CELfwO+2ceLOpiD1TDaSoG7N4VvJxtByUODCicjaN3B+CsSazxTWk+uC2PA==",
+       {
+        "name": "CCTV-5",
+        "ico": "https://i.ibb.co/GMTvBh2/cctv5.png",
+        "uri": "uhYmf2RoDLsD4qr8Ocs6YOzmTIOjRlfoQ7j9RlKOfMJbfyRCKgqYrjmb+8Dndg8qhyRWsxrR521XXt5GnHNmug==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
+    
     ]
   },
   {
@@ -3017,6 +2997,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "TSN 1",
+    "ico": "https://globalserver.tech/teleplay/revendedor/assets/images/logo/loguito-principal.png",
+    "uri": "5TlwTNNZJAitfI4icNW++jOiOuTfEeydwEEIVsYK4V5nzuHTSu+2Xaj9Bk/9OPVgm2yr5jodHfEK515wuW0Smw==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaemPCFF/9Fw1uIPVnldMpMU9t/NwRvG1aMo3u3T5wxxFTzG2TVdLkm6zjt8X9FOUsKidq4dELVje1rq1Yiy5cTNs5C3495/lv6BFhl8tPUs5GEhpRI2yElRdoSdq9Q6KA=="
+  },
       {
         "name": "BAND RS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Rede_Bandeirantes_logo_2018.svg/800px-Rede_Bandeirantes_logo_2018.svg.png",
@@ -3518,8 +3505,15 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "l3UIvfKj9qVFjW6JpOC7LigUeSvYzKbcwpCo7Pz9lM/39eR9SsIYYFN17oRshESa",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
-        "name": "GOL TV",
+        "name": "GOL TV2",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
         "uri": "Bz0pGosS57sH409uPV/OrE2CSU8lpIZoV2/5U5E3jM0=",
         "drm_scheme": "",
@@ -3573,7 +3567,35 @@
     "name": "🇪🇸 ESPAÑA",
     "mode": false,
     "lista": [
-      {
+       {
+    "name": "LA 1",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png",
+    "uri": "fXFW02gJYNQooMN/+vCmxa1BMDrpbpRm7h9EaA0wwVeYkAAgDLh4rC8vALNEOZufRONqooO+P7Vchs15rstySjoD1aRH8GAyEdoFGs75eM4razBJV+Iz+8ZelUs0J/+iYq0fRFAAglgKNwITLsCwAin16Pv8oe4vNJaI2BWOK1A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVE",
+    "ico": "https://seeklogo.com/images/T/tve-la-1-logo-18CBC6CD6F-seeklogo.com.png?v=638252010700000000",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WspSejp0QRorMz7njMQwkf7+fI0ZuVPx9UwNyP4HiB643xHUo+iIvS0abJx1vtHRY2",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EclH9D//A8YfOO4yoRb5GmAwQ6kVzfqjEd65deS+LiT9N8S0mTkOIp9UuOBl4ITJetu2gCVGfVWqV0avLFNsznklnJ76KAbuTEcS2ncUYOQOp3sGizI7+gVLalnHyqKlbA=="
+  },
+  {
+    "name": "RTVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+    "uri": "CfVL4QXWxIiaUUlSE6EGIRcseQWqmx3yd9cie/R/8egIVKjNHBDp5nJrp1Q1cAUq",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RTVE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo_RTVE.es.svg/150px-Logo_RTVE.es.svg.png",
+    "uri": "CfVL4QXWxIiaUUlSE6EGIUqfYDZkdKgPm2FirX7pQQcvyH/HdmqQPS8IZxMCx2wO",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
         "name": "VAMOS FHD",
         "ico": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png",
         "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0kroV1pYQyDQ9oPGt4JolLw==",
@@ -3788,153 +3810,111 @@
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
-      },
-      {
-        "name": "SKY SPORTS FOOTBALL",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "iG0YV97Ej1EiDkGsMThEYQZeMFpC5YE3hUCo4nhzXbphpgyj8hW1vRxLYukpV3qXcfYU/ZDchfJntpFW2rQGvNoTtBHS3yK3LUagt/WS4EM704Es8nNb5eUifksQXvCnP9XSes29m+5k1Cp01acR1ceskEopNkRb2WeCUGPdL2o=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltQaLADiOTWI2OnCBKP6SwIHOoMJbGUu+ZPAIxjkirLxmVRP8hsfNbZeNEiTnG9J8AWOiofsj8hmanxt4OtSLxG6DG60kVZX9FKqco098IkVhw=="
-      },
-      {
-        "name": "SKY SPORTS FOOTBALL",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "iG0YV97Ej1EiDkGsMThEYQZeMFpC5YE3hUCo4nhzXbphpgyj8hW1vRxLYukpV3qXcfYU/ZDchfJntpFW2rQGvNoTtBHS3yK3LUagt/WS4EM704Es8nNb5eUifksQXvCnP9XSes29m+5k1Cp01acR1ceskEopNkRb2WeCUGPdL2o=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltQaLADiOTWI2OnCBKP6SwIHOoMJbGUu+ZPAIxjkirLxmVRP8hsfNbZeNEiTnG9J8AWOiofsj8hmanxt4OtSLxG6DG60kVZX9FKqco098IkVhw=="
-      },
-      {
-        "name": "SKY SPORTS PREMIER",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "dgwBdk+fsJTMy5rrBtw75glPwnbvVM2JTGzX48rQNz5QXJyZWLDxuB6kg95ZPm/u0rMo9vefK//Dbm+KdUTGb6ByIQV1av1pABaPEfRepRFevuW0vxUxotB6cL4WTodA9lqZ0k18g/6kywNuvP/DMRuPgtDcLVyV0Ajog5U9qIQmmp/VJsSKz0ssmW2giGFH",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltSDmP0Ho0PDevkUxGyulDJKQ9zVJAgWFcgzWqhRR+ejwdwRTh+YD5tjdgPzarRvrrsf/6EHVVNmeffpEqwxwbiHj988ijWUREZBlQ6LGLHp1A=="
-      },
-      {
-        "name": "SKY SPORTS MIX",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "dgwBdk+fsJTMy5rrBtw75iKeoonz6S4336q2Kfj7vOKlq91fi6tBPdvij0EzqHgtdEx7GlS9IAqj1vKfZ97tBpfSw37idlKFqzAvxZPz9wmj9AM2yojdRNM/1BkWqxIOe8mryuxynoJRFKMevbqpXoZSaMQXUvp2ka1ozKLEALE=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltSLIRBv+F7PsnbhqiRgp4W6dOYezqvUO87rDp3iM7+gjms/DeCIYrlXTC5qx7aP4OShiv0WRyoCEiN1JO+4GX/s6WAeFUnA6NPCPXJKvGuDMA=="
-      },
-      {
-        "name": "SKY SPORTS F1",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "9Ve7Uuh0SCQYTlE/3KHyv9pnu5CT/Se0iuHdA+q3T3CrVD29GnMICorIVOZlnhQUcUT0qQGp0RwZZUoOXMbOwMKh028hXEiQ6XmD5Yy0jOYUx5SdGme6B3k8ylpCwaNM",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltRebQK3JUs/Sbfmt6DPAPfqRpuxvvNo2iWXjS8cePyDoRKtFkmEql7gupNF1B1CTmJO0jBGKuev+0ytnVphmfLUJZ14bCHcon8DV0Lnmrc1mQ=="
-      },
-      {
-        "name": "SKY SPORTS MAIN EVENT",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "dgwBdk+fsJTMy5rrBtw75kl+njsSJJ+CWHUjvGsi/kVMxCKiLbbdjsd6PVPqpeiERh1dJ93ht7E1xMxjwXnAzt3PklKzlfRZiL8Ugnao5vjB80TMYI0mwxIPjigUIe2f1CnPEmJ31WNRBruXPXRq8wzxHu1zxfDOoAk7SdJkaWs=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUjx/A6PYOPz5mEaMAxhltQLnsYfDR/lVmC2u2ECUGkNq5CDlhVEr+Z+L4feVVNCGsKnTKquy0Cu4AOP+AxoN1GGZBNOhTBo2Xups+On8bPIPk27JcSzrO7CDA93CW7cPg=="
       }
-    ]
+         ]
   },
   {
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
-      {
-        "name": "CHILE 24HS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILE 24HS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTDQAbQm4tV3Mx7B9YHSXWmwQJdOkdMUhuQ01NaOG59Ec=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CNN",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1280px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTg2zRV8nCH1WlBM/TQJ2ZJQun3M4wkU9jkDeGH+cRLao=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVN",
-        "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TVN",
-        "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTlKalBRaZjZgmVm6sRx/GokQfoeztCuS5sCqsD7EfmIo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILEVISIÓN",
-        "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CHILEVISIÓN",
-        "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTuCRXkfOL98tXfJSSnfYG31vtb089/b1QkIoeRhyz+64=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://static.epg.best/cl/Mega.cl.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MEGA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logotipo_de_Mega_%282015-2020%29.png/600px-Logotipo_de_Mega_%282015-2020%29.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0ZP179XkkR7r4aVctzei1lA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT SPORTS",
-        "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
-        "uri": "q3gHMYGSUbdPjyQoUcfS89kpaRlMuOPsDa4RK2xJQfL8mEu5STGjQAMjA+0Cy2xN6HCDbJ3D1gtmFdpP+7fWKA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CANAL 13",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/Lf2cz39cNWG1RZsaT81nwXR5yCcrl3ltN/gcR9nYgg=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA RED",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzT/EGPeWfyoYbD/LhBAoQCRR3TvwsCUF6KruAmrhfPmcw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CDO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTXXwcMTYzZec2ICjjgYh/0aeSb1mn6Ub4ZpmdpOH/hjQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "CDO 2",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0K0/okL1bcZldEts83WRF6w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+       {
+    "name": "CHILE 24HS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2fg1T/A8n9IfDw+kvGlSAMBFNLCkzTbs16FBUY7wES+c=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://www.tvn.cl/tvn/site/artic/20220922/imag/foto_0000000120220922180533/logo_tvn.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2RCzs5qUnm+gn0B5v94r6up1KS/TFfllpyTDZzQEjFSk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://static.wikia.nocookie.net/teleseries-chilenas/images/d/d4/Logo_CHV_2018.jpg/revision/latest?cb=20180216161715&path-prefix=es",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N27uy51x6qL11Y8vb5z06SOXU0YwYyGVehOK3i09QexIs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MEGA",
+    "ico": "https://static.epg.best/cl/Mega.cl.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2DVCgd8z+a5uXdfvfXS5DopT82qU9s9asTvWvkeMQt1o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS",
+    "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2UwJ9zZWZgtlLt3d6BYZQ81FzxtnfSy7KgP6g3dHFBR4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS 2",
+    "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2NdvzTy8TbFq0rm7oj+5SjyP+7jlYOYXq+1zM20hfH7A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT SPORTS 3",
+    "ico": "https://i.ibb.co/r0tmVNt/TNT-Sports-2024.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2NdvzTy8TbFq0rm7oj+5SjyP+7jlYOYXq+1zM20hfH7A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 13",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emblema_del_Canal_13_Chile.svg/1280px-Emblema_del_Canal_13_Chile.svg.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N27OBTujBM4O4tw3gsPVSyeWFFsbZNN2Nqp52n2g37tiY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2DVCgd8z+a5uXdfvfXS5Dovs8b4TdOW7CJd+RBKsG/0k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/La_Red_Logotipo_2021.svg/1024px-La_Red_Logotipo_2021.svg.png",
+    "uri": "bdn50+CnMW/B+oMbu7isD5M4UTLmgxIpIREjXtYvT+5w62XOsEgkWwBSpzC/QqjpLMnR1ZUhUgqBFuW6QjBAC0Qrqd11DDwrz0dahnkoheo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CDO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2F6tcIu9T6aVEKNBo0Vk1inkn7eHAQvQP8PhSvxRMTC4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CDO 2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2zuvaDJDZtQnTP5BTvDQYf20P38VQH0rWaHweLHWv5Ig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECTV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N241b0VNRaAEOvUCgHcqM4EXJ6FNNfuMRwWggrbuDKwPc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PURA NOTICIA",
+    "ico": "https://i.imgur.com/NklUi6Y.png",
+    "uri": "HQBDYJHihh0hcvGbJneLal6tjhKOut6geMSbZSH3lghg4kA9+OXuPky0jIRv4zAP",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
@@ -5198,17 +5178,24 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "ELEVEN SPORTS 4",
+    "ico": "https://i.ibb.co/Qv8HQFW/344-3440838-eleven-sports-logo-eleven-sports-network-logo-hd-png.png",
+    "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },  
+{
+    "name": "SETANTA SPORTS KZ",
+    "ico": "https://setantasports.com/wp-content/uploads/2023/09/Group-5.svg",
+    "uri": "T4IQSxIEozHLek2WwLakhf+lbZc/ZVUn0Q4hCpO2T29QQR1jW4esWSlGysZH6EgPIKn/NeN7hbC+bRuqbB4i0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SETANTA SPORTS 1",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
         "uri": "0ZXK2VEtfXUNk+qU5oHS57CjV3Pg10C5kSup4V8iHAFAhVMumNM25IB8bgf0NWhqKjxS73/f0WCLCeRfF/gRy0CRPpU1gMuo1hLHXoTC6J0ZB6vACFmJUqDljx5vmwJWVQ1mUYVKx+uuTPEjR9kB+J7fiSGiwqYz9CHdQnYRYFHAnlrORJBIyjuO4xfmEg9n",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SETANTA SPORTS KZ",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",
-        "uri": "X12aMiM/hE/Y8aK06Eih8xA3oGCjGTnFQIJGHeZDUJb2PDbMj/zKheor8VLxHJsHnQYgQU1G30JX37nlRNh2BsGU/xVUBE5imyzEMUxO1es=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
