@@ -713,6 +713,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+    {
+        "name": "ESPN ARGENTINA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+        "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+      },
       {
         "name": "SPORT TV",
         "ico": "https://playertv.net/wp-content/uploads/2024/04/sportv-300x169.webp",
