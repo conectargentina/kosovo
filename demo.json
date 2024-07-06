@@ -678,13 +678,6 @@
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
-      },
-      {
-        "name": "TIGO EVENTOS",
-        "ico": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/0/0/60910208076515.png",
-        "uri": "qCBLtzyWleDfaLr2epF4QkTZi+wgf50SihB9zEzVpqwH8NoORaccldhGZCFTZ0EXyaY+yN5Zu4XRHmqEwY9LQA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
       }
     ]
   },
@@ -707,11 +700,39 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
+        "name": "DIRECT TV",
+        "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2nLqDYE8CAk57ict2eDzbdYDt/hUg4eCARpyWsJkW5EM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV",
+    "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboxHi9dM4mDu9RKWrfS5RTDeSPcCZOxTgIiD4r4LOmZNs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
         "name": "TUDN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",
         "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6t2e99VAQVyHgRegkOrnvjhQ=",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+          {
+        "name": "ESPN ARGENTINA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+        "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
       },
     {
         "name": "SPORT TV",
@@ -3477,6 +3498,20 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENr/xnPKt6pvsigNqcF/XbcpGKVxJpDntmNmx3vXrXoTng=="
       },
+  {
+    "name": "11 P. DEL ESTE",
+    "ico": "http://canal11.uy/wp-content/uploads/2015/12/log.png",
+    "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCz3hIth0EWBOyD/R/nxtNrBiBImNhobGUEFT+30Y254Uv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVFLORIDA",
+    "ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAkVxsRDVYd76hUXWZVSwGZnCak3ojF46XgBOzcIsQ9p2THoomoHhc7OorELAYgSiD1fs_I6l7U8qFFthuTdRwU6p15YRg71qOlH7zwv01AAHyuFL_Lu-LaBgLIOR8gW3HCSFT_Kc4YOi/w117-h117/canal-tvflorida-en-vivo_optimized.jpg",
+    "uri": "/p/vb8cKxDyJpemJdEOGsd6TcisbyxxK4gCk9sXxD8m0iYvWk+Dc+10ISwsbFA8ye9QQqEOK/sV8fKp/5qGwdz164ey61Ld0PWgQGbDqAOE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "A+V+",
         "ico": "https://i.ibb.co/tsT9kVw/av.webp",
@@ -4990,14 +5025,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "PRUEBA TIGO",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "STsNZBese62GQcnpPsvBSRrEbkMcxI40G3zTrXlXGWveU2Mgzq/Y+5nf5IVi2YWLQUVCr32WeZbFpSb0pqBIPg0ppVH6mhavpv2LuFgsf8adT/MzL9gjh8/BO8uenAsV5RuDVP7hULp5iNV22BhdgF1RVZPJbcF1NXpk/WAeXSg=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ec5qsko2mvFaJ4WWDdIJFFzoTxZrIYxxbiSNrrLJD43tp71DUFEfe4qZujzdZm5JBkQ6g4I9x8MoDsg7FuXP85XyuLhnqqHDgGryxDWFCjzDKWci9mPz07LMe6pfhKP0Dw=="
-      },
-      {
+        {
         "name": "DUBAI RACING 3",
         "ico": "https://www.tvpolsat.info/wp-content/uploads/2021/12/abudhabisporst.png",
         "uri": "fUwPD7QS8gxjHOmg284PhHaBo1ZUj2wmC3usgu2FEkXTWXZNS0T2P8bPo0BUv5oQn69IWlwAYWbRGtBzFvVclqwSq+3M+iE7NJ6MMyzJqG/VHs1rLaU3wBICqwtcMpCm",
