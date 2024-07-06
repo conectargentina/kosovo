@@ -784,6 +784,20 @@
     "mode": false,
     "lista": [
       {
+    "name": "EVENTOS 1",
+    "ico": "https://globalserver.tech/teleplay/revendedor/assets/images/profile/perfil-tv.png",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0G30ZDG9iG9VWQ6uck/jeyoaUdj7ZgbQMVVtPpSy4GfLOWI9OyvhLG4NXNEkCrh4Tkjev688uRhFBcNfyGJnica",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb2sUurstxq3L+l+WLQncmwtUmiE58XWOlyV+ruHd6veoHnQ3nBAQ/UAFrOK850UeoKc9jaDJ+aLDcvrYtHlcA6TitEotRf5bBgIBzL9K5Bm8K8O6XrbQM0N2MkIJaDK2g=="
+  },
+  {
+    "name": "EVENTOS 2",
+    "ico": "https://globalserver.tech/teleplay/revendedor/assets/images/profile/perfil-tv.png",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GtdUtiwNPQ5U8xtW9iuu2SuvHiOdZnu9KiX9Jiw0lDQ0Sr2eDH/xGa7DnQEyF5+BkMDTO933WcoOCXotRbqkMz",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZq3I6tUf+qjJM3Hwt4MouXg3aWKqQe0w+ZdWL8Z8Etrtjp8P9a5cdy+xDlDCyBavmzfkchRtBSIJWo3V6DeRgOfiAEK310yhxv8F/7VEgGurHBuOPz3sTDtDODV9BM8A=="
+  },
+ {
         "name": "TVMAX",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46LZnpUIFQKrcS2eRyumbrRw==",
