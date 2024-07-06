@@ -3306,7 +3306,7 @@
   },
   {
         "name": "SPORT TV 2 ",
-        "ico": ""https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-2-ao-vivo-tv-ao-vivo.jpg",
+        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-2-ao-vivo-tv-ao-vivo.jpg",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKlB7yMUEv56tBCRz0+0BiWw=",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -3317,10 +3317,10 @@
     "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwWIevXGoFWxT/4NwNPwkB/c=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
+  },
       {
         "name": "SPORT TV 3 ",
-        "ico": https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-3-ao-vivo-24-horas-hd-online.jpg",
+        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-3-ao-vivo-24-horas-hd-online.jpg",
         "uri": "E/UfMghbw/CrZ8VvrN87DL1HrKL0EyAog9ppWbFWlYoVKF68+1sH0gSGTli03vXvLS0+KI2/GmTCsN/RniMZKrtoSq6uewCbuLxd/y6ve84=",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -3331,7 +3331,7 @@
     "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwWIevXGoFWxT/4NwNPwkB/c=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
+  },
       {
         "name": "CAZÉ TV",
         "ico": "https://mir-s3-cdn-cf.behance.net/projects/404/cf3b35181888595.Y3JvcCw5OTIsNzc2LDE1NCwyMg.png",
