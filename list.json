@@ -73,6 +73,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "TIGO SPORTS-EVENTOS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",
+    "uri": "qCBLtzyWleDfaLr2epF4QkTZi+wgf50SihB9zEzVpqwH8NoORaccldhGZCFTZ0EXyaY+yN5Zu4XRHmqEwY9LQA==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
+  },
       {
         "name": "IMAGINARY",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
