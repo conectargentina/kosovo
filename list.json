@@ -73,13 +73,6 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "TIGO EVENTOS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png",
-    "uri": "/XOHz3qj1oybGSYCNHpKfa0kQZI4ZzMn7buP6FTrCnb+SfRr/LviqucorcyzL3jG5tZzc6wub+1gw226/J6Icg==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ET0bP1qZk4XUPNKeFHRymYCeB3RIowHLYZ3kuLTUmNBn0oKc5u40HAIt0qRy5Biu3OJOEY121XFzeOpd7IZTo75nCjWG7F7GH/9otrRLTX4MQ45F1HvzMDjUNfBtQMgJpQ=="
-  },
       {
         "name": "IMAGINARY",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
@@ -685,13 +678,6 @@
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/WsIy2iqMP2F3VJkhvnhzQAz+ypYV9pc5Glcaq7UiGxe5tCXQAf4tMEjp7Mgp3IEHOND9QhOEVYUJXqyvb84lR5FQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed6l0JTfihx+Lp0l4qpmkthqG+LOrqRWcaPdgC+clT6pbFKBLDNMRA3/5JS5601DUIOdEIoUqI2yBiqVitIxHFOtxHaXJ69Xe1XtTgMTxwALdzCkaeGYsXKN2Wmb1hLzmw=="
-      },
-      {
-        "name": "TIGO EVENTOS",
-        "ico": "https://static.flow.com.ar/images/7917/CH_LOGO/60/40/0/0/60910208076515.png",
-        "uri": "qCBLtzyWleDfaLr2epF4QkTZi+wgf50SihB9zEzVpqwH8NoORaccldhGZCFTZ0EXyaY+yN5Zu4XRHmqEwY9LQA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
       }
     ]
   },
@@ -714,13 +700,34 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
       {
+        "name": "DIRECT TV",
+        "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECT TV",
+        "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2nLqDYE8CAk57ict2eDzbdYDt/hUg4eCARpyWsJkW5EM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DIRECT TV",
+        "ico": "https://deportestvhd2.com/img/logo-canal/DSports.png?up",
+        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboxHi9dM4mDu9RKWrfS5RTDeSPcCZOxTgIiD4r4LOmZNs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "TUDN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/500px-TUDN_Logo.svg.png",
         "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2c4SXPI8bTP1yuITU6no6t2e99VAQVyHgRegkOrnvjhQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-    {
+      {
         "name": "ESPN ARGENTINA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
         "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
@@ -3491,6 +3498,20 @@
         "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENr/xnPKt6pvsigNqcF/XbcpGKVxJpDntmNmx3vXrXoTng=="
       },
       {
+        "name": "11 P. DEL ESTE",
+        "ico": "http://canal11.uy/wp-content/uploads/2015/12/log.png",
+        "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCz3hIth0EWBOyD/R/nxtNrBiBImNhobGUEFT+30Y254Uv",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TVFLORIDA",
+        "ico": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlAkVxsRDVYd76hUXWZVSwGZnCak3ojF46XgBOzcIsQ9p2THoomoHhc7OorELAYgSiD1fs_I6l7U8qFFthuTdRwU6p15YRg71qOlH7zwv01AAHyuFL_Lu-LaBgLIOR8gW3HCSFT_Kc4YOi/w117-h117/canal-tvflorida-en-vivo_optimized.jpg",
+        "uri": "/p/vb8cKxDyJpemJdEOGsd6TcisbyxxK4gCk9sXxD8m0iYvWk+Dc+10ISwsbFA8ye9QQqEOK/sV8fKp/5qGwdz164ey61Ld0PWgQGbDqAOE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "A+V+",
         "ico": "https://i.ibb.co/tsT9kVw/av.webp",
         "uri": "2y9+NqiqWzjL7NB6s9x97pD7oRz3usJX6RoKHMhwRSlBm/tlyOjhXWG3ikEp/sdvT2OoTWYq2SxovZNFUF94C/GBWkLuR6cfWZc/ulvlY3w4Xe256WMjIvOGDjBiPbViEWUGjR1Dmpf94K3dvFfhvCqX7D3RFBvFPGixRu2M24GI8Ado4Bp8Zosf0zUHl0gPu3aTcIQmvGPoQfSoH21yF3h+tDlcWMOrSb0xod6nCXFs8fW7jHyVxrpaWXj9am4dsDLej8gpjjCqik+LZQfP3GttqJ0MYROJkZ8s2FslBa8R1j4oIkMJ12QOMPh9hRYnkUpgsQTmpejvVdwm5IZmP7BZArV0nOXjeSmknZCWWcSRXgPiL+nouOXLyaruQW/MwUx0UqBSolrZAEaXLTJLdIUmSmdkmBbX7InrGHhJv2JTKdgUVj/yMyb3DmiY3lTSZzArEgbhLcw2XHefoGK932EccPNxp8ldfwT1bKn3jfPjtEe9MbsDcRFshlGqd24crnpOYRo2U7yGav7JTkG4/w8l1CHMmh23dJvQL5gKmtaRjDHiLb67ZRh+ecZPD7aUUT3DVz6EZ77yA3b+yv1bvQ==",
@@ -5002,13 +5023,6 @@
         "uri": "fUwPD7QS8gxjHOmg284PhHaBo1ZUj2wmC3usgu2FEkWAr19YvYdhAS2bYG7LzDI/fihmbHs/QNu5DxBPJ2qN8dLIx++EXGQx+RrSZUCug7X/mKESMgV0/o+BQmJdyLRr",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "PRUEBA TIGO",
-        "ico": "https://e3.365dm.com/tvlogos/channels/3838-Logo.png",
-        "uri": "STsNZBese62GQcnpPsvBSRrEbkMcxI40G3zTrXlXGWveU2Mgzq/Y+5nf5IVi2YWLQUVCr32WeZbFpSb0pqBIPg0ppVH6mhavpv2LuFgsf8adT/MzL9gjh8/BO8uenAsV5RuDVP7hULp5iNV22BhdgF1RVZPJbcF1NXpk/WAeXSg=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ec5qsko2mvFaJ4WWDdIJFFzoTxZrIYxxbiSNrrLJD43tp71DUFEfe4qZujzdZm5JBkQ6g4I9x8MoDsg7FuXP85XyuLhnqqHDgGryxDWFCjzDKWci9mPz07LMe6pfhKP0Dw=="
       },
       {
         "name": "DUBAI RACING 3",
