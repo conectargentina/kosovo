@@ -3,13 +3,7 @@
     "name": "⭐PELICULAS",
     "mode": false,
     "lista": [
-      {
-        "name": "EN LAS PROFUNDIDADES DEL SENA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ww9s0QSZ06WIxyZAKAdg6nqfE5v.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4xqMPVBithi4W9qfYfDCzM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+     
       {
         "name": "LA POSESIÓN DE MERCY BLACK",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
@@ -17,35 +11,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "VIERNES NEGRO",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4LWnCBeAl6ifC9MCL20P80rxv8.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQx3ety2Oyqr18KLs8FI4ybw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MISTERIO A LA VISTA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jce1QvM2sma0TKYckNmIKzjhHC.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQx3ety2Oyqr18KLs8FI4ybw=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "REINO ANIMAL",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oWh4BiNEmg7d91ZOXPzdkRo0KSO.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ70g9kcEpi2xz7zJQHZ4jbY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "FANTASÍA",
-        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/m9F1Ucv2raJWFYE3uqbodEx55gh.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ46FLrTOkJqIBA4J9LALN8w=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+         {
         "name": "CADAVER",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ51Pil2s41ZclJhO0rpGICFaMhzj2Y7kJilJHt7RcSHg=",
@@ -66,62 +32,124 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "LA PRIMERA PROFECÍA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ+q+HNXiBZXGNrsurkfBuMY=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "IMAGINARY",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhol6mXdnXYimRAgf3vlN9ZUZF.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ1zXeCcvWLhn4qhBiKkJUnM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA HERENCIA TIENE UN PRECIO",
-        "ico": "https://panel.budtv-ultra.com/posters/w0N9wVv0904itL2Gwdvon2AR4IU.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQyQOIBjjGGYvc3B3zyzIGwk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL MINISTERIO DE LA GUERRA",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPNumPkIkv9lm51qpffVJEhtlC7.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4UDgQLvPpeFRTnDpk1WI2s=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA IDEA DE TENERTE",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ/Otzgz/4BNWGTifhjkglRo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+         {
         "name": "INFIEL",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WUpWRFvvN6l0LUIJbFNZw4jWvB.jpg",
         "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9b746T3ANnuy3HOugvtl37x6paFS6JhhBcD96HJrWeP8=",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "UN ASUNTO FAMILIAR",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cARSBgATiIZarMqsTFjdVOOjupl.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ4tTvN1GkUFP7d/ZWTztb0M=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BIONICOS",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e8/hdCn/UD5ElmOLAs2Ld7PWyXW+mhMXs7w4a6mlcz5D9aoKxatWmkn+3K0GHTnPWQ5yj3mfybZGNJ66INkmcSeM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
+     ]
+  },
+{
+    "name": "⭐PELICULAS II",
+    "mode": false,
+    "lista": [
+    {
+    "name": "LA LEYENDA DE TARZÁN ",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HORAS CONTADAS",
+    "ico": "https://www.themoviedb.org/t/p/original/pTzFfxyqp3N6k377TyAUu4463YS.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+JIt3CAYawcpXIyXR/abBE0Uc19yg5BvfzhR8iWqD0U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESTACIÓN ZOMBIE",
+    "ico": "https://www.themoviedb.org/t/p/original/gQDPQxUNep5TPgFPRRORAWFQueQ.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQPsy+IcmntBrT6qj1lukYeFxmDa2030oO9+LT4wkG2M4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GODZILLA Y KONG: EL NUEVO IMPERIO",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
+    "uri": "EfFyxhrSaFbt7TVyWdyrR6VBULq6gQ1VAj1hsXau252Io/WW4cJBP6us7GSEb63CxDeJdNDd3F03IwTrkOwwjdrfCOmGymBCc782qbffwDL/8jZ8nBLZkimDgVd6ELaRcdzs2V9FRmtkFTcUnq7ktA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JUNG_E",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYnp9vNPdJiCU0SIisWdA3VIGNB.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQdVfOr/SQa1lv+A4escP9RPdGqQ+qK38glNRHA2pW5TY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LEGIÓN DE SUPERHÉROES",
+    "ico": "https://image.tmdb.org/t/p/w780/ajU3fCIvT0py0IDw1g6g5e0bNr8.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQoRaz3r9Zqv6YR1Kv28ubPrsO2hJ6VbtXXg1wNcI/oC0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ALERTA EXTREMA",
+    "ico": "https://image.tmdb.org/t/p/w780/2CltlQl9SsBBs053bljvOVKqMEq.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVvEJ82mIFTz9jiEQTJcYqdO+ZDzix4sSBetcbYVV8UE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BARBIE SKIPPER Y LA GRAN AVENTURA COMO NIÑERA",
+    "ico": "https://image.tmdb.org/t/p/w780/PeshC5r6QoCzXT9RWj7fhArEX8.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQmnVoSt/sfYC21zl5h2uW074W5U/NvCPMWYY79hzn9GE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TRANSFUSION",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOixT71Ok77ZiBu06lO0Z6FysKi.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUJg5MEYx4b1o30qWCmZeolJVBafnEvQrhNTuOnK+gmA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RAZÓN DE ESTAR CONTIGO",
+    "ico": "https://www.themoviedb.org/t/p/original/qNWDB4avy1nwATTGYyzqT5mDuT9.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQH0cM74UoxgOwraK4ME3N2a/dm45ye5wuTiKJ0XqSmg8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "365 DÍAS",
+    "ico": "https://image.tmdb.org/t/p/w780/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+Wrp70TVgzjQ85MqNe2hdH5rlzVVVLVDfd3kTvMxW1w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA MUJER EN LA VENTANA",
+    "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LETRAS EXPLÍCITAS",
+    "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOSOTROS",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
