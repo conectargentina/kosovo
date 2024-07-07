@@ -798,27 +798,13 @@
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZq3I6tUf+qjJM3Hwt4MouXg3aWKqQe0w+ZdWL8Z8Etrtjp8P9a5cdy+xDlDCyBavmzfkchRtBSIJWo3V6DeRgOfiAEK310yhxv8F/7VEgGurHBuOPz3sTDtDODV9BM8A=="
   },
   {
-    "name": "BRASIL VS URUGUAY",
-    "ico": "https://www.ole.com.ar/images/2024/07/04/aGkSKj5gi_1290x760__1.jpg",
-    "uri": "KhtScBhlGG/7GVe7Cj16kyOVhIUPJyVqXNkyYNypqGdSGcyGn6SK+fmBUOTNPjyBvC9CfRpjIbs3qYGQLwW8arnSypV7jI6mibNvbkP0QVACciBjhLpm8/8AQzD0FXu2",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
- {
         "name": "TVMAX",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_tvmax.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46LZnpUIFQKrcS2eRyumbrRw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "VENEZUELA VS CANADA ",
-    "ico": "https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2019/05/TUDN_LOGO_COLOR.png",
-    "uri": "KhtScBhlGG/7GVe7Cj16kyOVhIUPJyVqXNkyYNypqGdSGcyGn6SK+fmBUOTNPjyBvC9CfRpjIbs3qYGQLwW8arnSypV7jI6mibNvbkP0QVACciBjhLpm8/8AQzD0FXu2",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-      {
+       {
         "name": "TYC SPORTS",
         "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
@@ -964,15 +950,7 @@
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
-      },
-       {
-        "name": "CCTV-5",
-        "ico": "https://i.ibb.co/GMTvBh2/cctv5.png",
-        "uri": "uhYmf2RoDLsD4qr8Ocs6YOzmTIOjRlfoQ7j9RlKOfMJbfyRCKgqYrjmb+8Dndg8qhyRWsxrR521XXt5GnHNmug==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
-    
+      }    
     ]
   },
   {
