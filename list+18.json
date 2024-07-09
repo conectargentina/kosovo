@@ -868,7 +868,35 @@
         "uri": "6SAwQJoIfR8hJMxf7SQBC0BDpqcD97mEDrhR8ZIVD57K+6+K7e/8HogZYDmorWgU5R8K/5RiLLKMvrPBTlZDpQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXlRUSMZmBgRHE63axIHkxlNPdvTS/YByeUknhXDxBNexUenfeR0lKWsbeVPscDvuRZ0J5bZEe7gVCI6kNEJyk3OurQoxhUNkGOevqmyQx2MFkiylYjdbvubcNnMtNTqCQ=="
-      }
+      },
+  {
+    "name": "EVENTOS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "qCBLtzyWleDfaLr2epF4QkTZi+wgf50SihB9zEzVpqwH8NoORaccldhGZCFTZ0EXyaY+yN5Zu4XRHmqEwY9LQA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
+  },
+  {
+    "name": "EVENTOS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "/XOHz3qj1oybGSYCNHpKfa0kQZI4ZzMn7buP6FTrCnb+SfRr/LviqucorcyzL3jG5tZzc6wub+1gw226/J6Icg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ET0bP1qZk4XUPNKeFHRymYCeB3RIowHLYZ3kuLTUmNBn0oKc5u40HAIt0qRy5Biu3OJOEY121XFzeOpd7IZTo75nCjWG7F7GH/9otrRLTX4MQ45F1HvzMDjUNfBtQMgJpQ=="
+  },
+  {
+    "name": "EVENTOS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0G30ZDG9iG9VWQ6uck/jeyoaUdj7ZgbQMVVtPpSy4GfLOWI9OyvhLG4NXNEkCrh4Tkjev688uRhFBcNfyGJnica",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb2sUurstxq3L+l+WLQncmwtUmiE58XWOlyV+ruHd6veoHnQ3nBAQ/UAFrOK850UeoKc9jaDJ+aLDcvrYtHlcA6TitEotRf5bBgIBzL9K5Bm8K8O6XrbQM0N2MkIJaDK2g=="
+  },
+  {
+    "name": "EVENTOS",
+    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GtdUtiwNPQ5U8xtW9iuu2SuvHiOdZnu9KiX9Jiw0lDQ0Sr2eDH/xGa7DnQEyF5+BkMDTO933WcoOCXotRbqkMz",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZq3I6tUf+qjJM3Hwt4MouXg3aWKqQe0w+ZdWL8Z8Etrtjp8P9a5cdy+xDlDCyBavmzfkchRtBSIJWo3V6DeRgOfiAEK310yhxv8F/7VEgGurHBuOPz3sTDtDODV9BM8A=="
+  }
     ]
   },
   {
