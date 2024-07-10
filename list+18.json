@@ -226,35 +226,7 @@
     "name": "🇦🇷 ARGENTINA",
     "mode": false,
     "lista": [
-      {
-        "name": "GH 24HS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46xEKxqfkh0TXwAyvOI3W6pA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GH 1",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46H9bn9pQanGXk6I7grzAyOg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GH 2",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46AEE+u6WqUkbAROMNRb/ogQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GH 3",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46ZzJOcoe61c6SEiK/G71nRw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+            {
         "name": "TELEFE",
         "ico": "https://television-libre.online/img/telefe.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
