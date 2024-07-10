@@ -289,6 +289,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbJqAGnFOWDNpOZVhJy2gJJTQGpSilIJHqhpYt2O+nNvC8QYt9nkjhKcwIUKxsTNuHKp97NOEMLQWVSYymvOlrzUNAXzBRuKFh+0HAbD+MVfv9eL7bWjRX1PeK7rwrNktQ=="
       },
+  {
+    "name": "TV PUBLICA",
+    "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
+    "uri": "W7jL1AmtIaaY+rycXsq1G44oVkZXAuEMWwPrr6cEnxvhhC1v2ci7x40bxYgiYnyYaYphdsflEaNhhpj4dJhcibTxjHlVtp57m9LXHOZSNP443XOut6cdq6ewMNN7JwDne37ex/plNfu4vw0ILwxAMA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "TV PUBLICA",
         "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
@@ -296,13 +303,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
       },
-      {
-        "name": "TV PUBLICA",
-        "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
-        "uri": "W7jL1AmtIaaY+rycXsq1G44oVkZXAuEMWwPrr6cEnxvS89Qc5ksT/WSdyML/dhiiqbUJGU8GxwFLqDXYQmwLjov8+HKSKDQPK9TcS6zBgZ9Oetvw5QLfp8PFhi+wYAb/HP5ONZQdZ8khpXytSIwR8A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+{
+    "name": "TV PUBLICA",
+    "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
+    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HohaE5tR8x/hdl0/ThqQgjo0SQTjvNuzjooa/+HFBXkqs65caC24bQhLBzEqpvEgA=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ8Ln4h/MDRjL5Viu1ZDccRxCBr77ds066qDbkJq4brKG/fSKkhFGWH4kedf2cDwgbNCJTfsaWrJ0PKP1v+/P1kRO6w1F8ROnKVAR3fs59sBrrX5Sth+AjZ3w1t6RT03Fg=="
+  },
       {
         "name": "C5N",
         "ico": "https://i.ibb.co/pzRgLkD/c5n.webp",
