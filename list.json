@@ -226,34 +226,6 @@
     "mode": false,
     "lista": [
       {
-        "name": "GH 24HS",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46xEKxqfkh0TXwAyvOI3W6pA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GH 1",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46H9bn9pQanGXk6I7grzAyOg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GH 2",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46AEE+u6WqUkbAROMNRb/ogQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "GH 3",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo_gh_new_2__4.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46ZzJOcoe61c6SEiK/G71nRw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "TELEFE",
         "ico": "https://television-libre.online/img/telefe.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
@@ -299,6 +271,13 @@
         "name": "TV PUBLICA",
         "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
         "uri": "W7jL1AmtIaaY+rycXsq1G44oVkZXAuEMWwPrr6cEnxvS89Qc5ksT/WSdyML/dhiiqbUJGU8GxwFLqDXYQmwLjov8+HKSKDQPK9TcS6zBgZ9Oetvw5QLfp8PFhi+wYAb/HP5ONZQdZ8khpXytSIwR8A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "TV PUBLICA",
+        "ico": "https://i.ibb.co/ydbGDzd/tvpublica.webp",
+        "uri": "W7jL1AmtIaaY+rycXsq1G44oVkZXAuEMWwPrr6cEnxvhhC1v2ci7x40bxYgiYnyYaYphdsflEaNhhpj4dJhcibTxjHlVtp57m9LXHOZSNP443XOut6cdq6ewMNN7JwDne37ex/plNfu4vw0ILwxAMA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -448,13 +427,6 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "EVENTOS 22",
-        "ico": "https://globalserver.tech/teleplay/revendedor/assets/images/profile/perfil-tv.png",
-        "uri": "pf+R9pzKz+3lVCQYSq5Wzv9iWb9OkU9MMgVysLOYj1FETYc8drR5n0EGXhPvJX33JsBLijksB4ggX+q6UPNVXzaLdsu2wYxVoxmSanu/pLSANmbji0cm9HQAsDJ7obBS",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWL5f3ii7b6iNO/lyZ4WbmT3IpbzQJDcbnera44V3EmX2MnOE3ga+QQ+t6EHe0CFxUbUUP5MLRTkcZolNBjrFsY8AutBw10SwN0zmfvQsUP4PHbwQdj8bTtw6LNcZ/eOMQ=="
       },
       {
         "name": "Pᴀᴄᴋ Fᴜᴛʙᴏʟ ᴴᴰ | TYC SPORTS",
@@ -790,19 +762,47 @@
     "mode": false,
     "lista": [
       {
-        "name": "EVENTO",
+        "name": "URU vs COL",
+        "ico": "https://i.ibb.co/C0kvDtv/C3-QZMWHSQNE2-BMWBOWOP4-RTZRM.jpg",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Eg8blU7I/yvDqIA/X1XWJ4SvqeBpJwhxr5e5pjW6UeOKx9/6DG0hS3DW2nR1/BnQg=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUP3uRlZBN2lAN6LrS6+W+QflvTeGNUgIN6HglFVc/eLM3QD6j2hUk+22Ivwnjvv7LykfRtnkOxGa9mQYD7bHhsV66NpgaOY1aaqWX+YWNhNbWRRWYdipwjk8Ny7Krlmg=="
+      },
+      {
+        "name": "EVENTO 1",
+        "ico": "https://i.ibb.co/C0kvDtv/C3-QZMWHSQNE2-BMWBOWOP4-RTZRM.jpg",
+        "uri": "F/M/bbXI4NP4/AB2pFecDUqwjLWXdlqLYLEqM1InqsfdCx6NzFYRV8yaYKoI6LNR/zqRFu4qFZrKl1OlygqPi/o+3rqbZdl+bKRa22SpOOs/+v0njcoqsJLJfd/AR9NNKw+c5cNh4h73b1VnXcXbeWk3trDVuQ7X4CRa9p+esFpQA7Ry5yxOXeZpeyQBOw7++g5my+XA09Lpf54hBIpLKT4hbKYECAeyKpmmzoo8fkE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EVENTO 2",
+        "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GF6wPoTfYaECaFwHuPpDIXOjjne9h66lDqVVQrINKmRr8L58FITo2aJgadysD0LS3fapIfey2Obz0w9W/M93vQ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EX9Pw+88C7lwonWxzakSLSrylTy8mtdMfFoTSnDBqWe1fkGf6a2Ivp3ZzCRrR2Jr8wkRSKkpSLc3fP9Hoq3YkJszu8/ajn+zRA1IRd6DSuwv++TtawGULXhqIt1PmyoaRA=="
+      },
+      {
+        "name": "EVENTO 3",
+        "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+        "uri": "F/M/bbXI4NP4/AB2pFecDfuxMR4O0RyML3hYeIpkpvkYncNWFDeyORJvdSO2S0wr+2ILuo3mEdXe+HdpGI1oY7nu52RS74myfT+3blzU3ce6vcWpmj1WDBYtuxHDhIXYENCTZhOU0kjIRApK1ixjwJr4a3+HqLrP7a9JO2T3mbN7O79uJ2Fk8mYn95SPCnrahp3MC+GNiW/djonWooomIwnfKOpaQyFfVMlLX8HJLak=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EVENTO 4",
         "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46LZnpUIFQKrcS2eRyumbrRw==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-  {
-    "name": "EVENTO",
-    "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
-    "uri": "sm5EZcTTrG0RNtefQ3bG6/4m/CFSCCdyGneWoV3STxreZJheiMVAAobANUN+Zdoikx2vRtAfHHUYDP2JQPXyOQW3Bm9n4LSh7Ouxx6dF3i2g9qpUPp6tKf+QnXFK3J9vLiygrGxhfGlW6g5SNkLxHuvPnhqdw2Agjel2VbzI8V2/QfBDCRsRLPvgRDFYnsdzQ/oIDdvVW1EO6OuXlS0ycMheuTBvLFt/MlKU5X0Xk/Rm09WRANSNVnzQRr/iXpE3Ma0jhzSCu1fMVlcIZBN31U67y7AIepNXVgBkSiQb99tSorA558Z5DbT1yXxbgFIjoT2pzlnUKPQ6ROQZQ6a9lN8FxcB1jyqL7YvWKof/mjjl5Nbi1FLwgqNriCftjPqzYQbVns3z1hDKBcCvGdsNVouiU85a7w6I/54YXNKjUs6n3wJZtDhPM3ZDJPcP2a+TrY0kbRN37gNjJpliJul6ppab3bHVKjGU4y0pf1r284qceRW6IHSspv67ZSCf/bvYQDxKH+t+m3ns33hmIFzRDDuXLDA76bQJwMNeE1fYB+yKtQq6fxJrNKGWBoARFkzyJnb6zu+wkONhIt2aIh+72EXTcVvtDkOEIk9AwABr6l14mN5DX4a2P5iPF+vTudbxa57RvoYvkPRl9eyh9K/zHzplK028xx0Ix5BhIax131+BWcV4v8FFje46NrYXlE7TsvAYRhAl0vhWU/36jx/q3RESFwBoN+dPSIOj/UMpWkgZcUSU9539MVBUA4njotO/Nlw07IKS5ePAK+vguxWnrQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "EVENTO 5",
+        "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
+        "uri": "sm5EZcTTrG0RNtefQ3bG6/4m/CFSCCdyGneWoV3STxreZJheiMVAAobANUN+Zdoikx2vRtAfHHUYDP2JQPXyOQW3Bm9n4LSh7Ouxx6dF3i2g9qpUPp6tKf+QnXFK3J9vLiygrGxhfGlW6g5SNkLxHuvPnhqdw2Agjel2VbzI8V2/QfBDCRsRLPvgRDFYnsdzQ/oIDdvVW1EO6OuXlS0ycMheuTBvLFt/MlKU5X0Xk/Rm09WRANSNVnzQRr/iXpE3Ma0jhzSCu1fMVlcIZBN31U67y7AIepNXVgBkSiQb99tSorA558Z5DbT1yXxbgFIjoT2pzlnUKPQ6ROQZQ6a9lN8FxcB1jyqL7YvWKof/mjjl5Nbi1FLwgqNriCftjPqzYQbVns3z1hDKBcCvGdsNVouiU85a7w6I/54YXNKjUs6n3wJZtDhPM3ZDJPcP2a+TrY0kbRN37gNjJpliJul6ppab3bHVKjGU4y0pf1r284qceRW6IHSspv67ZSCf/bvYQDxKH+t+m3ns33hmIFzRDDuXLDA76bQJwMNeE1fYB+yKtQq6fxJrNKGWBoARFkzyJnb6zu+wkONhIt2aIh+72EXTcVvtDkOEIk9AwABr6l14mN5DX4a2P5iPF+vTudbxa57RvoYvkPRl9eyh9K/zHzplK028xx0Ix5BhIax131+BWcV4v8FFje46NrYXlE7TsvAYRhAl0vhWU/36jx/q3RESFwBoN+dPSIOj/UMpWkgZcUSU9539MVBUA4njotO/Nlw07IKS5ePAK+vguxWnrQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "ARGENTINA",
         "ico": "https://i.ibb.co/6yYz7Pf/bandera-argentina.png",
