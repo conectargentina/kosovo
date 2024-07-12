@@ -219,7 +219,29 @@
     "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
     "drm_scheme": "",
     "drm_license_url": ""
+  },
+      {
+    "name": "TIGO TV",
+    "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+    "uri": "06Td/EG1WRkypQEyjFMIKml3Y40g5wkugSqvcnyZfqnMoi7llWdCWJomq3BoOXqvsUR4YvlG3h563Nzxev2K2o8fu6Qa80OYvXuHUSj+8VY=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee0VTPHgaH9lD0rXoYv/EE09PBv99AR6zPMbxDYNvrHy9aLFl8Lu7GvgDMP4uXJT9E4XNJHmEapg3wcjuCTu8Hexar+kzhs6vAx9jXWR5yWXL04e2rLbYXbATsncTttHBA=="
+  },
+  {
+    "name": "TIGO TV2",
+    "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+    "uri": "06Td/EG1WRkypQEyjFMIKml3Y40g5wkugSqvcnyZfqnMoi7llWdCWJomq3BoOXqvsUR4YvlG3h563Nzxev2K2o8fu6Qa80OYvXuHUSj+8VY=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee0VTPHgaH9lD0rXoYv/EE09PBv99AR6zPMbxDYNvrHyyCk0FiBQVLjAtSaDBAHvHjG2RDz0NvP2dfL9ZZUKN6Goy8NjLxjwZqOasqkm6OX0FT7+j1TBu8iASRfuw+ENZIkk2MAlClJ0K7CDeDiGoXgY7xVzd13lRP8Ku4AbPR96Nenlx+opKAOOmhHTYNz7lOiMl7LDAuztF3J8k+wJ7AI="
+  },
+  {
+    "name": "TIGO TV3",
+    "ico": "https://cd-static.telenorcdn.net/cdepg/img/ngp/logo/800/50078-4.png",
+    "uri": "N08s3thAztBwhjiPdgzNJ6SD4Mk0DcbWRQvhAVa6TOS/iz8JGMqT5zHQRbn4p8Kdharx1MyZ9P84SM1chKf60jf7FRoly7jKkgGSDXIAO4nSmNcEKw5rSR3mowHJBV6Q",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
   }
+
     ]
   },
   {
