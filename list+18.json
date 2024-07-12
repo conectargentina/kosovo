@@ -693,11 +693,26 @@
     "mode": false,
     "lista": [
        {
-        "name": "URU vs COL",
-        "ico": "https://i.ibb.co/C0kvDtv/C3-QZMWHSQNE2-BMWBOWOP4-RTZRM.jpg",
+    "name": "TIGO SPORTS",
+    "ico": "https://www.365scores.com/es/news/wp-content/uploads/2024/07/Argentina-vs-Colombia-780x470.jpg.webp",
+    "uri": "N08s3thAztBwhjiPdgzNJ6SD4Mk0DcbWRQvhAVa6TOS/iz8JGMqT5zHQRbn4p8Kdharx1MyZ9P84SM1chKf60jf7FRoly7jKkgGSDXIAO4nSmNcEKw5rSR3mowHJBV6Q",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
+  },      
+      
+      {
+        "name": "ARG VS COL",
+        "ico": "https://www.365scores.com/es/news/wp-content/uploads/2024/07/Argentina-vs-Colombia-780x470.jpg.webp",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Eg8blU7I/yvDqIA/X1XWJ4SvqeBpJwhxr5e5pjW6UeOKx9/6DG0hS3DW2nR1/BnQg=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUP3uRlZBN2lAN6LrS6+W+QflvTeGNUgIN6HglFVc/eLM3QD6j2hUk+22Ivwnjvv7LykfRtnkOxGa9mQYD7bHhsV66NpgaOY1aaqWX+YWNhNbWRRWYdipwjk8Ny7Krlmg=="
+      },
+ {
+        "name": "ARG VS COL",
+        "ico": "https://www.365scores.com/es/news/wp-content/uploads/2024/07/Argentina-vs-Colombia-780x470.jpg.webp",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
   {
     "name": "EVENTO 1",
@@ -2630,7 +2645,7 @@
     "lista": [
    {
     "name": "TIGO SPORTS",
-    "ico": "hhttp://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png",
+    "ico": "http://www.broadcastprome.com/wp-content/uploads/2017/07/tigo-sports1.png",
     "uri": "N08s3thAztBwhjiPdgzNJ6SD4Mk0DcbWRQvhAVa6TOS/iz8JGMqT5zHQRbn4p8Kdharx1MyZ9P84SM1chKf60jf7FRoly7jKkgGSDXIAO4nSmNcEKw5rSR3mowHJBV6Q",
     "drm_scheme": "ClearKey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
