@@ -1321,14 +1321,7 @@
     "name": "⭕NOTICIAS",
     "mode": false,
     "lista": [
-  {
-    "name": "TELESUR",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png",
-    "uri": "WhwWhCBqMqyjVGtdZu6lRoqHwPWMSvhNiJYOAIcCH+7kbLFazyKLubAWfVptxrQAlmoetk2bKqVkqqDP5Pp2hD9OVkm/H2hwzvSkSgWNx9U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+   {
     "name": "EURONEWS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/1920px-Euronews_2022.svg.png",
     "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcw/vbTeKctyV7XZiB/pszWjt/EDiKbaPU1f5I8jasfoRyVyqFidP2j4+lm8rhfNaQ=",
@@ -1344,7 +1337,7 @@
   },
   {
     "name": "CNN",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CNNinternational-logo.png/800px-CNNinternational-logo.png",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
     "uri": "3yob1AEnwOQiPPTtfgMqSELlQSKTKAln+U0Fbu3RhHfM8CdX3z7yfdo8T/mkheuInN0nI56yQe6hk8GfYpxU0A==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1377,20 +1370,6 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
- {
-    "name": "TELESUR",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png",
-    "uri": "WhwWhCBqMqyjVGtdZu6lRoqHwPWMSvhNiJYOAIcCH+7kbLFazyKLubAWfVptxrQAlmoetk2bKqVkqqDP5Pp2hD9OVkm/H2hwzvSkSgWNx9U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CARACOL",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/694px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png",
-    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2m6Wm4+n3tBPxtSFyLe5muRXOfXNWyMbIysShp6zdkBE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
      {
         "name": "TN NOTICIAS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
@@ -2203,27 +2182,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ef04pkxpJKHK3LXwfW1pQ7iQA+CYll2BlsWXciwf5weVJwHIv3JBlHPzxrHreb2ozW22iTGeuySCXUIJRaYLCjj4sHKctnEdCGo7ynUQrCi9eLppcPI77T3MD3hE8dJKYQ=="
       },
-      {
-        "name": "RETRO PLUS",
-        "ico": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
-        "uri": "y0TMOF81VtEMSnh5t9XN9++9w70c9bMYBwJ221tmnFZX++D368zBA0gxb0X4QZ+Re97b8teOjRXq1M+nhMi1z4nZBNKPfrxXG+2MoB3Svl2ze000kNFG10hVoPb4zqIz",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RETRO PLUS 2",
-        "ico": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
-        "uri": "y0TMOF81VtEMSnh5t9XN9++9w70c9bMYBwJ221tmnFbwopJUBQCG/JNLzNA2wDczRuNLHduN5ND2R1H+gC9GJ3FVr3JUZY9ZswPsmP9fO4BoNhYwitdfpQtTCCQuRQTQ",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "RETRO PLUS 3",
-        "ico": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
-        "uri": "y0TMOF81VtEMSnh5t9XN9++9w70c9bMYBwJ221tmnFbwopJUBQCG/JNLzNA2wDczl/3QAcG2FlMXduWzKUZK5g3NtHToCTG9yQSBb62QzHiVJ47evTwrqz5N+sP6sJAD",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+  {
+    "name": "RETRO PLUS",
+    "ico": "https://www.retroplustv.com/gallery/LOGO%20RETRO%20PLUS%20582X198-ts1680109231.jpg",
+    "uri": "sQGCNmXmCi9ugMdRL1BjP21u3l5kDLZF0Zl44L1vyhFq+tuRXJZCzVVN3DRGi3qqO6GP2YZT92Cb3YuJiitKgYaXm2yHl1gGU1BaTDSiDYE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CM MUSIC",
         "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s",
