@@ -1321,12 +1321,12 @@
     "name": "⭕NOTICIAS",
     "mode": false,
     "lista": [
-      {
-    "name": "D NEWS",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DNews.png",
-    "uri": "omaj4+yTqQZswSfYo9Q3DlYWXkW3xBGaaGjSBrWwEQodJfiOXmZXLNtE3KWXdFOc5dAL5xHUpCr1Wq4gm4aIn3IwiBcIvRJd/7ltvM9zJkNVGZ6vnmuM7qBm4ATXblrQGrHFUNhkd3+VJoj78fFCXA==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ESRGkLMsY9OpuaAZFF9g/s2S/FO5RzC/iieYYWThDu9adki/12y93VeHgdpYjXiSDLx3JXGIDLCGZT0NqrlSnPuNqKftijDavbDfBoZkHM+vM236Mzsm3rrwBAJEIPRXOw=="
+  {
+    "name": "TELESUR",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png",
+    "uri": "WhwWhCBqMqyjVGtdZu6lRoqHwPWMSvhNiJYOAIcCH+7kbLFazyKLubAWfVptxrQAlmoetk2bKqVkqqDP5Pp2hD9OVkm/H2hwzvSkSgWNx9U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "EURONEWS",
@@ -1334,13 +1334,6 @@
     "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvcw/vbTeKctyV7XZiB/pszWjt/EDiKbaPU1f5I8jasfoRyVyqFidP2j4+lm8rhfNaQ=",
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZe6zs4MBqxB9ti35XtQyfdzEjwCB2qRruP2ZZ+/UhRzaBhiKYYEmSOUi/9OsCkWPQkov91Wbl525ZW8a3d21VpOr9Dm+2p70jiYQUsxGGM732kTHDErVi57ACSZ7xDSfA=="
-  },
-  {
-    "name": "TELESUR",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png",
-    "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
   },
   {
     "name": "FOX NEWS",
@@ -1351,7 +1344,7 @@
   },
   {
     "name": "CNN",
-    "ico": "https://static.wikia.nocookie.net/logopedia/images/b/b8/CNN-International-Logo.svg/revision/latest?cb=20091201100403",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/CNNinternational-logo.png/800px-CNNinternational-logo.png",
     "uri": "3yob1AEnwOQiPPTtfgMqSELlQSKTKAln+U0Fbu3RhHfM8CdX3z7yfdo8T/mkheuInN0nI56yQe6hk8GfYpxU0A==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1384,6 +1377,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "TELESUR",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/319px-TeleSUR-Logo.svg.png",
+    "uri": "WhwWhCBqMqyjVGtdZu6lRoqHwPWMSvhNiJYOAIcCH+7kbLFazyKLubAWfVptxrQAlmoetk2bKqVkqqDP5Pp2hD9OVkm/H2hwzvSkSgWNx9U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARACOL",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png/694px-Logotipo_de_Caracol_Televisi%C3%B3n_%282012-2015%29.png",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2m6Wm4+n3tBPxtSFyLe5muRXOfXNWyMbIysShp6zdkBE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
      {
         "name": "TN NOTICIAS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
@@ -1393,17 +1400,10 @@
       },
   {
     "name": "TV CHILE",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV5MONDE_logo.png/798px-TV5MONDE_logo.png",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Logotipo_de_TV_Chile.svg/686px-Logotipo_de_TV_Chile.svg.png",
     "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FPLahHzVksQZrzrZrinIkLEpCFl6LAUqSQYGqyEM1DEthDfkyoAFJcFFC5reDHwT4EAt3ga7JMQrsvjRhRXOcs",
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbO9/BzGIMR6sYbDGhB3GUIGnLxDdxzp8S4YKHYWctFsG7wDpskH5HxjTs3x7GuDCbOOk7EacPlhhvUAT2eFvcWSGexP2nvCrZRBn9yReJNe+CTmyfV40U1Ai3vJOuBlqw=="
-  },
-  {
-    "name": "CARACOL",
-    "ico": "https://logowik.com/content/uploads/images/caracol-tv-hd2766.logowik.com.webp",
-    "uri": "1Y6p9zQgg8m6NpHSJYDq1sa3MwiiSnPR6z7sw33isZrHwLd7zGgXHwa9AMMnBXUgLK+aQThE33vngxGBLASeS7IB5iKyYRQhjSHc0waZJsgpOjZ11wEFZvk73bIGV2Q5bUBGc5C5ZtM8tY5n1Pd3MQ==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaiXTgGElqRbqRQ//khbLEO9Bqnv5WC52zga5+fat+MGGTPP8bxNqZcf+O/r6/xyfd//2oMNjKKw014SZpkqjhgkil/gURYBDL9FmotL0kR3TtSBJO18HH8O9hkSBwN75Q=="
   },
   {
     "name": "TV PERU",
@@ -1426,8 +1426,6 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ET2usYF6pwc7Ne4A3Fd0GgsisM+P36xHqCHtT6nZaJ3bbKZ+3Cr6iRAITmkPrZC4jtBkDDHvjqOurSnXY4W3av5tQc13IlEJkqAWONdU0+ok5/sL9mVyL5kBuaOkPnzQcg=="
       }
-
-
     ]
   },
   {
@@ -3555,17 +3553,10 @@
   {
     "name": "GOL TV",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-    "uri": "l3UIvfKj9qVFjW6JpOC7LigUeSvYzKbcwpCo7Pz9lM/39eR9SsIYYFN17oRshESa",
+    "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2qr4+HsjLv3cEo7TVVeaQeOwKbx5ocBwxtu/v993TVWQ=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-      {
-        "name": "GOL TV2",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
-        "uri": "Bz0pGosS57sH409uPV/OrE2CSU8lpIZoV2/5U5E3jM0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "DIRECT TV",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
@@ -5140,21 +5131,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "SKY BUNDESLIGA",
-        "ico": "https://sender.epglogos.de/302x190_w/623.png",
-        "uri": "MJQQXemSYpRw9e/QT9eqtbxDGNKom85/aGmUPP2ek+B8yuvcF4GK8DyRz+z5XsMA0lR1rrJN+abChNsDVNVn+Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-{
-    "name": "SOLOCALCIO HD",
-    "ico": "https://i.ibb.co/10fwskd/Solocalcio.png",
-    "uri": "g0EZNMBaIhOt4zJDsiQuxxPZIljLuggIKMGCxoEDhu/kBm8drMLTXZfvVrc0U85bUnG/HGN1L6FyiUq6y9HVZoZXqZsbY0T3zkkuEMonno5ElfS/9MdImeBgu4UA9jlAo5AoBuauQQ9vMbWzUf8BDIjyASKJI8ng5OV5Y16SjUCnimHeacPm0kX1lj+uSfiBMJlvCRYf3TJIOv4Bil28mcDyMQsxTM2Eyg4gPMiLQjvD0B16Bw9heG+szGmo0+DMSRvU6tNrbrX0ZpCJc+C9EUxqxdvLPiFBPIJkT3K556sig/1v/9UNKZqUlA0mkInSdA+DVJyHphwUaeS2kTW5wYwnbe5VJ5zwPWPA/f7iuqE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+       {
     "name": "PADEL TV",
     "ico": "https://vhx.imgix.net/mypadel/assets/a32a0dbd-54aa-4959-a32b-128480904651.png",
     "uri": "XraivxHTgpxiNVlanMV9uJWYjqYOydzfIBGhA8HpRtT9H6Pnk6ebeLYFAXc7E148vljyajZuhqZM3B+kM1menWkGVRgwE/wS5AiLiUXHxdyRrDPDx4TcPsulJesTIAEDuOH0W6zH6LLOeA5MX7+1xA==",
@@ -5164,11 +5141,10 @@
   {
     "name": "SPORT TV 1",
     "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-    "uri": "g0EZNMBaIhOt4zJDsiQuxxPZIljLuggIKMGCxoEDhu/kBm8drMLTXZfvVrc0U85biw5Kv1lQI+bM2jyO2kPXEivAXyFDvdcVySymn9ZixQJrzgOZpLKKMg8ziYLftHCUZjIswNewtyUgszqDeP77pDy3YWRyGajsV6GgMzqNR4w9HiY2EYchCdI9fnf0cZu4Na/QDRTJKE9nIwUtwHMP26NKLuTdKPsbNoxe5gC9vUd9V9murI/Ktm4AZFfnqRcUjPcH60/7s6nycQ0zzh9z9HXCAohgnNJVH1r7xQYph05UxfzM0wTKuwnl77YvEL2AebWKo0vqkD5IeZ0k/sVtlI9q1G4pNJEH0Oo1UUvI6dA=",
+    "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-
       {
         "name": "EUROSPORT 1",
         "ico": "https://i.ibb.co/TLCzQJF/Eurosport-logo-2011-white.png",
