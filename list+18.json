@@ -827,6 +827,14 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERNqgnfbJ9Gg5CAISs6prNC9LSSZU5N4+l3DdV8VU+G46G5Yisv5KSDSSFccIt52G4EeF6nSHFbzKNdrjfXd4K0jlYbzgh9mK9A23ppr6BuSSixlIh//AwiX7g8cewz7FA=="
       },
+   {
+        "name": "CANAL C",
+        "ico": "https://canalc.com.ar/wp-content/uploads/2023/04/2023-04-logo-Sticky-ByExpectacion-C-sola.png",
+        "uri": "https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Ct4FEjjDWhkjyCDKs_fYNAD584uMUI8Kmv0KlLcjpRnENaxS5OJW55BsPMNNmLbT23TZ3JzdUTKHHLRGdt-eg2QuFMwSJoxtssRisRtAZki5ylDZxzMxQJqGEBSaNANagkfsYpNFd7x_5w9RuQhbwT55Y7JYIbjMIONMrDcrwVesxCUYlhyVJBhfgCzUWF4iFIojUL8cmMVdPxXKBd13JSrlPJSSuJK3_GqJpy9H0LykOyCnUm-pUr1K2zH2CmDuHtmJtNKryBGslqzpOQPJeESZW_usLkzgZ-zzUQTnLJf8eTSBvGhg5OhiKcba0p0FMcTaoweU83Tx-oyFdqiOBcGc0aXy4CfJ_JNR660t4xoH7tyJ0zCaXKd1FhlE2EFv_5psmt7jixJsSEGNNXp0Ac7nlcEJaP2MNLRx-cMp-ze1WAAmPVRHP6cXjkQEilba6t3_QYFk0zNwMIjxDptG1PoNzYxkmYugLxwx53trJkNHrO7nUnmuDiGDGDD4L2wx1rFrwNxzadRJbJnEDbIBoMvwtJG_eODJjaXufRMcyDAVhS1zb2Ly-ApmLzxXR0h4QPmGTvipLZmi16j6TescIC1vG9Nl4Xu-UNPpwHpV5YQZYKDhOgxxAKfsg7CVmZOat7wstPwpi9Hg66D5e_R5rhnwE-RnMfmXcq9cbFfeBFO3voIh9Nrq5ioIsethcavITe88hACk7P4QssG74gIw2ZxP1-Kz-Ph-EXIYi_awD7rSGXb5j1eph2rliziiPs9IYaWd9_6NnD5a373_ld0aRTKgjS0Nl2NgwKjxm2BXytf3W2NE7rHeKMOtMWm2lUHvYsyz37OqZONNoFFeBxkC6FV39KsAKbvMtYsyA9rOSPxWihC1XH5jNEC5eibhkbM-pYMDg46khkqZL6ewYQqZXzstW1e1jIlQ2UvFoJmKTfHndzd5YmZt3qiU5FxruEJEPi49v1sxEeDGK0gWGbhZCwAaDD0kVAzlf-4FdZ2gLiABKglldS13ZXN0LTIw9Ak.m3u8",
+        "drm_scheme": "",
+        "drm_license_url": "",
+        "prot": "0"
+        },
       {
         "name": "TELEFE CORDOBA",
         "ico": "https://static.tvar.io/imagenes/telefecba.png",
