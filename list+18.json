@@ -1364,6 +1364,20 @@
     "drm_license_url": ""
   },
   {
+    "name": "BBC AMERICA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/560px-BBC_Logo_2021.svg.png",
+    "uri": "fwwqsvKC1e2r7zmS5p4/24O73+sxf6rikLWak0OIDJgozGGTFkIN0FaAtV4ZAFRrRWKbo/5uxbYBSUmTJplrIU0yHSebkS5xB7QhsfsBQqNrNPf3rlpdXtyfMfpbuKlBXBGvm4WZ+TJZk89Ka0eAIg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ef/xghcX3UbqUMVRWWcQbg0ZLhvmfD2sLBElOXE8JS05L+/4QzG2JF3gjqgnCKlwZymgeC/ikaX5epcymn2kHHW2GobKBUBUvJLWGPceac6NZiCX6K6WImtt4mWftSA46A=="
+  },
+  {
+    "name": "BBC WOLRD NEWS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/560px-BBC_Logo_2021.svg.png",
+    "uri": "fwwqsvKC1e2r7zmS5p4/24O73+sxf6rikLWak0OIDJgozGGTFkIN0FaAtV4ZAFRrsLuMGn8k98q3PrjreRvpzt8zlseYwaYekoUdONfp/zA/Qy4UccHzVYelLcHPdjbwclyO280bn0Y3x8vWJkkmRA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaKDqxlAT/8l6nCek17vgpdaUzpSM6fD0KBf2oHPxFQlri8ZlB4dwj82mWgRLtFDjXwBZaFykq/8xSh7tr+CRuNwEeApTHA04lu9JyIVZPiRCXeo0Smn3UkdE72vYXfyKA=="
+  },
+  {
     "name": "RAI ITALIA",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",
     "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FomfJsZj5dC1u/9UITqFUtEAIrb1/H57bvKdD8fr+Y4ESlrg8tURNPC9LfhO5GrcU=",
@@ -4222,13 +4236,6 @@
     "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "ZONA FUTBOL",
-    "ico": "https://zonafutbol.shop/wp-content/uploads/2021/01/logo-png-blanco-png-1024x877.png",
-    "uri": "fwwqsvKC1e2r7zmS5p4/24O73+sxf6rikLWak0OIDJgozGGTFkIN0FaAtV4ZAFRrqigGA9jj0xaeQ+Gh8eo7+lZTbIe+2AMFlEMrxawSfX7xsh1DYoRRCPuY+hx89I35ULPmODml/jMvgFjloIkpmA==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbvaK/bjAuNp7Kizlqsgwuzkc0qxz0e/0X+HhF27JjSfLm+jETlXfJt18/lZA348YWtTzXTScT1ILULGLYmvA7MZrcqEP4WyiGoZV/rZk4BhvgFvKL6vrPe4V8KEV6ZmWw=="
   },
       {
         "name": "M4 SPORTS",
