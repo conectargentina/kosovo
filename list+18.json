@@ -4223,6 +4223,13 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+  {
+    "name": "ZONA FUTBOL",
+    "ico": "https://zonafutbol.shop/wp-content/uploads/2021/01/logo-png-blanco-png-1024x877.png",
+    "uri": "fwwqsvKC1e2r7zmS5p4/24O73+sxf6rikLWak0OIDJgozGGTFkIN0FaAtV4ZAFRrqigGA9jj0xaeQ+Gh8eo7+lZTbIe+2AMFlEMrxawSfX7xsh1DYoRRCPuY+hx89I35ULPmODml/jMvgFjloIkpmA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbvaK/bjAuNp7Kizlqsgwuzkc0qxz0e/0X+HhF27JjSfLm+jETlXfJt18/lZA348YWtTzXTScT1ILULGLYmvA7MZrcqEP4WyiGoZV/rZk4BhvgFvKL6vrPe4V8KEV6ZmWw=="
+  },
       {
         "name": "M4 SPORTS",
         "ico": "https://m4sport.hu/wp-content/plugins/hms-global-widgets/common/styles/images/m4-redesign/m4_sport_rgb_a_B.png",
