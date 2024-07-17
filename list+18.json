@@ -714,6 +714,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
       },
+  {
+    "name": "ROSARIO VS INTER",
+    "ico": "https://i.ibb.co/92d31bm/golden-soccer-ball-png.webp",
+    "uri": "lk7NrjfGCp2E/mspZcu21k+c5ZZsbt+OW9LD00HtbRK7sKfhNE8H6Pttu7aEq13mwrTOdgx0agn17k6qRjYDqhSNxhqdG7A0OiGBZFmLM0+4msdp/tuFvBqbX+sGc/FO2IW9vOa/m0JRWqv7bsuVRopc0e+EXpgzqykxGiH98fPhz/5KzUbQg4nOT31FReys",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "EUROPA",
         "ico": "https://i.ibb.co/92d31bm/golden-soccer-ball-png.webp",
@@ -874,13 +881,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "CANAL 2 JUJUY",
-        "ico": "https://i.ibb.co/XLJ5cc3/descarga-1.png",
-        "uri": "M6HixaK85dxDUmZFdIGkL94l7YaSC0DkCo7P3dtaPEPLzceel2jfCUaM3CpA09pzjY1vn58AvvqppC18y3RkpkqaaVE+ZsN4xRj2iopNUi0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL 4 JUJUY",
         "ico": "https://i.ibb.co/LRfxGgz/305202866-448951477270575-4415356374599407981-n.jpg",
         "uri": "7WT8jBcdeMlyIqcYwVnE3WAXnDqx3Xo1nIrm3ue9LmWlMpcro+JKibFyZUfh/8gAz4zVBBBp6MtMsapq7nQHoQsxm4YtnSpxzK9Q635uPcg=",
@@ -937,20 +937,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "MISIONES 4",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/0/09/Misionescuatro_logo.png",
-        "uri": "aZPYAq3GD+4tARA+OABaOKp5Nr5zTvMfpL7kj/TG7i8Zg5c+Lea++WZ//6t4LLBDsiUZYcQcyZYCpFtUf9gl9P2kPUjs5NZHy15HMU2NNKAbOEFpXb5FAMUrptesm8tjF7T+uznXKK7e9T+xdBnMLA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "POSADAS 4",
-        "ico": "https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png",
-        "uri": "aZPYAq3GD+4tARA+OABaOKp5Nr5zTvMfpL7kj/TG7i8Zg5c+Lea++WZ//6t4LLBDsiUZYcQcyZYCpFtUf9gl9P2kPUjs5NZHy15HMU2NNKAbOEFpXb5FAMUrptesm8tjF7T+uznXKK7e9T+xdBnMLA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL 2 MISIONES",
         "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-2-Posadas-en-vivo-Online-1.png?fit=1920%2C1080&ssl=1",
         "uri": "Q8izVjQXT9R9XEMJWUZWCkQnfZ21DEzokhQSwBWukZBsQ1dglECcxLU1/afgRNNMbGDL64l3d8WFdwBpveG/aO6aMrb1wvE/NKY8twzQHfY=",
@@ -963,13 +949,6 @@
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uUbPzJDCJjMKqMvp3K6dSkiv6OTiQp4cWW54TVIo9BScJ+zeRXmfPNVjLAFLni7lcF+5kDvdLPpMjkyF3AYb031uNNK8rtDehk65Ref0o11Q==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0VYi9+o7XoX5omKNX3EO0lMoHiBSlckozTTFClrripHs8bBHylqLINwLdK47Ze17krasKu3Q5Eu/zBuTDxvuySj6fwgFnib0RYjmusCbH8ITRba8SBCS9Dt2gbeKN/ZmDT9jkfbiA71FWTbMzH6rswk="
-      },
-      {
-        "name": "SILVER CHANNEL",
-        "ico": "https://iot.org.ar/wp-content/uploads/2020/12/logo-silver-channel.jpg",
-        "uri": "CadKuSCSkmdq6/fK1jmHEqleKvm/O0Ws6IXTRNDNFHxaP+PXkJcliEXnM+MLReH+6g7MTZOiEbIWlVYbopFqegaqR5BHJofnM44HFsl4bxkfNsOlmfs9KfXwIv/6jDDlIe2lDHsKaNrQqg+sLIpMdw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "COSMOS TV SAN JUAN",
@@ -1000,20 +979,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "TELESOL DIARIO",
-        "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
-        "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix8EEeXXPKYMSgiOftlSijt2ak2idrV/QKm6iEI8lWXqC0pWkhSTmT4BKTp5DbKWLG8cVuUyxLXcBFHeDztTUxi2KlJ8ZqtikY6hkJF4zMvw/Q==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TELESOL DIARIO",
-        "ico": "https://i.ibb.co/mbGNw0r/tlslogo.png",
-        "uri": "2VWQH2iTde4vB+02chz2lVPjQSq9r/6yyorag3b3Ix+PYN3rQVproDIwrUaGR6L/VOgsZCTv44W/xrTNC+pFJw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "Canal 4 San Juan",
         "ico": "https://static.tvar.io/imagenes/canal4sanjuan.png",
         "uri": "b6pimIOhPM83FKUGqCdhiQN5f9qsFm/aM51MJT5oocNel/dzaFHjhz5QtCFTWApyb3UwpiPWDtuTu61m4+puSw==",
@@ -1024,13 +989,6 @@
         "name": "Red de Medios de San Juan",
         "ico": "https://diariodesanjuan.com/wp-content/uploads/2023/11/LOGDJSJ.png",
         "uri": "Luf+RcpCrLsxZQbE0iw3m3oVuI6Y4OoIsbKcLl5HX0t10vc1OIE0uGF/4gDUn61Xh9DctfNJOZ0dOqRgtiQV0RSoQjK4z6SYyMwOgqNkQXk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "Canal 30 San juan",
-        "ico": "https://static.tvar.io/imagenes/canal30sanjuan.png",
-        "uri": "7g/Ys14NK0DksbVWHKiAhRbahqZ4KIIF4Csd5zDuPaEEU9PxOj+QJ4GoaFl/2y7zlBWHDFViA07pu3XuGylFLDvtIgfuEpbZrZJNOUGClwH1b23x6aoiC+ubmH93HD3C",
         "drm_scheme": "",
         "drm_license_url": ""
       },
