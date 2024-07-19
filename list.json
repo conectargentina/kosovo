@@ -706,8 +706,22 @@
     "mode": false,
     "lista": [
       {
-        "name": "BOCA VS DEL VALLE",
-        "ico": "https://i.ibb.co/2jXj7GQ/donde-ver-boca-juniors-vs-independiente-del-valle-por-la-copa-sudamericana-2024-y-que-canal-lo-trans.jpg",
+        "name": "EVENTO 1",
+        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "uri": "8YXBZFZooe5f2ewgnUMpgF/5EEnykS9naLqTT9R0InoFpKjT6mk4qPWpgGc3lTRXgiGS6HjD1ZE+dVVZwxFvmQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EVENTO 2",
+        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "uri": "8YXBZFZooe5f2ewgnUMpgKYa9KJtUX+klwAfI/cs2AQUzlXQB+dZsjLgESIOJ0O2",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "A PROGRAMAR",
+        "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
         "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
@@ -765,6 +779,13 @@
         "name": "URUGUAY",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "INTER MIAMI",
+        "ico": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/93/Inter_Miami_CF_logo.png/600px-Inter_Miami_CF_logo.png?20200723120044",
+        "uri": "3R5sgVC//niiZ7m5GzVdDkDtG4rWmkwo9SdYNrBVABz1M8uwRrf6GFo9HbBZL8Vx6IundDuSZP64xEahCaBgLKsQn0zZx5f7yqbPBtyrJrgBBNyrbXHuRKrk4KJWme1F+gw1ORm8cJHBbUmYHTeNh8x7AlsRTDJZ6wR7C+k7x6WAUAiQL04iLip0TJYR1UfHijd8S71RJBcKTruXPLgk3z1zkm/NoJ6BlwNlvyVkQbQ=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -5144,6 +5165,124 @@
         "name": "SPORT FRANCE",
         "ico": "https://i.ibb.co/p1stMyz/sportenfr.webp",
         "uri": "zCqsxi4QaMrmYGHGUNNaDJn18VAWDgD2X2LXDZvM21rGR4esvBoDUen+ZLN75OaXwHesmmAbcwNkdBz2I7w/3Z4Qx7ZINzEiixipiblUFDo=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "🥊FIGHTERS: UFC- BOXEO - MMA",
+    "mode": false,
+    "lista": [
+      {
+        "name": "HARD KNOCKS",
+        "ico": "https://i.ibb.co/MGq0gyX/hard-knocks.webp",
+        "uri": "GP/zQiqupXnoFsYrCnmaHLhSqE+I5rzBPyZl/3b3jpSWmgV1Q7SkL6k7pMPiiGX6f1EHurP/Ugv/nMNSeCsnPuS6e56VgsiWecuXNRq2DX1tu//xm4NVxtSQF3TbWHS0/N7qtCK7ND7xWGitq/8HRKcBOsw2YAaxMT8q1j4IWDE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "COMBATE",
+        "ico": "https://i.ibb.co/16P8MSW/Canal-Combate-Logo-PNG-Vector-CDR-Free-Download.jpg",
+        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8S3THCyNB/86/+4iw8TYgzypxbIQBqUi3S3c6ZDtTZv48=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UFC PASS",
+        "ico": "https://i.ibb.co/GsPN4Yp/63ab4f5a7a18d4001ca360c9-UFC-Fight-Pass-hor-neg.png",
+        "uri": "6x1RxIbubcjZq6GXEssFF+qoz9Qc3wUrf+KzdpiOvAeC+yGLzQfmrd2Nm82ExX8SXdHpPaTXiypF2w1r7F4DbwIIodFutBctjy0qrF2waUw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BOXING TV",
+        "ico": "https://image.xumo.com/v1/channels/channel/99951154/600x337.webp?type=channelTile",
+        "uri": "oAq4FBlI4Yp6Vm4e2q2rmkYbUi2PdkxiAAA3suWDmzbZU5MIFc7FiUeMuq02pp86Hz+a99HgZYIC34RJC4ESLTKmX9VOAoropbhhWSgJlp3z2QB/fjiFBXpeNUzUZTeNDBMlR49lIt2I07ivgk/FvQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UFC",
+        "ico": "https://image.xumo.com/v1/channels/channel/99951134/600x337.webp?type=channelTile",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KxKxO+TS3XueAagt1ktkPFirp2G/78FwXGG5MYR/otWwoXz5g6PPIAaighCK7jVnOB65S8B/1S4JlgEZPCVjcwP",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MMA TV",
+        "ico": "https://i.ibb.co/ZhxL3T3/mma-tv.png",
+        "uri": "U5+6iWGHDlNFbw0p5hRMjMK361CSnMkAy9aX7b30BEaagTDJWKrbayAtFVUwcmVNyHVlPdzb8aObhT/+mTc0cw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FIGHT BOX",
+        "ico": "https://i.ibb.co/wNr5192/fight-box.png",
+        "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fCujaPSvC5aGDxVGhnbp5FqrL3c5uO1MITRoHZ62LsE/",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FIGHT NETWORK",
+        "ico": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=channelTile",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KxKxO+TS3XueAagt1ktkPFifqeKfN9B95zDCDp4nTqVIEjnTJQCgPaVbyWsk49owN69cHwvjBHxZ1VqinzzpMgF",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FIGHT NETWORK 2",
+        "ico": "https://image.xumo.com/v1/channels/channel/99951132/600x337.webp?type=channelTile",
+        "uri": "8SpyY0utrFRy+dSuBQFgZtfkdLvyOlyYAdSUYegt/UToX4SjbI7TdTnHLPImsKCBmLLeBAXL1Zr8XJoOHd2qgJy1qdeYr2uHiYkVDRiMaMS69QPboDmiQPUtjXUWoFRT5DAQZ4T3K9JS5h7qElXwjCaq2VohCB6oruGT4aOCOhk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "PROFESSIONAL FIGHTERS LEAGUE",
+        "ico": "https://image.xumo.com/v1/channels/channel/99951203/600x337.webp?type=channelTile",
+        "uri": "oAq4FBlI4Yp6Vm4e2q2rmkYbUi2PdkxiAAA3suWDmzbZU5MIFc7FiUeMuq02pp86X7E+s1986yh1ewtCZyi63pCXwKeK2StSdA5LeRJO5gPIJICuEjqOSDFxP/5mCWobxbQmA1hrekhkobQxydWtPA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FITE 24/7",
+        "ico": "https://i.ibb.co/pjHcQHK/FITE247.png",
+        "uri": "twN8vgOaY/IvuvmgKQcicj2TQlxpGD5y1r6t4sK1D8wOR/5iU98uSZ14UpvqkeuDM1xh74d6G+nhZTEwRmWczzvyJ+3J5bA5yQKP8DCZ54SnyMkgdnV9071uF0Vf0g3nFg/ZGFbI8WV+z7htAdLU+m047iu0RA3Gj0PlveBiSHE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "SWERVE COMBAT ",
+        "ico": "https://i.ibb.co/2gDHQxW/swerve-combat.png",
+        "uri": "8SpyY0utrFRy+dSuBQFgZtfkdLvyOlyYAdSUYegt/UToX4SjbI7TdTnHLPImsKCBmLLeBAXL1Zr8XJoOHd2qgJy1qdeYr2uHiYkVDRiMaMQzYz48bdfuvRcp/lu27R4nWWBX6yhUAr97C6O0uUtD7X7rK8DZdBmqqKVLN+Z9UvI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MMA JUNKIE ",
+        "ico": "https://i.ibb.co/D4T7phH/mma-junkie.jpg",
+        "uri": "8SpyY0utrFRy+dSuBQFgZtfkdLvyOlyYAdSUYegt/UToX4SjbI7TdTnHLPImsKCBmLLeBAXL1Zr8XJoOHd2qgJy1qdeYr2uHiYkVDRiMaMSdSFNA+4dzVZkIeofk1VbTclFM5dLYZCBcEZ6F3jdhag==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UFA",
+        "ico": "https://i.ibb.co/CmdBHzB/ufa.png",
+        "uri": "8SpyY0utrFRy+dSuBQFgZtfkdLvyOlyYAdSUYegt/UToX4SjbI7TdTnHLPImsKCBmLLeBAXL1Zr8XJoOHd2qgJy1qdeYr2uHiYkVDRiMaMSbmeN6LwARuubZPXwJMHfOwkI/3+7Fxb6fZo6mgtgRQoEORTx7eJC08I8FP9+v9lk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FIGHTING SPIRIT TV ",
+        "ico": "https://i.ibb.co/sFvRTLs/fs.png",
+        "uri": "8SpyY0utrFRy+dSuBQFgZtfkdLvyOlyYAdSUYegt/UToX4SjbI7TdTnHLPImsKCBmLLeBAXL1Zr8XJoOHd2qgJy1qdeYr2uHiYkVDRiMaMS8q9NqQ6v3FjaXI/Ta3icM7zgcwDwMX84ouOF95PDOvDus3Rp3xd+d3B63w7Rcc40=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CHANNEL FIGHT",
+        "ico": "https://i.ibb.co/sVwQKzC/channel-fight.jpg",
+        "uri": "ErnLbxQnHsoffgCuMe701F7WnsrUPcv1IOtegkWWkBHOid9bCdhxEuMb8Q2FpB3vXWiW2evAtMsI308VzhWPiGg6uWPdB2Hyd0qpU1ouBXbvZxB8kussuiRZjPhVPRJ921uHysQt1bW9hVxKJ2Tvx/CmIjDqjYFz4D3s29d4ehA=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
