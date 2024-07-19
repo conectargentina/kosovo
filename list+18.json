@@ -721,6 +721,20 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
       },   
+  {
+    "name": "EVENTO 3",
+    "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgF/5EEnykS9naLqTT9R0InoFpKjT6mk4qPWpgGc3lTRXgiGS6HjD1ZE+dVVZwxFvmQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EVENTO 4",
+    "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgKYa9KJtUX+klwAfI/cs2AQUzlXQB+dZsjLgESIOJ0O2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
     {
         "name": "A PROGRAMAR",
         "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
