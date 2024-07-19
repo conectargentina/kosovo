@@ -706,15 +706,28 @@
     "name": "⚽EVENTOS",
     "mode": false,
     "lista": [
-
+      {
+    "name": "EVENTO 1",
+    "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgF/5EEnykS9naLqTT9R0InoFpKjT6mk4qPWpgGc3lTRXgiGS6HjD1ZE+dVVZwxFvmQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EVENTO 2",
+    "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+    "uri": "8YXBZFZooe5f2ewgnUMpgKYa9KJtUX+klwAfI/cs2AQUzlXQB+dZsjLgESIOJ0O2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },    
     {
-        "name": "BOCA VS DEL VALLE",
-        "ico": "https://i.ibb.co/2jXj7GQ/donde-ver-boca-juniors-vs-independiente-del-valle-por-la-copa-sudamericana-2024-y-que-canal-lo-trans.jpg",
+        "name": "A PROGRAMAR",
+        "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
         "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
-      },
-        {
+      },      
+      {
         "name": "COPA ARGENTINA",
         "ico": "https://www.thesportsdb.com/images/media/league/logo/65t73z1563098226.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
