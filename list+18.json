@@ -3506,6 +3506,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGdGBB9O4tb8v0kRm+inWSoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "GOL TV",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
@@ -3589,28 +3596,14 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
- {
-        "name": "VAMOS FHD",
-        "ico": "https://boxtvmania.files.wordpress.com/2018/08/vamos.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0kroV1pYQyDQ9oPGt4JolLw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MOVISTAR LA LIGA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
-        "uri": "pzVEUX/fDRcW9j4bPUa1SEoL+du8+CwzAjb2YrPs7maRZi/yj76685xxRkD41OBJ3nb15hxJKbnpEzL00LxmOF2IMkRMoaToEHi8pAmXIe8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "LA LIGA MOVISTAR+",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
-        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0GWwkuKVr/ht9N5qJLqKfHg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+  {
+    "name": "MOVISTAR LA LIGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+         {
         "name": "EUROSPORTS",
         "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
         "uri": "RFCZPdBbphp1whMSLWJcO6r3ViKQFg95iU8pxOksX5M3k9jHdD5PH8BFpTisKNvAwnkxvaqS6+LNdJmgjn6mRQ==",
@@ -4197,6 +4190,48 @@
     "name": "SPORT TV 1",
     "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
     "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+    "name": "SPORT PT 1",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGOCuph8fZUtkuzkQGZPr7mw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT PT 2",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGJA5yPG+nT7f2Nlw8s+/2NQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT PT 3",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGHTCSW2qSXWcGEDu80WSZBQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT PT 4",
+    "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGowmiQnromkjAOG11BYq7sQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MOVISTAR LA LIGA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GOL TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
+    "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGdGBB9O4tb8v0kRm+inWSoQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
