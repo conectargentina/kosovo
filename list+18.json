@@ -706,20 +706,21 @@
     "name": "⚽EVENTOS",
     "mode": false,
     "lista": [
+
       {
-    "name": "EVENTO 1",
-    "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-    "uri": "8YXBZFZooe5f2ewgnUMpgF/5EEnykS9naLqTT9R0InoFpKjT6mk4qPWpgGc3lTRXgiGS6HjD1ZE+dVVZwxFvmQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EVENTO 2",
-    "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
-    "uri": "8YXBZFZooe5f2ewgnUMpgKYa9KJtUX+klwAfI/cs2AQUzlXQB+dZsjLgESIOJ0O2",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },    
+        "name": "EVENTO 1",
+        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }, 
+    {
+        "name": "EVENTO 2",
+        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
+      },   
     {
         "name": "A PROGRAMAR",
         "ico": "https://i.ibb.co/z7WmXXw/streaxapp3logo.png",
