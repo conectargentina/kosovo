@@ -3,7 +3,104 @@
     "name": "⭐PELICULAS",
     "mode": false,
     "lista": [
-     
+       {
+    "name": "UN LADRÓN ROMANTICO",
+    "ico": "https://image.tmdb.org/t/p/original/kWmQOYhyGPhuya3GnMzdyQ43Q4n.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvOUP+0DZonix675EqI0XTAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL DURO",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTRiSLk8lr9v1qEcgqnQnXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AL BORDE DEL ABISMO",
+    "ico": "https://es.web.img3.acsta.net/c_310_420/img/81/72/81722be4bad9f2d0c0ae71a2e99bb5d1.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvMVqBvnv2uMFzkSHlFBT+NQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CORAZÓN DE CAZADOR",
+    "ico": "https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_71060_60.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv1APYe975TfhUnLtRtkqnAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GARFIELD: FUERA DE CASA",
+    "ico": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Garfield_2024_Poster_Final.jpg/revision/latest/scale-to-width-down/1000?cb=20240412162513&path-prefix=es",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTJ1pSTxp4HACMZohC8Wj/w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GARFIELD: FUERA DE CASA",
+    "ico": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Garfield_2024_Poster_Final.jpg/revision/latest/scale-to-width-down/1000?cb=20240412162513&path-prefix=es",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTJ1pSTxp4HACMZohC8Wj/w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+    "ico": "https://pics.filmaffinity.com/kingdom_of_the_planet_of_the_apes-598062850-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvDUMOYrHURBQdcz3FJOPK6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "POLITICAMENTE INCORRECTOS",
+    "ico": "https://pics.filmaffinity.com/politicamente_incorrectos-735040651-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv6D1St5IN1Dj4EtKK6e/ESA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NAHIR",
+    "ico": "https://pics.filmaffinity.com/nahir-599296802-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvexjvQEferfC4q+LLeAM8Pw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AGUAS SINIESTRAS",
+    "ico": "https://pics.filmaffinity.com/night_swim-797110257-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv7S+47c8NSkmn33RD2ZAurA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PERRO Y GATA",
+    "ico": "https://pics.filmaffinity.com/chien_et_chat-896560725-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvTGu5xYjq2UGN/qpIChdGaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GODZILLA Y KONG: EL NUEVO IMPERIO",
+    "ico": "https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv+bXZzOlEVJSDH9UoC6DP8Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA PRIMERA PROFECÍA",
+    "ico": "https://pics.filmaffinity.com/the_first_omen-372679118-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvFYXXd4OMPfX4pa+WZb4QXA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA JÓVEN Y EL MAR",
+    "ico": "https://pics.filmaffinity.com/young_woman_and_the_sea-224904581-large.jpg",
+    "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvq/X/J6oin/ek1mJPAz78Gw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "LA POSESIÓN DE MERCY BLACK",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rJCTV6wl896rF1sJ6yTho87dtVY.jpg",
@@ -38,8 +135,56 @@
     "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQGERRHEv9atJcXV+C9R5WxEWcFlS/frZWKiSohy9Jpww=",
     "drm_scheme": "",
     "drm_license_url": ""
+  } 
+     ]
+  },
+{
+    "name": "⭐PELICULAS II",
+    "mode": false,
+    "lista": [
+    {
+    "name": "LA LEYENDA DE TARZÁN ",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
+    "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "365 DÍAS",
+    "ico": "https://image.tmdb.org/t/p/w780/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+Wrp70TVgzjQ85MqNe2hdH5rlzVVVLVDfd3kTvMxW1w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA MUJER EN LA VENTANA",
+    "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LETRAS EXPLÍCITAS",
+    "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOSOTROS",
+    "ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/02/12/17/09/1724041.jpg",
+    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+       {
     "name": "REGRESO AL TITANIC",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2t20mlU5nuM664cgBX2lLKg8GGo.jpg",
     "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQSlmb041BKBgFzOUrIKhBZsumqE1rC9kflt7u7cVbYKY=",
@@ -102,54 +247,6 @@
         "drm_scheme": "",
         "drm_license_url": ""
       }
-     ]
-  },
-{
-    "name": "⭐PELICULAS II",
-    "mode": false,
-    "lista": [
-    {
-    "name": "LA LEYENDA DE TARZÁN ",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nTrMxo14o246uGPHWEedczoG4oN.jpg",
-    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQUb7Bpq2uXfKJpieB7eK2r+1l/shoJ6+yMLj1eHSrZiI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LAS AVENTURAS DE PEABODY Y SHERMAN",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r26UfZeF067hvxYlT76v0i9P0qt.jpg",
-    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQxdbb3cUuwT6i8ZZhsKdD6nVPxoWFXSCRaZFdMsUdikg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "365 DÍAS",
-    "ico": "https://image.tmdb.org/t/p/w780/k3J2GdYxhR6U2RfsHZOsmHVKW7m.jpg",
-    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+Wrp70TVgzjQ85MqNe2hdH5rlzVVVLVDfd3kTvMxW1w=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA MUJER EN LA VENTANA",
-    "ico": "https://image.tmdb.org/t/p/w780/htNLpDWkaCYtkjjiFlfV2VBICUx.jpg",
-    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQVzJkGpHPZqNOT6vsEKfnLKAPt+k15rXJ7U4W5EatSdY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LETRAS EXPLÍCITAS",
-    "ico": "https://image.tmdb.org/t/p/w780/bjVN5D5AXjGVTJAJX469aOzGgnc.jpg",
-    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ4TzKzHpyiF6WGSW48Rixjmr3zkCxqeTGSENbPtRi9mA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NOSOTROS",
-    "ico": "https://es.web.img2.acsta.net/c_310_420/pictures/19/02/12/17/09/1724041.jpg",
-    "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ9p0gChBuFB8O59BQ9egPT+MY9auMTT6EwgtkjYcOcrw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
     ]
   },
   {
