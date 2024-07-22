@@ -1,6 +1,6 @@
 [
   {
-    "name": "⭐PELICULAS",
+    "name": "⭐PELICULAS 2024",
     "mode": false,
     "lista": [
       {
@@ -279,6 +279,96 @@
         "name": "FUIMOS HEROES",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQEqOERS5LBjfIxW+LUpYwAhPCzvMzL9ODvOJoQvGIg7U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+    ]
+  },
+  {
+    "name": "⭐PELICULAS INFANTILES",
+    "mode": false,
+    "lista": [
+      {
+        "name": "ESPÍAS A ESCONDIDAS",
+        "ico": "https://www.themoviedb.org/t/p/original/wg4CRxx04UbIOip2j7bMzIP5i20.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+spRqZDVyCw9/3qrOEcfJx9tUHx5gFqum6xD+36l0KA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ENREDADOS",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bFUreK1CxkUwk4y6W2Qoo88l0UF.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQY0k2S/runh5xQU30hO+ffFc1O2MWVmrms5ataEwaqWw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MONSTERS UNIVERSITY",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ3b6ChWri4evHeUvJSxOpOXTOYJhTnssx6tMm6sQ/lac=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CLIFFORD: EL GRAN PERRO ROJO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kW5JBtCGnIwBS1SD4sMXu8gee4U.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQH9QYadRliIgZz8JhP8S3HlKZqCXwDUnw8NosGS0MwXk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LOS PINGÜINOS DE MADAGASCAR",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lEnUxCpQUyntm2eLBzCTv3bfplV.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQqrxg760khY5q+h568zh6NNzH8oy13kIKsx4/+hkL3Vw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "FROZEN: UNA AVENTURA CONGELADA",
+        "ico": "https://www.themoviedb.org/t/p/original/KDiA5mJ5eAY2hNoZV5wNVsVv6D.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQw7Y7Qhk65o8kMXkIcK0lWkPMx+TvJ0oMXcryKKGjVlI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MALÉFICA",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2d4lnLtysk2jrLdJaAtUL6CuXYE.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQl4zEm1yq5o5q7DmqqUl1odIU1EYHDvtVBEQq4wyUEKU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "ESCUELA DE SUPER HÉROES",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGCNSsQp0oHLAv9XmG6YU38Vlnf.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQLh5BC4v6NB2hFJqHCO8ulPH409a9bnybgJ9QlqZk70I=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "LA ABEJA MAYA Y EL HUEVO DORADO",
+        "ico": "https://www.themoviedb.org/t/p/original/esEwPnmj205lA71uEJJtX5yZVuZ.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ5HoTKNbOTaNVmc0ulbgS8ovbJMLdxqSR1NyThdI9KUw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UN JEFE EN PAÑALES",
+        "ico": "https://www.themoviedb.org/t/p/original/tw995xwTWN28cB0wGVgORQ5NYc8.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ3+Jq8oBTUi5nHXjmW1W8zljlE4oT7dbaRwjjZXhWPuU=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "BUSCANDO A NEMO",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPhak722pNGxQIXSEfeWIUqBrO5.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQRuUILdn3OGic/Q+osyeWl/VBxk9v5Y5vOTVOZd5zjJ4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UN GRAN DINOSAURIO",
+        "ico": "https://www.themoviedb.org/t/p/original/AdBRNzPeeQHujTug9y4vSbibWF8.jpg",
+        "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQU9xnyW5NX9nOsaMbdtyYjNzWHWktsii65eKYgUPqHZ4=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
@@ -1579,13 +1669,6 @@
         "name": "CORAZÓN*",
         "ico": "https://television-libre.online/img/azcorazon.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46Ap5gaWrCc8J2UjLAuvjEYA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TLN NOVELAS",
-        "ico": "https://television-libre.online/img/tlnovelas.png",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM462a950BQMoH8OIn+g2pgxVA==",
         "drm_scheme": "",
         "drm_license_url": ""
       }
