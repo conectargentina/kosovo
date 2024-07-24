@@ -936,7 +936,7 @@
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
   },   
  {
-        "name": "SUPERLIGA ESPN",
+        "name": "SUPERLIGA ESPN PREMIUM",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
         "uri": "O4zQaBxapxoofA7Utbs4F5hceVjoJEJMmEq439UAjxhqyGW3YIIXw2mbnsZCMey/IQtt2cRISRyWh90sm0zbJEGhacoYb4d1SE5GoxjJCDadx+EVHVJIjOMAdwEG1u8z5YENh9j/CGEVJMLoBzqB35rrNcZc22HNMJ+oWwN3zCQ=",
         "drm_scheme": "clearkey",
@@ -950,11 +950,18 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
       },
     {
-        "name": "SUDAMERICA - ESPN",
+        "name": "SUDAMERICANA - ESPN",
         "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
         "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+      },
+   {
+        "name": "SUDAMERICANA - BEIN Ñ",
+        "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
+        "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
    {
         "name": "EVENTO 1",
