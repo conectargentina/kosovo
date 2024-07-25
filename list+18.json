@@ -928,7 +928,14 @@
     "name": "⚽EVENTOS",
     "mode": false,
     "lista": [
-       {
+        {
+    "name": "BOCA vs IND VALLE",
+    "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
+    "uri": "jPDd/uBADEg4FR2Ek78YHH4VJBtEc+h0gZuvRU9/gONMkbRBP/axZz+NctO1yMsigJteslMbaRzP++KgXs81NJQrJBSDBdvUEIhLnMdJXAL4B7JwLP1355ZOINYmqdDzrXQAFDaYELMuL2WXnXut8duP4P47TUHaBTTuKFRzwQO3UaTgA64/jcOYw5PRW2vTJgXv+cNyv7aq3QptjF7ce1MOJDoTBjsxWqRWshd3gZs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
     "name": "BOCA vs IND VALLE",
     "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
     "uri": "zZUDUAY0chzGb+d5/LbnrvLEhex+TgYC9WvuAU+NdI44BMWmNnJyjFrsBGtPzFCP",
