@@ -275,6 +275,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "PRUEBA TV",
+    "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
+    "uri": "Yx0URQMD70E0AHfjW6R2kb2ZBjCPb6l+05ulkteVzi+QLy0A7EhiukwZKWZFqniSaNi/hKT5rxppf9VNqOSPov/SSeLmcARqQV6darUmNUubT6KY/UAWV8/97nE7suPsT+OkUD4awn7b+edfgXW7PDowA0rvf7emcpZDKviJPQw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "FUIMOS HEROES",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lo284scuFbx1Zz4Tv5yJ3ctNSIJ.jpg",
@@ -5607,7 +5614,31 @@
     "name": "🔞PROHIBIDO PARA MENORES",
     "mode": false,
     "lista": [
+   {
+    "name": "PLAYBOY",
+    "ico": "https://i.ibb.co/CbcmBJ3/Playboy-TV-01-removebg-preview.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F6ElQnuMpJw+saZad36eMZFZ3MoIv9g0k+wVl6exKPeL4pJhZ67YoQHsGFCDpIgT5dvrva++aQrABzWIVh5u6LEoclGB5DxaPgM1dQMeUD+N",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdwOK/oSgkLSaiAeVvC6QZq0ZzSf+HxQl3s/8mae0TP2C2OAg06uMyaU51+DaVgoEyQ9Y0jwRuygiLOHxmBPBnYBBVl+2R+gzhVkq3DvuUH98bkDN5MNfu9F+Bmm/uwWcg==",
+    "prot": "1"   
+   },
       {
+    "name": "VENUS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1920px-Canal_Venus_logo_%282%29.svg.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F6ElQnuMpJw+saZad36eMZFZ3MoIv9g0k+wVl6exKPeLQoHRetSk8pmyimlaYtmb/iYEUSQNrVv1q8AHOCFENmrxV62+bPZZH0igk28cp3aF",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "bJP+LN/6hxN40q2tvUc6Go3xAQX8yI/FpKIBNW24P+ha4XJa/R60hKZcW7ntspl4HBGu+fTnxe/WdSeHYpHxAaJbY8XLrNeIVt0mFkBf74NaCt3ZfTnzwPl/iDpdUAovCLn7/PZjAif7UUrAp+TVZowk9OJLezFdl82Ock6TEw4=",
+    "prot": "1"
+  },
+  {
+    "name": "SEXTREME",
+    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/1000?cb=20130927203009",
+    "uri": "O4zQaBxapxoofA7Utbs4F6ElQnuMpJw+saZad36eMZFZ3MoIv9g0k+wVl6exKPeLCsOPx3vTIBlaYbqZ7lSMXukr82HfnlbCHB664IB0WB+EuOPQ2LTzFzvnrRUmu4ar",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EehyiOzfAIXDJdRziit1AYO0cM4M6kIUEJ91gp6KP8L5CjqnxGovDWlY7Hqv+CU+5ZBTxR1a1CH4NCu9cTAojuCgWDWi1gFSoEiHt4esYOD0IYZnbWbV4nEogdJ4nVV4Eg==",
+    "prot": "1"
+  },
+ {
         "name": "Hardcore",
         "ico": "https://i.ibb.co/SX4jGz0/png-transparent-all-the-beautiful-girls-graphy-18-text-photography-trademark-thumbnail-png.png",
         "uri": "9OXF8VI1vuF1qbaqUWg5D+pZNCxO7Xsn2mcUVpgmK+z+y1M3bKepCCVrJjhssFc4",
