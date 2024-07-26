@@ -1069,6 +1069,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "LIGA PERU",
+    "ico": "https://i.ibb.co/hX8TK84/dazn-laliga-2.webp",
+    "uri": "7MiiGZQwJ1F9SzgX7YPfhkr62RtSnJPgYs7rVHp8Na03lX8t+6dAd6zzTjL02vXUlH+UJvbLHTNGqjn4Z8NZMYRuwC2x+Kq7Ygq66kCDwXg=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERt5dTWhMmmKQdE3pkp4RAVUXAPCchpaYcfCoo49CQnE7Ivzaxa3sgnZviUTI4CBbXV9h57lYVbJMJ/JU2ldfxyMv3r5st5Y/5CsxuGJxvNEeGG8RvuCrlbd1SzMVjM6KA=="
+  },
       {
         "name": "INTER MIAMI",
         "ico": "https://upload.wikimedia.org/wikipedia/tr/thumb/9/93/Inter_Miami_CF_logo.png/600px-Inter_Miami_CF_logo.png?20200723120044",
