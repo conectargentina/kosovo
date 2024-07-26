@@ -5614,14 +5614,13 @@
     "name": "🔞PROHIBIDO PARA MENORES",
     "mode": false,
     "lista": [
-     {
+   {
     "name": "PLAYBOY",
-    "ico": "https://www.formulatv.com/images/cadenas/logo_playboy-tv.svg",
-    "uri": "bJP+LN/6hxN40q2tvUc6Go3xAQX8yI/FpKIBNW24P+isKKR5Z8eSLst7+/lxrnfzrjAg7HgxQZPLgCnuQnac9s2To98onuWqCIEsyFR4rHHuN0nw2kZHbnH7lPT6GYzNphak2WcnTgtsM8JEed1YIzqY3rv+BS3JA4HECiHKaYs=",
+    "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
+    "uri": "O4zQaBxapxoofA7Utbs4F6ElQnuMpJw+saZad36eMZFZ3MoIv9g0k+wVl6exKPeL4pJhZ67YoQHsGFCDpIgT5dvrva++aQrABzWIVh5u6LEoclGB5DxaPgM1dQMeUD+N",
     "drm_scheme": "ClearKey",
-    "drm_license_url": "bJP+LN/6hxN40q2tvUc6Go3xAQX8yI/FpKIBNW24P+isKKR5Z8eSLst7+/lxrnfzrjAg7HgxQZPLgCnuQnac9s2To98onuWqCIEsyFR4rHHuN0nw2kZHbnH7lPT6GYzNphak2WcnTgtsM8JEed1YIzqY3rv+BS3JA4HECiHKaYs=",
-    "prot": "1"
-     },
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EdwOK/oSgkLSaiAeVvC6QZq0ZzSf+HxQl3s/8mae0TP2C2OAg06uMyaU51+DaVgoEyQ9Y0jwRuygiLOHxmBPBnYBBVl+2R+gzhVkq3DvuUH98bkDN5MNfu9F+Bmm/uwWcg=="
+  },
       {
     "name": "VENUS",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/1920px-Canal_Venus_logo_%282%29.svg.png",
@@ -5632,12 +5631,11 @@
   },
   {
     "name": "SEXTREME",
-    "ico": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sextreme.png/revision/latest/scale-to-width-down/1200?cb=20130927203009",
+    "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
     "uri": "O4zQaBxapxoofA7Utbs4F6ElQnuMpJw+saZad36eMZFZ3MoIv9g0k+wVl6exKPeLCsOPx3vTIBlaYbqZ7lSMXukr82HfnlbCHB664IB0WB+EuOPQ2LTzFzvnrRUmu4ar",
     "drm_scheme": "ClearKey",
-    "drm_license_url": "bJP+LN/6hxN40q2tvUc6Go3xAQX8yI/FpKIBNW24P+goDasqSlIw3XsW5/qv46oqY98fhq2yHxJ4uW3ZoOwJ1MTTQZrzi4HXOtCpqj1oHWZwESt2bXMSoWhuj3s8H2o9bYjNuI2KGgLt4JaRitLMPWizTzthX680wu3tyoA7ILY=",
-    "prot": "1"
-    },
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EehyiOzfAIXDJdRziit1AYO0cM4M6kIUEJ91gp6KP8L5CjqnxGovDWlY7Hqv+CU+5ZBTxR1a1CH4NCu9cTAojuCgWDWi1gFSoEiHt4esYOD0IYZnbWbV4nEogdJ4nVV4Eg=="
+  },
  {
         "name": "Hardcore",
         "ico": "https://i.ibb.co/SX4jGz0/png-transparent-all-the-beautiful-girls-graphy-18-text-photography-trademark-thumbnail-png.png",
