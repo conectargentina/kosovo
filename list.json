@@ -727,30 +727,30 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
       },
       {
-        "name": "DIRECT TV",
-        "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2pKh5si9F/ckXa/jusVWFy4DVBM241vHbxAXqE9GtCHA=",
+        "name": "CLARO SPORTS",
+        "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
+        "uri": "zvpOtTXlzL/wYHEAcmedZMVfYe0xI6Tf7YXSxurUIvRWgUxqAWW0ZZGzyuLZ1veXyuEPMc6SyJ4KlZWjN7lhdkvNTM2UIFYXl7/No1f9R6D8Bpf1oniSkgzQxcG9e2WLLtN1Zm489vUyKw4kdeQR4E59ZnwfZxHfbQfQPiZnxzfcoU+TusUuoXSGxGC3dadZ",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DIRECT TV",
+        "name": "DS 1",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2WWds0oQMiebWSmEXBIBD6grov9f0mMNL07mr2H+qE4w=",
+        "uri": "Cjlbm6wRkWf23+/3EQ37OX6KUHlvgufJD7JMgU68BMuafIJZFfn1T+/B7d+e46pBAStzJTnbU1g/VWO0+6mi9bmaWZ2FpXxnmemZkJA6q9VlD5MwW3dNlmcjmvdN74nCe28PQTWo21z8yvLPBNDoKqzAqvsk7AMrjbAan+h7RGErF8zAFP+on6VZLCGCL+gz",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DIRECT TV",
+        "name": "DS 2",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2QRiNamcO7z95ket0BL/HLwFAcrBiomFp/ocyW7+YgVM=",
+        "uri": "ixJoK+CvCplWMMSC+YARZqBKz6ER24G3inE0JxaSp+z/RCogpGS4Q/IV3KwYJhJNhsPuLzeA49E61NBil+8DAsYU6EI95ufh6GIP4uOONMC6nLlOyJDzUuwEvoXds+gN7XYT2mSW3JV+I2vJfug16VOXBSrOW5JUd9eYkBJfsY9NlMK9bc3GP75qIEn3+sNq",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "DIRECT TV",
+        "name": "DS 3",
         "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2QRiNamcO7z95ket0BL/HLwFAcrBiomFp/ocyW7+YgVM=",
+        "uri": "nWDjWMP14gM9kHVDzyPuAUZg6aJRl2M329s8rdsYs1mUB9Y0yUnZjkNgkc+gSOK7/3bswju3fI8r77F3cgekcpIZ8MUDSzppDqVaBsNADe3PLzKyqV1afWk93MeqDrYutkLE5yTyAE3+Ooj+GiT2/NFoIrWZ+uri7Ttn8SnUjHYPq0BdOv87PJdqZ58R2ozm",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -928,27 +928,6 @@
     "name": "⚽EVENTOS",
     "mode": false,
     "lista": [
-        {
-    "name": "BOCA vs IND VALLE",
-    "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
-    "uri": "jPDd/uBADEg4FR2Ek78YHH4VJBtEc+h0gZuvRU9/gONMkbRBP/axZz+NctO1yMsigJteslMbaRzP++KgXs81NJQrJBSDBdvUEIhLnMdJXAL4B7JwLP1355ZOINYmqdDzrXQAFDaYELMuL2WXnXut8duP4P47TUHaBTTuKFRzwQO3UaTgA64/jcOYw5PRW2vTJgXv+cNyv7aq3QptjF7ce1MOJDoTBjsxWqRWshd3gZs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-{
-        "name": "BOCA vs IND VALLE",
-        "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
-        "uri": "zZUDUAY0chzGb+d5/LbnrvLEhex+TgYC9WvuAU+NdI44BMWmNnJyjFrsBGtPzFCP",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
-      },
-        {
-    "name": "BOCA vs IND VALLE",
-    "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
-    "uri": "q0Mrg9dm9tI74UiA87XQ1tqFrcEaqLGLILKBxoY01HHd5+PDee9gsQUFkGDKIP6eI6+wrcfu02M3+ZgpmHxz7UM/StjGk+gA4U+D97glimJHWRKWQM9ebrWmOkZIqvHfLbxP/8CLjCAOBNwSLSaQa9/StKfZScz8ZW63SxhKeEXF8almDEMSVQJODmh+IJv9fmlRjaz0PoUqrFkAsWqUDJ6+Yvuo8qCXuk4C1fBaOnDBYYcE1M62SGnV9LdAG5hA01zp2p7dDG4XRG9EeJpkd7OG38bCckEY0GPsRyjapkNcDBFDqcC40Ng+iQs+Usv4c303vIT+6/zH5Su54ddparRlXlabQeBF3u81r8my6lb9bNqosrVgWHaUVQ7EPC9wp08HststSrkUAhWZdkVUf8lFsXAvj4I5ylyNDXI5bePgKEgH5PTPhf6D2L4GT9s4x/wLnxhHR9DQ/LKj1Vjpt2PXdUVeSAEyX43SkJ3keCg+QRBiCxtlpbm7skLkZZEjSZVlKuaLGqDqqJ4lvl0Dgvd4qa7i7+6uappvrsXZ4Y9UK6UVnux5EhXDtT48rxkpfnoxLgxWZwxFC69xJMFd1xkkaaf7MzORndT47JWfSxt+7tA1hrQBd1LwO+l7teenYmEM5qu8ajGD8ZLWcYszaynCwZfhMSa3veIZwADttYyjkmxS/cAf2xYf5vJ/3hf1fsAMFu9KleafPLYcrgL8xP/MT8j1Z9I5p7JmV+SCgkNEqDjq+h6PagMDantuvL6vUbq0vju+a/WWGwSQUWzYfeuO/e1QH5GfgwZJb2M78AWqPGkqfqQOePjifmrdB3LTStAQJfuCThY7kpwlel6G1ktHvzy8au7b6Du7IccxmvlPD4fnJMX0TxAHc3PUCVfyIYU5Ut4cpu3YLXYIWnc2lOqmmgNcpyGVLjqi3tAOoAUUByaFpvgKx3klcU9WA+d+dKO10j80gTg5m4KNEsC0n4mlVdWLh2+8kSYZSBuUJL+smYkxOUlat4RhvQLyTpRVIWjx7tkXaeK2jK0WQKNRZDBjr3wl+aLWlRwePWGcxrNeIwNuhW18fIMrdBwUq9SNw/pC8mSlxp5KELz+MGtMYq0kWKGRIc2j7lDWY4U7opnbUahrEhbgmU6Peyn/r6do5dyYaNPj0NKZMAsYnt1ppKZoBiJ0hK+VeHcRcvno7jN0GboA3dqpKoXcPMFdYeblwdS56rLKB3fqyCZpsTQSfIlWXTBZY1f1kPjMYzKbBQ2rNDPuUYQokcy60JBJtvc4A3aNg7bsNZVfYWR8zvGIicT5yCLVzhB+QW1RMCqvjnD6SnHjeYE5ZRyU4Flomdjy8KRk3pNxpG6CspeAcURZmYePKtJF00+nBD35fbMwwAPqVs2R3ju/k5HZgb8rX05ZUWGLr0Eswipg3OBa5Zh/AnimjKhthjIl49pC9yCJHzHbQ0OwTOuYh/bXZjI2iPJh",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
       {
         "name": "SUPERLIGA ESPN PREMIUM",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Superliga_Argentina_Logo.png",
@@ -964,50 +943,57 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETStl0pIkBEniJ9FFk37063ek882wGkgfKTWekfWrEFGKeni49g19G8nYBF1ec4uJsUW8vjbAI4ofNLAC3dYUyi0wRWTFoTOqEM9vxPbdqyWqUuRM8RzjzJ8+z/iveiF9g=="
       },
       {
-        "name": "SUDAMERICANA - ESPN",
-        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "name": "CONMEBOL TIGO ",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+        "uri": "zZUDUAY0chzGb+d5/LbnrvLEhex+TgYC9WvuAU+NdI44BMWmNnJyjFrsBGtPzFCP",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
+      },
+      {
+        "name": "CONMEBOL ESPN",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
       },
       {
-        "name": "SUDAMERICANA - BEIN Ñ",
-        "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
+        "name": "CONMEBOL - BEIN Ñ",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "Kq865pvnUvY7pArdXuM1VswTAXwwYJ31NmBSolPc2KzF11aZzDRY9XhRcbd0BU18PAXkdbS3uTLImkyddZRRKiBsaaxRmTDFrfRHHcb/hN7RjbNs8/KvnSSdoysrFC+NlhPbWWh3HFJ+d6XWZSlFZg==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EVENTO 1",
-        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
       },
       {
         "name": "EVENTO 2",
-        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "kIuB/TaYEGpaWupBtZIB5ltSYgRwSqpFbQATMSv/6PhlG5nRmf6oocWOaeXIVWOHkpfPekN3n8HiIvBfKsGp/V9MApjxWnb7EjmBCIOF1DVzsG4tuvo/GaiL8WV3cUPxaS/z77NbqWGVNInTjTxOqJefw/uiN4GKtZm9f+0dprS2j9tcCqevOa2b+Csq4bUcobF3xcIlFmloMwIzzdqhmBPmnLVcUX/+vsK3TUhPIJORyUTjMVm9LUkoviCGzrko8qLPbRwX0wPgBapFgIBt8mbd0SpyFk09GrXWHXjnf+U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbeTd5UygQQHfnMlPjsdOCBY4BJ8nmPc7hw3SWVnPjuBI5u/EHqVI39pBAyfhDQjxjovJQ8t9rGhaxrCxSrZPIuLEEzwsbzwjNO70TXCNbOzJm/kOXKg2M2P4AnxKem4hQ=="
       },
       {
         "name": "EVENTO 3",
-        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgF/5EEnykS9naLqTT9R0InoFpKjT6mk4qPWpgGc3lTRXgiGS6HjD1ZE+dVVZwxFvmQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EVENTO 4",
-        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgKYa9KJtUX+klwAfI/cs2AQUzlXQB+dZsjLgESIOJ0O2",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "EVENTO 5",
-        "ico": "https://i.ibb.co/5K6GD6W/Conmebol-Sudamericana.jpg",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgKhYcklKZQVNkEcD5LlZEiFAftnb1kCmxV0fnv0UYyr/",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1050,19 +1036,12 @@
       {
         "name": "URUGUAY",
         "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
-        "uri": "UyisEHFa1hqt72W6L24NTYWjTRYev9JTuxQVXvyoufk2o1ki5I7nABLmAjatA5N2tSzZMiKzmQVtcm0fkD4/Erbu3rCywLAP2U4f8bLbGWc=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "URUGUAY",
-        "ico": "https://i.ibb.co/fS606w0/Logo-Campeonato-Uruguay-png.png",
         "uri": "i43V2nAfCyyZ8dVVT935Ihxr4wECParD7Kn7g1e6t3+RO+CkkS0pxwGH+c8cn5lbFJtdAMymtrlvdHJ7OxvMpOBv7mXdDpqCIDpotf3ObFo=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "TIGO SPORTS PY",
+        "name": "PARAGUAY TIGO",
         "ico": "https://4.bp.blogspot.com/-6BQv5SOuxn4/XEs537Yz01I/AAAAAAABT-c/aol0uy0p_l8gSbrYVLhz4qu5-GpyGG3lQCLcBGAs/s1600/Copa%2Bde%2BPrimera.png",
         "uri": "zZUDUAY0chzGb+d5/LbnrvLEhex+TgYC9WvuAU+NdI44BMWmNnJyjFrsBGtPzFCP",
         "drm_scheme": "ClearKey",
