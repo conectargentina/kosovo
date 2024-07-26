@@ -561,20 +561,6 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQ9Ln5XYdHBzqsqhb4hVJ+gw8+cQi2CmH6V+9kXYkvnJKiydZkAtZgprHYyIBHsIAUBTyk0yXCcd5akb9lFlaU6YVBxWaX/MFLmxhzxxIBgNb3+xdcvI3Jsz95NEKnoyzA=="
       },
       {
-        "name": "D NEWS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DNews.png",
-        "uri": "omaj4+yTqQZswSfYo9Q3DlYWXkW3xBGaaGjSBrWwEQodJfiOXmZXLNtE3KWXdFOc5dAL5xHUpCr1Wq4gm4aIn3IwiBcIvRJd/7ltvM9zJkNVGZ6vnmuM7qBm4ATXblrQGrHFUNhkd3+VJoj78fFCXA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ESRGkLMsY9OpuaAZFF9g/s2S/FO5RzC/iieYYWThDu9adki/12y93VeHgdpYjXiSDLx3JXGIDLCGZT0NqrlSnPuNqKftijDavbDfBoZkHM+vM236Mzsm3rrwBAJEIPRXOw=="
-      },
-      {
-        "name": "D NEWS2",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/2/2d/DNews.png",
-        "uri": "omaj4+yTqQZswSfYo9Q3DlYWXkW3xBGaaGjSBrWwEQodJfiOXmZXLNtE3KWXdFOc5dAL5xHUpCr1Wq4gm4aIn3IwiBcIvRJd/7ltvM9zJkNVGZ6vnmuM7qBm4ATXblrQGrHFUNhkd3+VJoj78fFCXA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQRfPcXcxKEdPWXeX3wy3vkDySU1MDuV4YndL1dre9hfie4ztPJtqTsmvjezyYj43PFzbA9eFzH/va4uKEdvmEZGx/Q8eANFSKZuJIrElz8qMmPf+oyjVHxQLz89ptgIxQ=="
-      },
-      {
         "name": "ENCUENTRO TV",
         "ico": "https://i.ibb.co/1T67Vf4/encuentro.webp",
         "uri": "O4zQaBxapxoofA7Utbs4F/8wFiTyE+Kn0Oc9SzvoZZAguVaeiJvlGCFTb0oL5q5Cv3u5vyQPO0JRX9vueXtds1DnL9OCyKkIrYc2m/TqKjKElg9D4R2u7yZ/pjgA9WpB",
@@ -608,7 +594,14 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      }
+      },
+        {
+    "name": "Dsports 1",
+    "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
+    "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQwrb8ulJwCZrf+ZCG6+lMA1160QPwQ/stCOetNB0k24X772M/jNB0nNs0JSDo43gBo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
     ]
   },
   {
