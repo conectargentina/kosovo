@@ -170,6 +170,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "PRUEBA",
+    "ico": "https://i.ibb.co/87d9ffP/2024-05-06-21-39-27.png",
+    "uri": "K2tQdWP6yOwbPp5rkKKwqNv1Gc7VdFA6ok9XeEeOI6AVyQsFZ3duVeBTHhebs1cxgIx7u68NntQTlC5W9RcwlNsYYfiRU5gQyVg8ea9vV1FTnk1R/nW8hPXOxaylxwaNWLUiCf7K/pfsAS0oDtcuzQ==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfZgW/VS1We3kaOBqbzQTLmBYN1X2uCRtlOfjEAnxomu+thxlbctiC2hMlpK9iEfS7F7kCC4wSRzksSzP9wfFH2yZjU8gtyBIQQm5FL1RK/F1uxCty7GBDpAKdVVMm8lAA=="
+  },
       {
         "name": "EL APRENDIZ DEL TIGRE",
         "ico": "https://pics.filmaffinity.com/the_tiger_s_apprentice-331884264-large.jpg",
@@ -1569,6 +1576,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETGTvexSLBYUpVq6nZ+0/nSzsPE/gpaNy08RPBO/9qEgChA/qubwA0V8mH2mVL76+R3Zf2iwBMNceMGDok2cnt9P1LoLCNOmpXPVsd0RANHnCREaxzIPJWIFMAy564xvDg=="
       },
+  {
+    "name": "TELESUR",
+    "ico": "https://i.ibb.co/3T9BZjN/Tele-SUR-Logo-svg-removebg-preview.png",
+    "uri": "WhwWhCBqMqyjVGtdZu6lRoqHwPWMSvhNiJYOAIcCH+7kbLFazyKLubAWfVptxrQA0MssGgFgjN+AwgN133aaimxL6p7l09o1EwdqdxpDYDYNSVEArkM6ISwMwTE/Up30",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CNN",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png",
