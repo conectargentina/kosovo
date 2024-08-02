@@ -388,13 +388,6 @@
       {
         "name": "EL TRECE",
         "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
-        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2IqUFHiMdbRWuvqrsxEq+EAA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "EL TRECE",
-        "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhf5WkpbaP6ao15lkH/BWQzTpTn2zNN89IMhNyKU/xY+9ykBIz2U53Qb95XRh1kQjn",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee6Wzlai6P8MzQ+KC2BfFEEa6k7cFSiNaQnecOATc9soaddy6r7dC8mxfm47QtJZxwMK1bSJ6/0MjZ80n3Q+qaECrBAtxC2XnQwVhsAjFfoWB9+I/8wqsKuAPC3Tyq4vtQ=="
@@ -670,13 +663,6 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETvvBYmBQUTz3Bcj9lMHvToRLv0JBRheGnRAJosbgxTRzwaddxDE0xDAyGSBf127IKXQShcYMydwxaRvw4Z+RsFRidZBRpJ7ZuDZ/wtPOwVVfcr8ZvYmV/f6XU+89hOaiA=="
       },
-   {
-    "name": "ESPN ARGENTINA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
-    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Fv8O6xBY5i3r5+sAvx68qt7otmTJ05tCgLiddObf3uX1uEBpZVXr368sbMrBqfyjH5ei5eg9OXu46xJy4VXjBj",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpdfVmUglOfEUjEgHkziw44A=="
-  },
   {
     "name": "ESPN ARG",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
@@ -928,12 +914,12 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
       },
-   {
+  {
     "name": "CONMEBOL ESPN",
     "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
-    "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Fv8O6xBY5i3r5+sAvx68qt7otmTJ05tCgLiddObf3uX1uEBpZVXr368sbMrBqfyjH5ei5eg9OXu46xJy4VXjBj",
+    "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
     "drm_scheme": "ClearKey",
-    "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENptvoEEbUcd01wR8dYMptkpdfVmUglOfEUjEgHkziw44A=="
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW97tK3QdCODakOFdk8w+8/mao6OmyEQ35F8q7al6+89n7OxOIcUCcpM/n5x8TAQL1iz+z1VvBSYH7fviK3KJUc0FraN7XVAxsVh/q4eecZhJob9zcx+EQJUs+C7QuuPuw=="
   },
       {
         "name": "CONMEBOL - BEIN Ñ",
