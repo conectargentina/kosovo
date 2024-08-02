@@ -4,6 +4,27 @@
     "mode": false,
     "lista": [
       {
+        "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmJNwtrsyXI8pshg5PGiZ7pUoL0ijj66efuqKV/1ajuD",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EN EL TORNADO",
+        "ico": "https://image.tmdb.org/t/p/w780/fKQqv4z82KGKVVTaB1vKfBdxoef.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrVNYRaDV5hbRAmKjsSyWPWa8sD2xges/6sUHLRmj90N",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "EN LAS PROFUNDIDADES DEL SENA",
+        "ico": "https://image.tmdb.org/t/p/w780/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnTC1NTVcX4S/xu9lXk9skFB2Gq0qhAyLvTgJGJiovNy",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "UN LADRÓN ROMANTICO",
         "ico": "https://image.tmdb.org/t/p/original/kWmQOYhyGPhuya3GnMzdyQ43Q4n.jpg",
         "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCvOUP+0DZonix675EqI0XTAA==",
@@ -289,6 +310,27 @@
     "mode": false,
     "lista": [
       {
+        "name": "INTENSAMENTE 2",
+        "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PuAY3xSvbchQWqpSiXw08Yt0NP.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNm2VmOBmYknoY3kBi+jV+xX9COLfSoMzAxtt0Pmuf4nu",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "AMIGOS IMAGINARIOS",
+        "ico": "https://image.tmdb.org/t/p/w780/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrbi1YN+7w4IWBxlOtaA4tbxgDlWu1d7nm9C9VBA3cn6",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DESCENDIENTES: EL ASCENSO DE RED",
+        "ico": "https://image.tmdb.org/t/p/w780/xHqSU6Rw58hV84wQ5SR3lUmuqVL.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrSt5MD33SlYH43v8xe3KaGU9n6k2JLbSUzCbFGJWYHq",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "ESPÍAS A ESCONDIDAS",
         "ico": "https://www.themoviedb.org/t/p/original/wg4CRxx04UbIOip2j7bMzIP5i20.jpg",
         "uri": "/AA9vAAccmOkCy8AoQR25aYiktJAAMfYSswUor3DEeBVEv0ZUz4AZievuyPwDIuQ+spRqZDVyCw9/3qrOEcfJx9tUHx5gFqum6xD+36l0KA=",
@@ -384,13 +426,6 @@
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNOpYjeYbx3AJd7Hxdw6uyhVb6nGrznpLAR5LrA4X6He1XpSVhb0o7R49lut/vbjKJi7eXqpbdBfxt+nQGBTVlr",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Eb8sPHbQ3A17YnpsnYByg47XK70uzSpsOF5LaH0v/fa7GzJ5IaaCaN3pq11/KxlQukmtlELfjLpYA6JVuCRtbxcfe3CVgxQw3xHN1Q1kkFNS/h7Uifj/Aa0hpFfWZdq7ZA=="
-      },
-      {
-        "name": "EL TRECE",
-        "ico": "https://i.ibb.co/HYQbLzj/eltrece.webp",
-        "uri": "Qf5eBSeQqsi70omJTrO17oDI0hT53hs6O+JQ5ki13pYNVBVlg19OflgsxrpYS+V3mwqPpfLFWLJp4mRsuJL2IqUFHiMdbRWuvqrsxEq+EAA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "EL TRECE",
@@ -671,11 +706,11 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETvvBYmBQUTz3Bcj9lMHvToRLv0JBRheGnRAJosbgxTRzwaddxDE0xDAyGSBf127IKXQShcYMydwxaRvw4Z+RsFRidZBRpJ7ZuDZ/wtPOwVVfcr8ZvYmV/f6XU+89hOaiA=="
       },
       {
-        "name": "ESPN ARGENTINA",
+        "name": "ESPN ARG",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
-        "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+        "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW97tK3QdCODakOFdk8w+8/mao6OmyEQ35F8q7al6+89n7OxOIcUCcpM/n5x8TAQL1iz+z1VvBSYH7fviK3KJUc0FraN7XVAxsVh/q4eecZhJob9zcx+EQJUs+C7QuuPuw=="
       },
       {
         "name": "ESPN 2",
@@ -718,6 +753,13 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FHUMNgQB8ai0Er4FopihglQ9eFbHSqF01LrcQ6hwAOTclZFLZsKVDp9FwOPOZBZ745gYbhcz9J1geTUDDpYAM9",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
+      },
+      {
+        "name": "ESPN XTRA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",
+        "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvebQDBG0EJWf3ttutJMZS/siLFTIQijTy53324EyicVAKmLzc5KSYjLzcQOJ9+vuLU=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUZrMtQ3m5SzCy2IOi0UqvtUcZIv58/c5waZWO6GQ6X6gj0fSO8qCDDpArzrCbKbVjTxkcn0kaZ5Z068/f/xaQqI798f9TUuySrCnEJC7WrUVFjZUywToR8vi3sV7Zs6fw=="
       },
       {
         "name": "CLARO SPORTS",
@@ -924,9 +966,9 @@
       {
         "name": "CONMEBOL ESPN",
         "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
-        "uri": "6lYo41WTMb6If9EaCtwNdbsqA4rj8+JhLxdrAci7VQq7SfVQSJ1NPqsMqps2GrqDal0SOI6mOi2ucMC2eSCOvwRrueHr+m6p7tTgGW4zXefx2cHkVHclAldjbqFxjqEV",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+        "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW97tK3QdCODakOFdk8w+8/mao6OmyEQ35F8q7al6+89n7OxOIcUCcpM/n5x8TAQL1iz+z1VvBSYH7fviK3KJUc0FraN7XVAxsVh/q4eecZhJob9zcx+EQJUs+C7QuuPuw=="
       },
       {
         "name": "CONMEBOL - BEIN Ñ",
@@ -4044,6 +4086,13 @@
         "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGowmiQnromkjAOG11BYq7sQ==",
         "drm_scheme": "",
         "drm_license_url": ""
+      },
+      {
+        "name": "SPORTSNET 360",
+        "ico": "https://w7.pngwing.com/pngs/481/822/png-transparent-sportsnet-360-sportsnet-world-bell-mts-television-channel-sn-text-logo-streaming-media.png",
+        "uri": "VuoEodIEZDzIYurvaB3NdKieOiD1FwoGxVft6UZ7Ad3ktiL78StLKSX/K0ULYoeWGlpGYbnstSx7f6r00JVlCteNc0sdlEGJUQriaBVwIvI=",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaS3QGOrN1WtNLzGRvBnJp0fEcC/VaJuNeuHNxEkaSuKt/bjSd253/oTG8GvSmQTSAMu55q5/LWUHrNbUIK60Z0OOp7an6lwIPl3L8apyjufUydfn8c316hVbNxNSAHsiQ=="
       },
       {
         "name": "MOVISTAR LA LIGA",
