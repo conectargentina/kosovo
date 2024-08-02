@@ -3,6 +3,28 @@
     "name": "⭐PELICULAS 2024",
     "mode": false,
     "lista": [
+        {
+    "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmJNwtrsyXI8pshg5PGiZ7pUoL0ijj66efuqKV/1ajuD",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN EL TORNADO",
+    "ico": "https://image.tmdb.org/t/p/w780/fKQqv4z82KGKVVTaB1vKfBdxoef.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrVNYRaDV5hbRAmKjsSyWPWa8sD2xges/6sUHLRmj90N",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EN LAS PROFUNDIDADES DEL SENA",
+    "ico": "https://image.tmdb.org/t/p/w780/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnTC1NTVcX4S/xu9lXk9skFB2Gq0qhAyLvTgJGJiovNy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      
       {
         "name": "UN LADRÓN ROMANTICO",
         "ico": "https://image.tmdb.org/t/p/original/kWmQOYhyGPhuya3GnMzdyQ43Q4n.jpg",
@@ -288,6 +310,27 @@
     "name": "⭐PELICULAS INFANTILES",
     "mode": false,
     "lista": [
+        {
+    "name": "INTENSAMENTE 2",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2PuAY3xSvbchQWqpSiXw08Yt0NP.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNm2VmOBmYknoY3kBi+jV+xX9COLfSoMzAxtt0Pmuf4nu",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AMIGOS IMAGINARIOS",
+    "ico": "https://image.tmdb.org/t/p/w780/8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrbi1YN+7w4IWBxlOtaA4tbxgDlWu1d7nm9C9VBA3cn6",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DESCENDIENTES: EL ASCENSO DE RED",
+    "ico": "https://image.tmdb.org/t/p/w780/xHqSU6Rw58hV84wQ5SR3lUmuqVL.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNrSt5MD33SlYH43v8xe3KaGU9n6k2JLbSUzCbFGJWYHq",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },      
       {
         "name": "ESPÍAS A ESCONDIDAS",
         "ico": "https://www.themoviedb.org/t/p/original/wg4CRxx04UbIOip2j7bMzIP5i20.jpg",
