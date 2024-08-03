@@ -3943,6 +3943,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "LIGA BAR",
+    "ico": "https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png",
+    "uri": "BZ/b7sP8V2hH1gYk/wQvmdajUV/z0eGWv9bTRnIvLJah7Z0fRdrRMnwacGZUHdC70fTaYYcW+d0pyNzY++JJnzRTJLm7UM6BRPL9MXRLjcxDphd+ZkawF1funU0FHjE1",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERFPnYaueVYAOVH0zyurPfqCZD7eCAGzsqMZODbN4ho+ivAgXDLXMFTCElyGjrx1mA1/ND1XYUaBhvjX8n+25uEeDNKwVPp4B37kZg/4zl0P/G27qVW7VF+tr8coGpWNFg=="
+  },
       {
         "name": "EUROSPORTS",
         "ico": "https://i.ibb.co/g4v6gfs/z-Hcpx-ZYE-400x400.png",
