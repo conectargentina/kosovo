@@ -803,48 +803,42 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
       },
-  {
-    "name": "ESPN XTRA",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG",
-    "uri": "+u8JOr6SyIr5qvEA/JHNyzZxbMc/FkKR7xs0adneKvebQDBG0EJWf3ttutJMZS/siLFTIQijTy53324EyicVAKmLzc5KSYjLzcQOJ9+vuLU=",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUZrMtQ3m5SzCy2IOi0UqvtUcZIv58/c5waZWO6GQ6X6gj0fSO8qCDDpArzrCbKbVjTxkcn0kaZ5Z068/f/xaQqI798f9TUuySrCnEJC7WrUVFjZUywToR8vi3sV7Zs6fw=="
-  },
+ 
  {
-    "name": "DSPORTS 1",
-    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-    "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdA62TREJ9SkEDJ7acuMGIXzw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DSPORTS 2",
-    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-    "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAWp0bIxR3bgGYYlSYQ9vz5g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DSPORTS 3",
-    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-    "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAmF7PS/f2Oldl3Nj4Ua1Bng==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-             {
-    "name": "CLARO SPORTS",
-    "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
-    "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "JJ.OO",
-    "ico": "https://polideportes.poligran.edu.co/wp-content/uploads/2019/10/olympic-games-1608127_960_720.png",
-    "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+        "name": "DSPORTS 1",
+        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+        "uri": "https://futbollibreperuhd.pe/img/logo-canal/dsports.webp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSPORTS 2",
+        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+        "uri": "https://futbollibreperuhd.pe/img/logo-canal/dsports.webp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "DSPORTS 3",
+        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+        "uri": "https://futbollibreperuhd.pe/img/logo-canal/dsports.webp",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CLARO SPORTS",
+        "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CLARO SPORTS",
+        "ico": "https://polideportes.poligran.edu.co/wp-content/uploads/2019/10/olympic-games-1608127_960_720.png",
+        "uri": "eS0ZOrCl6lVGYy/BZQNUH+QKj5FS6+lyHmLoJLOMZfLYJFW4K8zbiVZhij8lQxdAuag0+cm7n7yZ2tUrW/rphQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "TYC SPORTS",
         "ico": "https://i.ibb.co/Np3S1HH/2024-05-17-19-27-22-png.png",
