@@ -685,13 +685,6 @@
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENI4lZaesFHQ6qxMfPX6TLXMjDQWwyoajyt5BjAdHMcBn12TF1BrrDXDsExN16wJ3KnxNi5AfRXaFp3bSOWo4r",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EU//eFysObo08ZVZMGZRm8cHzEw8rs4dqb+KrCkNz4slkB+z5BOckzLOotL5k+1Xv4RNbaLd5ixaEtOULhH8HXu8X7F2NxWT/1SyvyYKDSycwY/bDk49sn4CoZF/hC48+w=="
-      },
-      {
-        "name": "Dsports 1",
-        "ico": "https://www.ole.com.ar/images/2024/07/23/c8eW-3A3Q_1290x760__1.jpg",
-        "uri": "9tjrwbvDv4zraNQfB4Hs+tfMnw0i4odg1scfQBmkUQwrb8ulJwCZrf+ZCG6+lMA1160QPwQ/stCOetNB0k24X772M/jNB0nNs0JSDo43gBo=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       }
     ]
   },
@@ -817,28 +810,27 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee2FQgkCgAuPf8bf8LxklRk+4pRiSpsvRwp61c41vhNAgo7dWtPujxMkQMmooAtTX4o1/VzZk5jOWo+OkiUDo+Y4gylDwFGol+LyuRR76rfWr4DKtw9wE0HGwKMHHf43mw=="
       },
- 
  {
-        "name": "DSPORTS 1",
-        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "https://futbollibreperuhd.pe/img/logo-canal/dsports.webp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS 2",
-        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "https://futbollibreperuhd.pe/img/logo-canal/dsports.webp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DSPORTS 3",
-        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "https://futbollibreperuhd.pe/img/logo-canal/dsports.webp",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+    "name": "DSPORTS 1",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "gw1b9DL0OplIZ6Q9gWR4T9A5OahL/fIS/y6MBVKgzA+bCcRXDNx43tg+nvAq+h1YehELEX6oAvNU1Dlxa+BZftj6GfbxtHh7otKyMWQNvDH1Ma8859putOigUzr5GL9qSwCkjkTEBT1aTzW9h2dNwpO/OGUj2umDa98g+9jmxGL/rGD1pyF5nj4CzS3H4c4J9qE6R2bjYD9wcZatKd3S7g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS 2",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "x951Nv/uksbNLPhAzSxg1V4D55Y/KGSIJyiAIcIMKb5W8cBAG0/4NhzqlKWVWvzn0g6zdjtedllLzT2v65SDQOZ3UTuJihyLq6IpUIJarE7ntCUaGR7ZNuRX1FXxlvZ31xjjhxJkBjSv7OcFx2H2p6GOcVrWjuStJh5W659WOC0tiqStAcsOjqzDVh8nA/KVrhrNGRU6/5foAprQSlYqsQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DSPORTS 3",
+    "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+    "uri": "SE+SXzehltFMfc95RDwppYB9oUf1d+1BKPUT6XmKlNPx85ONb/QzrTS/bBEsZ+l66tF1yzFU+Q+Ad0z7+XKr+mONGQwBgra+E7RKQWaNKjG0kDZurvjlogHxrczvW+LbkGASX0QqqaekjEAEoOeBoP206yQgU9gud1zrs3KLnjlzCNb3yeAn8hwuDDvYoISJongF5zHVvpwwIsRbUSnRIQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "CLARO SPORTS",
         "ico": "https://cdn.prod.website-files.com/640b40225e0d9452eb6904e2/640b40225e0d9456b2690e76_clarosports.png",
@@ -4179,6 +4171,27 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcwgML+QuixvQ8lzfQgFqnhXyWTShe1ULNoQh58QddA6UeYKlABCHJ5RChHr3UsrSLAuluQB6qhxarIINTbGumRIZmDVpQwMGHRfi5DiEOeC4rZU3Sf2X5wa5TtO5S0LdA=="
       },
+  {
+    "name": "WIN SPORTS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/100px-Win_Sports%2B_logo.svg.png",
+    "uri": "5fcORPZQE11oKzscOd1QkZ10EezNOM5AsqTRfd4sZeYPiLZ/kOwJE995LbW1QULnICHNrXwl6E9VVmlEBjOnnBsClr5h/ERfhk/X8l90PBcbl2tXjo0uRbkEHY5kc4AB91VdzhH+Eml8urRPaqxr2zD827+ByQtVcU50XKM4MFNElxwc+dub0fo6LDSuv3qS/9vhaEbLKu3OwJZW60IuOA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "WIN SPORTS+",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/100px-Win_Sports%2B_logo.svg.png",
+    "uri": "8Q9XhPTiWmtgOqCJQkyZFCyq63kkeMN1ss6SZzdwizmujOYn3DVoDpsbjQ/yBHfYuado3j8oSgNbWAsW5MFI8V2cS7O+GxC7Wf7fie98TqgbytXA0MbnMe1JIZzxutCIs/zU7iLJTp83wX3CKCv3TEHb3ikpX1f9aDTuC/v2IOAeYwoX9r6c6F4eE0u1GVfITSxQWsQ9+TfHHtZKqfRvt0URJovKyGhql8xvXfNDJbU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT CHILE",
+    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
+    "uri": "l4ZpKb68aO64nA+6AC4ZQKe9uF1N7cmSefQBSeeJbJYFJLEoXcCLLZ0RwwVBDPA5quHYAagAavxXDaOY8ZWTj/CGUhM9Thv2alt7rCLcN9pvTKLcWceE14Sdtlblg7tDhtwwPb5gYmCMY6IMi+E+0ehjMsMwy/4BPM4bYE2rEOUBY/Bb3KJcml8HHHgEtBhftNJ2fkriHeBi02YG/orJUA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "SPORT TV 1",
         "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
