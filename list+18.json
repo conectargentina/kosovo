@@ -3530,10 +3530,24 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
+{
+    "name": "REDE GLOBO RJ",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5BvxfI5s8cC8Mfz3lWyUW5g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "REDE GLOBO BAHIA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5ovuLnLV2fNMqmd6bivQcaw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "JOVEM PAN NEWS",
     "ico": "https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png",
-    "uri": "ndDrwD2xcPPogjzuT6UT6kwE/KojZ2cSZqVc2yqA3+X0JU9XJzi/KX5fuzC7UIlHpunQ7uVTiesgdrYN+pCtXMXkO3LdrG0oAAq18mrrgexFUlFXBXXq+SaaXiTkzTju",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBHugpI0LYa2KNUVotBGHM42koYi4+KINBm5dD0L/nAP",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -3579,13 +3593,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-      {
-        "name": "JOVEM PAN NEWS",
-        "ico": "https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png",
-        "uri": "Riloowx7/SHiwVJwcQfr2oyRiQLOBotrFn3rn0lME+cJ+3FOVuLOvDeqz8dKKExKgF792beczLoafA9iDi1nnA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+
       {
         "name": "RADIO TUPI RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png",
@@ -3735,21 +3743,21 @@
   },
            {
         "name": "SPORT TV",
-        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-ao-vivo-tv-online.jpg",
+        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
         "drm_scheme": "",
         "drm_license_url": ""
       },
         {
     "name": "SPORT TV 2",
-    "ico": "https://i.ibb.co/QKLg2vX/sport-tv.png",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
     "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqf8v5iF02TUwOoGHvnqJneodJt+4LDDg/x7O2Hg7ALWF3SreY8uShj+zyWS2Vn5RVICTvKOHyaAPWGfeOEAbxDKZ7eIu1PeyErOfRvW/kFI/56r7PFJ5467Q1FHj6+Y4H+082rjxZRa8AXJAXiwdIVc+jHoxHoXuRZIOj9gIWCGRQ2+V2RA6lOe24b4JRbbg3Fw/jxcXTnTbtipCrUpBGhPx3eS1Aij6MBGrt5VBI+2Pu6JigHqEi/YV35MW8rN+4xIBemkuPhL2P6n8inARBrSg/ZACx02NpwyKoUp2pjd2mMs1hN1SY2llOsJJxSPcttq0/wBO+Lpo7nZoW2YiKzo1rZ406dpAILDxCeTwXLauibShHkIMeAbkTXpy+YlfXDVQNnAjHHw7jCIsCDgUuDXV1LGO6KLOivc4lbr40z3IVeLs/mlj6n5gYeEACTaEbOILMI3LRGTfDiMeRaq4lrXG7797xoVIcY15E4QFFbsIsTRs4L9Ew+AjjpgYWAOeuW4YfRvW2beuvn+LOjbFIMvq7IDRg2ojFLHb7mgsPN5IFJBCVSVWc0kdUGflYxMVGsIyJmBJQORm6D46k1eMGpZx/M2ZrgMmFjYOm+YkrtOxU2RIv08xt2AUUhsYbi/5o4fTDecI5z0w5UCU0x7Hzthfb7U3Hk2sLgI1ewITSVaxL5ZZjjQrUypIS/YVw7rxFObWJsoIF1FNHj/8RbgmgItqUjOQlidesj7XRchRgPzhyRUe3vovFpD6tInplUfWxP21X7BWcDW/hTOaoIH+xLulLPDNspJo3FnBkXXaSprHAIzt3cYcYvHC1njUH7YRQGOmCWMZJXPAK4JH6QoRoEV3vVHdjtWBeul+LAaXSPXsBC+/PHCukuNVfywJWS/koi5ToHhiTVOp2IFhYv+j5sI",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SPORT TV 3",
-    "ico": "https://i.ibb.co/QKLg2vX/sport-tv.png",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
     "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqeBPqnBrsVUCDt1781bGEHpcViFl0w4wyeV9Kml7ZuLWzuKWQ1+qwPij2u+856wC0BcdrSXDtr9seTZDAw5Hj+WICsCgK2ZrSZG/5p+ieptIP1FDRW6BZxM9mMttTcqyoVhjyPcQRVuoF9oqGgsOTdZiFDE7xv1fxVlM02wCL7hXqVN2Ye7hZq1krkC5EPpBYxIsLLTzoCtZXOsKUttc9GJuMblzSVDffkUfiZ4FaBHlr/hVtPL39tFThCIyjT5ogeZ7g3jmN9jflqWRAI27dzQa9JXEaOQauk9/a5r736ab5jw0cXoxYqkAmfkEdZDziInrzUkGA9z7rjbM+lE7M455ysyDidpPUh6ErtK0jNpQ0x+WaUzFNbFZ1anjOgm3l/SPNItWdzE9gtQ3gs6Z0OrQvFaBt/QwtoRtSod2TeQw7b1LRQ3XKAD85Fp6zRwoPehniLeNxEDGLkSU/j4FPrIVrLs3YOjnrGpLuUE24ux4gSLz1/XjkhJG2E2ru8GibOkfg527fydHU1Gu24JqqH/tvXIzZVT+dsGP7SIWOSWIekK+lPGFR7iZUGF6rfGw3a43TM6WqXsRC1Ybj5G8iIG94MNO+Fd6AQWds8ll4c7jIOOBBm4ikW7MTgWfXYZwZO3wH8DbglhNGEGfLYOboSQOElgDxf/heT46l02r2Yg3ihWLiUksKbRpGs5gh/nneL+84IY6CNI4CWH7fAHmBbb2NVNcy0zQPtDkrJD38mnzHrcymSbGsXnudx2KkVNkJpuanusm5RteqT9PLZ8nJTo+NtEkyhojY1jGXCPDdzX6Fqy9MHrCAwzoQ+1edqCPYkG/Yos/SwGi0gfDnYWRySKVhIRv3sW8s16raxGDtdruh2zcXV+Si5g4Kb64e9YlnbBhP5nHp9z4LMQ/J2JjP6K",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -3840,21 +3848,21 @@
 
  {
         "name": "SPORT TV",
-        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-sportv-ao-vivo-tv-online.jpg",
+        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
         "drm_scheme": "",
         "drm_license_url": ""
       },
     {
     "name": "SPORT TV",
-    "ico": "https://i.ibb.co/QKLg2vX/sport-tv.png",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
     "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqc9QXkoNZBJKIOJA6oRGz6CPc+r2IQrsJ2lsxZfHWTWMWabbky0mhGY2UbX6IG2jp8v+l+E0bix+zh8G2/xYRFg4ky7KB+ns8hQcOymT1KW+xPOUsi28byCwlZGoRdliMOqhfLGeKro/ZXBBqI0jek7q5u4t+6Ou0i2Cuu9XUR4ru9xf+eN/zlhamxGMcWbMCdUDF9S8qmcv4LVAT99l4Uu4527BXI0QDZrkKdSqEnqQjgQ9wzjd5Fc8k8DTAi8vunz3BVPHuQ2bnQ2FQ88ynWyRPtZkvm+ZsQllm54IsaYg1HE7XdVEgk7R/55/sK+1GP8Scbzt0801wS4QTGHXWek2LRggyuM5HCh2i+WE4E8WGsoPBjG9LjkO2KUzOB9k+Vax38Z8I129AzqkQkFygUlgdEYD3WDzP3W+iBReMx+IVZoSTgJW/ROARR7qiT5FVN+435DwAhssOmTwUHXBo1nUFZ+KENCFIAkbcC76kB+t6ek5f7l6WMK6V1qNsjB1Na/8xDOChB0sHJYD7Om4VhcVO/DsqEDVHq8KNIM50gYrjJYABTKI6wloLyvwcmH5nCDzx1i91WZ1LhGTIEvE1y+zVwERud1C8jOVKXiPyqMe6EPLdHGNB7ffGJT75PXBJP1KEFX7wtv+s9qMXJflHSWWfTJr+jpwTFzWWmXkcDUdhoCYthsBY64l3nDyfhNzlMR181+r9txplqZapbv140c3UH59boXKakzDVADM4gOOsRZKv4MhKSGuEQG+0UuM5/nrwrLKIThP/G5rDytBX1oXL7IQ+446Q7ZbdCWM4gUlX/6bYVOlShDOltnl3qFTH1LgI6hD8nxiOyxFfM4HKQHogWbNYUzBxJokqE0O17voa6R1GSMnHWUD1p5eZRPaaWb2JGSKGpb2rpY3Udy73N3",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SPORT TV 2",
-    "ico": "https://i.ibb.co/QKLg2vX/sport-tv.png",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
     "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqf8v5iF02TUwOoGHvnqJneodJt+4LDDg/x7O2Hg7ALWF3SreY8uShj+zyWS2Vn5RVICTvKOHyaAPWGfeOEAbxDKZ7eIu1PeyErOfRvW/kFI/56r7PFJ5467Q1FHj6+Y4H+082rjxZRa8AXJAXiwdIVc+jHoxHoXuRZIOj9gIWCGRQ2+V2RA6lOe24b4JRbbg3Fw/jxcXTnTbtipCrUpBGhPx3eS1Aij6MBGrt5VBI+2Pu6JigHqEi/YV35MW8rN+4xIBemkuPhL2P6n8inARBrSg/ZACx02NpwyKoUp2pjd2mMs1hN1SY2llOsJJxSPcttq0/wBO+Lpo7nZoW2YiKzo1rZ406dpAILDxCeTwXLauibShHkIMeAbkTXpy+YlfXDVQNnAjHHw7jCIsCDgUuDXV1LGO6KLOivc4lbr40z3IVeLs/mlj6n5gYeEACTaEbOILMI3LRGTfDiMeRaq4lrXG7797xoVIcY15E4QFFbsIsTRs4L9Ew+AjjpgYWAOeuW4YfRvW2beuvn+LOjbFIMvq7IDRg2ojFLHb7mgsPN5IFJBCVSVWc0kdUGflYxMVGsIyJmBJQORm6D46k1eMGpZx/M2ZrgMmFjYOm+YkrtOxU2RIv08xt2AUUhsYbi/5o4fTDecI5z0w5UCU0x7Hzthfb7U3Hk2sLgI1ewITSVaxL5ZZjjQrUypIS/YVw7rxFObWJsoIF1FNHj/8RbgmgItqUjOQlidesj7XRchRgPzhyRUe3vovFpD6tInplUfWxP21X7BWcDW/hTOaoIH+xLulLPDNspJo3FnBkXXaSprHAIzt3cYcYvHC1njUH7YRQGOmCWMZJXPAK4JH6QoRoEV3vVHdjtWBeul+LAaXSPXsBC+/PHCukuNVfywJWS/koi5ToHhiTVOp2IFhYv+j5sI",
     "drm_scheme": "",
     "drm_license_url": ""
