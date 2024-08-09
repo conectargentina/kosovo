@@ -3,13 +3,69 @@
     "name": "⭐PELICULAS 2024",
     "mode": false,
     "lista": [
-      {
-        "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
-        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmJNwtrsyXI8pshg5PGiZ7pUoL0ijj66efuqKV/1ajuD",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+          {
+    "name": "LA MONJA MALA 3",
+    "ico": "https://image.tmdb.org/t/p/w780/g95fhs7w9LjLefMCLsMDFMoZ44x.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqObKf+ycW8QkulQhkD9fVCIeZN4G9dxjEKWhMWcF7C7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL JUEGO DE LA MUERTE",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jKNCPbhAQtpZ6K9NiqBJbl2193I.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNlrA11GL5DvIYtX9lw4m9uljxLomLBoNrN/Sj7PlRqcp",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NIEBLA SIN FRONTERAS",
+    "ico": "https://image.tmdb.org/t/p/w780/4MgRn1YPf3EkjfxbkWCMgeXY21I.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNn4W8X/BJGtbFEzik16fEfy5j/GCPw8aXQk4gEPZmztM",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PRESA",
+    "ico": "https://image.tmdb.org/t/p/w780/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNsR2BJPF2N9UMemtCesf98oUT8uZ6S5EHg1WT3tDnvj3",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "UN ASUNTO FAMILIAR",
+    "ico": "https://image.tmdb.org/t/p/w780/yCwx4wq3LjrBYewMdW6krgiEfhM.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNqq76c4uQr0eXHvEyPhR8RX8CITjaAroZETV8nahk/00",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SOUTH PARK: EL FIN DE LA OBESIDAD",
+    "ico": "https://image.tmdb.org/t/p/w780/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNnlAFEfs3ucd6efy26GIt0mUnAlbZkEHLoUhnJdATCGR",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RESCATE IMPOSIBLE",
+    "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNvujBI3w2p5hYDP8j47zyWCSwfuTEuP6Q2G7cQbd0+fw",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DETONANTES",
+    "ico": "https://image.tmdb.org/t/p/w780/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNgsQZj0KkQvIsxK85HCR6OUUdVwRSm+A2bKyuHup+mtE",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SIÉNTETE SEXY",
+    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/clmbKu5REHyhyBvGVrpSTMaKpBt.jpg",
+    "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNt7UHvyyvGgXt8AoqdUwRv7oLf/wHW57EMcbJ3+NpzW6",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "DEADPOOL & WOLVERINE",
         "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
@@ -91,6 +147,13 @@
         "name": "POLITICAMENTE INCORRECTOS",
         "ico": "https://pics.filmaffinity.com/politicamente_incorrectos-735040651-large.jpg",
         "uri": "4Qz3SZ4+EnvUGZMp4L7e8y7SJ/bm9EKczv9QegySdbm2q7ZbJJaHYuqF1v0eslCv6D1St5IN1Dj4EtKK6e/ESA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+    {
+        "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
+        "ico": "https://image.tmdb.org/t/p/w780/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+        "uri": "yPgTJ5HovhgMIHCrHorGt7lOhIkrqSiZUDd3L4XDdi8zI332FxyDBiUEgs4dA+TcBHT6/Z2BzxB93GvMUq8tNmJNwtrsyXI8pshg5PGiZ7pUoL0ijj66efuqKV/1ajuD",
         "drm_scheme": "",
         "drm_license_url": ""
       },
