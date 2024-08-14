@@ -3370,6 +3370,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "GLOBO DF",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
+    "uri": "nV+H3uw/zpVXFnQPH2hXQrJ6fy/tgUrs65NYeuLrTC2m6jzJW5H2L5t4RPcO70q4CrP9zrtfGOfGR9KKSobteQ==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ESfOjCQ8B16X2X934UiythO/te5F9HqVPX2IpY7RR/z/IskHup1cGRnGo4lR6dM47LHL5VgApGsWcjEqt44z2tZ8YybdYXSuRHOZ6Zg6KXEvPBmXXeUVi6uvl6n1UFlMrQ=="
+  },
       {
         "name": "REDE GLOBO RJ*",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
@@ -3377,28 +3384,14 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "REDE GLOBO SP",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "8YXBZFZooe5f2ewgnUMpgKIGyjCgDZhuPMaR7xjXxxxNzW5TNfCc1H0SbkvSpiii",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+        {
         "name": "REDE GLOBO RJ",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
         "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5BvxfI5s8cC8Mfz3lWyUW5g==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "REDE GLOBO BAHIA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/686px-Globo_logo_and_wordmark.svg.png",
-        "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5ovuLnLV2fNMqmd6bivQcaw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+        {
         "name": "JOVEM PAN NEWS",
         "ico": "https://jovempan.com.br/wp-content/themes/jovempan/assets/build/images/jp-news-logo.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgBHugpI0LYa2KNUVotBGHM42koYi4+KINBm5dD0L/nAP",
@@ -3497,6 +3490,13 @@
         "drm_license_url": ""
       },
       {
+    "name": "GLOBO NEWS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logotipo_da_GloboNews.png/800px-Logotipo_da_GloboNews.png",
+    "uri": "8YXBZFZooe5f2ewgnUMpgAACeOA4M4/9sWyxSZL1b+uUC3tkxjyHH7o5oSy1pfYl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
         "name": "RECORD NEWS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/800px-Record_News_logo_2022.svg.png",
         "uri": "Riloowx7/SHiwVJwcQfr2oyRiQLOBotrFn3rn0lME+cJ+3FOVuLOvDeqz8dKKExKdpxDK2NKBvXY+mEZCIe3VA==",
@@ -3507,13 +3507,6 @@
         "name": "BAND RJ",
         "ico": "https://iconape.com/wp-content/png_logo_vector/band-tv-logo.png",
         "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqdOtn6Lyx7Tc6WqK7NwsK7GmpZStwt2SP/OmJCxU3ZQfGPMmdQ+g2TuJg7YflzcT51TLK9i+ohUzZAWdh3NYZ9sZjniSRueLj2oxgog79Rnj5A4AMUtbMmzjhK+TAAJyHyFC7V88beIgT3s6uwdJmEwlyYSeG5nTURWZ4+53OdXveFGde6TSd/NwARM4tbVXN3JMGNIEFabMvT1ir7PDl7DPtwb+tsjsXU1cUwMCLR7/NzTmtGJ4wNJiOuMoGk+1soMKKjtIZNwKbyqd+Yk9edKV79NjSE5tEpDhgw4HJw6x8mCyxv9/++DmJOtr2JkclROFObht5RRDuBg4/kOKbEN9bZt0EyTQ+Xvl37+3E6gDWsPQa7p+ZOxucygS++caHH/5O3d5ssM+qH7T9xPqYg1Dm76gb6l9EjO7p9kZNKzCGtklyBECK/hSso58FHrkK4cJ7gk8F9wf5WiQUqgz1QKD/67d9iQUOdtTc9JRzjPYp665rgUzVNk6/HbJQxpBdveRO84MGARWsjCtDLh4HycP377ix5hqBFXf3rNej1QfVCyCTDt2/ckurfsXkGmPTKuBvQPznlFARyOoBI8wSO3kb2u7Usfgq3Ay4DKI0GGh+25Bm/QNF0FAv7Nc4yLMdrQDn+n4+dE7RiO+HRH4WzUu/NOuIhJEbrTVKPtckF0C1uUz7OLEzIPb0Fl/m/OHXUKCP673uHOa0hgWBhC+y5nos4JPf+6+nR7k57qwrBfWSslJzswXgSwU9hCrAJ7tHeiUq1Ww5rccfQCrmr2lbkLn1ERqwnYW4/ZTGl+oTjJRdY8+4pxOTbANbYI/6XYrce8sXKOs4yzPFSK7qg9IsZs5On998YNqOJriflC1TED38sMovqPZjFUCbBUCH3A/LYH1R0gPG6zMD7uLb+T2Zos",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BAND BA",
-        "ico": "https://embed.jogos123.site/auth/132.m3u8?token=MhnzsuVPylLGz-NLskr3J7pszVRb-tRnL9GVhR5DtH_2Uz3DzT2Uirujd3ddD1p1KLqrTH41Gw8D7rGiUflV_BHj508wiFWtEDRzOPm9OQbtUMrQy6Rb6qsBawVO_PJ_hW9p2yw1Gdkdkji9LDfHafswjgtsTWJJjWocOQ_O8hpNwoW-uHA83xiXEiHI_6qhQvXdEjuHNNwHeWfrgbXBa3OB7TTdmueH5WUW8lATXADkTk_scwt60e5mtVVh3wtAjEHYEYMu4931ldrctk2OxUD-g78ZI1KMmm9MbItiuAw958yC-nLjz3W_IknNGCCSQFPt0fNUnEQBLB13NXCdTNvmtytdwOZVmCZ73s5lSQXymppZUPKsEt0T0yRPL2i8_GHKa-Ileu2qVQB4M7E1K1l9_G5f-4VXopxYrtv3TWW7DKnKK_IjGdjfBoL7ZWWTu5NXujxrXZ-Sn9ldz-swpWQGdarfBg294f5ZbY0Yv8I4UKEAOKoJt2BouW8XsXCbhf8ydySDwP1YrzqmCypWjAO4mDWTbK_EqnxS0DnTS5jMmtW6MoQEoFBAVU4AeNL7tM8EcVnxfX_5YraXAV8E5aHIgYjgLuhB0frPc2L-YkJGFcVWIigwVOVrIrxCgXqaU7uvlsa7D3q46M1BLknKgA",
-        "uri": "n9N0Q7IL7Wy4QAkAGNQtsQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3595,26 +3588,34 @@
         "drm_license_url": ""
       },
       {
-        "name": "SPORT TV",
+        "name": "SPORT TV*",
         "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
         "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "SPORT TV 2",
-        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
-        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqf8v5iF02TUwOoGHvnqJneodJt+4LDDg/x7O2Hg7ALWF3SreY8uShj+zyWS2Vn5RVICTvKOHyaAPWGfeOEAbxDKZ7eIu1PeyErOfRvW/kFI/56r7PFJ5467Q1FHj6+Y4H+082rjxZRa8AXJAXiwdIVc+jHoxHoXuRZIOj9gIWCGRQ2+V2RA6lOe24b4JRbbg3Fw/jxcXTnTbtipCrUpBGhPx3eS1Aij6MBGrt5VBI+2Pu6JigHqEi/YV35MW8rN+4xIBemkuPhL2P6n8inARBrSg/ZACx02NpwyKoUp2pjd2mMs1hN1SY2llOsJJxSPcttq0/wBO+Lpo7nZoW2YiKzo1rZ406dpAILDxCeTwXLauibShHkIMeAbkTXpy+YlfXDVQNnAjHHw7jCIsCDgUuDXV1LGO6KLOivc4lbr40z3IVeLs/mlj6n5gYeEACTaEbOILMI3LRGTfDiMeRaq4lrXG7797xoVIcY15E4QFFbsIsTRs4L9Ew+AjjpgYWAOeuW4YfRvW2beuvn+LOjbFIMvq7IDRg2ojFLHb7mgsPN5IFJBCVSVWc0kdUGflYxMVGsIyJmBJQORm6D46k1eMGpZx/M2ZrgMmFjYOm+YkrtOxU2RIv08xt2AUUhsYbi/5o4fTDecI5z0w5UCU0x7Hzthfb7U3Hk2sLgI1ewITSVaxL5ZZjjQrUypIS/YVw7rxFObWJsoIF1FNHj/8RbgmgItqUjOQlidesj7XRchRgPzhyRUe3vovFpD6tInplUfWxP21X7BWcDW/hTOaoIH+xLulLPDNspJo3FnBkXXaSprHAIzt3cYcYvHC1njUH7YRQGOmCWMZJXPAK4JH6QoRoEV3vVHdjtWBeul+LAaXSPXsBC+/PHCukuNVfywJWS/koi5ToHhiTVOp2IFhYv+j5sI",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT TV 3",
-        "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
-        "uri": "rrYrecl/cKefrk3UgzGwseU6QM4RJC8FUKkHeMTAqqeBPqnBrsVUCDt1781bGEHpcViFl0w4wyeV9Kml7ZuLWzuKWQ1+qwPij2u+856wC0BcdrSXDtr9seTZDAw5Hj+WICsCgK2ZrSZG/5p+ieptIP1FDRW6BZxM9mMttTcqyoVhjyPcQRVuoF9oqGgsOTdZiFDE7xv1fxVlM02wCL7hXqVN2Ye7hZq1krkC5EPpBYxIsLLTzoCtZXOsKUttc9GJuMblzSVDffkUfiZ4FaBHlr/hVtPL39tFThCIyjT5ogeZ7g3jmN9jflqWRAI27dzQa9JXEaOQauk9/a5r736ab5jw0cXoxYqkAmfkEdZDziInrzUkGA9z7rjbM+lE7M455ysyDidpPUh6ErtK0jNpQ0x+WaUzFNbFZ1anjOgm3l/SPNItWdzE9gtQ3gs6Z0OrQvFaBt/QwtoRtSod2TeQw7b1LRQ3XKAD85Fp6zRwoPehniLeNxEDGLkSU/j4FPrIVrLs3YOjnrGpLuUE24ux4gSLz1/XjkhJG2E2ru8GibOkfg527fydHU1Gu24JqqH/tvXIzZVT+dsGP7SIWOSWIekK+lPGFR7iZUGF6rfGw3a43TM6WqXsRC1Ybj5G8iIG94MNO+Fd6AQWds8ll4c7jIOOBBm4ikW7MTgWfXYZwZO3wH8DbglhNGEGfLYOboSQOElgDxf/heT46l02r2Yg3ihWLiUksKbRpGs5gh/nneL+84IY6CNI4CWH7fAHmBbb2NVNcy0zQPtDkrJD38mnzHrcymSbGsXnudx2KkVNkJpuanusm5RteqT9PLZ8nJTo+NtEkyhojY1jGXCPDdzX6Fqy9MHrCAwzoQ+1edqCPYkG/Yos/SwGi0gfDnYWRySKVhIRv3sW8s16raxGDtdruh2zcXV+Si5g4Kb64e9YlnbBhP5nHp9z4LMQ/J2JjP6K",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+  {
+    "name": "SPORT TV",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYAEGI7CLNcNWe/301zjAuS",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 2",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgZj83oWs72mdMfujfbvDjtH",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPORT TV 3",
+    "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
+    "uri": "8YXBZFZooe5f2ewgnUMpgBGwpJ9cLTMHbi3XZ5ZKEgYoML7yuVbwTPy9s+LhpVmC",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
     ]
   },
   {
