@@ -2374,6 +2374,13 @@
         "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENotGN1X3E3FCDko0yH7wzog9iKYkltF6tSjNpk3dF54ZA=="
       },
   {
+    "name": "BUEN VIAJE",
+    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.e823c3855208a0becc09259b89c4408d.png",
+    "uri": "omaj4+yTqQZswSfYo9Q3DlYWXkW3xBGaaGjSBrWwEQodJfiOXmZXLNtE3KWXdFOc5dAL5xHUpCr1Wq4gm4aIn3IwiBcIvRJd/7ltvM9zJkNVGZ6vnmuM7qBm4ATXblrQGrHFUNhkd3+VJoj78fFCXA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQRfPcXcxKEdPWXeX3wy3vkDySU1MDuV4YndL1dre9hfie4ztPJtqTsmvjezyYj43PFzbA9eFzH/va4uKEdvmEZGx/Q8eANFSKZuJIrElz8qMmPf+oyjVHxQLz89ptgIxQ=="
+  },
+  {
     "name": "SUN CHANNEL",
     "ico": "https://seeklogo.com/images/S/sun-channel-oficial-logo-A64BBF363C-seeklogo.com.png",
     "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXcct1x2pjdktDW7wM9Ok25gf6cLL9IxGPhG7XWotLDVLVpKYAAg7bk3ANqOIC8UaSBDvM/i9gI5E+mJhHG8IFsr",
@@ -2401,42 +2408,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TRU TV",
-        "ico": "https://i.ibb.co/6mbbXQN/babb9e99b75e02348b008d2bec5dbf8b-png.png",
-        "uri": "Dfj6TRwhXpt4PaUFbVOm1+k+85og8R1DYjmqf1TPcwAur5dBF5XxuuBRXbe3xlzTNiXzbNFbT38nRhqjXVpsZXZQ4VmlInAXUTQD3q42TeQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "ODISEA",
-        "ico": "https://i.ibb.co/bBwXr6d/odisea.png",
-        "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fCig/jU2ADktVQOf/65TL1oe0PfgLAY325HzhqzhR4P+",
-        "drm_scheme": "clearkey",
-        "drm_license_url": ""
-      },
-      {
-        "name": "HGTV",
-        "ico": "http://78.47.174.211/logos/hgtv.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJozJdCFcKC76uPpvZXxFU14zN3f0WCP6CpRi2dDPGcmGczeFyWS0U5VKBqoUGUkzQK4UXZ0rKd10gAmb6ex1M2g==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": ""
-      },
-      {
-        "name": "DECASA",
-        "ico": "https://i.ibb.co/4Mkp64j/decasa.jpg",
-        "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmLQl6bbscGRu53wUOOTH11fMMy9wtT8NZp0nKctVkR/uD3aRr6zRajv3e81V4kK7or",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SUN CHANNEL",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/240px-Sun_Channel_logo.svg.png",
-        "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Wsr+ueGzidd2PpB9zAeKQeSRkwFh16QkI3e2D7s25JEwXXj0lgQ36Xi2KtUsyHEH0i",
-        "drm_scheme": "clearkey",
-        "drm_license_url": ""
-      },
-      {
+              {
         "name": "TRAVELXP ES",
         "ico": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",
         "uri": "Ac1wAi7H5IB+6kwrVFdHdMlIZEukgKx0QctqgV/AVCpQwJ49n8uFf9pn2ect2iRe7FghUrFzIm19nXZbxvbCBki3ctVuXnZXnlTekkT+3Y3AvopT3Qlg6H8j3QuEPoj+jAPiq2akfcxlcwtzIrvfK0DsZ9jvZoVDH3UdOunc/sE3ZmPss8EaHodLVbpIsw7bck0k8yWZvhT+iGT/8XGoCslT/Ejb2UpdfMnaajrnTDk=",
