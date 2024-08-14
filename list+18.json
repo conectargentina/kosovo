@@ -4622,6 +4622,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "L'Equipe TV (FR)",
+    "ico": "https://seeklogo.com/images/S/sun-channel-oficial-logo-A64BBF363C-seeklogo.com.png",
+    "uri": "rvEev6CFDtAjWWeM3y73O4OLY+jQ8MfoOSTlNb5DI/XS6OuEwIuOYmx98urtkntPRt9pg5yogbl8OsJ3gQOH+VrYILlGc+I//EiE++dphx4=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES10hAlkrhd7PWxjh3wAGPJhlm9V+LNc/U3P7WD2+DnPL1nI7jPYkdEapzWrHggXSB1+vxzkvqRe1fEEuOguJov5F6TzkgBXBoWyGXjmHAmm1DXH8pCqla8uhDVubP1hCg=="
+  },
       {
         "name": "SPORT TV 1",
         "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
