@@ -4538,7 +4538,35 @@
         "uri": "Qkc/rvUBYvW6xqp5pwFaITkxDf0bzhvA33DMqkVqGXjCAd8gSft52vpHuRG6DJgnJxzV5GhOA+Bud1t6mYh/vOn6qZ1yvuJjyK1ilg6h+6d38fpL+gqlW54n5QzhKB9Mj1dGOxOhF6G6silvzBLNNrml3xTCkbxKEYIC/h3P1gU=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETkfHo6Ba392kVnntoYgRuM2jZWIfVM/hYuoda42NNSw7SZfgcJXGp3NxWQGCPfXTnFxE4STi1aa1f+panh5NYBHuS88KqpwRZAaCijopbn+KAUzk9x5Oxk/Cs8JOc08/w=="
-      }
+      },
+  {
+    "name": "DAZN RISE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+Uxmb0jqOVzrIAUpqatl/VznZMHq17GjXTyVTwvmojfk=",
+    "drm_scheme": "Clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+  },
+  {
+    "name": "DAZN COMBAT",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+BvdvkCHFpBuPNP5jeSrQUZ30PIANahpASdZpCwGnvRY=",
+    "drm_scheme": "Clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+  },
+  {
+    "name": "DAZN Women's Football",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+dWqICKGVaYW4lJz/Pm4KvTxExB2WF4XtsGeb+tmwxM8=",
+    "drm_scheme": "Clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+  },
+  {
+    "name": "DAZN FAST+",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dazn-logo.png/601px-Dazn-logo.png",
+    "uri": "1DZsi0eFr4m2AK6C0QxLmGwqE8Y2HN9OHSfXH8FM8w8/T0lg/P0eVYy+3cCvtRH+A6zOJc2ZsWWAjstEgUIuG6vAHkhYU5Uxsodse4b1Al4=",
+    "drm_scheme": "Clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERyk3SnjHWI0UGdRLndyl5CEV1n+ibOslJ7fcX6JJwI7CV/vTEH3F41mS3gkh2ccQ+mEl7p4dX+XDsobLG2FUzPKGw2irIHiBk1F3kx9dVboWwFRtLhIpXpoBPRVaT3kvQ=="
+  }
     ]
   },
   {
