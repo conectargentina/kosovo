@@ -4060,6 +4060,21 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "ZONA DAZN",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "rvEev6CFDtAjWWeM3y73O4OLY+jQ8MfoOSTlNb5DI/XS6OuEwIuOYmx98urtkntPZUAkBhZrxLLdCoaVn/Wtc/LvK2z+u3fQU9P71VPLl5I=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES10hAlkrhd7PWxjh3wAGPJhlm9V+LNc/U3P7WD2+DnPL1nI7jPYkdEapzWrHggXSB1+vxzkvqRe1fEEuOguJov5F6TzkgBXBoWyGXjmHAmm1DXH8pCqla8uhDVubP1hCg=="
+  },
+  {
+    "name": "ZONA DAZN",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "rvEev6CFDtAjWWeM3y73O4OLY+jQ8MfoOSTlNb5DI/XS6OuEwIuOYmx98urtkntPZUAkBhZrxLLdCoaVn/Wtc/LvK2z+u3fQU9P71VPLl5I=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES10hAlkrhd7PWxjh3wAGPJhlm9V+LNc/U3P7WD2+DnPL1nI7jPYkdEapzWrHggXSH2FWJiVYwuFXTl7N9RbqinVZa7TB5vrWg9CzweIhFVgTILUB43Oicb29MbhbkvlFw=="
+  },
+
       {
         "name": "LATINA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png",
