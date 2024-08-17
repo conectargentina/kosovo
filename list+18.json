@@ -3935,35 +3935,77 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "T13 RADIO",
-        "ico": "https://i.postimg.cc/7LJ8cFGZ/t13-radio.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo7DC9b72uuEzD1H+Isk2Q0UnXPCvHrUQwkZ5eRc2zcOI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+  {
+    "name": "MEGA",
+    "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrRyIlpFmQduLjeymj/GvIl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV +",
+    "ico": "https://www.tvmas.tv/assets/img/ott/logotvmas.svg",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtoWKpHDlFSQjmqIqSYO1CAN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotipo_Secundario_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Secundario_de_Chilevisi%C3%B3n.svg.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtqCYeTf6v+0jYAqVw3o3hKS",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotipo_Secundario_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Secundario_de_Chilevisi%C3%B3n.svg.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtqCYeTf6v+0jYAqVw3o3hKS",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "13",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
+    "uri": "H4Cs/+SiH3W8iSDiM0GLrknzHPtYSyM6cnhCGO87pznSywLSYivGhqSU6CLUBhNZ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtqWNA4N+R0wM6wCJtwvZvG1",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrXZsKWvSwmxzwa11Qv1r6S",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 24HS",
+    "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrWC3ct/qU685+Ypq2HSQLR",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CNN CHILE",
+    "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtpkqStyAEEjTPETvPQIo9Dk",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
         "name": "TV CHILE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
         "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboiKJ3ClhQpWTNn9EJo8darS02VdANuG4VLNdwC047+GM=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "ZONA LATINA",
-        "ico": "https://i.postimg.cc/jqQQP9zH/Zona-Latina-2021.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tuboX8FG9TyKPRgzVhLS/Fm9Y/XMoSXFI5TzLfE1OMSzu4Y=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "VIAX",
-        "ico": "https://i.postimg.cc/NF2xwwqp/viax.png",
-        "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubo/1hzsWjY1xx9Y521qvvQarW/HpDFgu6ofmghOa+kNsA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+         {
         "name": "NTV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/90px-Logotipo_de_NTV.svg.png",
         "uri": "9Yp16NUiJTzLTvklwXKNMx6A9WUSLZKC0gP2Lz1rpFodug5iKAvZEE3H7WaLwgBieM48HwBU40ztpr9EvEGnXA9l2Zuq7gvHOm4QkO4CmQ4p0O0mIvkbiVnOc2asEPOt",
