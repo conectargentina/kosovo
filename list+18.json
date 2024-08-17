@@ -3943,6 +3943,13 @@
     "drm_license_url": ""
   },
   {
+    "name": "TNT CHILE",
+    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
+    "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtrHxrFzHZtDt1D24IaOaN7i",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "TV +",
     "ico": "https://www.tvmas.tv/assets/img/ott/logotvmas.svg",
     "uri": "jY7rEv3652enDcwu4cRIe4xWvhmw39OWwGPfYjMlTtoWKpHDlFSQjmqIqSYO1CAN",
@@ -4079,13 +4086,6 @@
         "name": "REC13 CHILE",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/1/12/Logo_Rec_TV_%282014-2015%29.png",
         "uri": "4Qz3SZ4+EnvUGZMp4L7e82uAWSHJaT30Xd1JhAQSJ627xv/+1qptRZsWscb3tubomdCQg3soy7CRBPBiaxbfn1x52g77laFJP/V0pEMfU60=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "TNT CHILE",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
-        "uri": "73pYutAyrz+UHK9oJ15C7KpbKrQc2IjTOO0+9RcbxqO2RvC/MKt/xfKllGhSsZvUilBeq2WZ3hZcVijW89sRdEYKU4pFrLhHzA1jt1yM9/0=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
