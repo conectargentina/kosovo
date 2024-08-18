@@ -4664,13 +4664,21 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaS3QGOrN1WtNLzGRvBnJp0fEcC/VaJuNeuHNxEkaSuKt/bjSd253/oTG8GvSmQTSAMu55q5/LWUHrNbUIK60Z0OOp7an6lwIPl3L8apyjufUydfn8c316hVbNxNSAHsiQ=="
       },
-      {
-        "name": "Sport one",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Sport_10_logo.png?20190206145945",
-        "uri": "+c1uq5gR/zC9AVZcxgZ9dsSX73WcIhfiTco/HsajkpGhIDjHMJgCCuvyhaQtGH6Er7apG6F48xO33ZxW/YiNVlHNO7SZ+IHsqVmyUN/ABvQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EVEFZRNfUdTa6B38qHB6QCVqm/F3svUbch9Nx46xIH1ANMGhmDbmnRnZ3mc5ask/UYKU8F9e7Qs6t3rrXzFgfJ0Sxm7orV+m/yXCS2SDe8VUJJq8lpxuOkj26UL69zVJJQ=="
-      },
+    {
+    "name": "VIAPLAY SE",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "aKobOEbcGEhVlhz8Ps8xiVIFBALxHJEBGIvg2G1d00HuSTsiNbCHSRcy1w9xcqEPMAy7vZGXlEeYQ1LFu2aPruPpE8s3symyclSDJuFfe9M=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EYQKhdxCEdsQlCXbu3YvBsc/PcXWsuZ8FwjYWcBl5KVsfBz6tUjymfytKyYVtEdXEq5wW+RJ4l4AU5pea/mlTq6r2/x+lUgUc5sUXm459rhrxM08ssWONEl3/szZdaQMHQ=="
+  },
+  {
+    "name": "SPORTDIGITAL FUSSBALL",
+    "ico": "https://images.zattic.com/logos/086ee938836699f1baca/black/original.svg",
+    "uri": "rvEev6CFDtAjWWeM3y73O4OLY+jQ8MfoOSTlNb5DI/XS6OuEwIuOYmx98urtkntPpYzKRSkc9XjCINF5SQozT67+MXD9HKdiUV+Q0HhERJk=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES10hAlkrhd7PWxjh3wAGPJhlm9V+LNc/U3P7WD2+DnPL1nI7jPYkdEapzWrHggXSB1+vxzkvqRe1fEEuOguJov5F6TzkgBXBoWyGXjmHAmm1DXH8pCqla8uhDVubP1hCg=="
+  },
+
       {
         "name": "MOVISTAR LA LIGA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
