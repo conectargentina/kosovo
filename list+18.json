@@ -4380,6 +4380,13 @@
         "drm_license_url": ""
       },
       {
+        "name": "MOVISTAR LA LIGA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
+        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
         "name": "LIGA BAR",
         "ico": "https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png",
         "uri": "BZ/b7sP8V2hH1gYk/wQvmdajUV/z0eGWv9bTRnIvLJah7Z0fRdrRMnwacGZUHdC70fTaYYcW+d0pyNzY++JJnzRTJLm7UM6BRPL9MXRLjcxDphd+ZkawF1funU0FHjE1",
@@ -4615,6 +4622,13 @@
     "name": "⚽DEPORTES INTERNACIONALES",
     "mode": false,
     "lista": [
+           {
+        "name": "MOVISTAR LA LIGA",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
+        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },      
       {
         "name": "PREMIER SPORTS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/413px-Premier_sports_logo_2018.svg.png",
@@ -4664,27 +4678,6 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaS3QGOrN1WtNLzGRvBnJp0fEcC/VaJuNeuHNxEkaSuKt/bjSd253/oTG8GvSmQTSAMu55q5/LWUHrNbUIK60Z0OOp7an6lwIPl3L8apyjufUydfn8c316hVbNxNSAHsiQ=="
       },
- {
-    "name": "VIAPLAY SE",
-    "ico": "https://i.ibb.co/NjjkyzL/VPLAY-B-ST.png",
-    "uri": "aKobOEbcGEhVlhz8Ps8xiVIFBALxHJEBGIvg2G1d00HuSTsiNbCHSRcy1w9xcqEPMAy7vZGXlEeYQ1LFu2aPruPpE8s3symyclSDJuFfe9M=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ef9W8wYFNatZ+kjzdjDxNj9IIDBZfwK93WajeG7XKj355DMzcmPsEj5PS4v/LXvd3P2XNpsI7EI7jYpDH1UyIyAlvYVDq+e/mqubeR7vNtCIuX4YQo2OQmuMXBwfdzxTRg=="
-  },
-  {
-    "name": "SPORTDIGITAL FUSSBALL",
-    "ico": "https://i.ibb.co/HGVSjLh/image-removebg-preview.png",
-    "uri": "rvEev6CFDtAjWWeM3y73O4OLY+jQ8MfoOSTlNb5DI/XS6OuEwIuOYmx98urtkntPpYzKRSkc9XjCINF5SQozT67+MXD9HKdiUV+Q0HhERJk=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWiP5m80YVTQ5BQKoHANW82dDM5gnN+4HhJ73uHAZ3/N/5g7QeCDHxxy4llVo7egB8jVXwjGgrU8r/ylbHwazBjELuFhs9FX3PQOmjI4VzYeqmH2rQkpQSebB8OQAIt+XQ=="
-  },
-      {
-        "name": "MOVISTAR LA LIGA",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmG7IGyoL9T1thmi5QMWF6eEA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
       {
         "name": "GOL TV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png",
@@ -4699,6 +4692,69 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUzOC9ssY9rinO+leOSYhTOyjbLcE2VdqaZ5jey7jpidUAR3iSzLTXHUT8cA5CVwPM3ZknmrSh9YFNiyG4F6akCFJVrRA7JBEgath6y902a0VrwEZu14r/P3AKKzucwg4Q=="
       },
+      {
+    "name": "CANAL+ SPORT HD",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPE5a8pIKnFJokehLaGPyNHD",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL+ SPORT 2",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHvJWVdeHulkSTo8GT7PEtF",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL+ SPORT 3",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPFhH/14+nSLHGtd6nC+g1iC",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL+ SPORT 4",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPFnVFfg4rk5Ngn6MrbF4Wdc",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL+ SPORT 5",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHo9kzCkJue8GmND/kEWMhY",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ELEVEN SPORTS 1",
+    "ico": "https://i.ibb.co/wBRC4gn/28-288122-eleven-sports-hq-eleven-sports-png.jpg",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPEL2IufME1Ukh4Jv1rzBgAu",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ELEVEN SPORTS 2",
+    "ico": "https://i.ibb.co/wBRC4gn/28-288122-eleven-sports-hq-eleven-sports-png.jpg",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPEKpp8Ti26ToyU3EOcN3Wtd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ELEVEN SPORTS 3",
+    "ico": "https://i.ibb.co/wBRC4gn/28-288122-eleven-sports-hq-eleven-sports-png.jpg",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPE98eOggv+Ja3pP78ROqqSf",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVP SPORT",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png",
+    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHbwcf9yVcIKA4Qgmd1gVBC",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "BEIN *SPORTS",
         "ico": "https://i.ibb.co/mDzNP34/bein-sports-logo-DF38-CDADF6-seeklogo-com.png",
