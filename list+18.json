@@ -1841,35 +1841,35 @@
     "lista": [
       {
         "name": "WARNER CHANNEL",
-        "ico": "https://television-libre.online/img/warner.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FXiNG9jiMiKwEvt9eYJcqvVp/dgPtEtgEb9gqya920PAcAGGRmdYJFFHiXdMR+V3G9cbyYIvsjtpsM/rP9yBw1",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETACNLkRc1/hp4R20mD+w8tDzr/Qf1n+aBf+LdsbKdPLNVzWXt3kctPBroyaj9EH9YrWKTgRGQBQoERxo2a3I07qtVW3u5jhz4MLIkuV4GkcxZiH8oPqlgICiOjvFoRcjA=="
       },
       {
         "name": "UNIVERSAL CHANNEL",
-        "ico": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/universal-tv-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FYffZqqkJdCnqdIVBRMcu/3XuASu+NLSVXeMIj3OK36ZqK6ZiY/qsQUDWI1S6VtF91l/maY3jg0TUAWre/++uAB4uSv+UKpgN+fohfWgLkEA==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeLA6Y3bIwHnUZgxq/tj6u/UW2Ao5gKb6XVzH/fc7TS0lfufQapgwQh9ILUXBMhqaQDboofKye72BdkDmwRGisWQ4ME2BdcTu5VtPeBhsYvAQBLwY+2XZsZNHq7pAHeeDA=="
       },
       {
         "name": "TCM",
-        "ico": "https://television-libre.online/img/tcm.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tcm-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FX4LvoQCgiPA2icOzsubFsvvh8S+RX62wrnYzEkc+oW/4826qDmeadYRi/I7uEpAU=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES+rmInbVE2HLG2Gp30rOdiNeB3VKUoGqEjnwici7okc4li9/CpnDwqlhzkyzjb/00nyxbK1fWINLU40AFprDk+LM/TS0Iq9scV1C7ue+v6dj0bLO+soH+jUsyluP4IBjA=="
       },
       {
         "name": "STUDIO UNIVERSAL",
-        "ico": "https://television-libre.online/img/studio.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/studio-universal-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GdOn0ABjqD/M1irJ24155OC4N+p7Uxdt4fvTAm5O+aOL454sC0jaherosiohCbGSEY+YzgS0JJy9C3eg1TZ4FuEbXtGDfM+NPJXhAEL6Hjbw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EYMtWvs19p2cZkina+N71wvWxBFW/WkA2RkzvLXIqn12FRVblnYYQKnbxB/jiAlxT7f5t+Hx1n43nubOjNSr1i2wdjNSpZIRX88lK8O5i3KjASv76qM7oyGrxqdAvryseA=="
       },
       {
         "name": "UNIVERSAL COMEDY",
-        "ico": "https://television-libre.online/img/universalcomedy.webp",
+        "ico": "https://i.ibb.co/Ycq4fjB/universal-comedy.png",
         "uri": "sKS4bzea07QoYbeS2zwxCk5SCsIiTEhDJhjNVGfGkaO/ZmMBnjyAcsifbThq2mBYik/2kulcGWcQCx11nl5GRg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0SajLQo5LM7d8CFWWuyvnzJy3A8M8Dp6s/pFOiaA1P6bNWKB/Ivlxh5qt7VZAiPmTWkuRx9TUU1tZquSij0DqGaHTz1gOziUhdu7rPKvPCeNojTS1BrGBOjt58VUnjnYZxyus2pc+zsf8li6UzKWhtg="
@@ -1884,83 +1884,83 @@
       {
         "name": "CINECANAL",
         "ico": "https://television-libre.online/img/cinecanal.webp",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H0Gs4xl3NAmvLjkDqC9yCT9QiogGatose/a3L6fLmQkS55EH/9n8Ak/hTI9S2cxnnC0knKftkVcFUxbAOu+Lgz",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0H0Gs4xl3NAmvLjkDqC9yCT9QiogGatohttps://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cine-canal-ar.pngse/a3L6fLmQkS55EH/9n8Ak/hTI9S2cxnnC0knKftkVcFUxbAOu+Lgz",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ET9Yts7QC89wEMkzQ0cE3AR8VRlts6DeFa9N3O18ihUVfFYIRXx38OG/tP8g6mH3WFMzJGChDQcmcRQK13V34M2sIVBv6gvO6UiCgbN9rQZoSHoLQwzKgOEyPrKR4JZ4aA=="
       },
       {
         "name": "TNT HD",
-        "ico": "https://television-libre.online/img/tnt.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EFPtMiY5msEq6MJaTyzlTXXgpzNebFxY6P6H3QVTER1dB00MpPvBC6AcE3u7FmjfNZW5gG6h1CTRe1cc/S6eth",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcjYgsPSVYvXfUQy6Mc4l/R24OChTVzbEndCWfeTz3CopxEA9clOZB/oHN+/I0cpgIWSrClO8ZFb8ZO2Lt3IgQFFgGhrik5MZVrEpVBI8QpNI7qAY41pRZTj6O6ndm+AHw=="
       },
       {
         "name": "TNT SERIES",
-        "ico": "https://television-libre.online/img/tntseries.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-series-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GAjMNS0fRC8dzf03a1ImCiZW+0BG4HlVDGz6BbS8/cw4DkWr0klWm5C0lZo8BwRAPpZqthdd2zNsH6gh/uLImH",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXO3VihOhLtFbbMBQSjbiugKYT9Itl+7DxEiaDVR3yAicaBcLfOFPtne3x9WnlO7i0QcOaodjFfuXACZqJ6KNXS0FA8Yrtv2yINZfyJX3F/ncQ9tl5RHfZcAyCXxuRPBAw=="
       },
       {
         "name": "CINEMAX",
-        "ico": "https://television-libre.online/img/cinemax.webp",
+        "ico": https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/cinemax-ar.png",
         "uri": "O4zQaBxapxoofA7Utbs4F1i98VbTki6DPHkPfNJI/QJuiddMSXvSkutm4T0oYjMXiHQjVjW/zBeiqPY5hMDThY2s7qIb61BlxUgvDZpIqZCwjn2eoUQfc04eJWOpvtlI",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUL+SNtKW6yJxI9NGqEaMRrsQ6gPuJxluGkpPu8uYUqIhilIRgWjHgjXh3wxbnnaVL6TjGgOTkPfita1GoU8driz3PWaZ2IlGPePYozuU0901GfSW5dv8H/5XbySeBhYFw=="
       },
       {
         "name": "FX HD",
-        "ico": "https://television-libre.online/img/fx.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fx-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0EJ104E8Due6NGUvSu75h/SkIpa5jhKqK3gYfd7gClmMTYs3AYXecEN43pnQlXNUO8=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ebb8B6WBUCtk2LAbEjDGdvb6GwWFtkZvleGrYCgPUWzVw5wpD/D0sj+LlvKDaTkf9357rdlRHlfoR4WfsCV6uhQpcazf/WJ3qwkIM8eV1WfiTEeX5BUWCpB0pMd+BtuErA=="
       },
       {
         "name": "SPACE HD",
-        "ico": "https://television-libre.online/img/space.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/space-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HwtXeejQL+U2KHsQZQTC+889CYBI93QzPKBIPp3b+NQyQznExKysWx4yQ/2aHdw54=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERjAw4HXcxmk3BeBboYJ8cWV6vreGj52Sfakkel4Zl8ApmwI9JNyJQiiE+CUQO5+hT0wu0hjGjxnuQw0DbBjZJ2At1ZVRhc2w8xmkU7zA/hcycK6RNP1zP1eudfy4H/RjQ=="
       },
       {
         "name": "STAR CHANNEL",
-        "ico": "https://television-libre.online/img/star.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/star-channel-ar.png",
         "uri": "O4zQaBxapxoofA7Utbs4F/t4X0BoPzVTbZB4mc1cs6lJ6+1ffIkU6KGnXmCr/fZ69gdchGWclaGEak+gYR2sLWcxT7Ql+HgpL1e+BbLdLULEkWZQno4ykyC20Act76X9",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcT1B0IbYwGzu3EMNzci88Xk5QmGbGMioGnclfEanydQhVt1t54n7F/Ffv2KqiJROTGgrlzNVoZLkZwYY86FwzF94XC2LKtN8+kvIVb18jxCNPuQrt7oVASCYgkaob8j2g=="
       },
       {
         "name": "SONY CHANNEL",
-        "ico": "https://television-libre.online/img/sony.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/sony-channel-ar.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqL4V7135sZRPlLqXqrnWNoPXhijsUJtfbi+NQL+xnTBcsEN2dBL3GscEKFQbjkhT1owwFeN43rNjFMK9Mpb95BzYUhIYqSE9RHi2guxp737y",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaeygUvslEt/+NZg8M/T1hQYoOFbNdDnyRJngo8++yPDzADwu6IHZbZeRZD4WpzQfOqCDiRVL3IXFQSEYf72BRaPCjayA1o8m33aqwqUOEaj+yQzFHt/XYDiTJvGX3lGOA=="
       },
       {
         "name": "AXN",
-        "ico": "https://television-libre.online/img/axn.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/axn-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HB5NwhqTP2LZxGlH+nDnEQdJ4eoGK408OiW3BDvDZ9EKTpzQSE+TEEzW6m88pCk5k=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETKBRbg4D691y9tctBf3ycbihvfSIHjzJR+0KlDc277oL3/PMY+EA3ycmmFGzOxadOE4E3TgCtSgCXe65Ytqc7gA2uHxVS55UuLHw8qn/9N28RzEHR7N48HwMTPvwdA9zg=="
       },
       {
         "name": "A&E",
-        "ico": "https://television-libre.online/img/ae.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/a-and-e-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0G05wiOTNrod73YKekIL4PuwfwcwQt09LTW1rIXebJFsQB6Fufhxd6oqjl4BrsBQBs=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWc0f2s6DvS3uf7FwTmFdNsWqJkckOn6nN0AqmgIJqLNuN6mGtDni/cntMRqENrQX2VJhPwdFzfYFWWoC30JF7m8zkdkbx8X5KyAcpHsLzXeJ3I495kl8B1g6lfERFSSzg=="
       },
       {
         "name": "TBS",
-        "ico": "https://i.ibb.co/fGDVWbf/tbs-logo-2015.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tbs-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Hy6UvaPwgSs8nsBjhNQDRC03SJJyoeSEXeVyr6LuVwP2rbZZVeuUi1Xvfz6vun3Cs=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ec3QCoHAjgNXR85RBqEjEff3N8wcrGASdoCF86ZcHBKkhj/ijLnHs2VWzbMslEXi3FxKyKjfuqhuf7xz6YJLGizmNkbU7Ki5gI/s4TPk9uF7dwAamnY6KD2t6Z5e7g2lAA=="
       },
       {
         "name": "WARNER CHANNEL",
-        "ico": "https://television-libre.online/img/warner.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5uM2bnSpKPkPqdAq0ZMqIyJnJtLYXy/yztNFZ72zbwwHJE8rLOr2ilKqjRhb8uDNGEv2a62/Oy19B2uUamRw9uJ",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETACNLkRc1/hp4R20mD+w8tDzr/Qf1n+aBf+LdsbKdPLNVzWXt3kctPBroyaj9EH9YrWKTgRGQBQoERxo2a3I07qtVW3u5jhz4MLIkuV4GkcxZiH8oPqlgICiOjvFoRcjA=="
@@ -1974,42 +1974,42 @@
       },
       {
         "name": "TCM",
-        "ico": "https://television-libre.online/img/tcm.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tcm-ar.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sJtCf14QuJ/MHAAo/up/Ws2m2n86DKLmbenbOv6bogB39dOxBlK0ecCFIBn0gAY1c=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ES+rmInbVE2HLG2Gp30rOdiNeB3VKUoGqEjnwici7okc4li9/CpnDwqlhzkyzjb/00nyxbK1fWINLU40AFprDk+LM/TS0Iq9scV1C7ue+v6dj0bLO+soH+jUsyluP4IBjA=="
       },
       {
         "name": "AMC",
-        "ico": "https://television-libre.online/img/amc.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/amc-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FzadaXJFaJNffDhqhN7RwB1yKe7M7PLbZZgCnawqJGX5CyTMfPPX+bYFFUFOPc79k=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXOQXosd7yl4CjWC9N1vkASn/XeNYysDX9sybhnLRU0RIpzdnB8gzXBms669niyPsectEbxmmhhXFxzaROhu6mMlQYZIPQaGQZwTd3wS/A6c6NwVjmBw3M//Lnawg10biQ=="
       },
       {
         "name": "ISAT",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/100px-I.Sat_logo.svg.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/i-sat-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0ENhvRY72OfdXvDTw+bL1U3obJjb+AI2g7/oln4OfsMWERYzU+VwpKkUTeS9sauz6E=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ea/VK0d3WUzBzfibotMgr3fr3H3YJKNL8cy4W2ZIw5cf8pgNcwltaf6Brsq8hQ76NFTUPZ6G/DA5ITfYBHuN+0iLhE6HbWufvD8Wwh9Zgq71T8ycpVOWyE0Vj52IOgWwPQ=="
       },
       {
         "name": "A3SERIES",
-        "ico": "https://television-libre.online/img/a3cine.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/atreseries-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FSyvqqFx9PN9OUuBDdrbIeVRi4S5F1TF08t0Q2Y5NxxWpBX6bDLeqeMpVsyyfNgy7YzsM2VG5NK4Fb1wyT3zVX",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETreksr6bCWlPFnEbksL2xqQbINcy6WlEaH4q2aprKzr+ipS6w5Ycqlcnv79TJPONwXP8AR4yvp3IL21PxYwOoNQlUyhKueiXdYsdPDFOTJSm6jGJ6GfqC/ARPBpx8bx4g=="
       },
       {
         "name": "SYFY",
-        "ico": "https://www.remmetstudios.com/wp-content/uploads/2022/09/syfy-480x480.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/syfy-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HqgX7Wfa+4TEyAskAPFDOSjZhaOpgM3apP0+NfyDqSEkf5oxrWevL2YrqeR4Ld8bE=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZi1LWOokss9Lx6SjaaxWVZuSiy86jxIDMRCVouGOy0BQz/yr71stxWp7QFBtYfU4geVTJ1ZFlJMXCv8TRjqIqwHd5a472dDufCnOcJzBvNXK5MXD19l4SUnOd79RbMeog=="
       },
       {
         "name": "COMEDY CENTRAL",
-        "ico": "https://television-libre.online/img/comedy.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/comedy-central-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GPK6UAM5aBZy+u46kppRpG+ByyxqlXfAWp2lgPYh4Cf978K28n2QMmj/O7TTQga7uuLyVVfsxE79RqmVgHJEpK",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EX/EqCRecZu+/+KgA7MK/XQfZrbgq4/B/VKkuI8epxOeGgSc+Bcn4DkIC2UX+4UYfDY9p5wqD/JdIGhDi9+LcKyuD/6d9vm3M/ywPhu7aPtyprIP5kvf0Ah5LbPcyyYZqQ=="
@@ -2023,14 +2023,14 @@
       },
       {
         "name": "PARAMOUNT",
-        "ico": "https://television-libre.online/img/paramount.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/paramount-network-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GyZs9lNf65/yLPQ/5nY+KgyuPyIb66i11vGkBsYWtomYTBgVGuMe5G9TywJTSGaISBkRWwhMGtkjeDBQbQNlPU",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ea0pBfR0DDBDq+FSC+BvyJ0ogBlrsZuOckIJZ8LUlD7Hk3EHpv6bpoKYCn6ntj2ndEPftbsgRwYyUIZXsfswcZHWVqA/X0bGblS/CyBK6d2gUyAEZnbI1qeenGPhowkzQw=="
       },
       {
         "name": "A3CINE",
-        "ico": "https://television-libre.online/img/a3cine.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FhdqzjuVaXhip6jOZjndxkbDzVUfjWotcFNWvqqH49/8MunQsbHFpCz5jKLrOLwUS+ZmfqAF1PqF+M7zODd6wP",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EYbNKNhxWM5JuAmz3+V3z6jC5WkHPYQsyhXo1Iopo7MYIRiSWkiW2qbu+rCZ56qp5lDDDc1fHHixls06IvywU0HAN161BTX6S/eMl6ioXHDD/3c8r8hlx/x+DZsONYSejQ=="
