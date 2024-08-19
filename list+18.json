@@ -2320,26 +2320,19 @@
       },
       {
         "name": "EL TIEMPO",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png",
+        "ico": "https://i.ibb.co/BVZ77Lq/El-Tiempo-TV-en-vivo-Online.webp",
         "uri": "2kFHVcaqhtBAALWntg9z14z6LdQ8wQBDwk7CQ+u/4M/mupkJQe2B1AC6bYa+4VU35deykH+RrQXOBEv9S1WhKHOcfFa7iBpHwpG3Ctsyp0Q=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TELEMUNDO",
-        "ico": "https://i.postimg.cc/SKT2Pm92/telemundo-logo-0-F9-A314635-seeklogo-com.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/telemundo-international-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2bZe9P/1h5bYRhVGGeJ83DGxQyNb9ccS69xc6sre2VR7fqC2ZYzJcH/tk2eonMmC8mVi15DXzv33ktfsGRLVDYibx1QCCvN/2EAoEOTR31A",
         "drm_scheme": "ClearKey",
         "drm_license_url": "BTQWWYWIxSP3CYO/6WWU+XQA6XTy/Eh3eyKsNT1BENotGN1X3E3FCDko0yH7wzog9iKYkltF6tSjNpk3dF54ZA=="
       },
-      {
-        "name": "BUEN VIAJE",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.e823c3855208a0becc09259b89c4408d.png",
-        "uri": "omaj4+yTqQZswSfYo9Q3DlYWXkW3xBGaaGjSBrWwEQodJfiOXmZXLNtE3KWXdFOc5dAL5xHUpCr1Wq4gm4aIn3IwiBcIvRJd/7ltvM9zJkNVGZ6vnmuM7qBm4ATXblrQGrHFUNhkd3+VJoj78fFCXA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EQRfPcXcxKEdPWXeX3wy3vkDySU1MDuV4YndL1dre9hfie4ztPJtqTsmvjezyYj43PFzbA9eFzH/va4uKEdvmEZGx/Q8eANFSKZuJIrElz8qMmPf+oyjVHxQLz89ptgIxQ=="
-      },
-      {
+       {
         "name": "SUN CHANNEL",
         "ico": "https://seeklogo.com/images/S/sun-channel-oficial-logo-A64BBF363C-seeklogo.com.png",
         "uri": "OL0F6NgHdmZdCvjZZ0G6z5hOPBPO0vb9DGeQb+fJKXcct1x2pjdktDW7wM9Ok25gf6cLL9IxGPhG7XWotLDVLVpKYAAg7bk3ANqOIC8UaSBDvM/i9gI5E+mJhHG8IFsr",
@@ -2425,7 +2418,7 @@
       },
       {
         "name": "DISCOVERY",
-        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_10/large.1376146781_DiscoveryChannel(2019-).png.3a9396187d5dc7746b06bb6ff9463291.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-channel-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FKRKwMRneq9ETucjVcocIKDECCI4JmuVNISG9vWvAwqWs8YJtRUjtEY+JT5Ah1+6JHrEKfcPztknBR+YVZF8HJ",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EeOUkB46OAFFXIVhimgpm32sMdf3769BWrFL6nc+yTnK/gRO4Oj4OgMIv3ctie3jxMxnMFzb8xipA8A8iENsm9ZXBpJXYNTxiErwqdqjZSwnSkQUOBpUjRP5BF3ItEarZg=="
@@ -2439,42 +2432,42 @@
       },
       {
         "name": "DISCOVERY ID",
-        "ico": "https://toppng.com/uploads/preview/a-kid-to-kill-for-investigation-discovery-logo-2018-11563163465oggcin59rp.png",
+        "ico": "https://www.cablefax.com/wp-content/uploads/2023/03/investigation-discovery.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Hw4RCCmLdTf91d3y72bSUqa0sI1oovJ1R9JlQcCWfe1ctO91lJhRLD5AhKG7qfQ7o=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ERTtUudB8i3np/pFIEHDFW6snZLQpTV2e+pC2Ol/iy1nyfbdwGecZqZgm9hA1P8aslry1iHPAjEOoVisTA+5taDOi2gQ++veEzJllYdHE/p4cpjarAa1EMjPS9IT/VGG9Q=="
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "ico": "https://i.postimg.cc/7Lg6Z0fx/ver-discovery-science-en-vivo.jpg",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-science-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HEDtJRCfy/aZeQFPLnp4qIvdzVZmctlhGkoSnQPKveTomZ3etFIitO98wuRBXcrPeP7W4Wv9ydKz4RUthWNKYBuj7+Ox9mJZl6Zj6DjD6Okw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXdbhRpXBxIW+NzlmB01NmRRfP0ynrYslcYs9NvoEkAZPj+Mz3bPiE4LNMSHWRs1q4RAoRulzVn0yPbOmi16hKMLew2DhYJ48KHcujknIF740uGxd7LbbmOR/QFE75AUFg=="
       },
       {
         "name": "DISCOVERY TURBO",
-        "ico": "https://i.postimg.cc/sxtdWHNb/ver-discovery-turbo-en-vivo.jpg",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-turbo-ar.png",
         "uri": "EGbTdQSc58tHgH0HJaX1fzX2yeHA+Susilqp2Wyq1p6J0jVEApfal2emztFZfEsQ1Kf2hR2t7pINI67pN1wegHdWOQftUzVWJWtbfMhq+FZ53Bu2p51EaLeDyy5OZ2WrPqdY8FtZpnZ6zYIdsS6dsQ==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfgXgZYYlvO0h+VRfFN/u7p3z9ZI5pLGFxU496XeSCVWdYHOPFmRCnf3I89OLxhEyxd08An8sc37AivJ53VzbQkAMF0Gpg2MV2P3D6mkeGtt5cT5eR0Fkobi5Fn6tXkA1Q=="
       },
       {
-        "name": "DISCOVERY TEATER",
-        "ico": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg",
+        "name": "DISCOVERY THEATER",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-theater-hd-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0FLJXy5naRs3LbE5tJ3A8xCWS35IZnm6WmyEssvB81JXXSd/cEx9Lhop6s8voVbe7vnBaIFyU24OK7UqhjOWdz+",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWmHFomr3HWnZrQSWxv1H9u7LMq8fWdpV4QHXzwgY9DK+PbuoPf+tvT1oejPDuNgnj715EnrSbwveEIb1PRW+LoamEPUgZGuHCMUsnNG3p6cwKT1j5VImhR8copKU1/1Gw=="
       },
       {
         "name": "DISCOVERY TLC",
-        "ico": "https://i.postimg.cc/cHFdvmZN/ver-discovery-theater-en-vivo.jpg",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tlc-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0F1jtytFkZt4nf62gwU7iaFdS1Q/A9rQ3hCRJEGXYfehs/vhBC4NiociiJtiL82NiY=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ea1XydEBX5Y6F6lVQ8WlW+TUyVmbYm6QzdJdYoNuaDUYvXbOKoAhZdA7fXHjBMZAg10l6KIt4UrcBZiJLDGT9/4FxtENCJCYXMfkbQM1vjmX07R5so6aNSB8oB8+UFmo8g=="
       },
       {
-        "name": "DISCOVERY WORL",
-        "ico": "https://i.postimg.cc/B6SqZzrg/ver-discovery-world-en-vivo.jpg",
+        "name": "DISCOVERY WORLD",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0HEDtJRCfy/aZeQFPLnp4qIZjja8/9mwteEdRquCwRYIYh7Z/dEtvWtz+r6FvCTyHD+tradV1k/02jqRlOLMEd151eTL6mA0TjwsK0l4QSVKw==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcDBf1h28+MM76NYMPnwnWCsuXm2wmFtW4M1d7pGT6zEVy1jPYuHXyrfd4wpCKeWLmuhJ9igHxcS0km9E+AtSuNXzZqSlOPHEWA+GxKsQ7/MKJjWQ+qEdJYq+xCkepOzzg=="
