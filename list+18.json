@@ -1786,7 +1786,7 @@
     "lista": [
       {
         "name": "TLN NOVELAS",
-        "ico": "https://television-libre.online/img/tlnovelas.png",
+        "ico": "https://i.ibb.co/bvgpSt4/tlnovelas-2020.png",
         "uri": "skjCZJt9hOILbVSgzkPJjlln4ilO75DfT9oYifrjA81DJuRoT6muqjwM3W5d+dhI68lFMwvJ8OXIu4cWY/Pu4g==",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1807,35 +1807,28 @@
       },
       {
         "name": "RCN TELENOVELAS",
-        "ico": "https://television-libre.online/img/rcn.webp",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/1280px-RCN_Novelas_logo_2019.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46pJjt4dMuw2BoQf3IF7oPOQ==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TNT NOVELAS",
-        "ico": "https://television-libre.online/img/tntnovelas.png",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-ar.png",
         "uri": "O4zQaBxapxoofA7Utbs4FwKCLHXn/EHPekzUaS8GNCk+dGtsdrl8Txrvb9zdujJ465VJ2f9XSQu6YTOlysbOOBXkxTEfhpE/9o2LzXLMv4U=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ec3QCoHAjgNXR85RBqEjEff3N8wcrGASdoCF86ZcHBKkhj/ijLnHs2VWzbMslEXi3FxKyKjfuqhuf7xz6YJLGizmNkbU7Ki5gI/s4TPk9uF7dwAamnY6KD2t6Z5e7g2lAA=="
       },
       {
         "name": "PASIONES",
-        "ico": "https://television-libre.online/img/pasiones.webp",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/pasiones-ar.png",
         "uri": "O4zQaBxapxoofA7Utbs4F01ypullrBHmlEf6LRsnUP7vi/4Q7QAjRRpVNS9cIhKkxGQ7jB3CCz64yF/0zv/ejdxzCHE3bgMOr+a56jlWmU0Ex8Z87guUbWVDyDaJ6wxf",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EZ1zpvxsv17UTuuLRfYTMC0BtF4z0T4rhrM4t/TQd66uddTNSH+iFthPb2Z4/XkeVpeP9ZJM3SazYSFjMdT2U97wgsSlcJ/A/T1abW9RJNUWtLFStpEvEPp5iM/Noyf7Sw=="
       },
-      {
-        "name": "RCN TELENOVELAS",
-        "ico": "https://television-libre.online/img/rcn.webp",
-        "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46pJjt4dMuw2BoQf3IF7oPOQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
+       {
         "name": "CORAZÓN*",
-        "ico": "https://television-libre.online/img/azcorazon.png",
+        "ico": "https://contenidostv.b-cdn.net/images/Coraz%C3%B3n-Color.png",
         "uri": "UyisEHFa1hqt72W6L24NTbdIR5oIz8CV/NaU+0YjXtzkcCV9vIxije5SAn08XM46Ap5gaWrCc8J2UjLAuvjEYA==",
         "drm_scheme": "",
         "drm_license_url": ""
