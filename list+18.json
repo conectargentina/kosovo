@@ -1062,10 +1062,31 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EepGcOAoEoftK5viGRjdGJ+39gMNPzlzcz1jleyPUni4MTvysDAF4RVSLtGQslYkWr0IJiAJm0q5tmiBzOpIbHaEloGG7Qx2v7KGyGxsjwbYhGTZMBzt/QOuhOvOlEodnQ=="
       },
-{
+     {
+        "name": "CONMEBOL BEIN SPORTS ESPAÑOL",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+        "uri": "fJ/TVFZByShgZmIMkJ68Wh9ou6b3K5Qzpkhj8CsoRPvYK6q1GdN8ta74TGP3TTD0v27e9HTX36JFEdUy6idU0A==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CONMEBOL BEIN SPORTS EXTRA",
+        "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+        "uri": "+amGkOGqj7+xeUFfZdXjmeR2sHe/O0VuMBtj3n9XEV8teh1CsF0MZ/WRs+5qSRgxTQ1JEiChIZcOhmkpw30UJfpGvjezAxX1Y4ipWFfiHZs=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+ {
     "name": "CONMEBOL DSPORTS ",
     "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
-    "uri": "L3oIMQyhrhd5puDu76yk+RmjCugIM4T+xqvYrTMawhyDDlk+YQzwVntXaZE4f3Zm",
+    "uri": "9HyLwl3m2/igt8LCG5TP5QDpayqh0uwJMyJwi2Rr6o6+qq4bARplavNswTdyUebyDI/R41DtdKP/XpXDcCna5Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CONMEBOL DSPORTS ",
+    "ico": "https://i.ibb.co/wh9k5LT/CONMEMBOLPNG.png",
+    "uri": "9HyLwl3m2/igt8LCG5TP5QDpayqh0uwJMyJwi2Rr6o6+qq4bARplavNswTdyUeby7667xn0DWPynkpDktKmDcg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -4552,42 +4573,7 @@
         "uri": "HJp5F1YEG+1cDiBaAVA8Vw5lkN3+wJag07WokU+6stSTw/sBGjIvLrpPK3lj/rZLJvpSyHBY6jop0Kw0ZqclUXjZQQCSMMd58W3+XQ3tNkQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EcwgML+QuixvQ8lzfQgFqnhXyWTShe1ULNoQh58QddA6UeYKlABCHJ5RChHr3UsrSLAuluQB6qhxarIINTbGumRIZmDVpQwMGHRfi5DiEOeC4rZU3Sf2X5wa5TtO5S0LdA=="
-      },
-      {
-        "name": "SPORT TV 1",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "KyycXvDmZR0K92hoVlQppOAXko4nbOqqeAui8d8W4JQjE7/JgSB/OVWVPhYvdUa27uG0sS/9gwNSFVPnCTXmkA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT PT 1",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGOCuph8fZUtkuzkQGZPr7mw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT PT 2",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGJA5yPG+nT7f2Nlw8s+/2NQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT PT 3",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGHTCSW2qSXWcGEDu80WSZBQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "SPORT PT 4",
-        "ico": "https://i.ibb.co/ncqv8TR/sporttv-logo.jpg",
-        "uri": "ru7OnrdCXD6OlatYBSKSBXTkAnfG9ECc0seFBQaVCgH2RsJowQU2z+I9wc367DmGowmiQnromkjAOG11BYq7sQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
+      },     
       {
         "name": "SPORTSNET 360",
         "ico": "https://w7.pngwing.com/pngs/481/822/png-transparent-sportsnet-360-sportsnet-world-bell-mts-television-channel-sn-text-logo-streaming-media.png",
@@ -4610,62 +4596,6 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUzOC9ssY9rinO+leOSYhTOyjbLcE2VdqaZ5jey7jpidUAR3iSzLTXHUT8cA5CVwPM3ZknmrSh9YFNiyG4F6akCFJVrRA7JBEgath6y902a0VrwEZu14r/P3AKKzucwg4Q=="
       },
       {
-    "name": "CANAL+ SPORT HD",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPE5a8pIKnFJokehLaGPyNHD",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL+ SPORT 2",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHvJWVdeHulkSTo8GT7PEtF",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL+ SPORT 3",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPFhH/14+nSLHGtd6nC+g1iC",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL+ SPORT 4",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPFnVFfg4rk5Ngn6MrbF4Wdc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CANAL+ SPORT 5",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Logo_Canal%2B_Sport_2013.svg/250px-Logo_Canal%2B_Sport_2013.svg.png",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHo9kzCkJue8GmND/kEWMhY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ELEVEN SPORTS 1",
-    "ico": "https://i.ibb.co/wBRC4gn/28-288122-eleven-sports-hq-eleven-sports-png.jpg",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPEL2IufME1Ukh4Jv1rzBgAu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ELEVEN SPORTS 2",
-    "ico": "https://i.ibb.co/wBRC4gn/28-288122-eleven-sports-hq-eleven-sports-png.jpg",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPEKpp8Ti26ToyU3EOcN3Wtd",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ELEVEN SPORTS 3",
-    "ico": "https://i.ibb.co/wBRC4gn/28-288122-eleven-sports-hq-eleven-sports-png.jpg",
-    "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPE98eOggv+Ja3pP78ROqqSf",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "TVP SPORT",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/9/9d/TVP_Sport_HD_Logo.png",
     "uri": "9ZEJMTOf9Se2dNkG5KHiotM3OYfCIA994z/tgMhGCPHbwcf9yVcIKA4Qgmd1gVBC",
