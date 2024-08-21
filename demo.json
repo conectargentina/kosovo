@@ -3713,41 +3713,55 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
+       {
         "name": "CANAL 4",
-        "ico": "https://television-libre.online/img/canal4uy.webp",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/3/33/Canal4_uy.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0GjBjbqSxJgkYkH15bnGRePsP4r5R/XI4BZcz73lKU4RS0JSjsHY93rjjE5HCZFaJMOhzIVk1JAXat8N3BDqPQ+",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01ETYnbIn2e7dSdwPO4+0dkuh6NVyKalDHSBkj6A7Y1ii731SmFCTg8UxPDp1bXQPx0AwFPf9sltu4XE0y652vyZpTw/ocDWzXswcxOpFa0ixAWfivv+Kt8J7OunXx/g7rBg=="
       },
-      {
-        "name": "TELEDOCE",
-        "ico": "https://television-libre.online/img/teledoce.webp",
-        "uri": "O4zQaBxapxoofA7Utbs4F9iXaMzQFU09Ed8X5BuY3L23/CWnZCI3ck3BwMtrSOHndeIoQ0yJmaClITkcaAupN9gbk4GJHCo6mKZ7kxpHfcamANc6Zza6bdTS55A7veG1",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed/EsSeH/hfM4OSEp3k+3dD9J+3nXR2Syu2lObVOjQ/3z/iWm+sdYynWXLUHQS3bnPi6ZjUzsQPyrBSNB+4sWiVMIEHO+2j5pFvuByIsRKegucseXZmcHg8PtZ+V8FD+mA=="
-      },
-      {
+   {
         "name": "CANAL 5",
-        "ico": "https://television-libre.online/img/canal5uy.webp",
+        "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_07/large.933539358_915sinttulo_20210722210858.png.2a278680e65df2c79a5dd4830c5f070a.png",
         "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkhAzdA05nqmlU95XkyuSC/nZkkVltsMDfP1UGfk2tlI5XtEFuVKtSDw00fFUP+nYNav0XV/4dobduIRfDhPGxN2w==",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed97UlP2hXyPB/r1zUCMomzmgN8jcnH9fNkqp0+LtWY/J06Q7f2Irs7bRqkexOL6d0XwitrjymqtodJM/blbu75i41J30UVG5j7SDjZRp5L5t12FZs8K8spidLj2z9Tvlg=="
       },
       {
+        "name": "TELEDOCE",
+        "ico": "https://www.teledoce.com/wp-content/uploads/2019/05/logo_tele2019.png",
+        "uri": "O4zQaBxapxoofA7Utbs4F9iXaMzQFU09Ed8X5BuY3L23/CWnZCI3ck3BwMtrSOHndeIoQ0yJmaClITkcaAupN9gbk4GJHCo6mKZ7kxpHfcamANc6Zza6bdTS55A7veG1",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ed/EsSeH/hfM4OSEp3k+3dD9J+3nXR2Syu2lObVOjQ/3z/iWm+sdYynWXLUHQS3bnPi6ZjUzsQPyrBSNB+4sWiVMIEHO+2j5pFvuByIsRKegucseXZmcHg8PtZ+V8FD+mA=="
+      },
+         {
         "name": "TV CIUDAD",
-        "ico": "https://television-libre.online/img/tvc.png",
+        "ico": "https://i.ibb.co/RzgWVPV/713px-TV-Ciudad-Logo-Nuevo-removebg-preview.png",
+        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Gua+mqtBnhjY94Ezkh7p7M6G7dpM8SUklKx01XSZDH71Mo9I47HEtzC/IqhVYqGcUd5nCntmEtqdElp9epq/xF",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
+      },
+      {
+        "name": "TV CIUDAD",
+        "ico": "https://i.ibb.co/RzgWVPV/713px-TV-Ciudad-Logo-Nuevo-removebg-preview.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Gua+mqtBnhjY94Ezkh7p7M6G7dpM8SUklKx01XSZDH71Mo9I47HEtzC/IqhVYqGcUd5nCntmEtqdElp9epq/xF",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
       },
       {
         "name": "CANAL 10",
-        "ico": "https://television-libre.online/img/canal10.webp",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_10_Uruguay_Logo_1960.webp/640px-Canal_10_Uruguay_Logo_1960.webp.png",
         "uri": "CShol7tV+MJYtbD3ZDj7hLSLnwTU+CoLugon6Un8zHFar0rCU7dfOd4oXwtUlvexJ8zjyW3mknajkX6ArXDEShcQ6cmgbkTfbThwAHGvtB2x8HN6ofaXLDiHlsPyi8ox",
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EbB6UnrB4zGpag1/eq8+B8tou5k7mOwqJ8IMNPtnLU1rfyUusmil3WXva5wYHSRytmi3bGSC3/4nlOZuXpq4Ia7qUO/ikhalvOGLC6BEplUveuFqLcVEmIyS1G78xMrpTA=="
       },
+  {
+    "name": "CANAL 11",
+    "ico": "http://canal11.uy/wp-content/uploads/2015/12/log.png",
+    "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCzwejJdqP73RVfFPGVe8cvdLiErsjM0VR63fKtTWPrfJDsVDYRoC4aBZNH48iOKGYVIDNPM0lV+Ud8GtLZo2UuZsKDPAbTTr5SaOvP4s7KplJ0D6n2z4NNic1+JYBjpLSyuGlKI5JrPExcM5v065xgPPEMx1QUszbRiFvpLKk7HNK8SmeiHShdE+mAaQvgERn2bFpZXvGkwRD1Tiw1OQnYx0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "VTV PLUS",
         "ico": "https://i.ibb.co/TmjDrWG/VTV-Plus-2024.webp",
@@ -3762,14 +3776,7 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "TV CIUDAD",
-        "ico": "https://television-libre.online/img/tvc.png",
-        "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Gua+mqtBnhjY94Ezkh7p7M6G7dpM8SUklKx01XSZDH71Mo9I47HEtzC/IqhVYqGcUd5nCntmEtqdElp9epq/xF",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01Ee3gs7Bkkm1jRahGjJOgtwnAcAnE/I93rtBei4xeKlgbcNk7p39JcHDuHgkFEYSL9YXktMeKyVn5XM3CBzB0eKUpMXZqeFmH5d+0300NZEUvyg3S1WT3bVBn/IrGHs67vw=="
-      },
-      {
+       {
         "name": "RADIO SPORT 890",
         "ico": "https://www.sport890.com.uy/wp-content/themes/sport890_theme/img/logo.png",
         "uri": "/w9l1ggass2Hs5h2d2X/kVPrt6mfMSj+Cv+flogEGWJrJM95Dn3rS3+RLgY+0IqyCW1tSid7qfVXyke1l2TKKDy9vxwHzLqFsfoX7QB8PKY=",
