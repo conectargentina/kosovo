@@ -4207,6 +4207,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "NEOX",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Neox_2023_logo.svg/237px-Neox_2023_logo.svg.png",
+    "uri": "2mUzt5yrGML/cUi6dSgQo2wgGJU4oEtUMOn7Lfc5I1ZRk+/RnNsglI1amb0JPcmL4zsk6AXUZwwVZdJ+hkNnkuyzkxzzRsJuUwyuQNc9bIuAc33AyyHQRZf+5aeuD4MF",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "y0I6Gd6grcE2075IYR9oj8MkyrL06LqUwu6sSIkprlQXgkFDqpgZUbi54VCf0UbKc3QrQ2do9gFwPKllTga8gA=="
+  },
       {
         "name": "MOVISTAR LA LIGA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/1200px-LaLiga_logo_2023.svg.png",
