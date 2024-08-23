@@ -1293,6 +1293,27 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+ {
+    "name": "ESPN 500",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+  },
+  {
+    "name": "ESPN 5990",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EUWMmENkL4I6T7BeCIbj5Me5Te0fTAD6p2Fvk2yw/OZbGh8L1+SnXVBeFHYskNipyurPPO7coQ3xLbHlaB0th4lNNtaXHdhPvbQkd3AcPMYyTRdfimUBbeiQ5IgUhLfF7g=="
+  },
+  {
+    "name": "ESPN 90",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EfrG0v5gQlvQVREkjPiQVcRnVkCspOGviv+Pb1hrkFAhS7TEtF2CumQG3lNSm13JzCqrVzAQtWfO0KsQqh6/g3V4DqdN4/vhJ0Yl4GBepmqOISjPHDMYur0NTJupfuN5LA=="
+  },
       {
         "name": "ÁRABE",
         "ico": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Roshn_Saudi_League_Logo.svg/205px-Roshn_Saudi_League_Logo.svg.png",
