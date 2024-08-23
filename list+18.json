@@ -777,13 +777,12 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW97tK3QdCODakOFdk8w+8/mao6OmyEQ35F8q7al6+89n7OxOIcUCcpM/n5x8TAQL1iz+z1VvBSYH7fviK3KJUc0FraN7XVAxsVh/q4eecZhJob9zcx+EQJUs+C7QuuPuw=="
       },
   {
-    "name": "ESPN ARG",
+    "name": "ESPN",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
     "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
   },
-
       {
         "name": "ESPN 2",
         "ico": "https://i.ibb.co/1XbbmvL/511px-Espn2-svg.png",
@@ -3638,6 +3637,13 @@
     "uri": "fB34L7QNso3jzSwXC4N7+WDpi7OIP7MT+7DFE1ZhkP7EXetWX6TOypdcoh5KpboMPCOhRTisijsZKTgnDddCzwejJdqP73RVfFPGVe8cvdLiErsjM0VR63fKtTWPrfJDsVDYRoC4aBZNH48iOKGYVIDNPM0lV+Ud8GtLZo2UuZsKDPAbTTr5SaOvP4s7KplJ0D6n2z4NNic1+JYBjpLSyuGlKI5JrPExcM5v065xgPPEMx1QUszbRiFvpLKk7HNK8SmeiHShdE+mAaQvgERn2bFpZXvGkwRD1Tiw1OQnYx0=",
     "drm_scheme": "",
     "drm_license_url": ""
+  },
+  {
+    "name": "ESPN uRUGUAY",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+    "uri": "fQlXZK8sFnbUgAEf0UbEqI8+cMW6N7zlLdM9fkSyX5sNXOfTikq3oXXalyKtKHkh8S+27wWUhuwzgr/Vs2NzYOzNxewePf69r5mcF9Zqb5TIZpxnYJOyNDHi7wuRL/1D",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
   },
       {
         "name": "VTV PLUS",
