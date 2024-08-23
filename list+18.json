@@ -776,6 +776,35 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EW97tK3QdCODakOFdk8w+8/mao6OmyEQ35F8q7al6+89n7OxOIcUCcpM/n5x8TAQL1iz+z1VvBSYH7fviK3KJUc0FraN7XVAxsVh/q4eecZhJob9zcx+EQJUs+C7QuuPuw=="
       },
+{
+    "name": "ESPN ARG",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+    "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXSSnWQTJk5NFb74EbaW9yNFZo5qkbXtIWkZS0ZIIBug8DYiSKF+C8N40x4M/uJzEsrpXzKuXL0swfd7pdVvlBu0b8xFA6q8K79LCLYjJCl7CTp/F6UuRfwcmBcrU7M60w=="
+  },
+{
+    "name": "ESPN ARG*",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+    "uri": "boK9IKZag2KxbXVHbJrnqLHYue7AfcdVU6O8FrxLeVxVGQjvx7mBWqDOq9RYooSaKsNz7sUpHNwmXZ9FN7tbCw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EWUJBq29J/P75GLv4Zd88npuMT5eHqzC/hk1Byo7Nrg/pRTn8OlCbar4d3+QDytbdSZ/hfw/b1txH7V8S0YgsxOqbCrZ+W+0f0JTR7tTB1FMDBufAEWme8ks2jctoO43oA=="
+  },
+  {
+    "name": "ESPN ARG**",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+    "uri": "boK9IKZag2KxbXVHbJrnqLHYue7AfcdVU6O8FrxLeVxVGQjvx7mBWqDOq9RYooSaKsNz7sUpHNwmXZ9FN7tbCw==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EYZA8qvU87KGYK40fbkgABEXxg1U77UaOtnRvkiIhAJ7SrQVIauX5Q91msTV4GUcufn1fkxL6mKc9sgAPYgj2zJS26zUNso0DR1BC19V8Mm8CZ9aS/8Kj0SPuqXOolVztQ=="
+  },
+  {
+    "name": "ESPN ARG",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",
+    "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXSSnWQTJk5NFb74EbaW9yNFZo5qkbXtIWkZS0ZIIBug8DYiSKF+C8N40x4M/uJzEsrpXzKuXL0swfd7pdVvlBu0b8xFA6q8K79LCLYjJCl7CTp/F6UuRfwcmBcrU7M60w=="
+  },
+
       {
         "name": "ESPN 2",
         "ico": "https://i.ibb.co/1XbbmvL/511px-Espn2-svg.png",
