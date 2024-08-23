@@ -804,7 +804,6 @@
     "drm_scheme": "clearkey",
     "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXSSnWQTJk5NFb74EbaW9yNFZo5qkbXtIWkZS0ZIIBug8DYiSKF+C8N40x4M/uJzEsrpXzKuXL0swfd7pdVvlBu0b8xFA6q8K79LCLYjJCl7CTp/F6UuRfwcmBcrU7M60w=="
   },
-
       {
         "name": "ESPN 2",
         "ico": "https://i.ibb.co/1XbbmvL/511px-Espn2-svg.png",
@@ -2175,6 +2174,13 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+  {
+    "name": "ESPN ARG22",
+    "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
+    "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXSSnWQTJk5NFb74EbaW9yNFZo5qkbXtIWkZS0ZIIBug8DYiSKF+C8N40x4M/uJzEsrpXzKuXL0swfd7pdVvlBu0b8xFA6q8K79LCLYjJCl7CTp/F6UuRfwcmBcrU7M60w=="
+  },
       {
         "name": "MOVISTAR COMEDIA",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/800px-Movistar_Comedia.svg.png",
