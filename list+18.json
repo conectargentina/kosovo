@@ -4049,6 +4049,63 @@
     "name": "🇵🇪 PERU",
     "mode": false,
     "lista": [
+      
+{
+    "name": "AMERICA TV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/150px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVu4xA3qvyKYd31czXTIuWaA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LATINA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVpIRSTAesDWN+BIQRFGwy2w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LATINA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSV1RcRV0n1JdNhHotIKgUOFg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PANAMERICANA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg/800px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVv+1p1jtS8a/cRvr+TpVD2g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVPE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/250px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVQ5LWnX3cwsbCIw1jMTLcrA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MOVISTAR DEPORTES",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSV8tmhBSyqJPV2D+JePKIN7A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NATIVA PE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVMhY70Ox1f1UzHLegq3TdwA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EXITOSA",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVBFHLCWPiVbl9eUNhtf94Zg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },    
       {
         "name": "AMERICA TV",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/150px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
