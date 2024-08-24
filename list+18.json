@@ -3777,7 +3777,105 @@
     "name": "🇨🇱 CHILE",
     "mode": false,
     "lista": [
-      {
+     {
+    "name": "MEGA",
+    "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVpN09bg7JB9NRz64QwZr9Ew==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TNT CHILE",
+    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_06/large.TNTSportsblanco.png.3bf2299320c437aa71b172fbed1c837c.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVe8+tVAqda86VZ+1jLK5sJw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV +",
+    "ico": "https://www.tvmas.tv/assets/img/ott/logotvmas.svg",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVH/xlWimyCp54EptrKgapTw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHILEVISIÓN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logotipo_Secundario_de_Chilevisi%C3%B3n.svg/800px-Logotipo_Secundario_de_Chilevisi%C3%B3n.svg.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVenj59UCtNCEZBDGTVZ+SMg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TVN",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg/90px-Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVOIf0kTk6OypgaDQ4bAEq6Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA RED",
+    "ico": "https://i.postimg.cc/C18V7TvX/Emblema-de-La-Red.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVRH8AMlAoe4AjjWkaqZd1hg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 24HS",
+    "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVgfJ1H66peVzRu8PFk5hr7g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CNN CHILE",
+    "ico": "https://1000marcas.net/wp-content/uploads/2020/03/logo-CNN.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVRBkVbjLdW8Fw79CYhy7TvA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV CHILE",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Logo_de_TV_Chile.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVnh3l4qJTUK8SslPWmVqHyQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CHV",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVU4oyh0EG7FNP4lkN6G7b3A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "13",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
+    "uri": "smtG4uH5qi96pQYPFXPo3KdKMFTZ/2iw0ZtCB++yiGyzdeV22sUDvs/qLPxLcgXF0mobfhNQJHHBCFW1b2xMcEQMuYPRPKsTW263h8NLjmktlA5AEXNTHJUvxHGUGB/J",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "13",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/7/72/13C_2018.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSVzJKO2mQMeydOP2Va0Z/PeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANAL 24HS",
+    "ico": "https://i.postimg.cc/YCpPKh09/24-horas.png",
+    "uri": "waUd8VVIOdZJU4Hh2FnSkrUOQjIaIWbcMoBsjLW1yVdXgIrBS3yBmOlbF4nAMoSV1pNRJ6yQlTz/YerwRhyXJw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CNN CHILE",
+    "ico": "https://i.postimg.cc/B60gfzQ0/cnnchile.png",
+    "uri": "EfFyxhrSaFbt7TVyWdyrR3hUhieIx772RZnXsgaNxNbyyTlVWb3jL9mbnMITRwbI2VxkhEItqNIBlDw+76KGWhQGIaPq0n0wjIUCvcBUCVWW+ZAY+8XuLASXapFc+NA0d9ojKlBsWptmeU4vhikskQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
         "name": "MEGA",
         "ico": "https://i.postimg.cc/FHz0t4yc/mega.png",
         "uri": "1rhMcQEF2kDS/+/vGyAvOmssK1hCeOItvMqbc8NpV5cyZ6pbtlKzw6+IZe2cWVN5syGm5QTA60laiKXN3cRnTg==",
