@@ -3363,6 +3363,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaKDqxlAT/8l6nCek17vgpcFFgVgRs/oHAGQBk+BgLoE9MAnw82L6PZtBBqP1+wFdCdKA6ygHO09GT3dUvAYb4UfOh9kHCmN/AGBfkpb5VULdI8q7uKimnRB7Mmz10kQeg=="
       },
+        {
+    "name": "BAND NEWS",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
+    "uri": "2MSDcX7BiuFO4tBG4AD2jsyYrq/2EvLa80aA/h4RZQgzsTYN3wS4YhTH+nZhYdet+b/t9VPNl9IXU6zygYOGkw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
       {
         "name": "A GRANDE CONQUISTA",
         "ico": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/A_Grande_Conquista.png/260px-A_Grande_Conquista.png",
@@ -3516,6 +3523,20 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
+{
+    "name": "BAND SPORTS",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
+    "uri": "5kmjIzqBsKhexdxfWIJDZg6xYoFj+qwurJ5UNQm8OAAKcNopgNUgNDjpXDS+u8rPSt51bNOVC8DXoYVnZZsou3+A/JZ8BK4t66L9Kxvlk9lnvEmcMJehfLE89RJw8EBeTzdzplyaxA3tChv3RaxCeg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BAND SPORTS BR",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
+    "uri": "5kmjIzqBsKhexdxfWIJDZg6xYoFj+qwurJ5UNQm8OAAKcNopgNUgNDjpXDS+u8rPSt51bNOVC8DXoYVnZZsou3+A/JZ8BK4t66L9Kxvlk9lnvEmcMJehfLE89RJw8EBeTzdzplyaxA3tChv3RaxCeg==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": ""
+  },
       {
         "name": "SPORT TV",
         "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
