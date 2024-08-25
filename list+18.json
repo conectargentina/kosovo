@@ -3476,13 +3476,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "BAND SPORTS",
-        "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "SPORT TV*",
         "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
         "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YHuhmenf74Z25xAYM+ihlqk=",
@@ -3516,26 +3509,12 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-      {
-        "name": "BAND SPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/800px-BandSports2024.png",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-{
+     {
     "name": "BAND SPORTS",
     "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
-    "uri": "5kmjIzqBsKhexdxfWIJDZg6xYoFj+qwurJ5UNQm8OAAKcNopgNUgNDjpXDS+u8rPSt51bNOVC8DXoYVnZZsou3+A/JZ8BK4t66L9Kxvlk9lnvEmcMJehfLE89RJw8EBeTzdzplyaxA3tChv3RaxCeg==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BAND SPORTS BR",
-    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
-    "uri": "5kmjIzqBsKhexdxfWIJDZg6xYoFj+qwurJ5UNQm8OAAKcNopgNUgNDjpXDS+u8rPSt51bNOVC8DXoYVnZZsou3+A/JZ8BK4t66L9Kxvlk9lnvEmcMJehfLE89RJw8EBeTzdzplyaxA3tChv3RaxCeg==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": ""
+    "uri": "5kmjIzqBsKhexdxfWIJDZg6xYoFj+qwurJ5UNQm8OAAKcNopgNUgNDjpXDS+u8rPQ8srmi6vPDiIE0Zp/xegtw==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EV9sEWU29S0MPCjA+l4NMMBs1TLVAWzV3vuiijsiA3Hl8OGwAiXHk84Vr9buACbXrZ6TG/rMwhjZSRe6s+g9yNJvb2I+O8dUsPBeGD1XViy6McDKT/9/AadnMXF3BPlIXQ=="
   },
       {
         "name": "SPORT TV",
