@@ -1362,7 +1362,7 @@
       },
       {
         "name": "TELEFE CORDOBA",
-        "ico": "https://static.tvar.io/imagenes/telefecba.png",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png",
         "uri": "EGbTdQSc58tHgH0HJaX1f2ULMfYo0o1gmPP720AkXjNA1ODbabMDINLnYKtLTQkEo+H+rJVHEVE6E/usD6dTQoO+Caxj1lraADop1gKKoirzzeqCpJqPjN+BguWJ7aeH",
         "drm_scheme": "clearkey",
         "drm_license_url": "pfccQdO0x9675khuei5j0cBCWTaE5n3gwrGZcgk+Po0KvVv6bdTHgNKa3qsS5tD2eu+ehCXAk5freiJ3Atpnm5/5446BGbwk/2JJZhOJKwc2H7AzvCHFh2JdVN/exGGLhTHz7KxQmpQ6Fd5F9S7+BBrozsjxzFaxPx7T4X6NxHw="
@@ -1404,7 +1404,7 @@
       },
       {
         "name": "CANAL 13 RIO CUARTO",
-        "ico": "https://static.tvar.io/imagenes/canal13riocuarto.jpg",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png/133px-Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png",
         "uri": "tLjo5kDbct015TZtplmzUM0bjYwaoFZb6UykIDcu/sYIynlHDXp71wbVuR/hSggf0ERyE9oe6dFfxu+iCAZc4WBivOeNceVFQDs/E6i3jLA=",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1848,20 +1848,6 @@
         "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXW8tJkgHz45yR6yd0ynPAuSTqo5PdijHStZE9uim8latCp+V0GiJ/EBkRxnrPhDTlVRkI77XPKqdeeqVDSNm2baQla0LuLS9BwQl/Jh4s88SCZUc9yLhFJu5z6rk4BJZA=="
       },
       {
-        "name": "GLOBO NEWS",
-        "ico": "https://cdn.canaisplay.com/wp-content/uploads/small-assistir-globonews-ao-vivo-tv-online.jpg",
-        "uri": "yitOZ2gj+FDNIK98GNDVP4RkrZ1Js6I7uBT5lYkN+r38DJ8LznYviZ/IjqZjSd2shjX/jjLMyLJwKEY/uuaGwaivBlh/7HalfiQacyW+wU0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "BAND NEWS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/BandNews_TV_logo_2010.svg/2560px-BandNews_TV_logo_2010.svg.png",
-        "uri": "Jx/HomDAeZtTwIPeqP7gmW1Yblac/QxnjHCRv7EDhdbG6P4jfEmGM2BGF6Csg+x5S6SfKef64KtGCen7h+nN52fwj9YFC7SKTeKM5m9DSak=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "TN NOTICIAS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/223px-TN_todo_noticias_logo.svg.png",
         "uri": "8UZFExk0u5XPyZnzMZAccRM4rKIfLQnjx5hBDpN9+0Foz3DX0hKNovBl5IDMFn0y1MltTMDyXaA6KNyTgBfP4ijupPxWf+rb+zQxRLbvIkvQ6T8RyYcn60jZ/WpWL08k",
@@ -2234,13 +2220,6 @@
         "uri": "NboaWfN8QeM7U9qeSOuufPxWE+w3qKarRmHHZuc0JvJChMDDxOb3c3hZ0Cs5ljd7Oi+mfsBBA7OGZMH+W3Z2TA==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "ESPN ARG22",
-        "ico": "https://cdn.broadbandtvnews.com/wp-content/uploads/2020/06/14111741/DAZN-300x225.jpg",
-        "uri": "OL0F6NgHdmZdCvjZZ0G6z8jm+0DtPofW0SouRWhAdB3srhdd/vsvG0Qzt+AYr3akptDmHDV3TB1kqtcu/q/nO3JG7Y/jWzBYBP3dXFKiHDw=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EXSSnWQTJk5NFb74EbaW9yNFZo5qkbXtIWkZS0ZIIBug8DYiSKF+C8N40x4M/uJzEsrpXzKuXL0swfd7pdVvlBu0b8xFA6q8K79LCLYjJCl7CTp/F6UuRfwcmBcrU7M60w=="
       },
       {
         "name": "MOVISTAR COMEDIA",
@@ -3372,10 +3351,10 @@
     "lista": [
       {
         "name": "BAND NEWS",
-        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/band-news-br.png",
-        "uri": "OZj6YxOjsCIto9xsWY4O0fiWuWJRP06XPufYv7zfdCHAkJ00UPu+Pcm+CfYNR77yvImU8m4NLvsRZ/viAa/2oj+MFxTGHrsPDTZM7shG6UySnWfYP6ZUhpYZock2oFSd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaKDqxlAT/8l6nCek17vgpcFFgVgRs/oHAGQBk+BgLoE9MAnw82L6PZtBBqP1+wFdCdKA6ygHO09GT3dUvAYb4UfOh9kHCmN/AGBfkpb5VULdI8q7uKimnRB7Mmz10kQeg=="
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
+        "uri": "2MSDcX7BiuFO4tBG4AD2jsyYrq/2EvLa80aA/h4RZQgzsTYN3wS4YhTH+nZhYdet+b/t9VPNl9IXU6zygYOGkw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
       },
       {
         "name": "A GRANDE CONQUISTA",
@@ -3483,13 +3462,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "BAND SPORTS",
-        "ico": "http://imgfz.com/i/DhJWEVu.jpeg",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "SPORT TV*",
         "ico": "https://i.ibb.co/68mym0W/sport-tv.png",
         "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YHuhmenf74Z25xAYM+ihlqk=",
@@ -3517,16 +3489,23 @@
     "mode": false,
     "lista": [
       {
-        "name": "CAZÉ TV",
-        "ico": "https://i.ibb.co/R3hPnp7/caze-tv-10.jpg",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YPm6OowtvjCVk3aRANUWHbc=",
+        "name": "BAND SPORTS",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
-        "name": "BAND SPORTS",
-        "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BandSports2024.png/800px-BandSports2024.png",
-        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
+        "name": "ESPN BRASIL",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YKOBZvxvMBy3JZ6lk3EB9Ig=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "AMAZON PRIME",
+        "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
@@ -3625,6 +3604,13 @@
         "name": "PARAMOUNT+ 3",
         "ico": "https://www.pngall.com/wp-content/uploads/13/Paramount-Logo.png",
         "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YO4TKzR/2Ff/qpQ4rUDCQck=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "CAZÉ TV",
+        "ico": "https://i.ibb.co/MydjMS4/caze-tv-10-removebg-preview.png",
+        "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YPm6OowtvjCVk3aRANUWHbc=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
