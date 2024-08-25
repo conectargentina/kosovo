@@ -3356,14 +3356,7 @@
     "name": "🇧🇷 BRASIL",
     "mode": false,
     "lista": [
-      {
-        "name": "BAND NEWS",
-        "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/brazil/band-news-br.png",
-        "uri": "OZj6YxOjsCIto9xsWY4O0fiWuWJRP06XPufYv7zfdCHAkJ00UPu+Pcm+CfYNR77yvImU8m4NLvsRZ/viAa/2oj+MFxTGHrsPDTZM7shG6UySnWfYP6ZUhpYZock2oFSd",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EaKDqxlAT/8l6nCek17vgpcFFgVgRs/oHAGQBk+BgLoE9MAnw82L6PZtBBqP1+wFdCdKA6ygHO09GT3dUvAYb4UfOh9kHCmN/AGBfkpb5VULdI8q7uKimnRB7Mmz10kQeg=="
-      },
-        {
+         {
     "name": "BAND NEWS",
     "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png",
     "uri": "2MSDcX7BiuFO4tBG4AD2jsyYrq/2EvLa80aA/h4RZQgzsTYN3wS4YhTH+nZhYdet+b/t9VPNl9IXU6zygYOGkw==",
@@ -3509,12 +3502,26 @@
         "drm_scheme": "",
         "drm_license_url": ""
       },
-     {
+{
     "name": "BAND SPORTS",
     "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-sports-br.png",
-    "uri": "5kmjIzqBsKhexdxfWIJDZg6xYoFj+qwurJ5UNQm8OAAKcNopgNUgNDjpXDS+u8rPQ8srmi6vPDiIE0Zp/xegtw==",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "XO7BZqlTmBN/wZoA+NydgV3IiAV3VACOFPCEi8XYSpcUnTyZGKUY5FIvQDij5Mltwm7UNLRtPNo8WMDyqW01EV9sEWU29S0MPCjA+l4NMMBs1TLVAWzV3vuiijsiA3Hl8OGwAiXHk84Vr9buACbXrZ6TG/rMwhjZSRe6s+g9yNJvb2I+O8dUsPBeGD1XViy6McDKT/9/AadnMXF3BPlIXQ=="
+    "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YGUkzUHc6YWUgoJ0+jiisbI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESPN BRASIL",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/espn-ar.png",
+    "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YKOBZvxvMBy3JZ6lk3EB9Ig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AMAZON PRIME",
+    "ico": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/media/amazon-prime.png",
+    "uri": "sYN+FS+jM4DukijY0Y56uFPQIU90S64p6NQVXiEekk69NdZbxVwTjTRwdgeAkg01B23zPRW3gDHhDcl8zeH3YDt0tVaKLaUjRGDzss6T+c0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
       {
         "name": "SPORT TV",
